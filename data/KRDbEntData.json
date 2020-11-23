@@ -1,0 +1,3489 @@
+﻿[
+  {
+    "RecIdentifier": "DataForEnt296",
+    "Omnidata": {
+      "TopGroupingNameThe": "the AFL",
+      "entityNameThe": "the Adelaide Crows",
+      "TopGroupingID": 1428,
+      "entID": 296,
+      "entityName": "Adelaide Crows",
+      "TopGroupingName": "AFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt297",
+    "Omnidata": {
+      "TopGroupingNameThe": "the AFL",
+      "entityNameThe": "the Brisbane Lions",
+      "TopGroupingID": 1428,
+      "entID": 297,
+      "entityName": "Brisbane Lions",
+      "TopGroupingName": "AFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt298",
+    "Omnidata": {
+      "TopGroupingNameThe": "the AFL",
+      "entityNameThe": "the Carlton Blues",
+      "TopGroupingID": 1428,
+      "entID": 298,
+      "entityName": "Carlton Blues",
+      "TopGroupingName": "AFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt299",
+    "Omnidata": {
+      "TopGroupingNameThe": "the AFL",
+      "entityNameThe": "the Collingwood Magpies",
+      "TopGroupingID": 1428,
+      "entID": 299,
+      "entityName": "Collingwood Magpies",
+      "TopGroupingName": "AFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt300",
+    "Omnidata": {
+      "TopGroupingNameThe": "the AFL",
+      "entityNameThe": "the Essendon Bombers",
+      "TopGroupingID": 1428,
+      "entID": 300,
+      "entityName": "Essendon Bombers",
+      "TopGroupingName": "AFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt301",
+    "Omnidata": {
+      "TopGroupingNameThe": "the AFL",
+      "entityNameThe": "the Fremantle Dockers",
+      "TopGroupingID": 1428,
+      "entID": 301,
+      "entityName": "Fremantle Dockers",
+      "TopGroupingName": "AFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt304",
+    "Omnidata": {
+      "TopGroupingNameThe": "the AFL",
+      "entityNameThe": "the GWS Giants",
+      "TopGroupingID": 1428,
+      "entID": 304,
+      "entityName": "GWS Giants",
+      "TopGroupingName": "AFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt302",
+    "Omnidata": {
+      "TopGroupingNameThe": "the AFL",
+      "entityNameThe": "the Geelong Cats",
+      "TopGroupingID": 1428,
+      "entID": 302,
+      "entityName": "Geelong Cats",
+      "TopGroupingName": "AFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt303",
+    "Omnidata": {
+      "TopGroupingNameThe": "the AFL",
+      "entityNameThe": "the Gold Coast Suns",
+      "TopGroupingID": 1428,
+      "entID": 303,
+      "entityName": "Gold Coast Suns",
+      "TopGroupingName": "AFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt305",
+    "Omnidata": {
+      "TopGroupingNameThe": "the AFL",
+      "entityNameThe": "the Hawthorn Hawks",
+      "TopGroupingID": 1428,
+      "entID": 305,
+      "entityName": "Hawthorn Hawks",
+      "TopGroupingName": "AFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt306",
+    "Omnidata": {
+      "TopGroupingNameThe": "the AFL",
+      "entityNameThe": "the Melbourne Demons",
+      "TopGroupingID": 1428,
+      "entID": 306,
+      "entityName": "Melbourne Demons",
+      "TopGroupingName": "AFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt307",
+    "Omnidata": {
+      "TopGroupingNameThe": "the AFL",
+      "entityNameThe": "the North Melbourne Kangaroos",
+      "TopGroupingID": 1428,
+      "entID": 307,
+      "entityName": "North Melbourne Kangaroos",
+      "TopGroupingName": "AFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt308",
+    "Omnidata": {
+      "TopGroupingNameThe": "the AFL",
+      "entityNameThe": "the Port Adelaide Power",
+      "TopGroupingID": 1428,
+      "entID": 308,
+      "entityName": "Port Adelaide Power",
+      "TopGroupingName": "AFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt309",
+    "Omnidata": {
+      "TopGroupingNameThe": "the AFL",
+      "entityNameThe": "the Richmond Tigers",
+      "TopGroupingID": 1428,
+      "entID": 309,
+      "entityName": "Richmond Tigers",
+      "TopGroupingName": "AFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt310",
+    "Omnidata": {
+      "TopGroupingNameThe": "the AFL",
+      "entityNameThe": "the St Kilda Saints",
+      "TopGroupingID": 1428,
+      "entID": 310,
+      "entityName": "St Kilda Saints",
+      "TopGroupingName": "AFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt311",
+    "Omnidata": {
+      "TopGroupingNameThe": "the AFL",
+      "entityNameThe": "the Sydney Swans",
+      "TopGroupingID": 1428,
+      "entID": 311,
+      "entityName": "Sydney Swans",
+      "TopGroupingName": "AFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt312",
+    "Omnidata": {
+      "TopGroupingNameThe": "the AFL",
+      "entityNameThe": "the West Coast Eagles",
+      "TopGroupingID": 1428,
+      "entID": 312,
+      "entityName": "West Coast Eagles",
+      "TopGroupingName": "AFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt313",
+    "Omnidata": {
+      "TopGroupingNameThe": "the AFL",
+      "entityNameThe": "the Western Bulldogs",
+      "TopGroupingID": 1428,
+      "entID": 313,
+      "entityName": "Western Bulldogs",
+      "TopGroupingName": "AFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt273",
+    "Omnidata": {
+      "TopGroupingNameThe": "the BBL",
+      "entityNameThe": "the Adelaide Strikers",
+      "TopGroupingID": 1375,
+      "entID": 273,
+      "entityName": "Adelaide Strikers",
+      "TopGroupingName": "BBL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt274",
+    "Omnidata": {
+      "TopGroupingNameThe": "the BBL",
+      "entityNameThe": "the Brisbane Heat",
+      "TopGroupingID": 1375,
+      "entID": 274,
+      "entityName": "Brisbane Heat",
+      "TopGroupingName": "BBL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt275",
+    "Omnidata": {
+      "TopGroupingNameThe": "the BBL",
+      "entityNameThe": "the Hobart Hurricanes",
+      "TopGroupingID": 1375,
+      "entID": 275,
+      "entityName": "Hobart Hurricanes",
+      "TopGroupingName": "BBL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt276",
+    "Omnidata": {
+      "TopGroupingNameThe": "the BBL",
+      "entityNameThe": "the Melbourne Renegades",
+      "TopGroupingID": 1375,
+      "entID": 276,
+      "entityName": "Melbourne Renegades",
+      "TopGroupingName": "BBL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt277",
+    "Omnidata": {
+      "TopGroupingNameThe": "the BBL",
+      "entityNameThe": "the Melbourne Stars",
+      "TopGroupingID": 1375,
+      "entID": 277,
+      "entityName": "Melbourne Stars",
+      "TopGroupingName": "BBL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt278",
+    "Omnidata": {
+      "TopGroupingNameThe": "the BBL",
+      "entityNameThe": "the Perth Scorchers",
+      "TopGroupingID": 1375,
+      "entID": 278,
+      "entityName": "Perth Scorchers",
+      "TopGroupingName": "BBL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt279",
+    "Omnidata": {
+      "TopGroupingNameThe": "the BBL",
+      "entityNameThe": "the Sydney Sixers",
+      "TopGroupingID": 1375,
+      "entID": 279,
+      "entityName": "Sydney Sixers",
+      "TopGroupingName": "BBL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt280",
+    "Omnidata": {
+      "TopGroupingNameThe": "the BBL",
+      "entityNameThe": "the Sydney Thunder",
+      "TopGroupingID": 1375,
+      "entID": 280,
+      "entityName": "Sydney Thunder",
+      "TopGroupingName": "BBL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt1453",
+    "Omnidata": {
+      "TopGroupingNameThe": "the Bundesliga",
+      "entityNameThe": "Augsburg",
+      "TopGroupingID": 1452,
+      "entID": 1453,
+      "entityName": "Augsburg",
+      "TopGroupingName": "Bundesliga"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt1464",
+    "Omnidata": {
+      "TopGroupingNameThe": "the Bundesliga",
+      "entityNameThe": "Bayer Leverkusen",
+      "TopGroupingID": 1452,
+      "entID": 1464,
+      "entityName": "Bayer Leverkusen",
+      "TopGroupingName": "Bundesliga"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt1467",
+    "Omnidata": {
+      "TopGroupingNameThe": "the Bundesliga",
+      "entityNameThe": "Bayern München",
+      "TopGroupingID": 1452,
+      "entID": 1467,
+      "entityName": "Bayern München",
+      "TopGroupingName": "Bundesliga"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt1457",
+    "Omnidata": {
+      "TopGroupingNameThe": "the Bundesliga",
+      "entityNameThe": "Borussia Dortmund",
+      "TopGroupingID": 1452,
+      "entID": 1457,
+      "entityName": "Borussia Dortmund",
+      "TopGroupingName": "Bundesliga"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt1459",
+    "Omnidata": {
+      "TopGroupingNameThe": "the Bundesliga",
+      "entityNameThe": "Eintracht",
+      "TopGroupingID": 1452,
+      "entID": 1459,
+      "entityName": "Eintracht",
+      "TopGroupingName": "Bundesliga"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt1462",
+    "Omnidata": {
+      "TopGroupingNameThe": "the Bundesliga",
+      "entityNameThe": "FC Köln",
+      "TopGroupingID": 1452,
+      "entID": 1462,
+      "entityName": "FC Köln",
+      "TopGroupingName": "Bundesliga"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt1458",
+    "Omnidata": {
+      "TopGroupingNameThe": "the Bundesliga",
+      "entityNameThe": "Fortuna Düsseldorf",
+      "TopGroupingID": 1452,
+      "entID": 1458,
+      "entityName": "Fortuna Düsseldorf",
+      "TopGroupingName": "Bundesliga"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt1454",
+    "Omnidata": {
+      "TopGroupingNameThe": "the Bundesliga",
+      "entityNameThe": "Hertha BSC",
+      "TopGroupingID": 1452,
+      "entID": 1454,
+      "entityName": "Hertha BSC",
+      "TopGroupingName": "Bundesliga"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt1465",
+    "Omnidata": {
+      "TopGroupingNameThe": "the Bundesliga",
+      "entityNameThe": "Mainz",
+      "TopGroupingID": 1452,
+      "entID": 1465,
+      "entityName": "Mainz",
+      "TopGroupingName": "Bundesliga"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt1466",
+    "Omnidata": {
+      "TopGroupingNameThe": "the Bundesliga",
+      "entityNameThe": "Mönchengladbach",
+      "TopGroupingID": 1452,
+      "entID": 1466,
+      "entityName": "Mönchengladbach",
+      "TopGroupingName": "Bundesliga"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt1468",
+    "Omnidata": {
+      "TopGroupingNameThe": "the Bundesliga",
+      "entityNameThe": "Paderborn",
+      "TopGroupingID": 1452,
+      "entID": 1468,
+      "entityName": "Paderborn",
+      "TopGroupingName": "Bundesliga"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt1463",
+    "Omnidata": {
+      "TopGroupingNameThe": "the Bundesliga",
+      "entityNameThe": "RB Leipzig",
+      "TopGroupingID": 1452,
+      "entID": 1463,
+      "entityName": "RB Leipzig",
+      "TopGroupingName": "Bundesliga"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt1460",
+    "Omnidata": {
+      "TopGroupingNameThe": "the Bundesliga",
+      "entityNameThe": "SC Freiburg",
+      "TopGroupingID": 1452,
+      "entID": 1460,
+      "entityName": "SC Freiburg",
+      "TopGroupingName": "Bundesliga"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt1469",
+    "Omnidata": {
+      "TopGroupingNameThe": "the Bundesliga",
+      "entityNameThe": "Schalke",
+      "TopGroupingID": 1452,
+      "entID": 1469,
+      "entityName": "Schalke",
+      "TopGroupingName": "Bundesliga"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt1461",
+    "Omnidata": {
+      "TopGroupingNameThe": "the Bundesliga",
+      "entityNameThe": "TSG 1899 Hoffenheim",
+      "TopGroupingID": 1452,
+      "entID": 1461,
+      "entityName": "TSG 1899 Hoffenheim",
+      "TopGroupingName": "Bundesliga"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt1455",
+    "Omnidata": {
+      "TopGroupingNameThe": "the Bundesliga",
+      "entityNameThe": "Union Berlin",
+      "TopGroupingID": 1452,
+      "entID": 1455,
+      "entityName": "Union Berlin",
+      "TopGroupingName": "Bundesliga"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt1456",
+    "Omnidata": {
+      "TopGroupingNameThe": "the Bundesliga",
+      "entityNameThe": "Werder Bremen",
+      "TopGroupingID": 1452,
+      "entID": 1456,
+      "entityName": "Werder Bremen",
+      "TopGroupingName": "Bundesliga"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt1470",
+    "Omnidata": {
+      "TopGroupingNameThe": "the Bundesliga",
+      "entityNameThe": "Wolfsburg",
+      "TopGroupingID": 1452,
+      "entID": 1470,
+      "entityName": "Wolfsburg",
+      "TopGroupingName": "Bundesliga"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt1432",
+    "Omnidata": {
+      "TopGroupingNameThe": "the CFL",
+      "entityNameThe": "the BC Lions",
+      "TopGroupingID": 1429,
+      "entID": 1432,
+      "entityName": "BC Lions",
+      "TopGroupingName": "CFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt1433",
+    "Omnidata": {
+      "TopGroupingNameThe": "the CFL",
+      "entityNameThe": "the Calgary Stampeders",
+      "TopGroupingID": 1429,
+      "entID": 1433,
+      "entityName": "Calgary Stampeders",
+      "TopGroupingName": "CFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt1434",
+    "Omnidata": {
+      "TopGroupingNameThe": "the CFL",
+      "entityNameThe": "the Edmonton Eskimos",
+      "TopGroupingID": 1429,
+      "entID": 1434,
+      "entityName": "Edmonton Eskimos",
+      "TopGroupingName": "CFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt1437",
+    "Omnidata": {
+      "TopGroupingNameThe": "the CFL",
+      "entityNameThe": "the Hamilton Tiger-Cats",
+      "TopGroupingID": 1429,
+      "entID": 1437,
+      "entityName": "Hamilton Tiger-Cats",
+      "TopGroupingName": "CFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt1438",
+    "Omnidata": {
+      "TopGroupingNameThe": "the CFL",
+      "entityNameThe": "the Montreal Alouettes",
+      "TopGroupingID": 1429,
+      "entID": 1438,
+      "entityName": "Montreal Alouettes",
+      "TopGroupingName": "CFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt1439",
+    "Omnidata": {
+      "TopGroupingNameThe": "the CFL",
+      "entityNameThe": "the Ottawa Redblacks",
+      "TopGroupingID": 1429,
+      "entID": 1439,
+      "entityName": "Ottawa Redblacks",
+      "TopGroupingName": "CFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt1435",
+    "Omnidata": {
+      "TopGroupingNameThe": "the CFL",
+      "entityNameThe": "the Saskatchewan Roughriders",
+      "TopGroupingID": 1429,
+      "entID": 1435,
+      "entityName": "Saskatchewan Roughriders",
+      "TopGroupingName": "CFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt1440",
+    "Omnidata": {
+      "TopGroupingNameThe": "the CFL",
+      "entityNameThe": "the Toronto Argonauts",
+      "TopGroupingID": 1429,
+      "entID": 1440,
+      "entityName": "Toronto Argonauts",
+      "TopGroupingName": "CFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt1436",
+    "Omnidata": {
+      "TopGroupingNameThe": "the CFL",
+      "entityNameThe": "the Winnipeg Blue Bombers",
+      "TopGroupingID": 1429,
+      "entID": 1436,
+      "entityName": "Winnipeg Blue Bombers",
+      "TopGroupingName": "CFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt1442",
+    "Omnidata": {
+      "TopGroupingNameThe": "the CPL",
+      "entityNameThe": "Cavalry FC",
+      "TopGroupingID": 1441,
+      "entID": 1442,
+      "entityName": "Cavalry FC",
+      "TopGroupingName": "CPL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt1443",
+    "Omnidata": {
+      "TopGroupingNameThe": "the CPL",
+      "entityNameThe": "FC Edmonton",
+      "TopGroupingID": 1441,
+      "entID": 1443,
+      "entityName": "FC Edmonton",
+      "TopGroupingName": "CPL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt1444",
+    "Omnidata": {
+      "TopGroupingNameThe": "the CPL",
+      "entityNameThe": "Forge FC",
+      "TopGroupingID": 1441,
+      "entID": 1444,
+      "entityName": "Forge FC",
+      "TopGroupingName": "CPL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt1445",
+    "Omnidata": {
+      "TopGroupingNameThe": "the CPL",
+      "entityNameThe": "HFX Wanderers FC",
+      "TopGroupingID": 1441,
+      "entID": 1445,
+      "entityName": "HFX Wanderers FC",
+      "TopGroupingName": "CPL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt1446",
+    "Omnidata": {
+      "TopGroupingNameThe": "the CPL",
+      "entityNameThe": "Pacific FC",
+      "TopGroupingID": 1441,
+      "entID": 1446,
+      "entityName": "Pacific FC",
+      "TopGroupingName": "CPL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt1447",
+    "Omnidata": {
+      "TopGroupingNameThe": "the CPL",
+      "entityNameThe": "Valour FC",
+      "TopGroupingID": 1441,
+      "entID": 1447,
+      "entityName": "Valour FC",
+      "TopGroupingName": "CPL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt1448",
+    "Omnidata": {
+      "TopGroupingNameThe": "the CPL",
+      "entityNameThe": "York9 FC",
+      "TopGroupingID": 1441,
+      "entID": 1448,
+      "entityName": "York9 FC",
+      "TopGroupingName": "CPL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt443",
+    "Omnidata": {
+      "TopGroupingNameThe": "the Championship",
+      "entityNameThe": "Barnsley",
+      "TopGroupingID": 1422,
+      "entID": 443,
+      "entityName": "Barnsley",
+      "TopGroupingName": "Championship"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt444",
+    "Omnidata": {
+      "TopGroupingNameThe": "the Championship",
+      "entityNameThe": "Birmingham",
+      "TopGroupingID": 1422,
+      "entID": 444,
+      "entityName": "Birmingham",
+      "TopGroupingName": "Championship"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt445",
+    "Omnidata": {
+      "TopGroupingNameThe": "the Championship",
+      "entityNameThe": "Blackburn",
+      "TopGroupingID": 1422,
+      "entID": 445,
+      "entityName": "Blackburn",
+      "TopGroupingName": "Championship"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt450",
+    "Omnidata": {
+      "TopGroupingNameThe": "the Championship",
+      "entityNameThe": "Brentford",
+      "TopGroupingID": 1422,
+      "entID": 450,
+      "entityName": "Brentford",
+      "TopGroupingName": "Championship"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt452",
+    "Omnidata": {
+      "TopGroupingNameThe": "the Championship",
+      "entityNameThe": "Bristol City",
+      "TopGroupingID": 1422,
+      "entID": 452,
+      "entityName": "Bristol City",
+      "TopGroupingName": "Championship"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt458",
+    "Omnidata": {
+      "TopGroupingNameThe": "the Championship",
+      "entityNameThe": "Cardiff City",
+      "TopGroupingID": 1422,
+      "entID": 458,
+      "entityName": "Cardiff City",
+      "TopGroupingName": "Championship"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt460",
+    "Omnidata": {
+      "TopGroupingNameThe": "the Championship",
+      "entityNameThe": "Charlton",
+      "TopGroupingID": 1422,
+      "entID": 460,
+      "entityName": "Charlton",
+      "TopGroupingName": "Championship"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt469",
+    "Omnidata": {
+      "TopGroupingNameThe": "the Championship",
+      "entityNameThe": "Derby",
+      "TopGroupingID": 1422,
+      "entID": 469,
+      "entityName": "Derby",
+      "TopGroupingName": "Championship"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt474",
+    "Omnidata": {
+      "TopGroupingNameThe": "the Championship",
+      "entityNameThe": "Fulham",
+      "TopGroupingID": 1422,
+      "entID": 474,
+      "entityName": "Fulham",
+      "TopGroupingName": "Championship"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt477",
+    "Omnidata": {
+      "TopGroupingNameThe": "the Championship",
+      "entityNameThe": "Huddersfield",
+      "TopGroupingID": 1422,
+      "entID": 477,
+      "entityName": "Huddersfield",
+      "TopGroupingName": "Championship"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt478",
+    "Omnidata": {
+      "TopGroupingNameThe": "the Championship",
+      "entityNameThe": "Hull City",
+      "TopGroupingID": 1422,
+      "entID": 478,
+      "entityName": "Hull City",
+      "TopGroupingName": "Championship"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt480",
+    "Omnidata": {
+      "TopGroupingNameThe": "the Championship",
+      "entityNameThe": "Leeds",
+      "TopGroupingID": 1422,
+      "entID": 480,
+      "entityName": "Leeds",
+      "TopGroupingName": "Championship"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt484",
+    "Omnidata": {
+      "TopGroupingNameThe": "the Championship",
+      "entityNameThe": "Luton Town",
+      "TopGroupingID": 1422,
+      "entID": 484,
+      "entityName": "Luton Town",
+      "TopGroupingName": "Championship"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt488",
+    "Omnidata": {
+      "TopGroupingNameThe": "the Championship",
+      "entityNameThe": "Middlesbrough",
+      "TopGroupingID": 1422,
+      "entID": 488,
+      "entityName": "Middlesbrough",
+      "TopGroupingName": "Championship"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt489",
+    "Omnidata": {
+      "TopGroupingNameThe": "the Championship",
+      "entityNameThe": "Millwall",
+      "TopGroupingID": 1422,
+      "entID": 489,
+      "entityName": "Millwall",
+      "TopGroupingName": "Championship"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt496",
+    "Omnidata": {
+      "TopGroupingNameThe": "the Championship",
+      "entityNameThe": "Nottingham Forest",
+      "TopGroupingID": 1422,
+      "entID": 496,
+      "entityName": "Nottingham Forest",
+      "TopGroupingName": "Championship"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt504",
+    "Omnidata": {
+      "TopGroupingNameThe": "the Championship",
+      "entityNameThe": "Preston",
+      "TopGroupingID": 1422,
+      "entID": 504,
+      "entityName": "Preston",
+      "TopGroupingName": "Championship"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt505",
+    "Omnidata": {
+      "TopGroupingNameThe": "the Championship",
+      "entityNameThe": "QPR",
+      "TopGroupingID": 1422,
+      "entID": 505,
+      "entityName": "QPR",
+      "TopGroupingName": "Championship"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt506",
+    "Omnidata": {
+      "TopGroupingNameThe": "the Championship",
+      "entityNameThe": "Reading",
+      "TopGroupingID": 1422,
+      "entID": 506,
+      "entityName": "Reading",
+      "TopGroupingName": "Championship"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt511",
+    "Omnidata": {
+      "TopGroupingNameThe": "the Championship",
+      "entityNameThe": "Sheffield Wednesday",
+      "TopGroupingID": 1422,
+      "entID": 511,
+      "entityName": "Sheffield Wednesday",
+      "TopGroupingName": "Championship"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt516",
+    "Omnidata": {
+      "TopGroupingNameThe": "the Championship",
+      "entityNameThe": "Stoke",
+      "TopGroupingID": 1422,
+      "entID": 516,
+      "entityName": "Stoke",
+      "TopGroupingName": "Championship"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt518",
+    "Omnidata": {
+      "TopGroupingNameThe": "the Championship",
+      "entityNameThe": "Swansea",
+      "TopGroupingID": 1422,
+      "entID": 518,
+      "entityName": "Swansea",
+      "TopGroupingName": "Championship"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt523",
+    "Omnidata": {
+      "TopGroupingNameThe": "the Championship",
+      "entityNameThe": "West Brom",
+      "TopGroupingID": 1422,
+      "entID": 523,
+      "entityName": "West Brom",
+      "TopGroupingName": "Championship"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt525",
+    "Omnidata": {
+      "TopGroupingNameThe": "the Championship",
+      "entityNameThe": "Wigan Athletic",
+      "TopGroupingID": 1422,
+      "entID": 525,
+      "entityName": "Wigan Athletic",
+      "TopGroupingName": "Championship"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt440",
+    "Omnidata": {
+      "TopGroupingNameThe": "the EPL",
+      "entityNameThe": "Arsenal",
+      "TopGroupingID": 1336,
+      "entID": 440,
+      "entityName": "Arsenal",
+      "TopGroupingName": "EPL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt441",
+    "Omnidata": {
+      "TopGroupingNameThe": "the EPL",
+      "entityNameThe": "Aston Villa",
+      "TopGroupingID": 1336,
+      "entID": 441,
+      "entityName": "Aston Villa",
+      "TopGroupingName": "EPL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt448",
+    "Omnidata": {
+      "TopGroupingNameThe": "the EPL",
+      "entityNameThe": "Bournemouth",
+      "TopGroupingID": 1336,
+      "entID": 448,
+      "entityName": "Bournemouth",
+      "TopGroupingName": "EPL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt451",
+    "Omnidata": {
+      "TopGroupingNameThe": "the EPL",
+      "entityNameThe": "Brighton",
+      "TopGroupingID": 1336,
+      "entID": 451,
+      "entityName": "Brighton",
+      "TopGroupingName": "EPL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt454",
+    "Omnidata": {
+      "TopGroupingNameThe": "the EPL",
+      "entityNameThe": "Burnley",
+      "TopGroupingID": 1336,
+      "entID": 454,
+      "entityName": "Burnley",
+      "TopGroupingName": "EPL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt461",
+    "Omnidata": {
+      "TopGroupingNameThe": "the EPL",
+      "entityNameThe": "Chelsea",
+      "TopGroupingID": 1336,
+      "entID": 461,
+      "entityName": "Chelsea",
+      "TopGroupingName": "EPL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt467",
+    "Omnidata": {
+      "TopGroupingNameThe": "the EPL",
+      "entityNameThe": "Crystal Palace",
+      "TopGroupingID": 1336,
+      "entID": 467,
+      "entityName": "Crystal Palace",
+      "TopGroupingName": "EPL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt471",
+    "Omnidata": {
+      "TopGroupingNameThe": "the EPL",
+      "entityNameThe": "Everton",
+      "TopGroupingID": 1336,
+      "entID": 471,
+      "entityName": "Everton",
+      "TopGroupingName": "EPL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt481",
+    "Omnidata": {
+      "TopGroupingNameThe": "the EPL",
+      "entityNameThe": "Leicester City",
+      "TopGroupingID": 1336,
+      "entID": 481,
+      "entityName": "Leicester City",
+      "TopGroupingName": "EPL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt483",
+    "Omnidata": {
+      "TopGroupingNameThe": "the EPL",
+      "entityNameThe": "Liverpool",
+      "TopGroupingID": 1336,
+      "entID": 483,
+      "entityName": "Liverpool",
+      "TopGroupingName": "EPL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt485",
+    "Omnidata": {
+      "TopGroupingNameThe": "the EPL",
+      "entityNameThe": "Man City",
+      "TopGroupingID": 1336,
+      "entID": 485,
+      "entityName": "Man City",
+      "TopGroupingName": "EPL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt486",
+    "Omnidata": {
+      "TopGroupingNameThe": "the EPL",
+      "entityNameThe": "Man United",
+      "TopGroupingID": 1336,
+      "entID": 486,
+      "entityName": "Man United",
+      "TopGroupingName": "EPL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt492",
+    "Omnidata": {
+      "TopGroupingNameThe": "the EPL",
+      "entityNameThe": "Newcastle",
+      "TopGroupingID": 1336,
+      "entID": 492,
+      "entityName": "Newcastle",
+      "TopGroupingName": "EPL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt495",
+    "Omnidata": {
+      "TopGroupingNameThe": "the EPL",
+      "entityNameThe": "Norwich",
+      "TopGroupingID": 1336,
+      "entID": 495,
+      "entityName": "Norwich",
+      "TopGroupingName": "EPL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt510",
+    "Omnidata": {
+      "TopGroupingNameThe": "the EPL",
+      "entityNameThe": "Sheffield United",
+      "TopGroupingID": 1336,
+      "entID": 510,
+      "entityName": "Sheffield United",
+      "TopGroupingName": "EPL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt513",
+    "Omnidata": {
+      "TopGroupingNameThe": "the EPL",
+      "entityNameThe": "Southampton",
+      "TopGroupingID": 1336,
+      "entID": 513,
+      "entityName": "Southampton",
+      "TopGroupingName": "EPL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt520",
+    "Omnidata": {
+      "TopGroupingNameThe": "the EPL",
+      "entityNameThe": "Tottenham",
+      "TopGroupingID": 1336,
+      "entID": 520,
+      "entityName": "Tottenham",
+      "TopGroupingName": "EPL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt522",
+    "Omnidata": {
+      "TopGroupingNameThe": "the EPL",
+      "entityNameThe": "Watford",
+      "TopGroupingID": 1336,
+      "entID": 522,
+      "entityName": "Watford",
+      "TopGroupingName": "EPL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt524",
+    "Omnidata": {
+      "TopGroupingNameThe": "the EPL",
+      "entityNameThe": "West Ham",
+      "TopGroupingID": 1336,
+      "entID": 524,
+      "entityName": "West Ham",
+      "TopGroupingName": "EPL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt526",
+    "Omnidata": {
+      "TopGroupingNameThe": "the EPL",
+      "entityNameThe": "Wolves",
+      "TopGroupingID": 1336,
+      "entID": 526,
+      "entityName": "Wolves",
+      "TopGroupingName": "EPL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt288",
+    "Omnidata": {
+      "TopGroupingNameThe": "the IPL",
+      "entityNameThe": "the Chennai Super Kings",
+      "TopGroupingID": 1376,
+      "entID": 288,
+      "entityName": "Chennai Super Kings",
+      "TopGroupingName": "IPL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt289",
+    "Omnidata": {
+      "TopGroupingNameThe": "the IPL",
+      "entityNameThe": "the Delhi Capitals",
+      "TopGroupingID": 1376,
+      "entID": 289,
+      "entityName": "Delhi Capitals",
+      "TopGroupingName": "IPL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt290",
+    "Omnidata": {
+      "TopGroupingNameThe": "the IPL",
+      "entityNameThe": "the Kings XI Punjab",
+      "TopGroupingID": 1376,
+      "entID": 290,
+      "entityName": "Kings XI Punjab",
+      "TopGroupingName": "IPL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt291",
+    "Omnidata": {
+      "TopGroupingNameThe": "the IPL",
+      "entityNameThe": "the Kolkata Knight Riders",
+      "TopGroupingID": 1376,
+      "entID": 291,
+      "entityName": "Kolkata Knight Riders",
+      "TopGroupingName": "IPL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt292",
+    "Omnidata": {
+      "TopGroupingNameThe": "the IPL",
+      "entityNameThe": "the Mumbai Indians",
+      "TopGroupingID": 1376,
+      "entID": 292,
+      "entityName": "Mumbai Indians",
+      "TopGroupingName": "IPL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt293",
+    "Omnidata": {
+      "TopGroupingNameThe": "the IPL",
+      "entityNameThe": "the Rajasthan Royals",
+      "TopGroupingID": 1376,
+      "entID": 293,
+      "entityName": "Rajasthan Royals",
+      "TopGroupingName": "IPL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt294",
+    "Omnidata": {
+      "TopGroupingNameThe": "the IPL",
+      "entityNameThe": "the Royal Challengers",
+      "TopGroupingID": 1376,
+      "entID": 294,
+      "entityName": "Royal Challengers Bangalore",
+      "TopGroupingName": "IPL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt295",
+    "Omnidata": {
+      "TopGroupingNameThe": "the IPL",
+      "entityNameThe": "Sunrisers Hyderabad",
+      "TopGroupingID": 1376,
+      "entID": 295,
+      "entityName": "Sunrisers Hyderabad",
+      "TopGroupingName": "IPL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt439",
+    "Omnidata": {
+      "TopGroupingNameThe": "League One",
+      "entityNameThe": "AFC Wimbledon",
+      "TopGroupingID": 1423,
+      "entID": 439,
+      "entityName": "AFC Wimbledon",
+      "TopGroupingName": "League One"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt446",
+    "Omnidata": {
+      "TopGroupingNameThe": "League One",
+      "entityNameThe": "Blackpool",
+      "TopGroupingID": 1423,
+      "entID": 446,
+      "entityName": "Blackpool",
+      "TopGroupingName": "League One"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt447",
+    "Omnidata": {
+      "TopGroupingNameThe": "League One",
+      "entityNameThe": "Bolton",
+      "TopGroupingID": 1423,
+      "entID": 447,
+      "entityName": "Bolton",
+      "TopGroupingName": "League One"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt453",
+    "Omnidata": {
+      "TopGroupingNameThe": "League One",
+      "entityNameThe": "Bristol Rovers",
+      "TopGroupingID": 1423,
+      "entID": 453,
+      "entityName": "Bristol Rovers",
+      "TopGroupingName": "League One"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt455",
+    "Omnidata": {
+      "TopGroupingNameThe": "League One",
+      "entityNameThe": "Burton",
+      "TopGroupingID": 1423,
+      "entID": 455,
+      "entityName": "Burton",
+      "TopGroupingName": "League One"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt456",
+    "Omnidata": {
+      "TopGroupingNameThe": "League One",
+      "entityNameThe": "Bury",
+      "TopGroupingID": 1423,
+      "entID": 456,
+      "entityName": "Bury",
+      "TopGroupingName": "League One"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt464",
+    "Omnidata": {
+      "TopGroupingNameThe": "League One",
+      "entityNameThe": "Coventry",
+      "TopGroupingID": 1423,
+      "entID": 464,
+      "entityName": "Coventry",
+      "TopGroupingName": "League One"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt470",
+    "Omnidata": {
+      "TopGroupingNameThe": "League One",
+      "entityNameThe": "Doncaster",
+      "TopGroupingID": 1423,
+      "entID": 470,
+      "entityName": "Doncaster",
+      "TopGroupingName": "League One"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt473",
+    "Omnidata": {
+      "TopGroupingNameThe": "League One",
+      "entityNameThe": "Fleetwood",
+      "TopGroupingID": 1423,
+      "entID": 473,
+      "entityName": "Fleetwood",
+      "TopGroupingName": "League One"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt475",
+    "Omnidata": {
+      "TopGroupingNameThe": "League One",
+      "entityNameThe": "Gillingham",
+      "TopGroupingID": 1423,
+      "entID": 475,
+      "entityName": "Gillingham",
+      "TopGroupingName": "League One"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt479",
+    "Omnidata": {
+      "TopGroupingNameThe": "League One",
+      "entityNameThe": "Ipswich Town",
+      "TopGroupingID": 1423,
+      "entID": 479,
+      "entityName": "Ipswich Town",
+      "TopGroupingName": "League One"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt490",
+    "Omnidata": {
+      "TopGroupingNameThe": "League One",
+      "entityNameThe": "MK Dons",
+      "TopGroupingID": 1423,
+      "entID": 490,
+      "entityName": "MK Dons",
+      "TopGroupingName": "League One"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt499",
+    "Omnidata": {
+      "TopGroupingNameThe": "League One",
+      "entityNameThe": "Oxford United",
+      "TopGroupingID": 1423,
+      "entID": 499,
+      "entityName": "Oxford United",
+      "TopGroupingName": "League One"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt500",
+    "Omnidata": {
+      "TopGroupingNameThe": "League One",
+      "entityNameThe": "Peterborough",
+      "TopGroupingID": 1423,
+      "entID": 500,
+      "entityName": "Peterborough",
+      "TopGroupingName": "League One"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt503",
+    "Omnidata": {
+      "TopGroupingNameThe": "League One",
+      "entityNameThe": "Portsmouth",
+      "TopGroupingID": 1423,
+      "entID": 503,
+      "entityName": "Portsmouth",
+      "TopGroupingName": "League One"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt507",
+    "Omnidata": {
+      "TopGroupingNameThe": "League One",
+      "entityNameThe": "Rochdale",
+      "TopGroupingID": 1423,
+      "entID": 507,
+      "entityName": "Rochdale",
+      "TopGroupingName": "League One"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt508",
+    "Omnidata": {
+      "TopGroupingNameThe": "League One",
+      "entityNameThe": "Rotherham",
+      "TopGroupingID": 1423,
+      "entID": 508,
+      "entityName": "Rotherham",
+      "TopGroupingName": "League One"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt512",
+    "Omnidata": {
+      "TopGroupingNameThe": "League One",
+      "entityNameThe": "Shrewsbury",
+      "TopGroupingID": 1423,
+      "entID": 512,
+      "entityName": "Shrewsbury",
+      "TopGroupingName": "League One"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt514",
+    "Omnidata": {
+      "TopGroupingNameThe": "League One",
+      "entityNameThe": "Southend United",
+      "TopGroupingID": 1423,
+      "entID": 514,
+      "entityName": "Southend United",
+      "TopGroupingName": "League One"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt438",
+    "Omnidata": {
+      "TopGroupingNameThe": "League One",
+      "entityNameThe": "Stanley",
+      "TopGroupingID": 1423,
+      "entID": 438,
+      "entityName": "Stanley",
+      "TopGroupingName": "League One"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt517",
+    "Omnidata": {
+      "TopGroupingNameThe": "League One",
+      "entityNameThe": "Sunderland",
+      "TopGroupingID": 1423,
+      "entID": 517,
+      "entityName": "Sunderland",
+      "TopGroupingName": "League One"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt530",
+    "Omnidata": {
+      "TopGroupingNameThe": "League One",
+      "entityNameThe": "Tranmere",
+      "TopGroupingID": 1423,
+      "entID": 530,
+      "entityName": "Tranmere",
+      "TopGroupingName": "League One"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt527",
+    "Omnidata": {
+      "TopGroupingNameThe": "League One",
+      "entityNameThe": "Wycombe",
+      "TopGroupingID": 1423,
+      "entID": 527,
+      "entityName": "Wycombe",
+      "TopGroupingName": "League One"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt449",
+    "Omnidata": {
+      "TopGroupingNameThe": "League Two",
+      "entityNameThe": "Bradford City",
+      "TopGroupingID": 1424,
+      "entID": 449,
+      "entityName": "Bradford City",
+      "TopGroupingName": "League Two"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt457",
+    "Omnidata": {
+      "TopGroupingNameThe": "League Two",
+      "entityNameThe": "Cambridge United",
+      "TopGroupingID": 1424,
+      "entID": 457,
+      "entityName": "Cambridge United",
+      "TopGroupingName": "League Two"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt459",
+    "Omnidata": {
+      "TopGroupingNameThe": "League Two",
+      "entityNameThe": "Carlisle",
+      "TopGroupingID": 1424,
+      "entID": 459,
+      "entityName": "Carlisle",
+      "TopGroupingName": "League Two"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt535",
+    "Omnidata": {
+      "TopGroupingNameThe": "League Two",
+      "entityNameThe": "Cheltenham",
+      "TopGroupingID": 1424,
+      "entID": 535,
+      "entityName": "Cheltenham",
+      "TopGroupingName": "League Two"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt463",
+    "Omnidata": {
+      "TopGroupingNameThe": "League Two",
+      "entityNameThe": "Colchester",
+      "TopGroupingID": 1424,
+      "entID": 463,
+      "entityName": "Colchester",
+      "TopGroupingName": "League Two"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt465",
+    "Omnidata": {
+      "TopGroupingNameThe": "League Two",
+      "entityNameThe": "Crawley Town",
+      "TopGroupingID": 1424,
+      "entID": 465,
+      "entityName": "Crawley Town",
+      "TopGroupingName": "League Two"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt466",
+    "Omnidata": {
+      "TopGroupingNameThe": "League Two",
+      "entityNameThe": "Crewe",
+      "TopGroupingID": 1424,
+      "entID": 466,
+      "entityName": "Crewe",
+      "TopGroupingName": "League Two"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt472",
+    "Omnidata": {
+      "TopGroupingNameThe": "League Two",
+      "entityNameThe": "Exeter City",
+      "TopGroupingID": 1424,
+      "entID": 472,
+      "entityName": "Exeter City",
+      "TopGroupingName": "League Two"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt534",
+    "Omnidata": {
+      "TopGroupingNameThe": "League Two",
+      "entityNameThe": "Forest Green",
+      "TopGroupingID": 1424,
+      "entID": 534,
+      "entityName": "Forest Green",
+      "TopGroupingName": "League Two"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt533",
+    "Omnidata": {
+      "TopGroupingNameThe": "League Two",
+      "entityNameThe": "Gimsby Town",
+      "TopGroupingID": 1424,
+      "entID": 533,
+      "entityName": "Gimsby Town",
+      "TopGroupingName": "League Two"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt482",
+    "Omnidata": {
+      "TopGroupingNameThe": "League Two",
+      "entityNameThe": "Leyton Orient",
+      "TopGroupingID": 1424,
+      "entID": 482,
+      "entityName": "Leyton Orient",
+      "TopGroupingName": "League Two"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt531",
+    "Omnidata": {
+      "TopGroupingNameThe": "League Two",
+      "entityNameThe": "Macclesfield Town",
+      "TopGroupingID": 1424,
+      "entID": 531,
+      "entityName": "Macclesfield Town",
+      "TopGroupingName": "League Two"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt491",
+    "Omnidata": {
+      "TopGroupingNameThe": "League Two",
+      "entityNameThe": "Morecambe",
+      "TopGroupingID": 1424,
+      "entID": 491,
+      "entityName": "Morecambe",
+      "TopGroupingName": "League Two"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt493",
+    "Omnidata": {
+      "TopGroupingNameThe": "League Two",
+      "entityNameThe": "Newport County",
+      "TopGroupingID": 1424,
+      "entID": 493,
+      "entityName": "Newport County",
+      "TopGroupingName": "League Two"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt494",
+    "Omnidata": {
+      "TopGroupingNameThe": "League Two",
+      "entityNameThe": "Northampton",
+      "TopGroupingID": 1424,
+      "entID": 494,
+      "entityName": "Northampton",
+      "TopGroupingName": "League Two"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt498",
+    "Omnidata": {
+      "TopGroupingNameThe": "League Two",
+      "entityNameThe": "Oldham Athletic",
+      "TopGroupingID": 1424,
+      "entID": 498,
+      "entityName": "Oldham Athletic",
+      "TopGroupingName": "League Two"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt501",
+    "Omnidata": {
+      "TopGroupingNameThe": "League Two",
+      "entityNameThe": "Plymouth Argyle",
+      "TopGroupingID": 1424,
+      "entID": 501,
+      "entityName": "Plymouth Argyle",
+      "TopGroupingName": "League Two"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt502",
+    "Omnidata": {
+      "TopGroupingNameThe": "League Two",
+      "entityNameThe": "Port Vale",
+      "TopGroupingID": 1424,
+      "entID": 502,
+      "entityName": "Port Vale",
+      "TopGroupingName": "League Two"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt536",
+    "Omnidata": {
+      "TopGroupingNameThe": "League Two",
+      "entityNameThe": "Salford City",
+      "TopGroupingID": 1424,
+      "entID": 536,
+      "entityName": "Salford City",
+      "TopGroupingName": "League Two"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt509",
+    "Omnidata": {
+      "TopGroupingNameThe": "League Two",
+      "entityNameThe": "Scunthorpe",
+      "TopGroupingID": 1424,
+      "entID": 509,
+      "entityName": "Scunthorpe",
+      "TopGroupingName": "League Two"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt515",
+    "Omnidata": {
+      "TopGroupingNameThe": "League Two",
+      "entityNameThe": "Stevenage",
+      "TopGroupingID": 1424,
+      "entID": 515,
+      "entityName": "Stevenage",
+      "TopGroupingName": "League Two"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt519",
+    "Omnidata": {
+      "TopGroupingNameThe": "League Two",
+      "entityNameThe": "Swindon Town",
+      "TopGroupingID": 1424,
+      "entID": 519,
+      "entityName": "Swindon Town",
+      "TopGroupingName": "League Two"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt521",
+    "Omnidata": {
+      "TopGroupingNameThe": "League Two",
+      "entityNameThe": "Walsall",
+      "TopGroupingID": 1424,
+      "entID": 521,
+      "entityName": "Walsall",
+      "TopGroupingName": "League Two"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt213",
+    "Omnidata": {
+      "TopGroupingNameThe": "MLB",
+      "entityNameThe": "the Arizona Diamondbacks",
+      "TopGroupingID": 1368,
+      "entID": 213,
+      "entityName": "Arizona Diamondbacks",
+      "TopGroupingName": "MLB"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt214",
+    "Omnidata": {
+      "TopGroupingNameThe": "MLB",
+      "entityNameThe": "the Atlanta Braves",
+      "TopGroupingID": 1368,
+      "entID": 214,
+      "entityName": "Atlanta Braves",
+      "TopGroupingName": "MLB"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt215",
+    "Omnidata": {
+      "TopGroupingNameThe": "MLB",
+      "entityNameThe": "the Baltimore Orioles",
+      "TopGroupingID": 1368,
+      "entID": 215,
+      "entityName": "Baltimore Orioles",
+      "TopGroupingName": "MLB"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt216",
+    "Omnidata": {
+      "TopGroupingNameThe": "MLB",
+      "entityNameThe": "the Boston Red Sox",
+      "TopGroupingID": 1368,
+      "entID": 216,
+      "entityName": "Boston Red Sox",
+      "TopGroupingName": "MLB"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt217",
+    "Omnidata": {
+      "TopGroupingNameThe": "MLB",
+      "entityNameThe": "the Chicago Cubs",
+      "TopGroupingID": 1368,
+      "entID": 217,
+      "entityName": "Chicago Cubs",
+      "TopGroupingName": "MLB"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt218",
+    "Omnidata": {
+      "TopGroupingNameThe": "MLB",
+      "entityNameThe": "the Chicago White Sox",
+      "TopGroupingID": 1368,
+      "entID": 218,
+      "entityName": "Chicago White Sox",
+      "TopGroupingName": "MLB"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt219",
+    "Omnidata": {
+      "TopGroupingNameThe": "MLB",
+      "entityNameThe": "the Cincinnati Reds",
+      "TopGroupingID": 1368,
+      "entID": 219,
+      "entityName": "Cincinnati Reds",
+      "TopGroupingName": "MLB"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt220",
+    "Omnidata": {
+      "TopGroupingNameThe": "MLB",
+      "entityNameThe": "the Cleveland Indians",
+      "TopGroupingID": 1368,
+      "entID": 220,
+      "entityName": "Cleveland Indians",
+      "TopGroupingName": "MLB"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt221",
+    "Omnidata": {
+      "TopGroupingNameThe": "MLB",
+      "entityNameThe": "the Colorado Rockies",
+      "TopGroupingID": 1368,
+      "entID": 221,
+      "entityName": "Colorado Rockies",
+      "TopGroupingName": "MLB"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt222",
+    "Omnidata": {
+      "TopGroupingNameThe": "MLB",
+      "entityNameThe": "the Detroit Tigers",
+      "TopGroupingID": 1368,
+      "entID": 222,
+      "entityName": "Detroit Tigers",
+      "TopGroupingName": "MLB"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt223",
+    "Omnidata": {
+      "TopGroupingNameThe": "MLB",
+      "entityNameThe": "the Houston Astros",
+      "TopGroupingID": 1368,
+      "entID": 223,
+      "entityName": "Houston Astros",
+      "TopGroupingName": "MLB"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt224",
+    "Omnidata": {
+      "TopGroupingNameThe": "MLB",
+      "entityNameThe": "the Kansas City Royals",
+      "TopGroupingID": 1368,
+      "entID": 224,
+      "entityName": "Kansas City Royals",
+      "TopGroupingName": "MLB"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt225",
+    "Omnidata": {
+      "TopGroupingNameThe": "MLB",
+      "entityNameThe": "the LA Angels",
+      "TopGroupingID": 1368,
+      "entID": 225,
+      "entityName": "LA Angels",
+      "TopGroupingName": "MLB"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt226",
+    "Omnidata": {
+      "TopGroupingNameThe": "MLB",
+      "entityNameThe": "the LA Dodgers",
+      "TopGroupingID": 1368,
+      "entID": 226,
+      "entityName": "LA Dodgers",
+      "TopGroupingName": "MLB"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt227",
+    "Omnidata": {
+      "TopGroupingNameThe": "MLB",
+      "entityNameThe": "the Miami Marlins",
+      "TopGroupingID": 1368,
+      "entID": 227,
+      "entityName": "Miami Marlins",
+      "TopGroupingName": "MLB"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt228",
+    "Omnidata": {
+      "TopGroupingNameThe": "MLB",
+      "entityNameThe": "the Milwaukee Brewers",
+      "TopGroupingID": 1368,
+      "entID": 228,
+      "entityName": "Milwaukee Brewers",
+      "TopGroupingName": "MLB"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt229",
+    "Omnidata": {
+      "TopGroupingNameThe": "MLB",
+      "entityNameThe": "the Minnesota Twins",
+      "TopGroupingID": 1368,
+      "entID": 229,
+      "entityName": "Minnesota Twins",
+      "TopGroupingName": "MLB"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt230",
+    "Omnidata": {
+      "TopGroupingNameThe": "MLB",
+      "entityNameThe": "the NY Mets",
+      "TopGroupingID": 1368,
+      "entID": 230,
+      "entityName": "NY Mets",
+      "TopGroupingName": "MLB"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt231",
+    "Omnidata": {
+      "TopGroupingNameThe": "MLB",
+      "entityNameThe": "the NY Yankees",
+      "TopGroupingID": 1368,
+      "entID": 231,
+      "entityName": "NY Yankees",
+      "TopGroupingName": "MLB"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt232",
+    "Omnidata": {
+      "TopGroupingNameThe": "MLB",
+      "entityNameThe": "the Oakland Athletics",
+      "TopGroupingID": 1368,
+      "entID": 232,
+      "entityName": "Oakland Athletics",
+      "TopGroupingName": "MLB"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt233",
+    "Omnidata": {
+      "TopGroupingNameThe": "MLB",
+      "entityNameThe": "the Philadelphia Phillies",
+      "TopGroupingID": 1368,
+      "entID": 233,
+      "entityName": "Philadelphia Phillies",
+      "TopGroupingName": "MLB"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt234",
+    "Omnidata": {
+      "TopGroupingNameThe": "MLB",
+      "entityNameThe": "the Pittsburgh Pirates",
+      "TopGroupingID": 1368,
+      "entID": 234,
+      "entityName": "Pittsburgh Pirates",
+      "TopGroupingName": "MLB"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt235",
+    "Omnidata": {
+      "TopGroupingNameThe": "MLB",
+      "entityNameThe": "the San Diego Padres",
+      "TopGroupingID": 1368,
+      "entID": 235,
+      "entityName": "San Diego Padres",
+      "TopGroupingName": "MLB"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt236",
+    "Omnidata": {
+      "TopGroupingNameThe": "MLB",
+      "entityNameThe": "the San Francisco Giants",
+      "TopGroupingID": 1368,
+      "entID": 236,
+      "entityName": "San Francisco Giants",
+      "TopGroupingName": "MLB"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt237",
+    "Omnidata": {
+      "TopGroupingNameThe": "MLB",
+      "entityNameThe": "the Seattle Mariners",
+      "TopGroupingID": 1368,
+      "entID": 237,
+      "entityName": "Seattle Mariners",
+      "TopGroupingName": "MLB"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt238",
+    "Omnidata": {
+      "TopGroupingNameThe": "MLB",
+      "entityNameThe": "the St Louis Cardinals",
+      "TopGroupingID": 1368,
+      "entID": 238,
+      "entityName": "St Louis Cardinals",
+      "TopGroupingName": "MLB"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt239",
+    "Omnidata": {
+      "TopGroupingNameThe": "MLB",
+      "entityNameThe": "the Tampa Bay Rays",
+      "TopGroupingID": 1368,
+      "entID": 239,
+      "entityName": "Tampa Bay Rays",
+      "TopGroupingName": "MLB"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt240",
+    "Omnidata": {
+      "TopGroupingNameThe": "MLB",
+      "entityNameThe": "the Texas Rangers",
+      "TopGroupingID": 1368,
+      "entID": 240,
+      "entityName": "Texas Rangers",
+      "TopGroupingName": "MLB"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt241",
+    "Omnidata": {
+      "TopGroupingNameThe": "MLB",
+      "entityNameThe": "the Toronto Blue Jays",
+      "TopGroupingID": 1368,
+      "entID": 241,
+      "entityName": "Toronto Blue Jays",
+      "TopGroupingName": "MLB"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt242",
+    "Omnidata": {
+      "TopGroupingNameThe": "MLB",
+      "entityNameThe": "the Washington Nationals",
+      "TopGroupingID": 1368,
+      "entID": 242,
+      "entityName": "Washington Nationals",
+      "TopGroupingName": "MLB"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt281",
+    "Omnidata": {
+      "TopGroupingNameThe": "MLS",
+      "entityNameThe": "Atlanta United",
+      "TopGroupingID": 1339,
+      "entID": 281,
+      "entityName": "Atlanta United",
+      "TopGroupingName": "MLS"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt192",
+    "Omnidata": {
+      "TopGroupingNameThe": "MLS",
+      "entityNameThe": "the Chicago Fire",
+      "TopGroupingID": 1339,
+      "entID": 192,
+      "entityName": "Chicago Fire",
+      "TopGroupingName": "MLS"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt194",
+    "Omnidata": {
+      "TopGroupingNameThe": "MLS",
+      "entityNameThe": "the Colorado Rapids",
+      "TopGroupingID": 1339,
+      "entID": 194,
+      "entityName": "Colorado Rapids",
+      "TopGroupingName": "MLS"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt195",
+    "Omnidata": {
+      "TopGroupingNameThe": "MLS",
+      "entityNameThe": "the Columbus Crew",
+      "TopGroupingID": 1339,
+      "entID": 195,
+      "entityName": "Columbus Crew",
+      "TopGroupingName": "MLS"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt196",
+    "Omnidata": {
+      "TopGroupingNameThe": "MLS",
+      "entityNameThe": "DC United",
+      "TopGroupingID": 1339,
+      "entID": 196,
+      "entityName": "DC United",
+      "TopGroupingName": "MLS"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt282",
+    "Omnidata": {
+      "TopGroupingNameThe": "MLS",
+      "entityNameThe": "FC Cincinnati",
+      "TopGroupingID": 1339,
+      "entID": 282,
+      "entityName": "FC Cincinnati",
+      "TopGroupingName": "MLS"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt197",
+    "Omnidata": {
+      "TopGroupingNameThe": "MLS",
+      "entityNameThe": "FC Dallas",
+      "TopGroupingID": 1339,
+      "entID": 197,
+      "entityName": "FC Dallas",
+      "TopGroupingName": "MLS"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt198",
+    "Omnidata": {
+      "TopGroupingNameThe": "MLS",
+      "entityNameThe": "the Houston Dynamo",
+      "TopGroupingID": 1339,
+      "entID": 198,
+      "entityName": "Houston Dynamo",
+      "TopGroupingName": "MLS"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt199",
+    "Omnidata": {
+      "TopGroupingNameThe": "MLS",
+      "entityNameThe": "the LA Galaxy",
+      "TopGroupingID": 1339,
+      "entID": 199,
+      "entityName": "LA Galaxy",
+      "TopGroupingName": "MLS"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt283",
+    "Omnidata": {
+      "TopGroupingNameThe": "MLS",
+      "entityNameThe": "Los Angeles FC",
+      "TopGroupingID": 1339,
+      "entID": 283,
+      "entityName": "LAFC",
+      "TopGroupingName": "MLS"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt284",
+    "Omnidata": {
+      "TopGroupingNameThe": "MLS",
+      "entityNameThe": "Minnesota United",
+      "TopGroupingID": 1339,
+      "entID": 284,
+      "entityName": "Minnesota United",
+      "TopGroupingName": "MLS"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt200",
+    "Omnidata": {
+      "TopGroupingNameThe": "MLS",
+      "entityNameThe": "the Montreal Impact",
+      "TopGroupingID": 1339,
+      "entID": 200,
+      "entityName": "Montreal Impact",
+      "TopGroupingName": "MLS"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt201",
+    "Omnidata": {
+      "TopGroupingNameThe": "MLS",
+      "entityNameThe": "the NE Revolution",
+      "TopGroupingID": 1339,
+      "entID": 201,
+      "entityName": "NE Revolution",
+      "TopGroupingName": "MLS"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt202",
+    "Omnidata": {
+      "TopGroupingNameThe": "MLS",
+      "entityNameThe": "NYC FC",
+      "TopGroupingID": 1339,
+      "entID": 202,
+      "entityName": "NYC FC",
+      "TopGroupingName": "MLS"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt203",
+    "Omnidata": {
+      "TopGroupingNameThe": "MLS",
+      "entityNameThe": "the New York Red Bulls",
+      "TopGroupingID": 1339,
+      "entID": 203,
+      "entityName": "New York Red Bulls",
+      "TopGroupingName": "MLS"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt204",
+    "Omnidata": {
+      "TopGroupingNameThe": "MLS",
+      "entityNameThe": "Orlando City",
+      "TopGroupingID": 1339,
+      "entID": 204,
+      "entityName": "Orlando City",
+      "TopGroupingName": "MLS"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt205",
+    "Omnidata": {
+      "TopGroupingNameThe": "MLS",
+      "entityNameThe": "the Philadelphia Union",
+      "TopGroupingID": 1339,
+      "entID": 205,
+      "entityName": "Philadelphia Union",
+      "TopGroupingName": "MLS"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt206",
+    "Omnidata": {
+      "TopGroupingNameThe": "MLS",
+      "entityNameThe": "the Portland Timbers",
+      "TopGroupingID": 1339,
+      "entID": 206,
+      "entityName": "Portland Timbers",
+      "TopGroupingName": "MLS"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt207",
+    "Omnidata": {
+      "TopGroupingNameThe": "MLS",
+      "entityNameThe": "Real Salt Lake",
+      "TopGroupingID": 1339,
+      "entID": 207,
+      "entityName": "Real Salt Lake",
+      "TopGroupingName": "MLS"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt208",
+    "Omnidata": {
+      "TopGroupingNameThe": "MLS",
+      "entityNameThe": "the San Jose Earthquakes",
+      "TopGroupingID": 1339,
+      "entID": 208,
+      "entityName": "San Jose Earthquakes",
+      "TopGroupingName": "MLS"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt209",
+    "Omnidata": {
+      "TopGroupingNameThe": "MLS",
+      "entityNameThe": "the Seattle Sounders",
+      "TopGroupingID": 1339,
+      "entID": 209,
+      "entityName": "Seattle Sounders",
+      "TopGroupingName": "MLS"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt210",
+    "Omnidata": {
+      "TopGroupingNameThe": "MLS",
+      "entityNameThe": "Sporting Kansas City",
+      "TopGroupingID": 1339,
+      "entID": 210,
+      "entityName": "Sporting Kansas City",
+      "TopGroupingName": "MLS"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt211",
+    "Omnidata": {
+      "TopGroupingNameThe": "MLS",
+      "entityNameThe": "Toronto FC",
+      "TopGroupingID": 1339,
+      "entID": 211,
+      "entityName": "Toronto FC",
+      "TopGroupingName": "MLS"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt212",
+    "Omnidata": {
+      "TopGroupingNameThe": "MLS",
+      "entityNameThe": "the Vancouver Whitecaps",
+      "TopGroupingID": 1339,
+      "entID": 212,
+      "entityName": "Vancouver Whitecaps",
+      "TopGroupingName": "MLS"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt243",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NBA",
+      "entityNameThe": "the Atlanta Hawks",
+      "TopGroupingID": 1364,
+      "entID": 243,
+      "entityName": "Atlanta Hawks",
+      "TopGroupingName": "NBA"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt244",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NBA",
+      "entityNameThe": "the Boston Celtics",
+      "TopGroupingID": 1364,
+      "entID": 244,
+      "entityName": "Boston Celtics",
+      "TopGroupingName": "NBA"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt245",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NBA",
+      "entityNameThe": "the Brooklyn Nets",
+      "TopGroupingID": 1364,
+      "entID": 245,
+      "entityName": "Brooklyn Nets",
+      "TopGroupingName": "NBA"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt246",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NBA",
+      "entityNameThe": "the Charlotte Hornets",
+      "TopGroupingID": 1364,
+      "entID": 246,
+      "entityName": "Charlotte Hornets",
+      "TopGroupingName": "NBA"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt247",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NBA",
+      "entityNameThe": "the Chicago Bulls",
+      "TopGroupingID": 1364,
+      "entID": 247,
+      "entityName": "Chicago Bulls",
+      "TopGroupingName": "NBA"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt248",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NBA",
+      "entityNameThe": "the Cleveland Cavaliers",
+      "TopGroupingID": 1364,
+      "entID": 248,
+      "entityName": "Cleveland Cavaliers",
+      "TopGroupingName": "NBA"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt249",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NBA",
+      "entityNameThe": "the Dallas Mavericks",
+      "TopGroupingID": 1364,
+      "entID": 249,
+      "entityName": "Dallas Mavericks",
+      "TopGroupingName": "NBA"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt250",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NBA",
+      "entityNameThe": "the Denver Nuggets",
+      "TopGroupingID": 1364,
+      "entID": 250,
+      "entityName": "Denver Nuggets",
+      "TopGroupingName": "NBA"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt251",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NBA",
+      "entityNameThe": "the Detroit Pistons",
+      "TopGroupingID": 1364,
+      "entID": 251,
+      "entityName": "Detroit Pistons",
+      "TopGroupingName": "NBA"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt252",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NBA",
+      "entityNameThe": "the Golden State Warriors",
+      "TopGroupingID": 1364,
+      "entID": 252,
+      "entityName": "Golden State Warriors",
+      "TopGroupingName": "NBA"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt253",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NBA",
+      "entityNameThe": "the Houston Rockets",
+      "TopGroupingID": 1364,
+      "entID": 253,
+      "entityName": "Houston Rockets",
+      "TopGroupingName": "NBA"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt254",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NBA",
+      "entityNameThe": "the Indiana Pacers",
+      "TopGroupingID": 1364,
+      "entID": 254,
+      "entityName": "Indiana Pacers",
+      "TopGroupingName": "NBA"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt255",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NBA",
+      "entityNameThe": "the LA Clippers",
+      "TopGroupingID": 1364,
+      "entID": 255,
+      "entityName": "LA Clippers",
+      "TopGroupingName": "NBA"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt256",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NBA",
+      "entityNameThe": "the LA Lakers",
+      "TopGroupingID": 1364,
+      "entID": 256,
+      "entityName": "LA Lakers",
+      "TopGroupingName": "NBA"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt257",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NBA",
+      "entityNameThe": "the Memphis Grizzlies",
+      "TopGroupingID": 1364,
+      "entID": 257,
+      "entityName": "Memphis Grizzlies",
+      "TopGroupingName": "NBA"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt258",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NBA",
+      "entityNameThe": "the Miami Heat",
+      "TopGroupingID": 1364,
+      "entID": 258,
+      "entityName": "Miami Heat",
+      "TopGroupingName": "NBA"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt259",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NBA",
+      "entityNameThe": "the Milwaukee Bucks",
+      "TopGroupingID": 1364,
+      "entID": 259,
+      "entityName": "Milwaukee Bucks",
+      "TopGroupingName": "NBA"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt260",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NBA",
+      "entityNameThe": "the Minnesota Timberwolves",
+      "TopGroupingID": 1364,
+      "entID": 260,
+      "entityName": "Minnesota Timberwolves",
+      "TopGroupingName": "NBA"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt262",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NBA",
+      "entityNameThe": "the NY Knicks",
+      "TopGroupingID": 1364,
+      "entID": 262,
+      "entityName": "NY Knicks",
+      "TopGroupingName": "NBA"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt261",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NBA",
+      "entityNameThe": "the New Orleans Pelicans",
+      "TopGroupingID": 1364,
+      "entID": 261,
+      "entityName": "New Orleans Pelicans",
+      "TopGroupingName": "NBA"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt263",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NBA",
+      "entityNameThe": "the OKC Thunder",
+      "TopGroupingID": 1364,
+      "entID": 263,
+      "entityName": "OKC Thunder",
+      "TopGroupingName": "NBA"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt264",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NBA",
+      "entityNameThe": "the Orlando Magic",
+      "TopGroupingID": 1364,
+      "entID": 264,
+      "entityName": "Orlando Magic",
+      "TopGroupingName": "NBA"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt265",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NBA",
+      "entityNameThe": "the Philadelphia 76ers",
+      "TopGroupingID": 1364,
+      "entID": 265,
+      "entityName": "Philadelphia 76ers",
+      "TopGroupingName": "NBA"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt266",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NBA",
+      "entityNameThe": "the Phoenix Suns",
+      "TopGroupingID": 1364,
+      "entID": 266,
+      "entityName": "Phoenix Suns",
+      "TopGroupingName": "NBA"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt267",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NBA",
+      "entityNameThe": "the Portland Trail Blazers",
+      "TopGroupingID": 1364,
+      "entID": 267,
+      "entityName": "Portland Trail Blazers",
+      "TopGroupingName": "NBA"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt268",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NBA",
+      "entityNameThe": "the Sacramento Kings",
+      "TopGroupingID": 1364,
+      "entID": 268,
+      "entityName": "Sacramento Kings",
+      "TopGroupingName": "NBA"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt269",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NBA",
+      "entityNameThe": "the San Antonio Spurs",
+      "TopGroupingID": 1364,
+      "entID": 269,
+      "entityName": "San Antonio Spurs",
+      "TopGroupingName": "NBA"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt270",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NBA",
+      "entityNameThe": "the Toronto Raptors",
+      "TopGroupingID": 1364,
+      "entID": 270,
+      "entityName": "Toronto Raptors",
+      "TopGroupingName": "NBA"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt271",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NBA",
+      "entityNameThe": "the Utah Jazz",
+      "TopGroupingID": 1364,
+      "entID": 271,
+      "entityName": "Utah Jazz",
+      "TopGroupingName": "NBA"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt272",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NBA",
+      "entityNameThe": "the Washington Wizards",
+      "TopGroupingID": 1364,
+      "entID": 272,
+      "entityName": "Washington Wizards",
+      "TopGroupingName": "NBA"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt160",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NFL",
+      "entityNameThe": "the Arizona Cardinals",
+      "TopGroupingID": 1047,
+      "entID": 160,
+      "entityName": "Arizona Cardinals",
+      "TopGroupingName": "NFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt161",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NFL",
+      "entityNameThe": "the Atlanta Falcons",
+      "TopGroupingID": 1047,
+      "entID": 161,
+      "entityName": "Atlanta Falcons",
+      "TopGroupingName": "NFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt162",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NFL",
+      "entityNameThe": "the Baltimore Ravens",
+      "TopGroupingID": 1047,
+      "entID": 162,
+      "entityName": "Baltimore Ravens",
+      "TopGroupingName": "NFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt163",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NFL",
+      "entityNameThe": "the Buffalo Bills",
+      "TopGroupingID": 1047,
+      "entID": 163,
+      "entityName": "Buffalo Bills",
+      "TopGroupingName": "NFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt164",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NFL",
+      "entityNameThe": "the Carolina Panthers",
+      "TopGroupingID": 1047,
+      "entID": 164,
+      "entityName": "Carolina Panthers",
+      "TopGroupingName": "NFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt165",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NFL",
+      "entityNameThe": "the Chicago Bears",
+      "TopGroupingID": 1047,
+      "entID": 165,
+      "entityName": "Chicago Bears",
+      "TopGroupingName": "NFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt166",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NFL",
+      "entityNameThe": "the Cincinnati Bengals",
+      "TopGroupingID": 1047,
+      "entID": 166,
+      "entityName": "Cincinnati Bengals",
+      "TopGroupingName": "NFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt167",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NFL",
+      "entityNameThe": "the Cleveland Browns",
+      "TopGroupingID": 1047,
+      "entID": 167,
+      "entityName": "Cleveland Browns",
+      "TopGroupingName": "NFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt168",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NFL",
+      "entityNameThe": "the Dallas Cowboys",
+      "TopGroupingID": 1047,
+      "entID": 168,
+      "entityName": "Dallas Cowboys",
+      "TopGroupingName": "NFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt169",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NFL",
+      "entityNameThe": "the Denver Broncos",
+      "TopGroupingID": 1047,
+      "entID": 169,
+      "entityName": "Denver Broncos",
+      "TopGroupingName": "NFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt170",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NFL",
+      "entityNameThe": "the Detroit Lions",
+      "TopGroupingID": 1047,
+      "entID": 170,
+      "entityName": "Detroit Lions",
+      "TopGroupingName": "NFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt171",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NFL",
+      "entityNameThe": "the Green Bay Packers",
+      "TopGroupingID": 1047,
+      "entID": 171,
+      "entityName": "Green Bay Packers",
+      "TopGroupingName": "NFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt172",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NFL",
+      "entityNameThe": "the Houston Texans",
+      "TopGroupingID": 1047,
+      "entID": 172,
+      "entityName": "Houston Texans",
+      "TopGroupingName": "NFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt173",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NFL",
+      "entityNameThe": "the Indianapolis Colts",
+      "TopGroupingID": 1047,
+      "entID": 173,
+      "entityName": "Indianapolis Colts",
+      "TopGroupingName": "NFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt174",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NFL",
+      "entityNameThe": "the Jacksonville Jaguars",
+      "TopGroupingID": 1047,
+      "entID": 174,
+      "entityName": "Jacksonville Jaguars",
+      "TopGroupingName": "NFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt175",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NFL",
+      "entityNameThe": "the Kansas City Chiefs",
+      "TopGroupingID": 1047,
+      "entID": 175,
+      "entityName": "Kansas City Chiefs",
+      "TopGroupingName": "NFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt185",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NFL",
+      "entityNameThe": "the LA Chargers",
+      "TopGroupingID": 1047,
+      "entID": 185,
+      "entityName": "LA Chargers",
+      "TopGroupingName": "NFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt188",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NFL",
+      "entityNameThe": "the LA Rams",
+      "TopGroupingID": 1047,
+      "entID": 188,
+      "entityName": "LA Rams",
+      "TopGroupingName": "NFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt176",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NFL",
+      "entityNameThe": "the Miami Dolphins",
+      "TopGroupingID": 1047,
+      "entID": 176,
+      "entityName": "Miami Dolphins",
+      "TopGroupingName": "NFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt177",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NFL",
+      "entityNameThe": "the Minnesota Vikings",
+      "TopGroupingID": 1047,
+      "entID": 177,
+      "entityName": "Minnesota Vikings",
+      "TopGroupingName": "NFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt178",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NFL",
+      "entityNameThe": "the New England Patriots",
+      "TopGroupingID": 1047,
+      "entID": 178,
+      "entityName": "New England Patriots",
+      "TopGroupingName": "NFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt179",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NFL",
+      "entityNameThe": "the New Orleans Saints",
+      "TopGroupingID": 1047,
+      "entID": 179,
+      "entityName": "New Orleans Saints",
+      "TopGroupingName": "NFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt180",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NFL",
+      "entityNameThe": "the New York Giants",
+      "TopGroupingID": 1047,
+      "entID": 180,
+      "entityName": "New York Giants",
+      "TopGroupingName": "NFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt181",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NFL",
+      "entityNameThe": "the New York Jets",
+      "TopGroupingID": 1047,
+      "entID": 181,
+      "entityName": "New York Jets",
+      "TopGroupingName": "NFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt182",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NFL",
+      "entityNameThe": "the Oakland Raiders",
+      "TopGroupingID": 1047,
+      "entID": 182,
+      "entityName": "Oakland Raiders",
+      "TopGroupingName": "NFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt183",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NFL",
+      "entityNameThe": "the Philadelphia Eagles",
+      "TopGroupingID": 1047,
+      "entID": 183,
+      "entityName": "Philadelphia Eagles",
+      "TopGroupingName": "NFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt184",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NFL",
+      "entityNameThe": "the Pittsburgh Steelers",
+      "TopGroupingID": 1047,
+      "entID": 184,
+      "entityName": "Pittsburgh Steelers",
+      "TopGroupingName": "NFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt186",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NFL",
+      "entityNameThe": "the San Francisco 49ers",
+      "TopGroupingID": 1047,
+      "entID": 186,
+      "entityName": "San Francisco 49ers",
+      "TopGroupingName": "NFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt187",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NFL",
+      "entityNameThe": "the Seattle Seahawks",
+      "TopGroupingID": 1047,
+      "entID": 187,
+      "entityName": "Seattle Seahawks",
+      "TopGroupingName": "NFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt189",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NFL",
+      "entityNameThe": "the Tampa Bay Buccaneers",
+      "TopGroupingID": 1047,
+      "entID": 189,
+      "entityName": "Tampa Bay Buccaneers",
+      "TopGroupingName": "NFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt190",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NFL",
+      "entityNameThe": "the Tennessee Titans",
+      "TopGroupingID": 1047,
+      "entID": 190,
+      "entityName": "Tennessee Titans",
+      "TopGroupingName": "NFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt191",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NFL",
+      "entityNameThe": "the Washington Football Team",
+      "TopGroupingID": 1047,
+      "entID": 191,
+      "entityName": "Washington Football Team",
+      "TopGroupingName": "NFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt130",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NHL",
+      "entityNameThe": "the Anaheim Ducks",
+      "TopGroupingID": 1379,
+      "entID": 130,
+      "entityName": "Anaheim Ducks",
+      "TopGroupingName": "NHL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt131",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NHL",
+      "entityNameThe": "the Arizona Coyotes",
+      "TopGroupingID": 1379,
+      "entID": 131,
+      "entityName": "Arizona Coyotes",
+      "TopGroupingName": "NHL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt132",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NHL",
+      "entityNameThe": "the Boston Bruins",
+      "TopGroupingID": 1379,
+      "entID": 132,
+      "entityName": "Boston Bruins",
+      "TopGroupingName": "NHL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt133",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NHL",
+      "entityNameThe": "the Buffalo Sabres",
+      "TopGroupingID": 1379,
+      "entID": 133,
+      "entityName": "Buffalo Sabres",
+      "TopGroupingName": "NHL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt134",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NHL",
+      "entityNameThe": "the Calgary Flames",
+      "TopGroupingID": 1379,
+      "entID": 134,
+      "entityName": "Calgary Flames",
+      "TopGroupingName": "NHL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt135",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NHL",
+      "entityNameThe": "the Carolina Hurricanes",
+      "TopGroupingID": 1379,
+      "entID": 135,
+      "entityName": "Carolina Hurricanes",
+      "TopGroupingName": "NHL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt136",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NHL",
+      "entityNameThe": "the Chicago Blackhawks",
+      "TopGroupingID": 1379,
+      "entID": 136,
+      "entityName": "Chicago Blackhawks",
+      "TopGroupingName": "NHL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt137",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NHL",
+      "entityNameThe": "the Colorado Avalanche",
+      "TopGroupingID": 1379,
+      "entID": 137,
+      "entityName": "Colorado Avalanche",
+      "TopGroupingName": "NHL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt138",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NHL",
+      "entityNameThe": "the Columbus Blue Jackets",
+      "TopGroupingID": 1379,
+      "entID": 138,
+      "entityName": "Columbus Blue Jackets",
+      "TopGroupingName": "NHL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt139",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NHL",
+      "entityNameThe": "the Dallas Stars",
+      "TopGroupingID": 1379,
+      "entID": 139,
+      "entityName": "Dallas Stars",
+      "TopGroupingName": "NHL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt140",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NHL",
+      "entityNameThe": "the Detroit Red Wings",
+      "TopGroupingID": 1379,
+      "entID": 140,
+      "entityName": "Detroit Red Wings",
+      "TopGroupingName": "NHL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt141",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NHL",
+      "entityNameThe": "the Edmonton Oilers",
+      "TopGroupingID": 1379,
+      "entID": 141,
+      "entityName": "Edmonton Oilers",
+      "TopGroupingName": "NHL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt142",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NHL",
+      "entityNameThe": "the Florida Panthers",
+      "TopGroupingID": 1379,
+      "entID": 142,
+      "entityName": "Florida Panthers",
+      "TopGroupingName": "NHL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt143",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NHL",
+      "entityNameThe": "the LA Kings",
+      "TopGroupingID": 1379,
+      "entID": 143,
+      "entityName": "LA Kings",
+      "TopGroupingName": "NHL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt144",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NHL",
+      "entityNameThe": "the Minnesota Wild",
+      "TopGroupingID": 1379,
+      "entID": 144,
+      "entityName": "Minnesota Wild",
+      "TopGroupingName": "NHL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt145",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NHL",
+      "entityNameThe": "the Montreal Canadiens",
+      "TopGroupingID": 1379,
+      "entID": 145,
+      "entityName": "Montreal Canadiens",
+      "TopGroupingName": "NHL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt147",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NHL",
+      "entityNameThe": "the NJ Devils",
+      "TopGroupingID": 1379,
+      "entID": 147,
+      "entityName": "NJ Devils",
+      "TopGroupingName": "NHL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt148",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NHL",
+      "entityNameThe": "the NY Islanders",
+      "TopGroupingID": 1379,
+      "entID": 148,
+      "entityName": "NY Islanders",
+      "TopGroupingName": "NHL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt149",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NHL",
+      "entityNameThe": "the NY Rangers",
+      "TopGroupingID": 1379,
+      "entID": 149,
+      "entityName": "NY Rangers",
+      "TopGroupingName": "NHL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt146",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NHL",
+      "entityNameThe": "the Nashville Predators",
+      "TopGroupingID": 1379,
+      "entID": 146,
+      "entityName": "Nashville Predators",
+      "TopGroupingName": "NHL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt150",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NHL",
+      "entityNameThe": "the Ottawa Senators",
+      "TopGroupingID": 1379,
+      "entID": 150,
+      "entityName": "Ottawa Senators",
+      "TopGroupingName": "NHL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt151",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NHL",
+      "entityNameThe": "the Philadelphia Flyers",
+      "TopGroupingID": 1379,
+      "entID": 151,
+      "entityName": "Philadelphia Flyers",
+      "TopGroupingName": "NHL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt152",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NHL",
+      "entityNameThe": "the Pittsburgh Penguins",
+      "TopGroupingID": 1379,
+      "entID": 152,
+      "entityName": "Pittsburgh Penguins",
+      "TopGroupingName": "NHL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt153",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NHL",
+      "entityNameThe": "the San Jose Sharks",
+      "TopGroupingID": 1379,
+      "entID": 153,
+      "entityName": "San Jose Sharks",
+      "TopGroupingName": "NHL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt154",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NHL",
+      "entityNameThe": "the St Louis Blues",
+      "TopGroupingID": 1379,
+      "entID": 154,
+      "entityName": "St Louis Blues",
+      "TopGroupingName": "NHL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt155",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NHL",
+      "entityNameThe": "the Tampa Bay Lightning",
+      "TopGroupingID": 1379,
+      "entID": 155,
+      "entityName": "Tampa Bay Lightning",
+      "TopGroupingName": "NHL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt156",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NHL",
+      "entityNameThe": "the Toronto Maple Leafs",
+      "TopGroupingID": 1379,
+      "entID": 156,
+      "entityName": "Toronto Maple Leafs",
+      "TopGroupingName": "NHL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt157",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NHL",
+      "entityNameThe": "the Vancouver Canucks",
+      "TopGroupingID": 1379,
+      "entID": 157,
+      "entityName": "Vancouver Canucks",
+      "TopGroupingName": "NHL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt287",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NHL",
+      "entityNameThe": "the Vegas Golden Knights",
+      "TopGroupingID": 1379,
+      "entID": 287,
+      "entityName": "Vegas Golden Knights",
+      "TopGroupingName": "NHL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt158",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NHL",
+      "entityNameThe": "the Washington Capitals",
+      "TopGroupingID": 1379,
+      "entID": 158,
+      "entityName": "Washington Capitals",
+      "TopGroupingName": "NHL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt159",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NHL",
+      "entityNameThe": "the Winnipeg Jets",
+      "TopGroupingID": 1379,
+      "entID": 159,
+      "entityName": "Winnipeg Jets",
+      "TopGroupingName": "NHL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt1079",
+    "Omnidata": {
+      "TopGroupingNameThe": "the WNBA",
+      "entityNameThe": "the Atlanta Dream",
+      "TopGroupingID": 1425,
+      "entID": 1079,
+      "entityName": "Atlanta Dream",
+      "TopGroupingName": "WNBA"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt1080",
+    "Omnidata": {
+      "TopGroupingNameThe": "the WNBA",
+      "entityNameThe": "the Chicago Sky",
+      "TopGroupingID": 1425,
+      "entID": 1080,
+      "entityName": "Chicago Sky",
+      "TopGroupingName": "WNBA"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt1081",
+    "Omnidata": {
+      "TopGroupingNameThe": "the WNBA",
+      "entityNameThe": "the Connecticut Sun",
+      "TopGroupingID": 1425,
+      "entID": 1081,
+      "entityName": "Connecticut Sun",
+      "TopGroupingName": "WNBA"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt1085",
+    "Omnidata": {
+      "TopGroupingNameThe": "the WNBA",
+      "entityNameThe": "the Dallas Wings",
+      "TopGroupingID": 1425,
+      "entID": 1085,
+      "entityName": "Dallas Wings",
+      "TopGroupingName": "WNBA"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt1082",
+    "Omnidata": {
+      "TopGroupingNameThe": "the WNBA",
+      "entityNameThe": "the Indiana Fever",
+      "TopGroupingID": 1425,
+      "entID": 1082,
+      "entityName": "Indiana Fever",
+      "TopGroupingName": "WNBA"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt1086",
+    "Omnidata": {
+      "TopGroupingNameThe": "the WNBA",
+      "entityNameThe": "the Las Vegas Aces",
+      "TopGroupingID": 1425,
+      "entID": 1086,
+      "entityName": "Las Vegas Aces",
+      "TopGroupingName": "WNBA"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt1087",
+    "Omnidata": {
+      "TopGroupingNameThe": "the WNBA",
+      "entityNameThe": "the Los Angeles Sparks",
+      "TopGroupingID": 1425,
+      "entID": 1087,
+      "entityName": "Los Angeles Sparks",
+      "TopGroupingName": "WNBA"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt1088",
+    "Omnidata": {
+      "TopGroupingNameThe": "the WNBA",
+      "entityNameThe": "the Minnesota Lynx",
+      "TopGroupingID": 1425,
+      "entID": 1088,
+      "entityName": "Minnesota Lynx",
+      "TopGroupingName": "WNBA"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt1083",
+    "Omnidata": {
+      "TopGroupingNameThe": "the WNBA",
+      "entityNameThe": "the New York Liberty",
+      "TopGroupingID": 1425,
+      "entID": 1083,
+      "entityName": "New York Liberty",
+      "TopGroupingName": "WNBA"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt1089",
+    "Omnidata": {
+      "TopGroupingNameThe": "the WNBA",
+      "entityNameThe": "the Phoenix Mercury",
+      "TopGroupingID": 1425,
+      "entID": 1089,
+      "entityName": "Phoenix Mercury",
+      "TopGroupingName": "WNBA"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt1090",
+    "Omnidata": {
+      "TopGroupingNameThe": "the WNBA",
+      "entityNameThe": "the Seattle Storm",
+      "TopGroupingID": 1425,
+      "entID": 1090,
+      "entityName": "Seattle Storm",
+      "TopGroupingName": "WNBA"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt1084",
+    "Omnidata": {
+      "TopGroupingNameThe": "the WNBA",
+      "entityNameThe": "the Washington Mystics",
+      "TopGroupingID": 1425,
+      "entID": 1084,
+      "entityName": "Washington Mystics",
+      "TopGroupingName": "WNBA"
+    }
+  }
+]

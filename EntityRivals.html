@@ -1,0 +1,205 @@
+<!doctype html>
+<html>
+
+<head>
+    <title>
+        Rival selection
+    </title>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+    <link rel="stylesheet" type="text/css" href="omnisurvey.css" />
+    <script src="omnisurveyData.js"></script>
+    <script src="EntityRivals.js"></script>
+
+    <meta id="meta-viewport" name="viewport"
+        content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=2.5" />
+    <!-- This is here for testing purposes. The real link will be within the Qualtrics Advanced Look & Feel section -->
+    <!-- <link href="https://jfe-cdn.qualtrics.com/themes/skins/qualtrics/v4qualtrics2/version-1540490806023-9bd613/stylesheet.css" rel="stylesheet" /> -->
+
+</head>
+
+<body id="SurveyEngineBody">
+
+    <!-- QID246 is RivalryPointsAllocation -->
+    <div class="QuestionOuter BorderColor DB  QID246" id="QID246" questionid="QID246" posttag="QID246"
+        data-runtime-remove-class-hidden="runtime.Displayed">
+        <div id="QR~QID246~VALIDATION" class="ValidationError" role="alert" data-runtime-show="runtime.ErrorMsg"
+            data-runtime-html="runtime.ErrorMsg" style="display: none;">
+        </div>
+        <div id="QR~QID246~SDPVALIDATION" class="ValidationError" role="alert" data-runtime-show="runtime.PDPErrorMsg"
+            data-runtime-html="runtime.PDPErrorMsg" style="display: none;">
+        </div>
+        <div class="Inner BorderColor TB">
+            <div class="InnerInner BorderColor">
+                <div class="QuestionText BorderColor">
+                <!-- START EDITABLE PART OF QUALTRICS QUESTION
+                The part in here is what you copy into Qualtrics -->
+
+                <div>
+                    <div class="riv-point-header">
+                        <p>Who is the biggest rival?</p>
+                    </div>
+                    <div class="riv-point-explanation">
+                        <p>
+                            You have
+                            <span style="font-style: italic;">100 rivalry points</span>
+                            to give to the rival(s) of ${e://Field/FavObjThe}.<br/>
+                            <b>How do you assign these points?</b> You could...
+                        </p>
+                        <!-- These are presented in a random order (can add/remove li if we want)-->
+                        <ul id="rivPointSampleDistributions">
+                            <li id="sampleSplitAmgEntities">...split points among rivals (e.g., give 60 points to the strongest rival, 30 points to another team, and 10 points to a third opponent)</li>
+                            <li id="sampleAllToOneEntity">...assign all 100 points to one rival</li>
+                            <li id="sampleEvenDistToSeveral">...evenly distribute points to several rivals (up to 10)</li>
+                        </ul>
+                        <p>
+                            Choose the distribution based on <i>your</i> view of the rival(s).
+                        </p>
+                    </div>
+
+                    <div id="rivalryPointsInstructions" class="riv-point-instructions">
+                       <p> 
+                           If listing more than one rival, please list highest point rival first.
+                           I.e., the "biggest rival" should be at the top, then the next biggest,
+                           then the next, etc.
+                        </p>
+                    </div>
+
+                    <div id="rivSelTblWrapper">
+                        <div id="rivalPointsErrorBox" class="rivalry-points-error"></div>
+                        <div id="rivPointsDisplayTotals" class="pts-display-totals">
+                            <div id="rivSelHeaderPointsRemaining" class="pts-remaining">
+                                Available: 100
+                            </div>
+                            <div id="rivSelHeaderPointsAllocated" class="pts-allocated">
+                                Assigned: 0
+                            </div>
+                        </div>
+                        <div id="rivSelTblHeader" class="riv-sel-headers">
+                            <div id="rivSelHeaderRank" class="riv-sel-left">
+                                <div id="rivSelRankHead">#</div>
+                            </div>
+                            <div id="rivSelHeaderMiddle" class="riv-sel-middle">
+                                <div id="rivSelHeaderSelectors">League and team</div>
+                            </div>
+                            <div id="rivSelHeaderRight" class="riv-sel-right">
+                                <div id="rivSelHeaderPoints">Points</div>
+                            </div>
+                        </div>
+
+                        <div id="Rival01Container" class="rival-container">
+                            <div id="Rival01Left" class="riv-sel-left">
+                                <div id="Rival01RankNum" class="riv-sel-rank-text">#1</div>
+                            </div>
+
+                            <div id="Rival01Middle" class="riv-sel-middle">
+                                <div id="Rival01Selectors" class="riv-selectors">
+                                    <select id="cboGroupingRival01" class="grouping-select" disabled="disabled"></select>
+                                    <select id="cboRival01" class="ent-select" disabled="disabled"></select>
+                                </div>
+                                <input id="Rival01PointsSlider" class="riv-points-slider"
+                                    type="range" min="0" max="100" value="0"
+                                    disabled="disabled"
+                                />
+                            </div>
+
+                            <div id="Rival01Right" class="riv-sel-right">
+                                <input id="Rival01Points" class="riv-points-box" 
+                                    type="number" min="0" max="100"
+                                    disabled="disabled">
+                            </div>
+                        </div>
+
+
+                    </div>
+
+                </div>
+
+                <!-- END EDITABLE PART OF QUALTRICS QUESTION -->
+                </div>
+                <div class="QuestionBody"></div>
+            </div>
+        </div>
+    </div>
+    <button id="NextButton" style="margin-top: 20px;" disabled>
+        I'm the fake next button
+    </button>
+
+    <script>
+
+        (function () {
+            let OMNISURVEY_TEST = false;
+            let groupingId = -1, entId = -1;
+            const self = this;
+            let entRivalsNextButtonHandler;
+
+
+            if (OMNISURVEY_TEST || !window.Qualtrics) {
+
+                /*****************************************************
+                  TESTING MODE
+                *****************************************************/
+                OMNISURVEY_TEST = true;
+
+                jQuery('body').prepend('<div id="SurveyInTestMode">The survey is in test mode.</div>');
+
+                const searchParams = new URLSearchParams(window.location.search);
+                if (searchParams.has('grpID')) {
+                    groupingId = parseInt(searchParams.get('grpID'));
+                } else {
+                    groupingId = 1364;
+                }
+
+                init(groupingId);
+
+            } else {
+
+                Qualtrics.SurveyEngine.addOnload(function () {
+
+                    const qse = Qualtrics.SurveyEngine;
+
+                    init( parseInt(qse.getEmbeddedData('grpID')) );
+
+                });
+
+                Qualtrics.SurveyEngine.addOnReady(function () {
+                    //Place your JavaScript here to run when the page is fully displayed
+                });
+
+                Qualtrics.SurveyEngine.addOnUnload(function () {
+                    //Place your JavaScript here to run when the page is unloaded
+                });
+
+            }
+
+            function init(groupingId) {
+                if (window.hasOwnProperty('omnisurvey_data') && omnisurvey_data.dataLoaded) {
+                    loadQuestion(groupingId);
+                } else {
+                    jQuery(document).on('OmnisurveyReady', function () {
+                        loadQuestion(groupingId); // builds the page
+                    });
+                    
+                    window.omnisurvey_data = new Omnisurvey_Data(jQuery);
+                }
+
+            }
+
+            function loadQuestion(groupingId) {
+                console.log('loadQuestion running for groupingId='+groupingId);
+                var omnisurvey_EntRivals = new Omnisurvey_EntRivals(jQuery, self.omnisurvey_data, groupingId, entId); // this is what loads the Omnisurvey
+
+                entRivalsNextButtonHandler = omnisurvey_EntRivals.entRivalsNextButtonHandler;
+
+                jQuery("#NextButton").click(function () {
+                        entRivalsNextButtonHandler(OMNISURVEY_TEST);
+                    });
+            }
+
+        })();
+
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,148 @@
+<!doctype html>
+<html>
+
+<head>
+    <title>
+        Favorite Teams
+    </title>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+    <link rel="stylesheet" type="text/css" href="omnisurvey.css" />
+    <script src="omnisurveyData.js"></script>
+    <script src="FavoriteEntities.js"></script>
+
+    <meta id="meta-viewport" name="viewport"
+        content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=2.5" />
+    <!-- This is here for testing purposes. The real link will be within the Qualtrics Advanced Look & Feel section -->
+    <!-- <link href="https://jfe-cdn.qualtrics.com/themes/skins/qualtrics/v4qualtrics2/version-1540490806023-9bd613/stylesheet.css" rel="stylesheet" /> -->
+</head>
+
+<body id="SurveyEngineBody">
+    <div class="Skin">
+
+
+        <div class="Questions">
+            <div id="ents-container">
+                <div id="QuesInstructions">
+                    <p>Please select your favorite team</p>
+                </div>
+                <div class="ents-filter-header">
+                    <div class="header-text">Filter:</div>
+                    <select id="groupingFilter"></select>
+                </div>
+                <!--<div id="DivFilterReset" class="FilterResetText">Reset all filters</div>-->
+                <!--<div id="filters"></div>-->
+                <div style="clear:both;">
+                    <!--temporary-->
+                </div>
+                <div id="ent-logo-header">
+                    Teams
+                </div>
+                <div id="ents" class="clearfix"></div>
+            </div>
+            <div id="selected-ent">
+                <div id="selected-ent-logo"></div>
+                <div id="selected-ent-name"></div>
+                <a href="#" class="faventResetAllFilters">&lt; select a different team</a>
+            </div>
+        </div>
+
+
+        <!-- Just here to replicate Qualtrics code. Do not copy into Qualtrics. -->
+        <div id="Buttons" role="navigation">
+            <input id="NextButton" class="NextButton Button" title="Next  >>" type="button" name="NextButton"
+                value="Next  &gt;&gt;">
+        </div>
+
+
+
+    </div>
+
+
+    <script>
+        
+        (function () {
+            const OMNISURVEY_TEST = false;
+            let groupingId = -1;
+            let favoriteEntSelectedHandler;
+            const self = this;
+
+
+            if (OMNISURVEY_TEST || !window.Qualtrics) {
+
+                /*****************************************************
+                  TESTING MODE
+                *****************************************************/
+                const searchParams = new URLSearchParams(window.location.search);
+                if (searchParams.has('grpID')) {
+                    groupingId = parseInt(searchParams.get('grpID'));
+                }
+
+                jQuery('body').prepend('<div id="SurveyInTestMode">The survey is in test mode.</div>');
+
+                favoriteEntSelectedHandler = function () {
+                    console.log('FAVTEAM:', this.FavoriteEntName, this.FavoriteEntId);
+                };
+
+                init();
+
+            } else {
+
+                Qualtrics.SurveyEngine.addOnload(function () {
+                    const qse = Qualtrics.SurveyEngine;
+                    groupingId = parseInt(qse.getEmbeddedData('grpID'));
+
+                    favoriteEntSelectedHandler = function () {
+                        jQuery.when( qse.setEmbeddedData('FavObj', this.FavoriteEntName) )
+                        .then( qse.setEmbeddedData('FavObjThe', this.FavoriteEntNameThe) )
+                        .then( qse.setEmbeddedData('FavObjEntID', this.FavoriteEntId) )
+                        .then( qse.setEmbeddedData('termKRQtrxManipIdenLevelQual', this.termKRQtrxManipIdenLevelQual) );
+                        console.log(
+                            'Wrote the following embedded data:',
+                            'FavObj', this.FavoriteEntName,
+                            'FavObjThe', this.FavoriteEntNameThe,
+                            'FavObjEntID', this.FavoriteEntId,
+                            'termKRQtrxManipIdenLevelQual', this.termKRQtrxManipIdenLevelQual
+                            );
+                        return true;
+                    };
+
+                    init();
+                });
+
+                Qualtrics.SurveyEngine.addOnReady(function () {
+                    //Place your JavaScript here to run when the page is fully displayed
+                });
+
+                Qualtrics.SurveyEngine.addOnUnload(function () {
+                    //Place your JavaScript here to run when the page is unloaded
+                });
+
+            }
+
+            function init() {
+                //var groupingData = Omnisurvey_Data.getEntsByGrouping(groupingId);
+                //groupingData.divisionLevelTerms = groupingLevelTerms;
+                if (window.hasOwnProperty('omnisurvey_data') && omnisurvey_data.dataLoaded) {
+                    loadQuestion();
+                } else {
+                    jQuery(document).on('OmnisurveyReady', function () {
+                        loadQuestion();
+                    });
+
+                    window.omnisurvey_data = new Omnisurvey_Data(jQuery);
+                }
+            }
+
+
+            function loadQuestion() {
+                var omnisurvey_FavoriteEnts = new Omnisurvey_FavoriteEnts(jQuery, window.omnisurvey_data, groupingId); // this is what loads the Omnisurvey
+                omnisurvey_FavoriteEnts.favoriteEntSelectedHandler = favoriteEntSelectedHandler;
+            }
+        })();
+        
+    </script>
+</body>
+
+</html>

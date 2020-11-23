@@ -1,0 +1,550 @@
+
+/*
+######################
+TESTING
+######################
+Styles in here are only for testing. They are not ever used in production.
+*/
+/* Styles to mimic the actual survey */
+/* @media (min-width: 770px) {
+    body {
+        width: 770px;
+        max-width: 95%;
+        margin-left: 50px; margin-right: auto;
+    }
+}
+body#SurveyEngineBody{
+    margin: 0 auto;
+    line-height: normal;
+} */
+#SurveyInTestMode{
+    background-color: #aa0000;
+    color: #fff;
+}
+/* This is is the DIV with the radio buttons to select each survey  */
+#TESTMODE_MIMIC_QID182{
+    display: none;
+}
+
+/*
+######################
+TESTING
+######################
+Should these be part of production? Perhaps on specific pages (e.g., Favorite Ent)
+*/
+.clearfix:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+.QuestionBody {
+    backface-visibility: hidden; /* Fixes hidden content bug with jQuery toggle */
+}
+/* 
+fieldset {
+    border: none;
+}
+.Skin .ChoiceGroupStructure {
+    margin-left: 10px;
+    padding: 0;
+}
+.Skin .SkinInner {
+    padding-top:30px;
+} */
+
+
+
+
+/*
+######################
+STYLES USED ACROSS SURVEY
+(or could be, potentially)
+######################
+*/
+
+body{
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+body p {
+    margin-bottom: 8px;
+}
+
+/* .Skin .SkinInner {
+    padding-top:30px;
+} */
+
+/*
+######################
+SELECT RIVALS PAGE
+QID246 is the question with grouping & ent dropdowns and points sliders and textboxes
+######################
+*/
+
+.riv-point-header p{
+    margin-bottom: 8px;
+    font-weight:500;
+    font-size: 1.3em;
+
+}
+.riv-point-explanation p, .riv-point-instructions p{
+    margin: 6px auto;
+    line-height: 1.2em;
+}
+.riv-point-explanation ul, .riv-point-instructions ul{
+    margin: 0px auto 4px 20px;
+    line-height: 1.3em;
+    padding-left: 10px;
+    list-style-type: none;
+}
+.riv-point-explanation ul li{
+    margin-bottom: 3px;
+}
+.riv-point-instructions p{
+    font-size:0.7em;
+}
+
+/* Container for all rivalry point selection code */
+#rivSelTblWrapper{
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+    align-content: flex-start;
+    /* width: 90%; */
+    max-width: 800px;
+}
+#rivSelTblWrapper>*{
+    width: 100%;
+}
+
+#rivSelTblWrapper #rivPointsDisplayTotals{
+    width: 50%;
+    border: 1px solid black;
+    border-radius: 25px;
+
+    margin: 3px auto;
+    padding: 3px;
+
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+}
+
+/* Points Assigned and Points available */
+#rivSelTblWrapper .pts-display-totals{
+    min-height:9pt;
+    font-size:9pt;
+    font-weight:normal;
+    color:black;
+}
+
+/* Headers for the selection table*/
+#rivSelTblWrapper .riv-sel-headers{
+    display:flex;
+    flex-flow: row wrap;
+    font-weight: bold;
+    font-size: 1.4em; line-height: 1.4em;
+    margin-bottom: 2px;
+    column-gap: 3px;
+}
+
+
+/* Container row for everything needed for each rival listing (e.g., Rank, selectors & slider, Points) */
+#rivSelTblWrapper .rival-container{
+    display: flex;
+    flex-flow: row wrap;
+    column-gap: 3px;
+    margin-bottom: 20px;
+}
+
+/* The direct children are each containers of columned-stacked elements  */
+#rivSelTblWrapper .rival-container>div{
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: space-around;
+}
+
+    #rivSelTblWrapper .riv-sel-left{
+        flex-flow: row wrap;
+        flex: 1 1 60px;
+        max-width: 54px;
+        align-items:flex-start;
+    }
+    .riv-sel-rank-text{
+        font-weight: bold;
+        font-size: 1.4em;
+    }
+
+
+    /*  Container holding rival combo boxes and the slider */
+
+    #rivSelTblWrapper .riv-sel-middle{
+        align-content: stretch;
+        flex:1 1 auto;
+        /*max-width: 400px;*/
+        row-gap: 3px;
+    }
+
+        /* Container row within a rival selector area (the combo boxes) */
+        #rivSelTblWrapper .riv-selectors{
+            display: flex;
+            flex-flow: row wrap;
+            justify-content: flex-start;
+            align-items: flex-start;
+            align-content: flex-start;
+            row-gap: 3px;
+        }
+
+            #rivSelTblWrapper .riv-selectors select{
+                font-size: 13px;
+                width: 100%;
+                
+                /* wrap text in compatible browsers */
+                -moz-white-space: pre-wrap;
+                -o-white-space: pre-wrap;
+                white-space: pre-wrap;
+                /* hide text that can't wrap with an ellipsis */
+                overflow: hidden;
+                text-overflow: ellipsis;
+
+                padding: 6px 0 6px 10px;
+                min-height: 0;
+            }
+
+            /* Dropdown box for choosing the grouping */
+            #rivSelTblWrapper select.grouping-select{
+                /*margin: auto 5px 0px 5px;*/
+                width: auto;
+                
+                /*flex-grow: 1;*/
+                /*max-width: 30%;*/ /* So it doesn't overflow from its parent */
+            }
+            /* Dropdown box for choosing the entity/team */
+            #rivSelTblWrapper select.ent-select{
+                /*margin-left:5px;*/
+                /*max-width: 55%;*/ /* So it doesn't overflow from its parent */
+                flex-grow: 1;
+                width: auto;
+            }
+
+            #rivSelTblWrapper select.is-enabled{
+                /* Not currently in use (Nov 2020), but might be someday soon */
+            }
+
+
+            
+
+        /* Rivalry points slider for a given rival  */
+        #rivSelTblWrapper input.riv-points-slider{
+            align-self: center;
+            width: 97%;
+        }
+
+    /* Container for showing the rivalry points box for a given rival  */
+    #rivSelTblWrapper .riv-sel-right{
+        flex: 1 1 65px;
+        max-width: 150px;
+        align-self: flex-start;
+        justify-content: center;
+        /* padding: 10px 5px 5px; */
+    }
+
+        /* Rivalry points box for a given rival  */
+        #rivSelTblWrapper .riv-sel-right input.riv-points-box{
+            width: 3em;
+            min-height: 1.3em;
+            text-align: center;
+            font-size:1.2em; font-weight: bold;
+            margin: 2px auto auto 10px;
+
+        }
+
+    
+    #rivSelTblWrapper input.riv-points-slider::-webkit-slider-runnable-track {
+    background: -moz-linear-gradient(left, #ffffff 0%, #000000 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(left, #ffffff 0%,#000000 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to right, #ffffff 0%,#000000 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fffa00', endColorstr='#ff0000',GradientType=1 ); /* IE6-9 */
+    }
+
+    #rivSelTblWrapper input.riv-points-slider::-moz-range-track {
+
+    }
+    #rivSelTblWrapper input.riv-points-slider::-ms-track {
+
+    }
+
+
+    #rivSelTblWrapper .valid-point-total {
+        color: green;
+        }
+    
+    #rivSelTblWrapper .rivalry-points-error {
+        color: red;
+    }
+    #rivalPointsErrorBox{
+        min-height: 36px;
+        text-align: center;
+    }
+    
+    @media (max-width: 700px) {
+        #rivSelTblWrapper .riv-selectors select
+        {
+            width: 100% !Important;
+        }
+        #rivSelTblWrapper .riv-selectors{
+            row-gap: 0;
+        }
+        #rivSelTblWrapper select.grouping-select{
+            margin-bottom: 4px;
+        }
+        #rivSelTblWrapper #rivSelHeaderSelectors, #rivSelTblWrapper #rivSelRankHead{
+            visibility: hidden;
+        }
+    }
+
+    @media (min-width: 700px) {
+        #rivSelTblWrapper select.grouping-select{
+            margin-right: 10px;
+            flex-basis: 25%;
+        }
+    }
+/*
+######################
+FAVORITE TEAM PAGE
+######################
+*/
+
+#ents-container .ents-filter-header{
+    padding:0px 10px 11px 2px;
+}
+#ents-container .ents-filter-header .header-text{
+    display:inline;
+    font-weight: bold;
+
+}
+#ents-container #ent-logo-header{
+    font-size: 2.0em;
+    font-weight: bold;
+}
+.ClassFavEnt:hover{
+    background-image: none !important;
+    font-size: 14px;
+}
+  
+    .ClassFavEnt {
+        border-style: none;
+        background-repeat: no-repeat;
+        background-color: transparent;
+        background-position: center;
+        background-size: contain;
+        text-align: center;
+        margin: 7px 7px;
+        font-size: 0px;
+        line-height: 1.2;
+        width: 100px;
+        height: 50px;
+        vertical-align: bottom;
+        float: left;
+        cursor: pointer;
+        padding-top:3px;
+    }
+    
+      
+
+    #selected-ent {
+        display: none;
+    }
+    
+    #selected-ent-logo{
+        width:200px;
+        height:200px;
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-position: center;
+        margin:10px auto;
+
+    }
+
+    #selected-ent-name{
+        margin: 10px auto;
+        text-align: center;
+        font-weight: bold;
+        font-size: 1.2em;
+        color: rgb(117, 117, 117);
+
+    }
+
+.faventResetAllFilters{
+    font-size:0.9em;
+}
+/*
+######################
+WELCOME PAGE
+(a/k/a, "landing page" or "splash page")
+######################
+*/
+    /* DEFAULT: Hide the grouping selector question to start */
+    #QID182 {
+        display: none;
+    }
+
+    /* This is the title heading on the landing page. E.g., "Rivalry Research" */
+    #SplashTitleText {
+        font-size:8vh;
+        font-family:'Trebuchet MS', Helvetica, sans-serif;
+        font-variant:small-caps;
+        line-height:1.3;
+        text-align: center;
+        color: #fff;
+        -webkit-text-stroke-width: 2px;
+        -webkit-text-stroke-color: black;
+    }
+        #SplashTitleText .style2 {
+            color: black;
+            -webkit-text-stroke-width: 2px;
+            -webkit-text-stroke-color: lightgray;
+        }
+
+    /* This is the error box for grouping selection if necessary... which we hope is never*/
+    #SplashErrorSelectGrouping {
+        margin: auto;
+        text-align: center;
+        font-weight: bold;
+        color: red;
+    }
+
+    /* This "background" image is the grouping logo at the top of the welcome page */
+    #SplashWelcomeGroupingLogoDiv {
+        /* max-width: 90vh; */
+        min-height: 150px;
+        max-height: 200px;
+        background-repeat: no-repeat;
+        background-size: contain;
+        background-position: center; 
+        margin: 25px 0;			
+    }
+
+    /* This is the text that sits just below the grouping logo once the user's selection is made */
+    #SplashWelcomeText {
+        text-align: center;
+        font-size: 1.5em;
+        font-weight: bold;
+    }
+    
+    /* This is the button that, if visible, allows the user to change the grouping  */
+    #SplashChangeGroupingBtn {
+        background-color: rgba(255, 255, 255, 0.01); /* transparent, white background */
+        border: none;
+        margin-top: 30px;
+        cursor: pointer;
+    }
+
+        #SplashChangeGroupingBtn .ChangeGroupingText {
+            font-size: 0.8em;
+            color: #53555f;
+            text-align: center;
+            }
+
+        #SplashChangeGroupingBtn .ChangeGroupingText:hover{
+            color: #ffffff;
+            text-decoration: none;
+            background-color: #53555f;
+        }
+    
+    /* This is the custom next button I created to use instead of the Qualtrics default  */
+    #SplashMyNextButtonDiv {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        -ms-flex-pack: distribute;
+        display: flex;
+        justify-content: space-around;
+        margin-bottom: 80px;
+        /*max-width: 90vh;*/
+    }
+        #SplashMyNextButton {
+            border: none;
+            color: #fff;
+            font-size: 20px;
+            padding: 8px 20px;
+            text-align: center;
+            text-decoration: none;
+            background-color: #53555f;
+            display: block;
+            cursor: pointer;
+            border: solid 1px #53555f;
+        }
+        
+        #SplashMyNextButton:hover {
+            color: #53555f;
+            background-color: #e0e0e0;
+        }
+
+    /* Footer text declaring our lack of funding from the groupings */
+    #SplashDisclaimer {
+        text-align: center;
+        font-size: 0.6em;
+        line-height: 1.0;
+        font-weight: normal;
+        }
+
+/*
+######################
+INFORMED CONSENT
+######################
+Put `KR_InformedConsent` in the outer div for anything Informed Consent related
+*/
+
+.KR_InformedConsent{
+    font-weight:normal;
+    line-height:1.1;
+    margin-bottom: 50px ;
+}
+
+    /* This class is used for the text at start of each of the TLDR entries */
+    .KR_InformedConsent .TLDRQues {
+        font-weight:bold;
+    }
+    .KR_InformedConsent .jump-to-bottom{
+        font-size:0.7em;
+        font-style:italic;
+        text-align:right;
+    }
+
+    /* This formats the full text DIV, but also serves as a base for the formatting below (H1, H2, etc.) */
+    .KR_InformedConsent .FullText {
+        font-size:0.9em;
+    }
+        /* Informed consent full text title */
+        .KR_InformedConsent .FullText h1 {
+        text-transform:uppercase; 
+        font-weight:bold;
+        font-size:1em;
+        margin-bottom:10pt;
+        }
+        /* Informed consent section headings */
+        .KR_InformedConsent .FullText h2 {
+        font-weight:bold;
+        font-size:1em;
+        margin-bottom:0;
+        }	
+        /* Informed consent paragraphs */
+        .KR_InformedConsent .FullText p {
+        margin-top:0;
+        margin-bottom:10pt;
+        }
+        
+        /* If the user only reads one part of the informed consent, it should be this */
+        .KR_InformedConsent .ImportantPart {
+        background-color: #FFFF00;
+        }
+        
+        .KR_InformedConsent .ResearchersSignOff {
+            padding-left:15px;
+            text-indent:-15px; /* create a hanging indent for the researchers' affiliations */
+        }
+        .KR_InformedConsent .ResearchersSignOff p {
+        margin-top:2px;
+        margin-bottom:4px;
+        }
+        

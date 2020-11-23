@@ -1,0 +1,311 @@
+<!doctype html>
+<html>
+
+	<head>
+		<title>
+			League selection
+		</title>
+
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+		
+		<link rel="stylesheet" type="text/css" href="omnisurvey.css" />
+		<script src="omnisurveyData.js"></script>
+		<script src="GroupingSelection.js"></script>
+		
+		<meta id="meta-viewport" name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=2.5" />
+		<!-- This is here for testing purposes. The real link will be within the Qualtrics Advanced Look & Feel section -->
+		<!-- <link href="https://jfe-cdn.qualtrics.com/themes/skins/qualtrics/v4qualtrics2/version-1540490806023-9bd613/stylesheet.css" rel="stylesheet" /> -->
+
+
+	</head>
+
+	<body id="SurveyEngineBody">
+		<div class="Skin">
+
+			<!-- ######################## lblSplashTitle -->
+			<div>
+				<p id="SplashTitleText">
+					<span class="style1">
+						Rivalry
+					</span>
+					<span class="style2">
+						Research
+					</span>
+				</p>
+			</div>
+
+			<!-- ######################## SelectGrpID -->
+			<div id="SplashErrorSelectGrouping">
+				<!-- Text for error message is set in JavaScript based on grpID status -->
+				&nbsp;
+			</div>
+
+			<!-- Code copied from Qualtrics to replicate in Testing environment-->
+			<div id="QID182">
+				<form>
+					<input type="radio" id="radioNFL" name="FAKELEAGUESELECTOR" value="1047"><label for="radioNFL">NFL</label><br>
+					<input type="radio" id="radioEPL" name="FAKELEAGUESELECTOR" value="1336"><label for="radioEPL">EPL</label><br>
+					<input type="radio" id="radioMLS" name="FAKELEAGUESELECTOR" value="1339"><label for="radioMLS">MLS</label><br>
+					<input type="radio" id="radioNBA" name="FAKELEAGUESELECTOR" value="1364"><label for="radioNBA">NBA</label><br>
+					<input type="radio" id="radioMLB" name="FAKELEAGUESELECTOR" value="1368"><label for="radioMLB">MLB</label><br>
+					<input type="radio" id="radioBBL" name="FAKELEAGUESELECTOR" value="1375"><label for="radioBBL">BBL</label><br>
+					<input type="radio" id="radioIPL" name="FAKELEAGUESELECTOR" value="1376"><label for="radioIPL">IPL</label><br>
+					<input type="radio" id="radioNHL" name="FAKELEAGUESELECTOR" value="1379"><label for="radioNHL">NHL</label><br>
+					<input type="radio" id="radioEFLChampionship" name="FAKELEAGUESELECTOR" value="1422"><label for="radioEFLChampionship">EFLChampionship</label><br>
+					<input type="radio" id="radioEFLLeagueOne" name="FAKELEAGUESELECTOR" value="1423"><label for="radioEFLLeagueOne">EFLLeagueOne</label><br>
+					<input type="radio" id="radioEFLLeagueTwo" name="FAKELEAGUESELECTOR" value="1424"><label for="radioEFLLeagueTwo">EFLLeagueTwo</label><br>
+					<input type="radio" id="radioWNBA" name="FAKELEAGUESELECTOR" value="1425"><label for="radioWNBA">WNBA</label><br>
+					<input type="radio" id="radioBundesliga" name="FAKELEAGUESELECTOR" value="1452"><label for="radioBundesliga">Bundesliga</label><br>
+					<input type="radio" id="radioAFL" name="FAKELEAGUESELECTOR" value="1428"><label for="radioAFL">AFL</label><br>
+					<input type="radio" id="radioCFL" name="FAKELEAGUESELECTOR" value="1429"><label for="radioCFL">CFL</label><br>
+					<input type="radio" id="radioCPL" name="FAKELEAGUESELECTOR" value="1441"><label for="radioCPL">CPL</label>
+				</form>
+			</div>
+			<div id="Questions">
+				<!--  ######################## SelectGrpID -->
+				<div class="QuestionOuter BorderColor MC  QID182" id="TESTMODE_MIMIC_QID182" questionid="QID182" posttag="QID182" data-runtime-remove-class-hidden="runtime.Displayed" style="">
+					<div id="QR~QID182~VALIDATION" class="ValidationError" role="alert" data-runtime-show="runtime.ErrorMsg" data-runtime-html="runtime.ErrorMsg" style="display: none;">
+					</div>
+					<div id="QR~QID182~SDPVALIDATION" class="ValidationError" role="alert" data-runtime-show="runtime.PDPErrorMsg" data-runtime-html="runtime.PDPErrorMsg" style="display: none;">
+					</div>
+					<div class="Inner BorderColor SAVR">
+						<div class="InnerInner BorderColor TX">
+							<fieldset> <!-- BEGIN PARTIALS --><!-- Partial for defining the ControlContainerContent --><!-- END PARTIALS -->
+								<legend>
+									<div class="QuestionText BorderColor">
+										<div>
+											Which survey would you like to complete?
+										</div>
+									</div>
+								</legend>
+								<div class="QuestionBody">
+									<ul class="ChoiceStructure">
+										<li class="ChoiceGroup">
+											<span data-runtime-html="runtime.ChoiceGroups.cg_1.GroupLabel">
+												North American Pro Sports
+											</span>
+										</li>
+										<ul class="ChoiceGroupStructure">
+											<li class="Selection reg">
+												<input choiceid="1" aria-labelledby="QID182-1-label" class="radio QR-QID182-1 QWatchTimer" type="radio" name="QR~QID182" id="QR~QID182~1" value="1" data-runtime-checked="runtime.Selected">
+												<label for="QR~QID182~1" class="q-radio" aria-hidden="true" data-runtime-class-q-checked="runtime.Choices.1.Selected"></label>
+												<span class="LabelWrapper">
+													<label for="QR~QID182~1" id="QID182-1-label" class="SingleAnswer " data-runtime-class-q-checked="runtime.Choices.1.Selected">
+														<span>
+															MLB (Major League Baseball)
+														</span>
+													</label>
+												</span>
+												<div class="clear"></div>
+											</li>
+											<li class="Selection alt">
+												<input choiceid="2" aria-labelledby="QID182-2-label" class="radio QR-QID182-2 QWatchTimer" type="radio" name="QR~QID182" id="QR~QID182~2" value="2" data-runtime-checked="runtime.Selected">
+												<label for="QR~QID182~2" class="q-radio" aria-hidden="true" data-runtime-class-q-checked="runtime.Choices.2.Selected"></label>
+												<span class="LabelWrapper">
+													<label for="QR~QID182~2" id="QID182-2-label" class="SingleAnswer " data-runtime-class-q-checked="runtime.Choices.2.Selected">
+														<span>
+															MLS (Major League Soccer)
+														</span>
+													</label>
+												</span>
+												<div class="clear"></div>
+											</li>
+											<li class="Selection reg"> <input choiceid="3" aria-labelledby="QID182-3-label" class="radio QR-QID182-3 QWatchTimer" type="radio" name="QR~QID182" id="QR~QID182~3" value="3" data-runtime-checked="runtime.Selected"><label for="QR~QID182~3" class="q-radio" aria-hidden="true" data-runtime-class-q-checked="runtime.Choices.3.Selected"></label>  <span class="LabelWrapper"> <label for="QR~QID182~3" id="QID182-3-label" class="SingleAnswer " data-runtime-class-q-checked="runtime.Choices.3.Selected"><span>NBA (National Basketball Association)</span></label></span> <div class="clear"></div> </li>    <li class="Selection alt"> <input choiceid="4" aria-labelledby="QID182-4-label" class="radio QR-QID182-4 QWatchTimer" type="radio" name="QR~QID182" id="QR~QID182~4" value="4" data-runtime-checked="runtime.Selected"><label for="QR~QID182~4" class="q-radio" aria-hidden="true" data-runtime-class-q-checked="runtime.Choices.4.Selected"></label>  <span class="LabelWrapper"> <label for="QR~QID182~4" id="QID182-4-label" class="SingleAnswer " data-runtime-class-q-checked="runtime.Choices.4.Selected"><span>NFL (National Football League)</span></label></span> <div class="clear"></div> </li>    <li class="Selection reg"> <input choiceid="5" aria-labelledby="QID182-5-label" class="radio QR-QID182-5 QWatchTimer" type="radio" name="QR~QID182" id="QR~QID182~5" value="5" data-runtime-checked="runtime.Selected"><label for="QR~QID182~5" class="q-radio" aria-hidden="true" data-runtime-class-q-checked="runtime.Choices.5.Selected"></label>  <span class="LabelWrapper"> <label for="QR~QID182~5" id="QID182-5-label" class="SingleAnswer " data-runtime-class-q-checked="runtime.Choices.5.Selected"><span>NHL (National Hockey League)</span></label></span> <div class="clear"></div> </li>   </ul>      <li class="ChoiceGroup"> <span data-runtime-html="runtime.ChoiceGroups.cg_4.GroupLabel">College</span> </li> <ul class="ChoiceGroupStructure">     <li class="Selection alt"> <input choiceid="8" aria-labelledby="QID182-8-label" class="radio QR-QID182-8 QWatchTimer" type="radio" name="QR~QID182" id="QR~QID182~8" value="8" data-runtime-checked="runtime.Selected"><label for="QR~QID182~8" class="q-radio" aria-hidden="true" data-runtime-class-q-checked="runtime.Choices.8.Selected"></label>  <span class="LabelWrapper"> <label for="QR~QID182~8" id="QID182-8-label" class="SingleAnswer " data-runtime-class-q-checked="runtime.Choices.8.Selected"><span>FBS football (DI-A)</span></label></span> <div class="clear"></div> </li>    <li class="Selection reg"> <input choiceid="9" aria-labelledby="QID182-9-label" class="radio QR-QID182-9 QWatchTimer" type="radio" name="QR~QID182" id="QR~QID182~9" value="9" data-runtime-checked="runtime.Selected"><label for="QR~QID182~9" class="q-radio" aria-hidden="true" data-runtime-class-q-checked="runtime.Choices.9.Selected"></label>  <span class="LabelWrapper"> <label for="QR~QID182~9" id="QID182-9-label" class="SingleAnswer " data-runtime-class-q-checked="runtime.Choices.9.Selected"><span>FCS football (DI-AA)</span></label></span> <div class="clear"></div> </li>    <li class="Selection alt"> <input choiceid="10" aria-labelledby="QID182-10-label" class="radio QR-QID182-10 QWatchTimer" type="radio" name="QR~QID182" id="QR~QID182~10" value="10" data-runtime-checked="runtime.Selected"><label for="QR~QID182~10" class="q-radio" aria-hidden="true" data-runtime-class-q-checked="runtime.Choices.10.Selected"></label>  <span class="LabelWrapper"> <label for="QR~QID182~10" id="QID182-10-label" class="SingleAnswer " data-runtime-class-q-checked="runtime.Choices.10.Selected"><span>Men's basketball (DI)</span></label></span> <div class="clear"></div> </li>    <li class="Selection reg"> <input choiceid="11" aria-labelledby="QID182-11-label" class="radio QR-QID182-11 QWatchTimer" type="radio" name="QR~QID182" id="QR~QID182~11" value="11" data-runtime-checked="runtime.Selected"><label for="QR~QID182~11" class="q-radio" aria-hidden="true" data-runtime-class-q-checked="runtime.Choices.11.Selected"></label>  <span class="LabelWrapper"> <label for="QR~QID182~11" id="QID182-11-label" class="SingleAnswer " data-runtime-class-q-checked="runtime.Choices.11.Selected"><span>Women's basketball (DI)</span></label></span> <div class="clear"></div> </li>   </ul>      <li class="ChoiceGroup"> <span data-runtime-html="runtime.ChoiceGroups.cg_3.GroupLabel">Football (soccer)</span> </li> <ul class="ChoiceGroupStructure">     <li class="Selection alt"> <input choiceid="7" aria-labelledby="QID182-7-label" class="radio QR-QID182-7 QWatchTimer" type="radio" name="QR~QID182" id="QR~QID182~7" value="7" data-runtime-checked="runtime.Selected"><label for="QR~QID182~7" class="q-radio" aria-hidden="true" data-runtime-class-q-checked="runtime.Choices.7.Selected"></label>  <span class="LabelWrapper"> <label for="QR~QID182~7" id="QID182-7-label" class="SingleAnswer " data-runtime-class-q-checked="runtime.Choices.7.Selected"><span>Canada/USA (MLS)</span></label></span> <div class="clear"></div> </li>    <li class="Selection reg"> <input choiceid="12" aria-labelledby="QID182-12-label" class="radio QR-QID182-12 QWatchTimer" type="radio" name="QR~QID182" id="QR~QID182~12" value="12" data-runtime-checked="runtime.Selected"><label for="QR~QID182~12" class="q-radio" aria-hidden="true" data-runtime-class-q-checked="runtime.Choices.12.Selected"></label>  <span class="LabelWrapper"> <label for="QR~QID182~12" id="QID182-12-label" class="SingleAnswer " data-runtime-class-q-checked="runtime.Choices.12.Selected"><span>English (and UK teams in Football League &amp; EPL), men</span></label></span> <div class="clear"></div> </li>    <li class="Selection alt"> <input choiceid="13" aria-labelledby="QID182-13-label" class="radio QR-QID182-13 QWatchTimer" type="radio" name="QR~QID182" id="QR~QID182~13" value="13" data-runtime-checked="runtime.Selected"><label for="QR~QID182~13" class="q-radio" aria-hidden="true" data-runtime-class-q-checked="runtime.Choices.13.Selected"></label>  <span class="LabelWrapper"> <label for="QR~QID182~13" id="QID182-13-label" class="SingleAnswer " data-runtime-class-q-checked="runtime.Choices.13.Selected"><span>Germany, men</span></label></span> <div class="clear"></div> </li>    <li class="Selection reg"> <input choiceid="14" aria-labelledby="QID182-14-label" class="radio QR-QID182-14 QWatchTimer" type="radio" name="QR~QID182" id="QR~QID182~14" value="14" data-runtime-checked="runtime.Selected"><label for="QR~QID182~14" class="q-radio" aria-hidden="true" data-runtime-class-q-checked="runtime.Choices.14.Selected"></label>  <span class="LabelWrapper"> <label for="QR~QID182~14" id="QID182-14-label" class="SingleAnswer " data-runtime-class-q-checked="runtime.Choices.14.Selected"><span>Spain, men</span></label></span> <div class="clear"></div> </li>    <li class="Selection alt"> <input choiceid="15" aria-labelledby="QID182-15-label" class="radio QR-QID182-15 QWatchTimer" type="radio" name="QR~QID182" id="QR~QID182~15" value="15" data-runtime-checked="runtime.Selected"><label for="QR~QID182~15" class="q-radio" aria-hidden="true" data-runtime-class-q-checked="runtime.Choices.15.Selected"></label>  <span class="LabelWrapper"> <label for="QR~QID182~15" id="QID182-15-label" class="SingleAnswer " data-runtime-class-q-checked="runtime.Choices.15.Selected"><span>National teams, men</span></label></span> <div class="clear"></div> </li>    <li class="Selection reg"> <input choiceid="16" aria-labelledby="QID182-16-label" class="radio QR-QID182-16 QWatchTimer" type="radio" name="QR~QID182" id="QR~QID182~16" value="16" data-runtime-checked="runtime.Selected"><label for="QR~QID182~16" class="q-radio" aria-hidden="true" data-runtime-class-q-checked="runtime.Choices.16.Selected"></label>  <span class="LabelWrapper"> <label for="QR~QID182~16" id="QID182-16-label" class="SingleAnswer " data-runtime-class-q-checked="runtime.Choices.16.Selected"><span>National teams, women</span></label></span> <div class="clear"></div> </li>   </ul>      <li class="ChoiceGroup"> <span data-runtime-html="runtime.ChoiceGroups.cg_2.GroupLabel">Other world sports</span> </li> <ul class="ChoiceGroupStructure">     <li class="Selection alt"> <input choiceid="6" aria-labelledby="QID182-6-label" class="radio QR-QID182-6 QWatchTimer" type="radio" name="QR~QID182" id="QR~QID182~6" value="6" data-runtime-checked="runtime.Selected"><label for="QR~QID182~6" class="q-radio" aria-hidden="true" data-runtime-class-q-checked="runtime.Choices.6.Selected"></label>  <span class="LabelWrapper"> <label for="QR~QID182~6" id="QID182-6-label" class="SingleAnswer " data-runtime-class-q-checked="runtime.Choices.6.Selected"><span>IPL (Indian Premier League cricket, men)</span></label></span> <div class="clear"></div> </li>   </ul>
+									</ul> <!-- End Choices w/o choice groups -->
+									<div class="clear zero"></div>
+								</div> <!-- End QuestionBody -->
+							</fieldset>
+						</div>
+					</div>  
+				</div>
+			</div>
+
+			
+			<!-- ######################## lblSplashWelcomeMsg -->
+			<div id="SplashWelcomeGroupingPicked">
+				<div id="storageGroupingId" style="display: none;"></div> <!-- Write the grouping ID when passed via query string, selected by user, or updated by user -->
+				<div id="SplashWelcomeGroupingLogoDiv">
+				</div>
+
+				<div id="SplashWelcomeText">
+					Welcome to the Know Rivalry Project
+				</div>
+			</div>
+
+			<!--  ######################## lblSplashChangeGroupingBtn -->
+			<div id="SplashChangeGroupingBtnDiv">
+				<button id="SplashChangeGroupingBtn">
+					<div class="ChangeGroupingText">Select a different league</div>
+				</button>
+			</div>
+
+			<!--  ######################## lblSplashMyNextButton -->
+			<div id="SplashMyNextButtonDiv">
+				<button id="SplashMyNextButton">
+					Begin Survey&nbsp;&nbsp;&gt;
+				</button>
+			</div>
+			
+			<!--  ######################## lblSplashDisclaimer -->
+			<div id="SplashDisclaimer">
+				This research is <i>not</i> funded by or affiliated with the league.
+				This project is led by university professors studying rivalry.
+				Please see the next page for full disclosures.
+			</div>
+
+
+		</div> <!-- End Skin div-->
+	</body>
+
+<script>
+	// The code below is in the JS for the first QID on the page (SplashTitle)
+	(function () {
+		const OMNISURVEY_TEST = false;
+		let groupingId = -1, surveyId = -1;
+		let nextButtonHandler, surveySelectionHandler;
+		const self = this;
+
+		if (OMNISURVEY_TEST || !window.Qualtrics) {
+
+			/*****************************************************
+				TESTING MODE
+			*****************************************************/
+			// window.location.search returns everything after the ? in the URL
+			// searchParams is a object with key:value pairs for all the entries in the query string
+			// E.g., LeagueSelection.html?cat=88&dog=98 would result in {"cat":88, "dog":98}
+			let searchParams = new URLSearchParams(window.location.search); // TODO: POLYFILL THIS FOR IE
+
+			// Check if grpID is one of the keys passed in the query string.
+			// This is to mimic the embedded data of Qualtrics,
+			// since in Qualtrics the query string parameters would be written directly to ED
+			if (searchParams.has('grpID')) {
+				// If grpID is a parameter key in the query string,
+				// get that value and set that as the `groupingId`
+				// E.g., for the BBL the URL would have ?grpID=7
+				groupingId = parseInt(searchParams.get('grpID')); //1364
+				jQuery("#storageGroupingId").text(groupingId); // Store the groupingId in a hidden div on the page
+			}
+
+			if (searchParams.has('survID')) {
+				surveyId = parseInt(searchParams.get('survID')); //30
+			}
+
+			jQuery('body').prepend('<div id="SurveyInTestMode">The survey is in test mode.</div>');
+
+			nextButtonHandler = function() {
+				console.log('Data would be submitted here. `dataToEmbed` is', this.dataToEmbed);
+				const data = this.dataToEmbed;
+					Object.keys(data).forEach(function(key) {
+						return true;
+					});
+			};
+
+			
+			testReturnClick=()=> {
+				const userClick = parseInt(jQuery("input[type='radio'][name='FAKELEAGUESELECTOR']:checked").val());
+				window.omnisurvey_GroupingSelection.groupingSelectionHandler(userClick);
+				console.log('User clicked on grpID='+userClick )
+			}
+			jQuery("input[type='radio']").click(testReturnClick);
+
+			window.omnisurvey_GroupingSelection;
+			init();
+
+		} else {
+			// If you reach this point, it means we're in the PRODUCTION environment on Qualtrics
+			
+			Qualtrics.SurveyEngine.addOnload(function() {
+				
+				if (!isNaN(Qualtrics.SurveyEngine.getEmbeddedData('grpID'))) {
+					// If the grpID is stored in the embedded data, set that as the groupingId
+					jQuery.when(  Qualtrics.SurveyEngine.getEmbeddedData('grpID') )
+					.then(function(response){
+						groupingId = parseInt(response);
+						jQuery("#storageGroupingId").text(groupingId); // Store the groupingId in a hidden div on the page
+					});
+				};
+				
+				if (!isNaN(Qualtrics.SurveyEngine.getEmbeddedData('survID'))) {
+					// If the survID is stored in the embedded data, set that as the surveyId
+					surveyId = parseInt(Qualtrics.SurveyEngine.getEmbeddedData('survID'));
+				}
+
+				// We're using a custom next button. I guess hideNextButton() is a built-in function in Qualtrics
+				this.hideNextButton();
+
+				// Function to run when someone clicks our Next button to submit their grouping selection. It will write the dataToEmbed into embedded data
+				nextButtonHandler = function() {
+					console.log('embedding data');
+
+					const data = this.dataToEmbed;
+					Object.keys(data).forEach(function(key) {
+						// The Qualtrics setEmbeddedData('name',value) method takes two parameters. The first is the name of the embedded data variable (string), the second is the value we want stored.
+						Qualtrics.SurveyEngine.setEmbeddedData(key, data[key]);
+					});
+
+					// Simulate clicking the next button so the page advances
+					Qualtrics.SurveyEngine.Page.pageButtons.clickNextButton();
+
+					return true;
+				};
+
+				window.omnisurvey_GroupingSelection;
+				init(); 
+
+				Qualtrics.SurveyEngine.getInstance('QID182').questionclick = function(event, element) {
+					if (element.type == 'radio') {  //for a single answer multiple choice question, the element type will be radio
+						let groupingQuestion = Qualtrics.SurveyEngine.getInstance('QID182');
+						let groupings = groupingQuestion.getQuestionInfo().Choices;
+						let selectedChoice = groupingQuestion.getSelectedChoices()[0];
+
+						// We manually set the RecodeValues to match our grpID values
+						let selectedGroupingId = parseInt(groupings[selectedChoice].RecodeValue);
+
+						// This calls the groupingSelectionHandler function (from LeagueSelection.js), passing it the selected grouping's RecodeValue
+						window.omnisurvey_GroupingSelection.groupingSelectionHandler(selectedGroupingId);
+					}
+				};
+			});
+
+			Qualtrics.SurveyEngine.addOnReady(function() {
+				//Place your JavaScript here to run when the page is fully displayed
+			});
+
+			Qualtrics.SurveyEngine.addOnUnload(function() {
+				//Place your JavaScript here to run when the page is unloaded
+			});
+
+		}
+
+		function init() {
+			// loads the data from the JSON files and provides functions to get the data.
+			// This is called in the last step in the code above, whether in testing or in production
+
+			// Omnisurvey_Data envelopes the entire file of omnisurveyData.js
+			if (window.hasOwnProperty('omnisurvey_data') && omnisurvey_data.dataLoaded) {
+				loadQuestion();
+			} else {
+				// The 'OmnisurveyReady' is an event created in omnisurveyData.js.
+				// When it happens (i.e., we get to that line of the code), this event listener fires
+				jQuery(document).on('OmnisurveyReady', function() {
+					loadQuestion();
+				});
+
+				window.omnisurvey_data = new Omnisurvey_Data(jQuery);
+			}
+
+
+			function loadQuestion() {
+				// Omnisurvey_GroupingSelection envelopes the entire file of GroupingSelection.js
+				// By passing omnisurvey_data, it lets us expose all of omnisurveyData.js to GroupingSelection.js
+				var omnisurvey_GroupingSelection = new Omnisurvey_GroupingSelection(jQuery, self.omnisurvey_data, groupingId, surveyId); // this is what loads the Omnisurvey
+				omnisurvey_GroupingSelection.nextButtonHandler = nextButtonHandler;
+
+				window.omnisurvey_GroupingSelection = omnisurvey_GroupingSelection;
+				//omnisurvey_GroupingSelection.surveySelectionHandler = surveySelectionHandler;
+			};
+		}
+	})();
+	
+</script>
+</html>

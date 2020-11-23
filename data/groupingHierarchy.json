@@ -1,0 +1,213 @@
+[
+    {
+        "entID": 3290,
+        "termKRQualtrics": "Sports",
+        "grpShowSurvSelRival": false,
+        "subgroups": [
+            {
+                "entID": 3289,
+                "termKRQualtrics": "Basketball",
+                "grpShowSurvSelRival": false,
+                "subgroups": [
+                    {
+                        "entID": 928,
+                        "termKRQualtrics": "Basketball (5 on 5)",
+                        "grpShowSurvSelRival": false,
+                        "subgroups": [
+                            {
+                                "entID": 2700,
+                                "termKRQualtrics": "Men's basketball (5 on 5)",
+                                "grpShowSurvSelRival": false,
+                                "subgroups": [
+                                    {
+                                        "entID": 1364,
+                                        "termKRQualtrics": "NBA",
+                                        "grpShowSurvSelRival": true,
+                                        "subgroups": [
+                                            {
+                                                "entID": 1366,
+                                                "termKRQualtrics": "Eastern",
+                                                "grpShowSurvSelRival": true,
+                                                "subgroups": [
+                                                    {
+                                                        "entID": 2656,
+                                                        "termKRQualtrics": "Atlantic",
+                                                        "grpShowSurvSelRival": true,
+                                                        "subgroups": [
+                                                            {
+                                                                "entID": 244,
+                                                                "termKRQualtrics": "Boston Celtics"
+                                                            },
+                                                            {
+                                                                "entID": 245,
+                                                                "termKRQualtrics": "Brooklyn Nets"
+                                                            },
+                                                            {
+                                                                "entID": 262,
+                                                                "termKRQualtrics": "New York Knicks"
+                                                            },
+                                                            {
+                                                                "entID": 265,
+                                                                "termKRQualtrics": "Philadelphia 76ers"
+                                                            },
+                                                            {
+                                                                "entID": 270,
+                                                                "termKRQualtrics": "Toronto Raptors"
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "entID": 2657,
+                                                        "termKRQualtrics": "Central",
+                                                        "grpShowSurvSelRival": true,
+                                                        "subgroups": [
+                                                            {
+                                                                "entID": 247,
+                                                                "termKRQualtrics": "Chicago Bulls"
+                                                            },
+                                                            {
+                                                                "entID": 248,
+                                                                "termKRQualtrics": "Cleveland Cavaliers"
+                                                            },
+                                                            {
+                                                                "entID": 251,
+                                                                "termKRQualtrics": "Detroit Pistons"
+                                                            },
+                                                            {
+                                                                "entID": 254,
+                                                                "termKRQualtrics": "Indiana Pacers"
+                                                            },
+                                                            {
+                                                                "entID": 259,
+                                                                "termKRQualtrics": "Milwaukee Bucks"
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "entID": 2658,
+                                                        "termKRQualtrics": "Southeast",
+                                                        "grpShowSurvSelRival": true,
+                                                        "subgroups": [
+                                                            {
+                                                                "entID": 243,
+                                                                "termKRQualtrics": "Atlanta Hawks"
+                                                            },
+                                                            {
+                                                                "entID": 246,
+                                                                "termKRQualtrics": "Charlotte Hornets"
+                                                            },
+                                                            {
+                                                                "entID": 258,
+                                                                "termKRQualtrics": "Miami Heat"
+                                                            },
+                                                            {
+                                                                "entID": 264,
+                                                                "termKRQualtrics": "Orlando Magic"
+                                                            },
+                                                            {
+                                                                "entID": 272,
+                                                                "termKRQualtrics": "Washington Wizards"
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "entID": 1365,
+                                                "termKRQualtrics": "Western",
+                                                "grpShowSurvSelRival": true,
+                                                "subgroups": [
+                                                    {
+                                                        "entID": 2660,
+                                                        "termKRQualtrics": "Northwest",
+                                                        "grpShowSurvSelRival": true,
+                                                        "subgroups": [
+                                                            {
+                                                                "entID": 250,
+                                                                "termKRQualtrics": "Denver Nuggets"
+                                                            },
+                                                            {
+                                                                "entID": 260,
+                                                                "termKRQualtrics": "Minnesota Timberwolves"
+                                                            },
+                                                            {
+                                                                "entID": 263,
+                                                                "termKRQualtrics": "Oklahoma City Thunder"
+                                                            },
+                                                            {
+                                                                "entID": 267,
+                                                                "termKRQualtrics": "Portland Trail Blazers"
+                                                            },
+                                                            {
+                                                                "entID": 271,
+                                                                "termKRQualtrics": "Utah Jazz"
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "entID": 2659,
+                                                        "termKRQualtrics": "Pacific",
+                                                        "grpShowSurvSelRival": true,
+                                                        "subgroups": [
+                                                            {
+                                                                "entID": 252,
+                                                                "termKRQualtrics": "Golden State Warriors"
+                                                            },
+                                                            {
+                                                                "entID": 255,
+                                                                "termKRQualtrics": "Los Angeles Clippers"
+                                                            },
+                                                            {
+                                                                "entID": 256,
+                                                                "termKRQualtrics": "Los Angeles Lakers"
+                                                            },
+                                                            {
+                                                                "entID": 266,
+                                                                "termKRQualtrics": "Phoenix Suns"
+                                                            },
+                                                            {
+                                                                "entID": 268,
+                                                                "termKRQualtrics": "Sacramento Kings"
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "entID": 2661,
+                                                        "termKRQualtrics": "Southwest",
+                                                        "grpShowSurvSelRival": true,
+                                                        "subgroups": [
+                                                            {
+                                                                "entID": 249,
+                                                                "termKRQualtrics": "Dallas Mavericks"
+                                                            },
+                                                            {
+                                                                "entID": 253,
+                                                                "termKRQualtrics": "Houston Rockets"
+                                                            },
+                                                            {
+                                                                "entID": 257,
+                                                                "termKRQualtrics": "Memphis Grizzlies"
+                                                            },
+                                                            {
+                                                                "entID": 261,
+                                                                "termKRQualtrics": "New Orleans Pelicans"
+                                                            },
+                                                            {
+                                                                "entID": 269,
+                                                                "termKRQualtrics": "San Antonio Spurs"
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
