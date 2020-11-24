@@ -16,7 +16,7 @@
                         "subgroups": [
                             {
                                 "entID": 2700,
-                                "termKRQualtrics": "Men's basketball (5 on 5)",
+                                "termKRQualtrics": "Men's basketball",
                                 "grpShowSurvSelRival": false,
                                 "subgroups": [
                                     {
@@ -203,6 +203,915 @@
                                         ]
                                     }
                                 ]
+                            },
+                            {
+                                "entID": 2725,
+                                "termKRQualtrics": "Women's basketball",
+                                "grpShowSurvSelRival":false,
+                                "subgroups":[
+                                    {
+                                        "entID": 1425,
+                                        "termKRQualtrics": "WNBA",
+                                        "grpShowSurvSelRival": true,
+                                        "subgroups": [
+                                            {
+                                                "termKRQualtrics": "Eastern",
+                                                "grpShowSurvSelRival": true,
+                                                "subgroups": [
+                                                    {
+                                                        "termKRQualtrics": "Atlanta Dream",
+                                                        "entID": 1079
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Chicago Sky",
+                                                        "entID": 1080
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Connecticut Sun",
+                                                        "entID": 1081
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Indiana Fever",
+                                                        "entID": 1082
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "New York Liberty",
+                                                        "entID": 1083
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Washington Mystics",
+                                                        "entID": 1084
+                                                    }
+                                                ],
+                                                "entID": 1426
+                                            },
+                                            {
+                                                "termKRQualtrics": "Western",
+                                                "grpShowSurvSelRival": true,
+                                                "subgroups": [
+                                                    {
+                                                        "termKRQualtrics": "Dallas Wings",
+                                                        "entID": 1085
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Las Vegas Aces",
+                                                        "entID": 1086
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Los Angeles Sparks",
+                                                        "entID": 1087
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Minnesota Lynx",
+                                                        "entID": 1088
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Phoenix Mercury",
+                                                        "entID": 1089
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Seattle Storm",
+                                                        "entID": 1090
+                                                    }
+                                                ],
+                                                "entID": 1427
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "entID": 1043,
+                "termKRQualtrics": "Gridiron",
+                "grpShowSurvSelRival": false,
+                "subgroups": [
+                    {
+                        "entID": 916,
+                        "termKRQualtrics": "American football",
+                        "grpShowSurvSelRival": false,
+                        "subgroups": [
+                            {
+                                "entID": 2692,
+                                "termKRQualtrics": "Men's Amer football",
+                                "grpShowSurvSelRival": false,
+                                "subgroups": [
+                                    {
+                                        "termKRQualtrics": "NFL",
+                                        "grpShowSurvSelRival": true,
+                                        "subgroups": [
+                                            {
+                                                "termKRQualtrics": "AFC",
+                                                "grpShowSurvSelRival": true,
+                                                "subgroups": [
+                                                    {
+                                                        "termKRQualtrics": "East",
+                                                        "grpShowSurvSelRival": true,
+                                                        "subgroups": [
+                                                            {
+                                                                "termKRQualtrics": "Buffalo Bills",
+                                                                "entID": 163
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Miami Dolphins",
+                                                                "entID": 176
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "New England Patriots",
+                                                                "entID": 178
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "New York Jets",
+                                                                "entID": 181
+                                                            }
+                                                        ],
+                                                        "entID": 1347
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "North",
+                                                        "grpShowSurvSelRival": true,
+                                                        "subgroups": [
+                                                            {
+                                                                "termKRQualtrics": "Baltimore Ravens",
+                                                                "entID": 162
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Cincinnati Bengals",
+                                                                "entID": 166
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Cleveland Browns",
+                                                                "entID": 167
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Pittsburgh Steelers",
+                                                                "entID": 184
+                                                            }
+                                                        ],
+                                                        "entID": 1348
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "South",
+                                                        "grpShowSurvSelRival": true,
+                                                        "subgroups": [
+                                                            {
+                                                                "termKRQualtrics": "Houston Texans",
+                                                                "entID": 172
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Indianapolis Colts",
+                                                                "entID": 173
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Jacksonville Jaguars",
+                                                                "entID": 174
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Tennessee Titans",
+                                                                "entID": 190
+                                                            }
+                                                        ],
+                                                        "entID": 1349
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "West",
+                                                        "grpShowSurvSelRival": true,
+                                                        "subgroups": [
+                                                            {
+                                                                "termKRQualtrics": "Denver Broncos",
+                                                                "entID": 169
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Kansas City Chiefs",
+                                                                "entID": 175
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "LA Chargers",
+                                                                "entID": 185
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Las Vegas Raiders",
+                                                                "entID": 182
+                                                            }
+                                                        ],
+                                                        "entID": 1350
+                                                    }
+                                                ],
+                                                "entID": 1344
+                                            },
+                                            {
+                                                "termKRQualtrics": "NFC",
+                                                "grpShowSurvSelRival": true,
+                                                "subgroups": [
+                                                    {
+                                                        "termKRQualtrics": "East",
+                                                        "grpShowSurvSelRival": true,
+                                                        "subgroups": [
+                                                            {
+                                                                "termKRQualtrics": "Dallas Cowboys",
+                                                                "entID": 168
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "New York Giants",
+                                                                "entID": 180
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Philadelphia Eagles",
+                                                                "entID": 183
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Washington Football Team",
+                                                                "entID": 191
+                                                            }
+                                                        ],
+                                                        "entID": 1351
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "North",
+                                                        "grpShowSurvSelRival": true,
+                                                        "subgroups": [
+                                                            {
+                                                                "termKRQualtrics": "Chicago Bears",
+                                                                "entID": 165
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Detroit Lions",
+                                                                "entID": 170
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Green Bay Packers",
+                                                                "entID": 171
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Minnesota Vikings",
+                                                                "entID": 177
+                                                            }
+                                                        ],
+                                                        "entID": 1352
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "South",
+                                                        "grpShowSurvSelRival": true,
+                                                        "subgroups": [
+                                                            {
+                                                                "termKRQualtrics": "Atlanta Falcons",
+                                                                "entID": 161
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Carolina Panthers",
+                                                                "entID": 164
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "New Orleans Saints",
+                                                                "entID": 179
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Tampa Bay Buccaneers",
+                                                                "entID": 189
+                                                            }
+                                                        ],
+                                                        "entID": 1353
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "West",
+                                                        "grpShowSurvSelRival": true,
+                                                        "subgroups": [
+                                                            {
+                                                                "termKRQualtrics": "Arizona Cardinals",
+                                                                "entID": 160
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "LA Rams",
+                                                                "entID": 188
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "San Francisco 49ers",
+                                                                "entID": 186
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Seattle Seahawks",
+                                                                "entID": 187
+                                                            }
+                                                        ],
+                                                        "entID": 1354
+                                                    }
+                                                ],
+                                                "entID": 1345
+                                            }
+                                        ],
+                                        "entID": 1047
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "entID": 925,
+                "termKRQualtrics": "Baseball",
+                "grpShowSurvSelRival": false,
+                "subgroups": [
+                    {
+                        "entID": 1367,
+                        "termKRQualtrics": "Intl Baseball Fed",
+                        "grpShowSurvSelRival": false,
+                        "subgroups": [
+                            {
+                                "termKRQualtrics": "MLB",
+                                "grpShowSurvSelRival": true,
+                                "subgroups": [
+                                    {
+                                        "termKRQualtrics": "American",
+                                        "grpShowSurvSelRival": true,
+                                        "subgroups": [
+                                            {
+                                                "termKRQualtrics": "East",
+                                                "grpShowSurvSelRival": true,
+                                                "subgroups": [
+                                                    {
+                                                        "termKRQualtrics": "Baltimore Orioles",
+                                                        "entID": 215
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Boston Red Sox",
+                                                        "entID": 216
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "NY Yankees",
+                                                        "entID": 231
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Tampa Bay Rays",
+                                                        "entID": 239
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Toronto Blue Jays",
+                                                        "entID": 241
+                                                    }
+                                                ],
+                                                "entID": 2668
+                                            },
+                                            {
+                                                "termKRQualtrics": "Central",
+                                                "grpShowSurvSelRival": true,
+                                                "subgroups": [
+                                                    {
+                                                        "termKRQualtrics": "Chicago White Sox",
+                                                        "entID": 218
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Cleveland Indians",
+                                                        "entID": 220
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Detroit Tigers",
+                                                        "entID": 222
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Kansas City Royals",
+                                                        "entID": 224
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Minnesota Twins",
+                                                        "entID": 229
+                                                    }
+                                                ],
+                                                "entID": 2669
+                                            },
+                                            {
+                                                "termKRQualtrics": "West",
+                                                "grpShowSurvSelRival": true,
+                                                "subgroups": [
+                                                    {
+                                                        "termKRQualtrics": "Houston Astros",
+                                                        "entID": 223
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "LA Angels",
+                                                        "entID": 225
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Oakland Athletics",
+                                                        "entID": 232
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Seattle Mariners",
+                                                        "entID": 237
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Texas Rangers",
+                                                        "entID": 240
+                                                    }
+                                                ],
+                                                "entID": 2670
+                                            }
+                                        ],
+                                        "entID": 1369
+                                    },
+                                    {
+                                        "termKRQualtrics": "National",
+                                        "grpShowSurvSelRival": true,
+                                        "subgroups": [
+                                            {
+                                                "termKRQualtrics": "Central",
+                                                "grpShowSurvSelRival": true,
+                                                "subgroups": [
+                                                    {
+                                                        "termKRQualtrics": "Chicago Cubs",
+                                                        "entID": 217
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Cincinnati Reds",
+                                                        "entID": 219
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Milwaukee Brewers",
+                                                        "entID": 228
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Pittsburgh Pirates",
+                                                        "entID": 234
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "St Louis Cardinals",
+                                                        "entID": 238
+                                                    }
+                                                ],
+                                                "entID": 2672
+                                            },
+                                            {
+                                                "termKRQualtrics": "East",
+                                                "grpShowSurvSelRival": true,
+                                                "subgroups": [
+                                                    {
+                                                        "termKRQualtrics": "Atlanta Braves",
+                                                        "entID": 214
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Miami Marlins",
+                                                        "entID": 227
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "NY Mets",
+                                                        "entID": 230
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Philadelphia Phillies",
+                                                        "entID": 233
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Washington Nationals",
+                                                        "entID": 242
+                                                    }
+                                                ],
+                                                "entID": 2671
+                                            },
+                                            {
+                                                "termKRQualtrics": "West",
+                                                "grpShowSurvSelRival": true,
+                                                "subgroups": [
+                                                    {
+                                                        "termKRQualtrics": "Arizona Diamondbacks",
+                                                        "entID": 213
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Colorado Rockies",
+                                                        "entID": 221
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "LA Dodgers",
+                                                        "entID": 226
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "San Diego Padres",
+                                                        "entID": 235
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "San Francisco Giants",
+                                                        "entID": 236
+                                                    }
+                                                ],
+                                                "entID": 2673
+                                            }
+                                        ],
+                                        "entID": 1370
+                                    }
+                                ],
+                                "entID": 1368
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "entID": 975,
+                "termKRQualtrics":"Ice hockey",
+                "grpShowSurvSelRival":false,
+                "subgroups": [
+                    {
+                        "termKRQualtrics": "NHL",
+                        "grpShowSurvSelRival": true,
+                        "subgroups": [
+                            {
+                                "termKRQualtrics": "Eastern",
+                                "grpShowSurvSelRival": true,
+                                "subgroups": [
+                                    {
+                                        "termKRQualtrics": "Atlantic",
+                                        "grpShowSurvSelRival": true,
+                                        "subgroups": [
+                                            {
+                                                "termKRQualtrics": "Boston Bruins",
+                                                "entID": 132
+                                            },
+                                            {
+                                                "termKRQualtrics": "Buffalo Sabres",
+                                                "entID": 133
+                                            },
+                                            {
+                                                "termKRQualtrics": "Detroit Red Wings",
+                                                "entID": 140
+                                            },
+                                            {
+                                                "termKRQualtrics": "Florida Panthers",
+                                                "entID": 142
+                                            },
+                                            {
+                                                "termKRQualtrics": "Montreal Canadiens",
+                                                "entID": 145
+                                            },
+                                            {
+                                                "termKRQualtrics": "Ottawa Senators",
+                                                "entID": 150
+                                            },
+                                            {
+                                                "termKRQualtrics": "Tampa Bay Lightning",
+                                                "entID": 155
+                                            },
+                                            {
+                                                "termKRQualtrics": "Toronto Maple Leafs",
+                                                "entID": 156
+                                            }
+                                        ],
+                                        "entID": 2682
+                                    },
+                                    {
+                                        "termKRQualtrics": "Metropolitan",
+                                        "grpShowSurvSelRival": true,
+                                        "subgroups": [
+                                            {
+                                                "termKRQualtrics": "Carolina Hurricanes",
+                                                "entID": 135
+                                            },
+                                            {
+                                                "termKRQualtrics": "Columbus Blue Jackets",
+                                                "entID": 138
+                                            },
+                                            {
+                                                "termKRQualtrics": "NJ Devils",
+                                                "entID": 147
+                                            },
+                                            {
+                                                "termKRQualtrics": "NY Islanders",
+                                                "entID": 148
+                                            },
+                                            {
+                                                "termKRQualtrics": "NY Rangers",
+                                                "entID": 149
+                                            },
+                                            {
+                                                "termKRQualtrics": "Philadelphia Flyers",
+                                                "entID": 151
+                                            },
+                                            {
+                                                "termKRQualtrics": "Pittsburgh Penguins",
+                                                "entID": 152
+                                            },
+                                            {
+                                                "termKRQualtrics": "Washington Capitals",
+                                                "entID": 158
+                                            }
+                                        ],
+                                        "entID": 2683
+                                    }
+                                ],
+                                "entID": 1381
+                            },
+                            {
+                                "termKRQualtrics": "Western",
+                                "grpShowSurvSelRival": true,
+                                "subgroups": [
+                                    {
+                                        "termKRQualtrics": "Central",
+                                        "grpShowSurvSelRival": true,
+                                        "subgroups": [
+                                            {
+                                                "termKRQualtrics": "Chicago Blackhawks",
+                                                "entID": 136
+                                            },
+                                            {
+                                                "termKRQualtrics": "Colorado Avalanche",
+                                                "entID": 137
+                                            },
+                                            {
+                                                "termKRQualtrics": "Dallas Stars",
+                                                "entID": 139
+                                            },
+                                            {
+                                                "termKRQualtrics": "Minnesota Wild",
+                                                "entID": 144
+                                            },
+                                            {
+                                                "termKRQualtrics": "Nashville Predators",
+                                                "entID": 146
+                                            },
+                                            {
+                                                "termKRQualtrics": "St Louis Blues",
+                                                "entID": 154
+                                            },
+                                            {
+                                                "termKRQualtrics": "Winnipeg Jets",
+                                                "entID": 159
+                                            }
+                                        ],
+                                        "entID": 2684
+                                    },
+                                    {
+                                        "termKRQualtrics": "Pacific",
+                                        "grpShowSurvSelRival": true,
+                                        "subgroups": [
+                                            {
+                                                "termKRQualtrics": "Anaheim Ducks",
+                                                "entID": 130
+                                            },
+                                            {
+                                                "termKRQualtrics": "Arizona Coyotes",
+                                                "entID": 131
+                                            },
+                                            {
+                                                "termKRQualtrics": "Calgary Flames",
+                                                "entID": 134
+                                            },
+                                            {
+                                                "termKRQualtrics": "Edmonton Oilers",
+                                                "entID": 141
+                                            },
+                                            {
+                                                "termKRQualtrics": "LA Kings",
+                                                "entID": 143
+                                            },
+                                            {
+                                                "termKRQualtrics": "San Jose Sharks",
+                                                "entID": 153
+                                            },
+                                            {
+                                                "termKRQualtrics": "Vancouver Canucks",
+                                                "entID": 157
+                                            },
+                                            {
+                                                "termKRQualtrics": "Vegas Golden Knights",
+                                                "entID": 287
+                                            }
+                                        ],
+                                        "entID": 2685
+                                    }
+                                ],
+                                "entID": 1380
+                            }
+                        ],
+                        "entID": 1379
+                    }
+                ]
+            },
+            {
+                "entID":1327,
+                "termKRQualtrics":"Soccer",
+                "grpShowSurvSelRival":false,
+                "subgroups":[
+                    {
+                        "termKRQualtrics": "MLS",
+                        "grpShowSurvSelRival": true,
+                        "subgroups": [
+                            {
+                                "termKRQualtrics": "Eastern",
+                                "grpShowSurvSelRival": true,
+                                "subgroups": [
+                                    {
+                                        "termKRQualtrics": "Atlanta United",
+                                        "entID": 281
+                                    },
+                                    {
+                                        "termKRQualtrics": "Chicago Fire",
+                                        "entID": 192
+                                    },
+                                    {
+                                        "termKRQualtrics": "Columbus Crew",
+                                        "entID": 195
+                                    },
+                                    {
+                                        "termKRQualtrics": "DC United",
+                                        "entID": 196
+                                    },
+                                    {
+                                        "termKRQualtrics": "FC Cincinnati",
+                                        "entID": 282
+                                    },
+                                    {
+                                        "termKRQualtrics": "Montreal Impact",
+                                        "entID": 200
+                                    },
+                                    {
+                                        "termKRQualtrics": "NE Revolution",
+                                        "entID": 201
+                                    },
+                                    {
+                                        "termKRQualtrics": "NYC FC",
+                                        "entID": 202
+                                    },
+                                    {
+                                        "termKRQualtrics": "New York Red Bulls",
+                                        "entID": 203
+                                    },
+                                    {
+                                        "termKRQualtrics": "Orlando City",
+                                        "entID": 204
+                                    },
+                                    {
+                                        "termKRQualtrics": "Philadelphia Union",
+                                        "entID": 205
+                                    },
+                                    {
+                                        "termKRQualtrics": "Toronto FC",
+                                        "entID": 211
+                                    }
+                                ],
+                                "entID": 1341
+                            },
+                            {
+                                "termKRQualtrics": "Western",
+                                "grpShowSurvSelRival": true,
+                                "subgroups": [
+                                    {
+                                        "termKRQualtrics": "Colorado Rapids",
+                                        "entID": 194
+                                    },
+                                    {
+                                        "termKRQualtrics": "FC Dallas",
+                                        "entID": 197
+                                    },
+                                    {
+                                        "termKRQualtrics": "Houston Dynamo",
+                                        "entID": 198
+                                    },
+                                    {
+                                        "termKRQualtrics": "LA Galaxy",
+                                        "entID": 199
+                                    },
+                                    {
+                                        "termKRQualtrics": "LAFC",
+                                        "entID": 283
+                                    },
+                                    {
+                                        "termKRQualtrics": "Minnesota United",
+                                        "entID": 284
+                                    },
+                                    {
+                                        "termKRQualtrics": "Portland Timbers",
+                                        "entID": 206
+                                    },
+                                    {
+                                        "termKRQualtrics": "Real Salt Lake",
+                                        "entID": 207
+                                    },
+                                    {
+                                        "termKRQualtrics": "San Jose Earthquakes",
+                                        "entID": 208
+                                    },
+                                    {
+                                        "termKRQualtrics": "Seattle Sounders",
+                                        "entID": 209
+                                    },
+                                    {
+                                        "termKRQualtrics": "Sporting Kansas City",
+                                        "entID": 210
+                                    },
+                                    {
+                                        "termKRQualtrics": "Vancouver Whitecaps",
+                                        "entID": 212
+                                    }
+                                ],
+                                "entID": 1340
+                            }
+                        ],
+                        "entID": 1339
+                    }
+                ]
+            },
+            {
+                "entID": 1371,
+                "termKRQualtrics": "Intl Cricket Council (ICC)",
+                "grpShowSurvSelRival": false,
+                "subgroups": [
+                    {
+                        "entID": 1372,
+                        "termKRQualtrics": "Asian Cricket Council",
+                        "grpShowSurvSelRival": false,
+                        "subgroups": [
+                            {
+                                "entID": 1374,
+                                "termKRQualtrics": "BCCI",
+                                "grpShowSurvSelRival": false,
+                                "subgroups": [
+                                    {
+                                        "termKRQualtrics": "IPL",
+                                        "grpShowSurvSelRival": true,
+                                        "subgroups": [
+                                            {
+                                                "termKRQualtrics": "Chennai Super Kings",
+                                                "entID": 288
+                                            },
+                                            {
+                                                "termKRQualtrics": "Delhi Capitals",
+                                                "entID": 289
+                                            },
+                                            {
+                                                "termKRQualtrics": "Kings XI Punjab",
+                                                "entID": 290
+                                            },
+                                            {
+                                                "termKRQualtrics": "Kolkata Knight Riders",
+                                                "entID": 291
+                                            },
+                                            {
+                                                "termKRQualtrics": "Mumbai Indians",
+                                                "entID": 292
+                                            },
+                                            {
+                                                "termKRQualtrics": "Rajasthan Royals",
+                                                "entID": 293
+                                            },
+                                            {
+                                                "termKRQualtrics": "Royal Challengers Bangalore",
+                                                "entID": 294
+                                            },
+                                            {
+                                                "termKRQualtrics": "Sunrisers Hyderabad",
+                                                "entID": 295
+                                            }
+                                        ],
+                                        "entID": 1376
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "entID": 1373,
+                        "termKRQualtrics": "Cricket Australia",
+                        "grpShowSurvSelRival": false,
+                        "subgroups": [
+                            {
+                                "termKRQualtrics": "BBL",
+                                "grpShowSurvSelRival": true,
+                                "subgroups": [
+                                    {
+                                        "termKRQualtrics": "Adelaide Strikers",
+                                        "entID": 273
+                                    },
+                                    {
+                                        "termKRQualtrics": "Brisbane Heat",
+                                        "entID": 274
+                                    },
+                                    {
+                                        "termKRQualtrics": "Hobart Hurricanes",
+                                        "entID": 275
+                                    },
+                                    {
+                                        "termKRQualtrics": "Melbourne Renegades",
+                                        "entID": 276
+                                    },
+                                    {
+                                        "termKRQualtrics": "Melbourne Stars",
+                                        "entID": 277
+                                    },
+                                    {
+                                        "termKRQualtrics": "Perth Scorchers",
+                                        "entID": 278
+                                    },
+                                    {
+                                        "termKRQualtrics": "Sydney Sixers",
+                                        "entID": 279
+                                    },
+                                    {
+                                        "termKRQualtrics": "Sydney Thunder",
+                                        "entID": 280
+                                    }
+                                ],
+                                "entID": 1375
                             }
                         ]
                     }

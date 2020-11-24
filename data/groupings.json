@@ -6,5 +6,61 @@
     "termKRQualtrics": "NBA",
     "grpCurrentSurvID": 30,
     "grpBritishSpelling": false
+  },
+  "grpID1047": {
+    "grpID": 1047,
+    "entID": 1047,
+    "grpSport": "Football",
+    "termKRQualtrics": "NFL",
+    "grpCurrentSurvID": 30,
+    "grpBritishSpelling": false
+  },
+  "grpID1368": {
+    "grpID": 1368,
+    "entID": 1368,
+    "grpSport": "Baseball",
+    "termKRQualtrics": "MLB",
+    "grpCurrentSurvID": 30,
+    "grpBritishSpelling": false
+  },
+  "grpID1379": {
+    "grpID": 1379,
+    "entID": 1379,
+    "grpSport": "Hockey",
+    "termKRQualtrics": "NHL",
+    "grpCurrentSurvID": 30,
+    "grpBritishSpelling": false
+  },
+  "grpID1339": {
+    "grpID": 1339,
+    "entID": 1339,
+    "grpSport": "Soccer",
+    "termKRQualtrics": "MLS",
+    "grpCurrentSurvID": 30,
+    "grpBritishSpelling": false
+  },
+  "grpID1425": {
+    "grpID": 1425,
+    "entID": 1425,
+    "grpSport": "Basketball",
+    "termKRQualtrics": "WNBA",
+    "grpCurrentSurvID": 30,
+    "grpBritishSpelling": false
+  },
+  "grpID1375": {
+    "grpID": 1375,
+    "entID": 1375,
+    "grpSport": "Cricket",
+    "termKRQualtrics": "BBL",
+    "grpCurrentSurvID": 30,
+    "grpBritishSpelling": true
+  },
+  "grpID1376": {
+    "grpID": 1376,
+    "entID": 1376,
+    "grpSport": "Cricket",
+    "termKRQualtrics": "IPL",
+    "grpCurrentSurvID": 30,
+    "grpBritishSpelling": true
   }
 }
