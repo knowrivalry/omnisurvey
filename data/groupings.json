@@ -62,5 +62,21 @@
     "termKRQualtrics": "IPL",
     "grpCurrentSurvID": 30,
     "grpBritishSpelling": true
+  },
+  "grpID1051": {
+    "grpID": 1051,
+    "entID": 1051,
+    "grpSport": "Football",
+    "termKRQualtrics": "NCAA FBS",
+    "grpCurrentSurvID": 30,
+    "grpBritishSpelling": false
+  },
+  "grpID1063": {
+    "grpID": 1063,
+    "entID": 1063,
+    "grpSport": "Football",
+    "termKRQualtrics": "NCAA FCS",
+    "grpCurrentSurvID": 30,
+    "grpBritishSpelling": false
   }
 }

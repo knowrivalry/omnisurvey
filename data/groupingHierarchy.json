@@ -207,8 +207,8 @@
                             {
                                 "entID": 2725,
                                 "termKRQualtrics": "Women's basketball",
-                                "grpShowSurvSelRival":false,
-                                "subgroups":[
+                                "grpShowSurvSelRival": false,
+                                "subgroups": [
                                     {
                                         "entID": 1425,
                                         "termKRQualtrics": "WNBA",
@@ -295,11 +295,12 @@
                         "grpShowSurvSelRival": false,
                         "subgroups": [
                             {
-                                "entID": 2692,
-                                "termKRQualtrics": "Men's Amer football",
+                                "entID": 3291,
+                                "termKRQualtrics": "Pro football",
                                 "grpShowSurvSelRival": false,
                                 "subgroups": [
                                     {
+                                        "entID": 1047,
                                         "termKRQualtrics": "NFL",
                                         "grpShowSurvSelRival": true,
                                         "subgroups": [
@@ -501,8 +502,1367 @@
                                                 ],
                                                 "entID": 1345
                                             }
-                                        ],
-                                        "entID": 1047
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "entID": 1048,
+                                "termKRQualtrics": "College football",
+                                "grpShowSurvSelRival": true,
+                                "subgroups": [
+                                    {
+                                        "entID": 1051,
+                                        "termKRQualtrics": "FBS football",
+                                        "grpShowSurvSelRival": true,
+                                        "subgroups": [
+                                            {
+                                                "termKRQualtrics": "ACC",
+                                                "grpShowSurvSelRival": true,
+                                                "subgroups": [
+                                                    {
+                                                        "termKRQualtrics": "Atlantic",
+                                                        "grpShowSurvSelRival": true,
+                                                        "subgroups": [
+                                                            {
+                                                                "termKRQualtrics": "Boston College",
+                                                                "entID": 14
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Clemson",
+                                                                "entID": 21
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Florida St",
+                                                                "entID": 30
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Louisville",
+                                                                "entID": 50
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "NC State",
+                                                                "entID": 64
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Syracuse",
+                                                                "entID": 93
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Wake Forest",
+                                                                "entID": 122
+                                                            }
+                                                        ],
+                                                        "entID": 2458
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Coastal",
+                                                        "grpShowSurvSelRival": true,
+                                                        "subgroups": [
+                                                            {
+                                                                "termKRQualtrics": "Duke",
+                                                                "entID": 24
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Georgia Tech",
+                                                                "entID": 35
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Miami-FL",
+                                                                "entID": 55
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Pitt",
+                                                                "entID": 82
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "UNC",
+                                                                "entID": 110
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "UVA",
+                                                                "entID": 119
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Virginia Tech",
+                                                                "entID": 121
+                                                            }
+                                                        ],
+                                                        "entID": 2459
+                                                    }
+                                                ],
+                                                "entID": 1053
+                                            },
+                                            {
+                                                "termKRQualtrics": "American",
+                                                "grpShowSurvSelRival": true,
+                                                "subgroups": [
+                                                    {
+                                                        "termKRQualtrics": "East",
+                                                        "grpShowSurvSelRival": true,
+                                                        "subgroups": [
+                                                            {
+                                                                "termKRQualtrics": "Cincinnati",
+                                                                "entID": 20
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "East Carolina",
+                                                                "entID": 25
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Temple",
+                                                                "entID": 95
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "UCF",
+                                                                "entID": 106
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "UConn",
+                                                                "entID": 108
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "USF",
+                                                                "entID": 114
+                                                            }
+                                                        ],
+                                                        "entID": 2456
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "West",
+                                                        "grpShowSurvSelRival": true,
+                                                        "subgroups": [
+                                                            {
+                                                                "termKRQualtrics": "Houston",
+                                                                "entID": 37
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Memphis",
+                                                                "entID": 54
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Navy",
+                                                                "entID": 63
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "SMU",
+                                                                "entID": 88
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Tulane",
+                                                                "entID": 103
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Tulsa",
+                                                                "entID": 104
+                                                            }
+                                                        ],
+                                                        "entID": 2457
+                                                    }
+                                                ],
+                                                "entID": 1052
+                                            },
+                                            {
+                                                "termKRQualtrics": "Big 12",
+                                                "grpShowSurvSelRival": true,
+                                                "subgroups": [
+                                                    {
+                                                        "termKRQualtrics": "Baylor",
+                                                        "entID": 12
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Iowa St",
+                                                        "entID": 42
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Kansas",
+                                                        "entID": 43
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Kansas St",
+                                                        "entID": 44
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Oklahoma",
+                                                        "entID": 76
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Oklahoma St",
+                                                        "entID": 77
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "TCU",
+                                                        "entID": 94
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Texas",
+                                                        "entID": 97
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Texas Tech",
+                                                        "entID": 100
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "West Virginia",
+                                                        "entID": 125
+                                                    }
+                                                ],
+                                                "entID": 1054
+                                            },
+                                            {
+                                                "termKRQualtrics": "Big Ten",
+                                                "grpShowSurvSelRival": true,
+                                                "subgroups": [
+                                                    {
+                                                        "termKRQualtrics": "East",
+                                                        "grpShowSurvSelRival": true,
+                                                        "subgroups": [
+                                                            {
+                                                                "termKRQualtrics": "Indiana",
+                                                                "entID": 40
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Maryland",
+                                                                "entID": 53
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Michigan",
+                                                                "entID": 57
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Michigan St",
+                                                                "entID": 58
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Ohio St",
+                                                                "entID": 75
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Penn St",
+                                                                "entID": 81
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Rutgers",
+                                                                "entID": 85
+                                                            }
+                                                        ],
+                                                        "entID": 2460
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "West",
+                                                        "grpShowSurvSelRival": true,
+                                                        "subgroups": [
+                                                            {
+                                                                "termKRQualtrics": "Illinois",
+                                                                "entID": 39
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Iowa",
+                                                                "entID": 41
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Minnesota",
+                                                                "entID": 60
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Nebraska",
+                                                                "entID": 65
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Northwestern",
+                                                                "entID": 71
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Purdue",
+                                                                "entID": 83
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Wisconsin",
+                                                                "entID": 128
+                                                            }
+                                                        ],
+                                                        "entID": 2461
+                                                    }
+                                                ],
+                                                "entID": 1055
+                                            },
+                                            {
+                                                "termKRQualtrics": "C-USA",
+                                                "grpShowSurvSelRival": true,
+                                                "subgroups": [
+                                                    {
+                                                        "termKRQualtrics": "East",
+                                                        "grpShowSurvSelRival": true,
+                                                        "subgroups": [
+                                                            {
+                                                                "termKRQualtrics": "Charlotte",
+                                                                "entID": 111
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "FIU",
+                                                                "entID": 27
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Florida Atlantic",
+                                                                "entID": 29
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Marshall",
+                                                                "entID": 52
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Middle Tennessee",
+                                                                "entID": 59
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "ODU",
+                                                                "entID": 73
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Western Kentucky",
+                                                                "entID": 126
+                                                            }
+                                                        ],
+                                                        "entID": 2462
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "West",
+                                                        "grpShowSurvSelRival": true,
+                                                        "subgroups": [
+                                                            {
+                                                                "termKRQualtrics": "Louisiana Tech",
+                                                                "entID": 47
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "North Texas",
+                                                                "entID": 70
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Rice",
+                                                                "entID": 84
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Southern Miss",
+                                                                "entID": 91
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "UAB",
+                                                                "entID": 105
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "UTEP",
+                                                                "entID": 117
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "UTSA",
+                                                                "entID": 118
+                                                            }
+                                                        ],
+                                                        "entID": 2463
+                                                    }
+                                                ],
+                                                "entID": 1056
+                                            },
+                                            {
+                                                "termKRQualtrics": "Independents",
+                                                "grpShowSurvSelRival": true,
+                                                "subgroups": [
+                                                    {
+                                                        "termKRQualtrics": "Army",
+                                                        "entID": 9
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "BYU",
+                                                        "entID": 17
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Liberty Univ",
+                                                        "entID": 286
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "New Mexico St",
+                                                        "entID": 68
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Notre Dame",
+                                                        "entID": 72
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "UMass",
+                                                        "entID": 109
+                                                    }
+                                                ],
+                                                "entID": 1062
+                                            },
+                                            {
+                                                "termKRQualtrics": "MAC",
+                                                "grpShowSurvSelRival": true,
+                                                "subgroups": [
+                                                    {
+                                                        "termKRQualtrics": "East",
+                                                        "grpShowSurvSelRival": true,
+                                                        "subgroups": [
+                                                            {
+                                                                "termKRQualtrics": "Akron",
+                                                                "entID": 2
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Bowling Green",
+                                                                "entID": 15
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Buffalo",
+                                                                "entID": 16
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Kent St",
+                                                                "entID": 45
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Miami-OH",
+                                                                "entID": 56
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Ohio",
+                                                                "entID": 74
+                                                            }
+                                                        ],
+                                                        "entID": 2464
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "West",
+                                                        "grpShowSurvSelRival": true,
+                                                        "subgroups": [
+                                                            {
+                                                                "termKRQualtrics": "Ball St",
+                                                                "entID": 11
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Central Michigan",
+                                                                "entID": 19
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Eastern Michigan",
+                                                                "entID": 26
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "NIU",
+                                                                "entID": 69
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Toledo",
+                                                                "entID": 101
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Western Michigan",
+                                                                "entID": 127
+                                                            }
+                                                        ],
+                                                        "entID": 2465
+                                                    }
+                                                ],
+                                                "entID": 1057
+                                            },
+                                            {
+                                                "termKRQualtrics": "MWC",
+                                                "grpShowSurvSelRival": true,
+                                                "subgroups": [
+                                                    {
+                                                        "termKRQualtrics": "West",
+                                                        "grpShowSurvSelRival": true,
+                                                        "subgroups": [
+                                                            {
+                                                                "termKRQualtrics": "Fresno St",
+                                                                "entID": 31
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Hawai'i",
+                                                                "entID": 36
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Nevada",
+                                                                "entID": 66
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "San Diego St",
+                                                                "entID": 86
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "San Jose St",
+                                                                "entID": 87
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "UNLV",
+                                                                "entID": 112
+                                                            }
+                                                        ],
+                                                        "entID": 2467
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Mountain",
+                                                        "grpShowSurvSelRival": true,
+                                                        "subgroups": [
+                                                            {
+                                                                "termKRQualtrics": "Air Force",
+                                                                "entID": 1
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Boise St",
+                                                                "entID": 13
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Colorado St",
+                                                                "entID": 23
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "New Mexico",
+                                                                "entID": 67
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Utah St",
+                                                                "entID": 116
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Wyoming",
+                                                                "entID": 129
+                                                            }
+                                                        ],
+                                                        "entID": 2466
+                                                    }
+                                                ],
+                                                "entID": 1058
+                                            },
+                                            {
+                                                "termKRQualtrics": "Pac-12",
+                                                "grpShowSurvSelRival": true,
+                                                "subgroups": [
+                                                    {
+                                                        "termKRQualtrics": "North",
+                                                        "grpShowSurvSelRival": true,
+                                                        "subgroups": [
+                                                            {
+                                                                "termKRQualtrics": "Cal",
+                                                                "entID": 18
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Oregon",
+                                                                "entID": 79
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Oregon St",
+                                                                "entID": 80
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Stanford",
+                                                                "entID": 92
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Washington",
+                                                                "entID": 123
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Washington St",
+                                                                "entID": 124
+                                                            }
+                                                        ],
+                                                        "entID": 2468
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "South",
+                                                        "grpShowSurvSelRival": true,
+                                                        "subgroups": [
+                                                            {
+                                                                "termKRQualtrics": "Arizona",
+                                                                "entID": 5
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Arizona St",
+                                                                "entID": 6
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Colorado",
+                                                                "entID": 22
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "UCLA",
+                                                                "entID": 107
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "USC",
+                                                                "entID": 113
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Utah",
+                                                                "entID": 115
+                                                            }
+                                                        ],
+                                                        "entID": 2469
+                                                    }
+                                                ],
+                                                "entID": 1059
+                                            },
+                                            {
+                                                "termKRQualtrics": "SEC",
+                                                "grpShowSurvSelRival": true,
+                                                "subgroups": [
+                                                    {
+                                                        "termKRQualtrics": "East",
+                                                        "grpShowSurvSelRival": true,
+                                                        "subgroups": [
+                                                            {
+                                                                "termKRQualtrics": "Florida",
+                                                                "entID": 28
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Georgia",
+                                                                "entID": 32
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Kentucky",
+                                                                "entID": 46
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Missouri",
+                                                                "entID": 62
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "South Carolina",
+                                                                "entID": 90
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Tennessee",
+                                                                "entID": 96
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Vanderbilt",
+                                                                "entID": 120
+                                                            }
+                                                        ],
+                                                        "entID": 2470
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "West",
+                                                        "grpShowSurvSelRival": true,
+                                                        "subgroups": [
+                                                            {
+                                                                "termKRQualtrics": "Alabama",
+                                                                "entID": 3
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Arkansas",
+                                                                "entID": 7
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Auburn",
+                                                                "entID": 10
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "LSU",
+                                                                "entID": 51
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Mississippi St",
+                                                                "entID": 61
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Ole Miss",
+                                                                "entID": 78
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Texas A&M",
+                                                                "entID": 98
+                                                            }
+                                                        ],
+                                                        "entID": 2471
+                                                    }
+                                                ],
+                                                "entID": 1060
+                                            },
+                                            {
+                                                "termKRQualtrics": "Sun Belt",
+                                                "grpShowSurvSelRival": true,
+                                                "subgroups": [
+                                                    {
+                                                        "termKRQualtrics": "East",
+                                                        "grpShowSurvSelRival": true,
+                                                        "subgroups": [
+                                                            {
+                                                                "termKRQualtrics": "App State",
+                                                                "entID": 4
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Coastal Carolina",
+                                                                "entID": 285
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Georgia Southern",
+                                                                "entID": 33
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Georgia St",
+                                                                "entID": 34
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Troy",
+                                                                "entID": 102
+                                                            }
+                                                        ],
+                                                        "entID": 2472
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "West",
+                                                        "grpShowSurvSelRival": true,
+                                                        "subgroups": [
+                                                            {
+                                                                "termKRQualtrics": "Arkansas St",
+                                                                "entID": 8
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Louisiana-Lafayette",
+                                                                "entID": 48
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Louisiana-Monroe",
+                                                                "entID": 49
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "South Alabama",
+                                                                "entID": 89
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Texas St",
+                                                                "entID": 99
+                                                            }
+                                                        ],
+                                                        "entID": 2473
+                                                    }
+                                                ],
+                                                "entID": 1061
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "entID": 1063,
+                                        "termKRQualtrics": "FCS football",
+                                        "grpShowSurvSelRival": true,
+                                        "subgroups": [
+                                            {
+                                                "termKRQualtrics": "Big Sky",
+                                                "grpShowSurvSelRival": true,
+                                                "subgroups": [
+                                                    {
+                                                        "termKRQualtrics": "Cal Poly",
+                                                        "entID": 322
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Eastern Washington",
+                                                        "entID": 318
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Idaho",
+                                                        "entID": 38
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Idaho St",
+                                                        "entID": 316
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Montana",
+                                                        "entID": 319
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Montana St",
+                                                        "entID": 317
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Northern Arizona",
+                                                        "entID": 321
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Northern Colorado",
+                                                        "entID": 315
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Portland St",
+                                                        "entID": 324
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Sacramento St",
+                                                        "entID": 320
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Southern Utah",
+                                                        "entID": 323
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "UC Davis",
+                                                        "entID": 314
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Weber St",
+                                                        "entID": 325
+                                                    }
+                                                ],
+                                                "entID": 1064
+                                            },
+                                            {
+                                                "termKRQualtrics": "Big South",
+                                                "grpShowSurvSelRival": true,
+                                                "subgroups": [
+                                                    {
+                                                        "termKRQualtrics": "Campbell",
+                                                        "entID": 328
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Charleston Southern",
+                                                        "entID": 327
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Gardner-Webb",
+                                                        "entID": 331
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Hampton",
+                                                        "entID": 346
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Kennesaw St",
+                                                        "entID": 330
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Monmouth",
+                                                        "entID": 329
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "North Alabama",
+                                                        "entID": 345
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Presbyterian",
+                                                        "entID": 326
+                                                    }
+                                                ],
+                                                "entID": 1065
+                                            },
+                                            {
+                                                "termKRQualtrics": "Colonial",
+                                                "grpShowSurvSelRival": true,
+                                                "subgroups": [
+                                                    {
+                                                        "termKRQualtrics": "Albany",
+                                                        "entID": 335
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Delaware",
+                                                        "entID": 334
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Elon",
+                                                        "entID": 336
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "James Madison",
+                                                        "entID": 333
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Maine",
+                                                        "entID": 332
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "New Hampshire",
+                                                        "entID": 342
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Rhode Island",
+                                                        "entID": 337
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Richmond",
+                                                        "entID": 339
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Stony Brook",
+                                                        "entID": 338
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Towson",
+                                                        "entID": 340
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Villanova",
+                                                        "entID": 343
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "William & Mary",
+                                                        "entID": 341
+                                                    }
+                                                ],
+                                                "entID": 1066
+                                            },
+                                            {
+                                                "termKRQualtrics": "Independents",
+                                                "grpShowSurvSelRival": true,
+                                                "subgroups": [
+                                                    {
+                                                        "termKRQualtrics": "North Dakota",
+                                                        "entID": 344
+                                                    }
+                                                ],
+                                                "entID": 1077
+                                            },
+                                            {
+                                                "termKRQualtrics": "Ivy",
+                                                "grpShowSurvSelRival": true,
+                                                "subgroups": [
+                                                    {
+                                                        "termKRQualtrics": "Brown",
+                                                        "entID": 347
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Columbia",
+                                                        "entID": 352
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Cornell",
+                                                        "entID": 349
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Dartmouth",
+                                                        "entID": 348
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Harvard",
+                                                        "entID": 351
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Penn",
+                                                        "entID": 353
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Princeton",
+                                                        "entID": 354
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Yale",
+                                                        "entID": 350
+                                                    }
+                                                ],
+                                                "entID": 1067
+                                            },
+                                            {
+                                                "termKRQualtrics": "MEAC",
+                                                "grpShowSurvSelRival": true,
+                                                "subgroups": [
+                                                    {
+                                                        "termKRQualtrics": "Bethune-Cookman",
+                                                        "entID": 364
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Delaware St",
+                                                        "entID": 360
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Florida A&M",
+                                                        "entID": 361
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Howard",
+                                                        "entID": 357
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Morgan St",
+                                                        "entID": 356
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "NC Central",
+                                                        "entID": 359
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Norfolk St",
+                                                        "entID": 362
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "North Carolina A&T",
+                                                        "entID": 355
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "South Carolina St",
+                                                        "entID": 358
+                                                    }
+                                                ],
+                                                "entID": 1068
+                                            },
+                                            {
+                                                "termKRQualtrics": "Missouri Valley",
+                                                "grpShowSurvSelRival": true,
+                                                "subgroups": [
+                                                    {
+                                                        "termKRQualtrics": "Illinois St",
+                                                        "entID": 372
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Indiana St",
+                                                        "entID": 374
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Missouri St",
+                                                        "entID": 365
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "North Dakota St",
+                                                        "entID": 366
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Northern Iowa",
+                                                        "entID": 370
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "South Dakota",
+                                                        "entID": 367
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "South Dakota St",
+                                                        "entID": 368
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Southern Illinois",
+                                                        "entID": 373
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Western Illinois",
+                                                        "entID": 369
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Youngstown St",
+                                                        "entID": 371
+                                                    }
+                                                ],
+                                                "entID": 1069
+                                            },
+                                            {
+                                                "termKRQualtrics": "Northeast",
+                                                "grpShowSurvSelRival": true,
+                                                "subgroups": [
+                                                    {
+                                                        "termKRQualtrics": "Bryant University",
+                                                        "entID": 376
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Central Connecticut St",
+                                                        "entID": 375
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Duquesne",
+                                                        "entID": 378
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Merrimack",
+                                                        "entID": 1343
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Robert Morris",
+                                                        "entID": 377
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Sacred Heart",
+                                                        "entID": 379
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "St Francis (PA)",
+                                                        "entID": 380
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Wagner",
+                                                        "entID": 381
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": null,
+                                                        "entID": 1342
+                                                    }
+                                                ],
+                                                "entID": 1070
+                                            },
+                                            {
+                                                "termKRQualtrics": "Ohio Valley",
+                                                "grpShowSurvSelRival": true,
+                                                "subgroups": [
+                                                    {
+                                                        "termKRQualtrics": "Austin Peay",
+                                                        "entID": 385
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Eastern Illinois",
+                                                        "entID": 386
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Eastern Kentucky",
+                                                        "entID": 382
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Jacksonville St",
+                                                        "entID": 383
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Murray St",
+                                                        "entID": 387
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Southeast Missouri St",
+                                                        "entID": 388
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Tennessee St",
+                                                        "entID": 390
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Tennessee Tech",
+                                                        "entID": 384
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Tennessee-Martin",
+                                                        "entID": 389
+                                                    }
+                                                ],
+                                                "entID": 1071
+                                            },
+                                            {
+                                                "termKRQualtrics": "Patriot",
+                                                "grpShowSurvSelRival": true,
+                                                "subgroups": [
+                                                    {
+                                                        "termKRQualtrics": "Bucknell",
+                                                        "entID": 391
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Colgate",
+                                                        "entID": 396
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Fordham",
+                                                        "entID": 397
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Georgetown",
+                                                        "entID": 394
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Holy Cross",
+                                                        "entID": 392
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Lafayette",
+                                                        "entID": 395
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Lehigh",
+                                                        "entID": 393
+                                                    }
+                                                ],
+                                                "entID": 1072
+                                            },
+                                            {
+                                                "termKRQualtrics": "Pioneer",
+                                                "grpShowSurvSelRival": true,
+                                                "subgroups": [
+                                                    {
+                                                        "termKRQualtrics": "Butler",
+                                                        "entID": 398
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Davidson",
+                                                        "entID": 407
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Dayton",
+                                                        "entID": 403
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Drake",
+                                                        "entID": 399
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Jacksonville",
+                                                        "entID": 401
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Marist",
+                                                        "entID": 405
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Morehead St",
+                                                        "entID": 402
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "San Diego",
+                                                        "entID": 406
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Stetson",
+                                                        "entID": 404
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Valparaiso",
+                                                        "entID": 400
+                                                    }
+                                                ],
+                                                "entID": 1073
+                                            },
+                                            {
+                                                "termKRQualtrics": "SoCon",
+                                                "grpShowSurvSelRival": true,
+                                                "subgroups": [
+                                                    {
+                                                        "termKRQualtrics": "Chattanooga",
+                                                        "entID": 414
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Citadel",
+                                                        "entID": 411
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "East Tennessee St",
+                                                        "entID": 409
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Furman",
+                                                        "entID": 415
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Mercer",
+                                                        "entID": 408
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Samford",
+                                                        "entID": 410
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "VMI",
+                                                        "entID": 413
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Western Carolina",
+                                                        "entID": 412
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Wofford",
+                                                        "entID": 416
+                                                    }
+                                                ],
+                                                "entID": 1074
+                                            },
+                                            {
+                                                "termKRQualtrics": "Southland",
+                                                "grpShowSurvSelRival": true,
+                                                "subgroups": [
+                                                    {
+                                                        "termKRQualtrics": "Abilene Christian",
+                                                        "entID": 427
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Central Arkansas",
+                                                        "entID": 418
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Houston Baptist",
+                                                        "entID": 424
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Incarnate Word",
+                                                        "entID": 419
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Lamar",
+                                                        "entID": 420
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "McNeese St",
+                                                        "entID": 422
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Nicholls St",
+                                                        "entID": 421
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Northwestern State",
+                                                        "entID": 423
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Sam Houston St",
+                                                        "entID": 417
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Southeastern Louisiana",
+                                                        "entID": 425
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "Stephen F. Austin",
+                                                        "entID": 426
+                                                    }
+                                                ],
+                                                "entID": 1075
+                                            },
+                                            {
+                                                "termKRQualtrics": "SWAC",
+                                                "grpShowSurvSelRival": true,
+                                                "subgroups": [
+                                                    {
+                                                        "termKRQualtrics": "East",
+                                                        "grpShowSurvSelRival": true,
+                                                        "subgroups": [
+                                                            {
+                                                                "termKRQualtrics": "Alabama A&M",
+                                                                "entID": 434
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Alabama St",
+                                                                "entID": 436
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Alcorn St",
+                                                                "entID": 433
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Jackson St",
+                                                                "entID": 437
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Mississippi Valley St",
+                                                                "entID": 435
+                                                            }
+                                                        ],
+                                                        "entID": 2624
+                                                    },
+                                                    {
+                                                        "termKRQualtrics": "West",
+                                                        "grpShowSurvSelRival": true,
+                                                        "subgroups": [
+                                                            {
+                                                                "termKRQualtrics": "Arkansas-Pine Bluff",
+                                                                "entID": 428
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Grambling St",
+                                                                "entID": 431
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Prairie View A&M",
+                                                                "entID": 430
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Southern University",
+                                                                "entID": 429
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Texas Southern",
+                                                                "entID": 432
+                                                            }
+                                                        ],
+                                                        "entID": 2625
+                                                    }
+                                                ],
+                                                "entID": 1076
+                                            }
+                                        ]
                                     }
                                 ]
                             }
@@ -521,6 +1881,7 @@
                         "grpShowSurvSelRival": false,
                         "subgroups": [
                             {
+                                "entID": 1368,
                                 "termKRQualtrics": "MLB",
                                 "grpShowSurvSelRival": true,
                                 "subgroups": [
@@ -700,8 +2061,7 @@
                                         ],
                                         "entID": 1370
                                     }
-                                ],
-                                "entID": 1368
+                                ]
                             }
                         ]
                     }
@@ -709,10 +2069,11 @@
             },
             {
                 "entID": 975,
-                "termKRQualtrics":"Ice hockey",
-                "grpShowSurvSelRival":false,
+                "termKRQualtrics": "Ice hockey",
+                "grpShowSurvSelRival": false,
                 "subgroups": [
                     {
+                        "entID": 1379,
                         "termKRQualtrics": "NHL",
                         "grpShowSurvSelRival": true,
                         "subgroups": [
@@ -882,17 +2243,17 @@
                                 ],
                                 "entID": 1380
                             }
-                        ],
-                        "entID": 1379
+                        ]
                     }
                 ]
             },
             {
-                "entID":1327,
-                "termKRQualtrics":"Soccer",
-                "grpShowSurvSelRival":false,
-                "subgroups":[
+                "entID": 1327,
+                "termKRQualtrics": "Soccer",
+                "grpShowSurvSelRival": false,
+                "subgroups": [
                     {
+                        "entID": 1339,
                         "termKRQualtrics": "MLS",
                         "grpShowSurvSelRival": true,
                         "subgroups": [
@@ -1006,8 +2367,7 @@
                                 ],
                                 "entID": 1340
                             }
-                        ],
-                        "entID": 1339
+                        ]
                     }
                 ]
             },

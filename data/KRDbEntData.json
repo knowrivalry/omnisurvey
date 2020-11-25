@@ -1,203 +1,5 @@
 ﻿[
   {
-    "RecIdentifier": "DataForEnt296",
-    "Omnidata": {
-      "TopGroupingNameThe": "the AFL",
-      "entityNameThe": "the Adelaide Crows",
-      "TopGroupingID": 1428,
-      "entID": 296,
-      "entityName": "Adelaide Crows",
-      "TopGroupingName": "AFL"
-    }
-  },
-  {
-    "RecIdentifier": "DataForEnt297",
-    "Omnidata": {
-      "TopGroupingNameThe": "the AFL",
-      "entityNameThe": "the Brisbane Lions",
-      "TopGroupingID": 1428,
-      "entID": 297,
-      "entityName": "Brisbane Lions",
-      "TopGroupingName": "AFL"
-    }
-  },
-  {
-    "RecIdentifier": "DataForEnt298",
-    "Omnidata": {
-      "TopGroupingNameThe": "the AFL",
-      "entityNameThe": "the Carlton Blues",
-      "TopGroupingID": 1428,
-      "entID": 298,
-      "entityName": "Carlton Blues",
-      "TopGroupingName": "AFL"
-    }
-  },
-  {
-    "RecIdentifier": "DataForEnt299",
-    "Omnidata": {
-      "TopGroupingNameThe": "the AFL",
-      "entityNameThe": "the Collingwood Magpies",
-      "TopGroupingID": 1428,
-      "entID": 299,
-      "entityName": "Collingwood Magpies",
-      "TopGroupingName": "AFL"
-    }
-  },
-  {
-    "RecIdentifier": "DataForEnt300",
-    "Omnidata": {
-      "TopGroupingNameThe": "the AFL",
-      "entityNameThe": "the Essendon Bombers",
-      "TopGroupingID": 1428,
-      "entID": 300,
-      "entityName": "Essendon Bombers",
-      "TopGroupingName": "AFL"
-    }
-  },
-  {
-    "RecIdentifier": "DataForEnt301",
-    "Omnidata": {
-      "TopGroupingNameThe": "the AFL",
-      "entityNameThe": "the Fremantle Dockers",
-      "TopGroupingID": 1428,
-      "entID": 301,
-      "entityName": "Fremantle Dockers",
-      "TopGroupingName": "AFL"
-    }
-  },
-  {
-    "RecIdentifier": "DataForEnt304",
-    "Omnidata": {
-      "TopGroupingNameThe": "the AFL",
-      "entityNameThe": "the GWS Giants",
-      "TopGroupingID": 1428,
-      "entID": 304,
-      "entityName": "GWS Giants",
-      "TopGroupingName": "AFL"
-    }
-  },
-  {
-    "RecIdentifier": "DataForEnt302",
-    "Omnidata": {
-      "TopGroupingNameThe": "the AFL",
-      "entityNameThe": "the Geelong Cats",
-      "TopGroupingID": 1428,
-      "entID": 302,
-      "entityName": "Geelong Cats",
-      "TopGroupingName": "AFL"
-    }
-  },
-  {
-    "RecIdentifier": "DataForEnt303",
-    "Omnidata": {
-      "TopGroupingNameThe": "the AFL",
-      "entityNameThe": "the Gold Coast Suns",
-      "TopGroupingID": 1428,
-      "entID": 303,
-      "entityName": "Gold Coast Suns",
-      "TopGroupingName": "AFL"
-    }
-  },
-  {
-    "RecIdentifier": "DataForEnt305",
-    "Omnidata": {
-      "TopGroupingNameThe": "the AFL",
-      "entityNameThe": "the Hawthorn Hawks",
-      "TopGroupingID": 1428,
-      "entID": 305,
-      "entityName": "Hawthorn Hawks",
-      "TopGroupingName": "AFL"
-    }
-  },
-  {
-    "RecIdentifier": "DataForEnt306",
-    "Omnidata": {
-      "TopGroupingNameThe": "the AFL",
-      "entityNameThe": "the Melbourne Demons",
-      "TopGroupingID": 1428,
-      "entID": 306,
-      "entityName": "Melbourne Demons",
-      "TopGroupingName": "AFL"
-    }
-  },
-  {
-    "RecIdentifier": "DataForEnt307",
-    "Omnidata": {
-      "TopGroupingNameThe": "the AFL",
-      "entityNameThe": "the North Melbourne Kangaroos",
-      "TopGroupingID": 1428,
-      "entID": 307,
-      "entityName": "North Melbourne Kangaroos",
-      "TopGroupingName": "AFL"
-    }
-  },
-  {
-    "RecIdentifier": "DataForEnt308",
-    "Omnidata": {
-      "TopGroupingNameThe": "the AFL",
-      "entityNameThe": "the Port Adelaide Power",
-      "TopGroupingID": 1428,
-      "entID": 308,
-      "entityName": "Port Adelaide Power",
-      "TopGroupingName": "AFL"
-    }
-  },
-  {
-    "RecIdentifier": "DataForEnt309",
-    "Omnidata": {
-      "TopGroupingNameThe": "the AFL",
-      "entityNameThe": "the Richmond Tigers",
-      "TopGroupingID": 1428,
-      "entID": 309,
-      "entityName": "Richmond Tigers",
-      "TopGroupingName": "AFL"
-    }
-  },
-  {
-    "RecIdentifier": "DataForEnt310",
-    "Omnidata": {
-      "TopGroupingNameThe": "the AFL",
-      "entityNameThe": "the St Kilda Saints",
-      "TopGroupingID": 1428,
-      "entID": 310,
-      "entityName": "St Kilda Saints",
-      "TopGroupingName": "AFL"
-    }
-  },
-  {
-    "RecIdentifier": "DataForEnt311",
-    "Omnidata": {
-      "TopGroupingNameThe": "the AFL",
-      "entityNameThe": "the Sydney Swans",
-      "TopGroupingID": 1428,
-      "entID": 311,
-      "entityName": "Sydney Swans",
-      "TopGroupingName": "AFL"
-    }
-  },
-  {
-    "RecIdentifier": "DataForEnt312",
-    "Omnidata": {
-      "TopGroupingNameThe": "the AFL",
-      "entityNameThe": "the West Coast Eagles",
-      "TopGroupingID": 1428,
-      "entID": 312,
-      "entityName": "West Coast Eagles",
-      "TopGroupingName": "AFL"
-    }
-  },
-  {
-    "RecIdentifier": "DataForEnt313",
-    "Omnidata": {
-      "TopGroupingNameThe": "the AFL",
-      "entityNameThe": "the Western Bulldogs",
-      "TopGroupingID": 1428,
-      "entID": 313,
-      "entityName": "Western Bulldogs",
-      "TopGroupingName": "AFL"
-    }
-  },
-  {
     "RecIdentifier": "DataForEnt273",
     "Omnidata": {
       "TopGroupingNameThe": "the BBL",
@@ -286,861 +88,2819 @@
     }
   },
   {
-    "RecIdentifier": "DataForEnt1453",
+    "RecIdentifier": "DataForEnt1",
     "Omnidata": {
-      "TopGroupingNameThe": "the Bundesliga",
-      "entityNameThe": "Augsburg",
-      "TopGroupingID": 1452,
-      "entID": 1453,
-      "entityName": "Augsburg",
-      "TopGroupingName": "Bundesliga"
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Air Force",
+      "TopGroupingID": 1051,
+      "entID": 1,
+      "entityName": "Air Force",
+      "TopGroupingName": "FBS football"
     }
   },
   {
-    "RecIdentifier": "DataForEnt1464",
+    "RecIdentifier": "DataForEnt2",
     "Omnidata": {
-      "TopGroupingNameThe": "the Bundesliga",
-      "entityNameThe": "Bayer Leverkusen",
-      "TopGroupingID": 1452,
-      "entID": 1464,
-      "entityName": "Bayer Leverkusen",
-      "TopGroupingName": "Bundesliga"
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Akron",
+      "TopGroupingID": 1051,
+      "entID": 2,
+      "entityName": "Akron",
+      "TopGroupingName": "FBS football"
     }
   },
   {
-    "RecIdentifier": "DataForEnt1467",
+    "RecIdentifier": "DataForEnt3",
     "Omnidata": {
-      "TopGroupingNameThe": "the Bundesliga",
-      "entityNameThe": "Bayern München",
-      "TopGroupingID": 1452,
-      "entID": 1467,
-      "entityName": "Bayern München",
-      "TopGroupingName": "Bundesliga"
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Alabama",
+      "TopGroupingID": 1051,
+      "entID": 3,
+      "entityName": "Alabama",
+      "TopGroupingName": "FBS football"
     }
   },
   {
-    "RecIdentifier": "DataForEnt1457",
+    "RecIdentifier": "DataForEnt4",
     "Omnidata": {
-      "TopGroupingNameThe": "the Bundesliga",
-      "entityNameThe": "Borussia Dortmund",
-      "TopGroupingID": 1452,
-      "entID": 1457,
-      "entityName": "Borussia Dortmund",
-      "TopGroupingName": "Bundesliga"
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "App State",
+      "TopGroupingID": 1051,
+      "entID": 4,
+      "entityName": "App State",
+      "TopGroupingName": "FBS football"
     }
   },
   {
-    "RecIdentifier": "DataForEnt1459",
+    "RecIdentifier": "DataForEnt5",
     "Omnidata": {
-      "TopGroupingNameThe": "the Bundesliga",
-      "entityNameThe": "Eintracht",
-      "TopGroupingID": 1452,
-      "entID": 1459,
-      "entityName": "Eintracht",
-      "TopGroupingName": "Bundesliga"
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Arizona",
+      "TopGroupingID": 1051,
+      "entID": 5,
+      "entityName": "Arizona",
+      "TopGroupingName": "FBS football"
     }
   },
   {
-    "RecIdentifier": "DataForEnt1462",
+    "RecIdentifier": "DataForEnt6",
     "Omnidata": {
-      "TopGroupingNameThe": "the Bundesliga",
-      "entityNameThe": "FC Köln",
-      "TopGroupingID": 1452,
-      "entID": 1462,
-      "entityName": "FC Köln",
-      "TopGroupingName": "Bundesliga"
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Arizona St",
+      "TopGroupingID": 1051,
+      "entID": 6,
+      "entityName": "Arizona St",
+      "TopGroupingName": "FBS football"
     }
   },
   {
-    "RecIdentifier": "DataForEnt1458",
+    "RecIdentifier": "DataForEnt7",
     "Omnidata": {
-      "TopGroupingNameThe": "the Bundesliga",
-      "entityNameThe": "Fortuna Düsseldorf",
-      "TopGroupingID": 1452,
-      "entID": 1458,
-      "entityName": "Fortuna Düsseldorf",
-      "TopGroupingName": "Bundesliga"
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Arkansas",
+      "TopGroupingID": 1051,
+      "entID": 7,
+      "entityName": "Arkansas",
+      "TopGroupingName": "FBS football"
     }
   },
   {
-    "RecIdentifier": "DataForEnt1454",
+    "RecIdentifier": "DataForEnt8",
     "Omnidata": {
-      "TopGroupingNameThe": "the Bundesliga",
-      "entityNameThe": "Hertha BSC",
-      "TopGroupingID": 1452,
-      "entID": 1454,
-      "entityName": "Hertha BSC",
-      "TopGroupingName": "Bundesliga"
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Arkansas St",
+      "TopGroupingID": 1051,
+      "entID": 8,
+      "entityName": "Arkansas St",
+      "TopGroupingName": "FBS football"
     }
   },
   {
-    "RecIdentifier": "DataForEnt1465",
+    "RecIdentifier": "DataForEnt9",
     "Omnidata": {
-      "TopGroupingNameThe": "the Bundesliga",
-      "entityNameThe": "Mainz",
-      "TopGroupingID": 1452,
-      "entID": 1465,
-      "entityName": "Mainz",
-      "TopGroupingName": "Bundesliga"
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Army",
+      "TopGroupingID": 1051,
+      "entID": 9,
+      "entityName": "Army",
+      "TopGroupingName": "FBS football"
     }
   },
   {
-    "RecIdentifier": "DataForEnt1466",
+    "RecIdentifier": "DataForEnt10",
     "Omnidata": {
-      "TopGroupingNameThe": "the Bundesliga",
-      "entityNameThe": "Mönchengladbach",
-      "TopGroupingID": 1452,
-      "entID": 1466,
-      "entityName": "Mönchengladbach",
-      "TopGroupingName": "Bundesliga"
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Auburn",
+      "TopGroupingID": 1051,
+      "entID": 10,
+      "entityName": "Auburn",
+      "TopGroupingName": "FBS football"
     }
   },
   {
-    "RecIdentifier": "DataForEnt1468",
+    "RecIdentifier": "DataForEnt17",
     "Omnidata": {
-      "TopGroupingNameThe": "the Bundesliga",
-      "entityNameThe": "Paderborn",
-      "TopGroupingID": 1452,
-      "entID": 1468,
-      "entityName": "Paderborn",
-      "TopGroupingName": "Bundesliga"
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "BYU",
+      "TopGroupingID": 1051,
+      "entID": 17,
+      "entityName": "BYU",
+      "TopGroupingName": "FBS football"
     }
   },
   {
-    "RecIdentifier": "DataForEnt1463",
+    "RecIdentifier": "DataForEnt11",
     "Omnidata": {
-      "TopGroupingNameThe": "the Bundesliga",
-      "entityNameThe": "RB Leipzig",
-      "TopGroupingID": 1452,
-      "entID": 1463,
-      "entityName": "RB Leipzig",
-      "TopGroupingName": "Bundesliga"
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Ball St",
+      "TopGroupingID": 1051,
+      "entID": 11,
+      "entityName": "Ball St",
+      "TopGroupingName": "FBS football"
     }
   },
   {
-    "RecIdentifier": "DataForEnt1460",
+    "RecIdentifier": "DataForEnt12",
     "Omnidata": {
-      "TopGroupingNameThe": "the Bundesliga",
-      "entityNameThe": "SC Freiburg",
-      "TopGroupingID": 1452,
-      "entID": 1460,
-      "entityName": "SC Freiburg",
-      "TopGroupingName": "Bundesliga"
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Baylor",
+      "TopGroupingID": 1051,
+      "entID": 12,
+      "entityName": "Baylor",
+      "TopGroupingName": "FBS football"
     }
   },
   {
-    "RecIdentifier": "DataForEnt1469",
+    "RecIdentifier": "DataForEnt13",
     "Omnidata": {
-      "TopGroupingNameThe": "the Bundesliga",
-      "entityNameThe": "Schalke",
-      "TopGroupingID": 1452,
-      "entID": 1469,
-      "entityName": "Schalke",
-      "TopGroupingName": "Bundesliga"
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Boise St",
+      "TopGroupingID": 1051,
+      "entID": 13,
+      "entityName": "Boise St",
+      "TopGroupingName": "FBS football"
     }
   },
   {
-    "RecIdentifier": "DataForEnt1461",
+    "RecIdentifier": "DataForEnt14",
     "Omnidata": {
-      "TopGroupingNameThe": "the Bundesliga",
-      "entityNameThe": "TSG 1899 Hoffenheim",
-      "TopGroupingID": 1452,
-      "entID": 1461,
-      "entityName": "TSG 1899 Hoffenheim",
-      "TopGroupingName": "Bundesliga"
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Boston College",
+      "TopGroupingID": 1051,
+      "entID": 14,
+      "entityName": "Boston College",
+      "TopGroupingName": "FBS football"
     }
   },
   {
-    "RecIdentifier": "DataForEnt1455",
+    "RecIdentifier": "DataForEnt15",
     "Omnidata": {
-      "TopGroupingNameThe": "the Bundesliga",
-      "entityNameThe": "Union Berlin",
-      "TopGroupingID": 1452,
-      "entID": 1455,
-      "entityName": "Union Berlin",
-      "TopGroupingName": "Bundesliga"
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Bowling Green",
+      "TopGroupingID": 1051,
+      "entID": 15,
+      "entityName": "Bowling Green",
+      "TopGroupingName": "FBS football"
     }
   },
   {
-    "RecIdentifier": "DataForEnt1456",
+    "RecIdentifier": "DataForEnt16",
     "Omnidata": {
-      "TopGroupingNameThe": "the Bundesliga",
-      "entityNameThe": "Werder Bremen",
-      "TopGroupingID": 1452,
-      "entID": 1456,
-      "entityName": "Werder Bremen",
-      "TopGroupingName": "Bundesliga"
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Buffalo",
+      "TopGroupingID": 1051,
+      "entID": 16,
+      "entityName": "Buffalo",
+      "TopGroupingName": "FBS football"
     }
   },
   {
-    "RecIdentifier": "DataForEnt1470",
+    "RecIdentifier": "DataForEnt18",
     "Omnidata": {
-      "TopGroupingNameThe": "the Bundesliga",
-      "entityNameThe": "Wolfsburg",
-      "TopGroupingID": 1452,
-      "entID": 1470,
-      "entityName": "Wolfsburg",
-      "TopGroupingName": "Bundesliga"
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Cal",
+      "TopGroupingID": 1051,
+      "entID": 18,
+      "entityName": "Cal",
+      "TopGroupingName": "FBS football"
     }
   },
   {
-    "RecIdentifier": "DataForEnt1432",
+    "RecIdentifier": "DataForEnt19",
     "Omnidata": {
-      "TopGroupingNameThe": "the CFL",
-      "entityNameThe": "the BC Lions",
-      "TopGroupingID": 1429,
-      "entID": 1432,
-      "entityName": "BC Lions",
-      "TopGroupingName": "CFL"
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Central Michigan",
+      "TopGroupingID": 1051,
+      "entID": 19,
+      "entityName": "Central Michigan",
+      "TopGroupingName": "FBS football"
     }
   },
   {
-    "RecIdentifier": "DataForEnt1433",
+    "RecIdentifier": "DataForEnt111",
     "Omnidata": {
-      "TopGroupingNameThe": "the CFL",
-      "entityNameThe": "the Calgary Stampeders",
-      "TopGroupingID": 1429,
-      "entID": 1433,
-      "entityName": "Calgary Stampeders",
-      "TopGroupingName": "CFL"
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Charlotte",
+      "TopGroupingID": 1051,
+      "entID": 111,
+      "entityName": "Charlotte",
+      "TopGroupingName": "FBS football"
     }
   },
   {
-    "RecIdentifier": "DataForEnt1434",
+    "RecIdentifier": "DataForEnt20",
     "Omnidata": {
-      "TopGroupingNameThe": "the CFL",
-      "entityNameThe": "the Edmonton Eskimos",
-      "TopGroupingID": 1429,
-      "entID": 1434,
-      "entityName": "Edmonton Eskimos",
-      "TopGroupingName": "CFL"
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Cincinnati",
+      "TopGroupingID": 1051,
+      "entID": 20,
+      "entityName": "Cincinnati",
+      "TopGroupingName": "FBS football"
     }
   },
   {
-    "RecIdentifier": "DataForEnt1437",
+    "RecIdentifier": "DataForEnt21",
     "Omnidata": {
-      "TopGroupingNameThe": "the CFL",
-      "entityNameThe": "the Hamilton Tiger-Cats",
-      "TopGroupingID": 1429,
-      "entID": 1437,
-      "entityName": "Hamilton Tiger-Cats",
-      "TopGroupingName": "CFL"
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Clemson",
+      "TopGroupingID": 1051,
+      "entID": 21,
+      "entityName": "Clemson",
+      "TopGroupingName": "FBS football"
     }
   },
   {
-    "RecIdentifier": "DataForEnt1438",
+    "RecIdentifier": "DataForEnt285",
     "Omnidata": {
-      "TopGroupingNameThe": "the CFL",
-      "entityNameThe": "the Montreal Alouettes",
-      "TopGroupingID": 1429,
-      "entID": 1438,
-      "entityName": "Montreal Alouettes",
-      "TopGroupingName": "CFL"
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Coastal Carolina",
+      "TopGroupingID": 1051,
+      "entID": 285,
+      "entityName": "Coastal Carolina",
+      "TopGroupingName": "FBS football"
     }
   },
   {
-    "RecIdentifier": "DataForEnt1439",
+    "RecIdentifier": "DataForEnt22",
     "Omnidata": {
-      "TopGroupingNameThe": "the CFL",
-      "entityNameThe": "the Ottawa Redblacks",
-      "TopGroupingID": 1429,
-      "entID": 1439,
-      "entityName": "Ottawa Redblacks",
-      "TopGroupingName": "CFL"
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Colorado",
+      "TopGroupingID": 1051,
+      "entID": 22,
+      "entityName": "Colorado",
+      "TopGroupingName": "FBS football"
     }
   },
   {
-    "RecIdentifier": "DataForEnt1435",
+    "RecIdentifier": "DataForEnt23",
     "Omnidata": {
-      "TopGroupingNameThe": "the CFL",
-      "entityNameThe": "the Saskatchewan Roughriders",
-      "TopGroupingID": 1429,
-      "entID": 1435,
-      "entityName": "Saskatchewan Roughriders",
-      "TopGroupingName": "CFL"
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Colorado St",
+      "TopGroupingID": 1051,
+      "entID": 23,
+      "entityName": "Colorado St",
+      "TopGroupingName": "FBS football"
     }
   },
   {
-    "RecIdentifier": "DataForEnt1440",
+    "RecIdentifier": "DataForEnt24",
     "Omnidata": {
-      "TopGroupingNameThe": "the CFL",
-      "entityNameThe": "the Toronto Argonauts",
-      "TopGroupingID": 1429,
-      "entID": 1440,
-      "entityName": "Toronto Argonauts",
-      "TopGroupingName": "CFL"
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Duke",
+      "TopGroupingID": 1051,
+      "entID": 24,
+      "entityName": "Duke",
+      "TopGroupingName": "FBS football"
     }
   },
   {
-    "RecIdentifier": "DataForEnt1436",
+    "RecIdentifier": "DataForEnt25",
     "Omnidata": {
-      "TopGroupingNameThe": "the CFL",
-      "entityNameThe": "the Winnipeg Blue Bombers",
-      "TopGroupingID": 1429,
-      "entID": 1436,
-      "entityName": "Winnipeg Blue Bombers",
-      "TopGroupingName": "CFL"
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "East Carolina",
+      "TopGroupingID": 1051,
+      "entID": 25,
+      "entityName": "East Carolina",
+      "TopGroupingName": "FBS football"
     }
   },
   {
-    "RecIdentifier": "DataForEnt1442",
+    "RecIdentifier": "DataForEnt26",
     "Omnidata": {
-      "TopGroupingNameThe": "the CPL",
-      "entityNameThe": "Cavalry FC",
-      "TopGroupingID": 1441,
-      "entID": 1442,
-      "entityName": "Cavalry FC",
-      "TopGroupingName": "CPL"
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Eastern Michigan",
+      "TopGroupingID": 1051,
+      "entID": 26,
+      "entityName": "Eastern Michigan",
+      "TopGroupingName": "FBS football"
     }
   },
   {
-    "RecIdentifier": "DataForEnt1443",
+    "RecIdentifier": "DataForEnt27",
     "Omnidata": {
-      "TopGroupingNameThe": "the CPL",
-      "entityNameThe": "FC Edmonton",
-      "TopGroupingID": 1441,
-      "entID": 1443,
-      "entityName": "FC Edmonton",
-      "TopGroupingName": "CPL"
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "FIU",
+      "TopGroupingID": 1051,
+      "entID": 27,
+      "entityName": "FIU",
+      "TopGroupingName": "FBS football"
     }
   },
   {
-    "RecIdentifier": "DataForEnt1444",
+    "RecIdentifier": "DataForEnt28",
     "Omnidata": {
-      "TopGroupingNameThe": "the CPL",
-      "entityNameThe": "Forge FC",
-      "TopGroupingID": 1441,
-      "entID": 1444,
-      "entityName": "Forge FC",
-      "TopGroupingName": "CPL"
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Florida",
+      "TopGroupingID": 1051,
+      "entID": 28,
+      "entityName": "Florida",
+      "TopGroupingName": "FBS football"
     }
   },
   {
-    "RecIdentifier": "DataForEnt1445",
+    "RecIdentifier": "DataForEnt29",
     "Omnidata": {
-      "TopGroupingNameThe": "the CPL",
-      "entityNameThe": "HFX Wanderers FC",
-      "TopGroupingID": 1441,
-      "entID": 1445,
-      "entityName": "HFX Wanderers FC",
-      "TopGroupingName": "CPL"
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Florida Atlantic",
+      "TopGroupingID": 1051,
+      "entID": 29,
+      "entityName": "Florida Atlantic",
+      "TopGroupingName": "FBS football"
     }
   },
   {
-    "RecIdentifier": "DataForEnt1446",
+    "RecIdentifier": "DataForEnt30",
     "Omnidata": {
-      "TopGroupingNameThe": "the CPL",
-      "entityNameThe": "Pacific FC",
-      "TopGroupingID": 1441,
-      "entID": 1446,
-      "entityName": "Pacific FC",
-      "TopGroupingName": "CPL"
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Florida St",
+      "TopGroupingID": 1051,
+      "entID": 30,
+      "entityName": "Florida St",
+      "TopGroupingName": "FBS football"
     }
   },
   {
-    "RecIdentifier": "DataForEnt1447",
+    "RecIdentifier": "DataForEnt31",
     "Omnidata": {
-      "TopGroupingNameThe": "the CPL",
-      "entityNameThe": "Valour FC",
-      "TopGroupingID": 1441,
-      "entID": 1447,
-      "entityName": "Valour FC",
-      "TopGroupingName": "CPL"
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Fresno St",
+      "TopGroupingID": 1051,
+      "entID": 31,
+      "entityName": "Fresno St",
+      "TopGroupingName": "FBS football"
     }
   },
   {
-    "RecIdentifier": "DataForEnt1448",
+    "RecIdentifier": "DataForEnt32",
     "Omnidata": {
-      "TopGroupingNameThe": "the CPL",
-      "entityNameThe": "York9 FC",
-      "TopGroupingID": 1441,
-      "entID": 1448,
-      "entityName": "York9 FC",
-      "TopGroupingName": "CPL"
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Georgia",
+      "TopGroupingID": 1051,
+      "entID": 32,
+      "entityName": "Georgia",
+      "TopGroupingName": "FBS football"
     }
   },
   {
-    "RecIdentifier": "DataForEnt443",
+    "RecIdentifier": "DataForEnt33",
     "Omnidata": {
-      "TopGroupingNameThe": "the Championship",
-      "entityNameThe": "Barnsley",
-      "TopGroupingID": 1422,
-      "entID": 443,
-      "entityName": "Barnsley",
-      "TopGroupingName": "Championship"
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Georgia Southern",
+      "TopGroupingID": 1051,
+      "entID": 33,
+      "entityName": "Georgia Southern",
+      "TopGroupingName": "FBS football"
     }
   },
   {
-    "RecIdentifier": "DataForEnt444",
+    "RecIdentifier": "DataForEnt34",
     "Omnidata": {
-      "TopGroupingNameThe": "the Championship",
-      "entityNameThe": "Birmingham",
-      "TopGroupingID": 1422,
-      "entID": 444,
-      "entityName": "Birmingham",
-      "TopGroupingName": "Championship"
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Georgia St",
+      "TopGroupingID": 1051,
+      "entID": 34,
+      "entityName": "Georgia St",
+      "TopGroupingName": "FBS football"
     }
   },
   {
-    "RecIdentifier": "DataForEnt445",
+    "RecIdentifier": "DataForEnt35",
     "Omnidata": {
-      "TopGroupingNameThe": "the Championship",
-      "entityNameThe": "Blackburn",
-      "TopGroupingID": 1422,
-      "entID": 445,
-      "entityName": "Blackburn",
-      "TopGroupingName": "Championship"
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Georgia Tech",
+      "TopGroupingID": 1051,
+      "entID": 35,
+      "entityName": "Georgia Tech",
+      "TopGroupingName": "FBS football"
     }
   },
   {
-    "RecIdentifier": "DataForEnt450",
+    "RecIdentifier": "DataForEnt36",
     "Omnidata": {
-      "TopGroupingNameThe": "the Championship",
-      "entityNameThe": "Brentford",
-      "TopGroupingID": 1422,
-      "entID": 450,
-      "entityName": "Brentford",
-      "TopGroupingName": "Championship"
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Hawai'i",
+      "TopGroupingID": 1051,
+      "entID": 36,
+      "entityName": "Hawai'i",
+      "TopGroupingName": "FBS football"
     }
   },
   {
-    "RecIdentifier": "DataForEnt452",
+    "RecIdentifier": "DataForEnt37",
     "Omnidata": {
-      "TopGroupingNameThe": "the Championship",
-      "entityNameThe": "Bristol City",
-      "TopGroupingID": 1422,
-      "entID": 452,
-      "entityName": "Bristol City",
-      "TopGroupingName": "Championship"
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Houston",
+      "TopGroupingID": 1051,
+      "entID": 37,
+      "entityName": "Houston",
+      "TopGroupingName": "FBS football"
     }
   },
   {
-    "RecIdentifier": "DataForEnt458",
+    "RecIdentifier": "DataForEnt39",
     "Omnidata": {
-      "TopGroupingNameThe": "the Championship",
-      "entityNameThe": "Cardiff City",
-      "TopGroupingID": 1422,
-      "entID": 458,
-      "entityName": "Cardiff City",
-      "TopGroupingName": "Championship"
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Illinois",
+      "TopGroupingID": 1051,
+      "entID": 39,
+      "entityName": "Illinois",
+      "TopGroupingName": "FBS football"
     }
   },
   {
-    "RecIdentifier": "DataForEnt460",
+    "RecIdentifier": "DataForEnt40",
     "Omnidata": {
-      "TopGroupingNameThe": "the Championship",
-      "entityNameThe": "Charlton",
-      "TopGroupingID": 1422,
-      "entID": 460,
-      "entityName": "Charlton",
-      "TopGroupingName": "Championship"
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Indiana",
+      "TopGroupingID": 1051,
+      "entID": 40,
+      "entityName": "Indiana",
+      "TopGroupingName": "FBS football"
     }
   },
   {
-    "RecIdentifier": "DataForEnt469",
+    "RecIdentifier": "DataForEnt41",
     "Omnidata": {
-      "TopGroupingNameThe": "the Championship",
-      "entityNameThe": "Derby",
-      "TopGroupingID": 1422,
-      "entID": 469,
-      "entityName": "Derby",
-      "TopGroupingName": "Championship"
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Iowa",
+      "TopGroupingID": 1051,
+      "entID": 41,
+      "entityName": "Iowa",
+      "TopGroupingName": "FBS football"
     }
   },
   {
-    "RecIdentifier": "DataForEnt474",
+    "RecIdentifier": "DataForEnt42",
     "Omnidata": {
-      "TopGroupingNameThe": "the Championship",
-      "entityNameThe": "Fulham",
-      "TopGroupingID": 1422,
-      "entID": 474,
-      "entityName": "Fulham",
-      "TopGroupingName": "Championship"
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Iowa St",
+      "TopGroupingID": 1051,
+      "entID": 42,
+      "entityName": "Iowa St",
+      "TopGroupingName": "FBS football"
     }
   },
   {
-    "RecIdentifier": "DataForEnt477",
+    "RecIdentifier": "DataForEnt43",
     "Omnidata": {
-      "TopGroupingNameThe": "the Championship",
-      "entityNameThe": "Huddersfield",
-      "TopGroupingID": 1422,
-      "entID": 477,
-      "entityName": "Huddersfield",
-      "TopGroupingName": "Championship"
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Kansas",
+      "TopGroupingID": 1051,
+      "entID": 43,
+      "entityName": "Kansas",
+      "TopGroupingName": "FBS football"
     }
   },
   {
-    "RecIdentifier": "DataForEnt478",
+    "RecIdentifier": "DataForEnt44",
     "Omnidata": {
-      "TopGroupingNameThe": "the Championship",
-      "entityNameThe": "Hull City",
-      "TopGroupingID": 1422,
-      "entID": 478,
-      "entityName": "Hull City",
-      "TopGroupingName": "Championship"
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Kansas St",
+      "TopGroupingID": 1051,
+      "entID": 44,
+      "entityName": "Kansas St",
+      "TopGroupingName": "FBS football"
     }
   },
   {
-    "RecIdentifier": "DataForEnt480",
+    "RecIdentifier": "DataForEnt45",
     "Omnidata": {
-      "TopGroupingNameThe": "the Championship",
-      "entityNameThe": "Leeds",
-      "TopGroupingID": 1422,
-      "entID": 480,
-      "entityName": "Leeds",
-      "TopGroupingName": "Championship"
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Kent St",
+      "TopGroupingID": 1051,
+      "entID": 45,
+      "entityName": "Kent St",
+      "TopGroupingName": "FBS football"
     }
   },
   {
-    "RecIdentifier": "DataForEnt484",
+    "RecIdentifier": "DataForEnt46",
     "Omnidata": {
-      "TopGroupingNameThe": "the Championship",
-      "entityNameThe": "Luton Town",
-      "TopGroupingID": 1422,
-      "entID": 484,
-      "entityName": "Luton Town",
-      "TopGroupingName": "Championship"
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Kentucky",
+      "TopGroupingID": 1051,
+      "entID": 46,
+      "entityName": "Kentucky",
+      "TopGroupingName": "FBS football"
     }
   },
   {
-    "RecIdentifier": "DataForEnt488",
+    "RecIdentifier": "DataForEnt51",
     "Omnidata": {
-      "TopGroupingNameThe": "the Championship",
-      "entityNameThe": "Middlesbrough",
-      "TopGroupingID": 1422,
-      "entID": 488,
-      "entityName": "Middlesbrough",
-      "TopGroupingName": "Championship"
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "LSU",
+      "TopGroupingID": 1051,
+      "entID": 51,
+      "entityName": "LSU",
+      "TopGroupingName": "FBS football"
     }
   },
   {
-    "RecIdentifier": "DataForEnt489",
+    "RecIdentifier": "DataForEnt286",
     "Omnidata": {
-      "TopGroupingNameThe": "the Championship",
-      "entityNameThe": "Millwall",
-      "TopGroupingID": 1422,
-      "entID": 489,
-      "entityName": "Millwall",
-      "TopGroupingName": "Championship"
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Liberty Univ",
+      "TopGroupingID": 1051,
+      "entID": 286,
+      "entityName": "Liberty Univ",
+      "TopGroupingName": "FBS football"
     }
   },
   {
-    "RecIdentifier": "DataForEnt496",
+    "RecIdentifier": "DataForEnt47",
     "Omnidata": {
-      "TopGroupingNameThe": "the Championship",
-      "entityNameThe": "Nottingham Forest",
-      "TopGroupingID": 1422,
-      "entID": 496,
-      "entityName": "Nottingham Forest",
-      "TopGroupingName": "Championship"
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Louisiana Tech",
+      "TopGroupingID": 1051,
+      "entID": 47,
+      "entityName": "Louisiana Tech",
+      "TopGroupingName": "FBS football"
     }
   },
   {
-    "RecIdentifier": "DataForEnt504",
+    "RecIdentifier": "DataForEnt48",
     "Omnidata": {
-      "TopGroupingNameThe": "the Championship",
-      "entityNameThe": "Preston",
-      "TopGroupingID": 1422,
-      "entID": 504,
-      "entityName": "Preston",
-      "TopGroupingName": "Championship"
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Louisiana-Lafayette",
+      "TopGroupingID": 1051,
+      "entID": 48,
+      "entityName": "Louisiana-Lafayette",
+      "TopGroupingName": "FBS football"
     }
   },
   {
-    "RecIdentifier": "DataForEnt505",
+    "RecIdentifier": "DataForEnt49",
     "Omnidata": {
-      "TopGroupingNameThe": "the Championship",
-      "entityNameThe": "QPR",
-      "TopGroupingID": 1422,
-      "entID": 505,
-      "entityName": "QPR",
-      "TopGroupingName": "Championship"
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Louisiana-Monroe",
+      "TopGroupingID": 1051,
+      "entID": 49,
+      "entityName": "Louisiana-Monroe",
+      "TopGroupingName": "FBS football"
     }
   },
   {
-    "RecIdentifier": "DataForEnt506",
+    "RecIdentifier": "DataForEnt50",
     "Omnidata": {
-      "TopGroupingNameThe": "the Championship",
-      "entityNameThe": "Reading",
-      "TopGroupingID": 1422,
-      "entID": 506,
-      "entityName": "Reading",
-      "TopGroupingName": "Championship"
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Louisville",
+      "TopGroupingID": 1051,
+      "entID": 50,
+      "entityName": "Louisville",
+      "TopGroupingName": "FBS football"
     }
   },
   {
-    "RecIdentifier": "DataForEnt511",
+    "RecIdentifier": "DataForEnt52",
     "Omnidata": {
-      "TopGroupingNameThe": "the Championship",
-      "entityNameThe": "Sheffield Wednesday",
-      "TopGroupingID": 1422,
-      "entID": 511,
-      "entityName": "Sheffield Wednesday",
-      "TopGroupingName": "Championship"
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Marshall",
+      "TopGroupingID": 1051,
+      "entID": 52,
+      "entityName": "Marshall",
+      "TopGroupingName": "FBS football"
     }
   },
   {
-    "RecIdentifier": "DataForEnt516",
+    "RecIdentifier": "DataForEnt53",
     "Omnidata": {
-      "TopGroupingNameThe": "the Championship",
-      "entityNameThe": "Stoke",
-      "TopGroupingID": 1422,
-      "entID": 516,
-      "entityName": "Stoke",
-      "TopGroupingName": "Championship"
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Maryland",
+      "TopGroupingID": 1051,
+      "entID": 53,
+      "entityName": "Maryland",
+      "TopGroupingName": "FBS football"
     }
   },
   {
-    "RecIdentifier": "DataForEnt518",
+    "RecIdentifier": "DataForEnt54",
     "Omnidata": {
-      "TopGroupingNameThe": "the Championship",
-      "entityNameThe": "Swansea",
-      "TopGroupingID": 1422,
-      "entID": 518,
-      "entityName": "Swansea",
-      "TopGroupingName": "Championship"
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Memphis",
+      "TopGroupingID": 1051,
+      "entID": 54,
+      "entityName": "Memphis",
+      "TopGroupingName": "FBS football"
     }
   },
   {
-    "RecIdentifier": "DataForEnt523",
+    "RecIdentifier": "DataForEnt55",
     "Omnidata": {
-      "TopGroupingNameThe": "the Championship",
-      "entityNameThe": "West Brom",
-      "TopGroupingID": 1422,
-      "entID": 523,
-      "entityName": "West Brom",
-      "TopGroupingName": "Championship"
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Miami-FL",
+      "TopGroupingID": 1051,
+      "entID": 55,
+      "entityName": "Miami-FL",
+      "TopGroupingName": "FBS football"
     }
   },
   {
-    "RecIdentifier": "DataForEnt525",
+    "RecIdentifier": "DataForEnt56",
     "Omnidata": {
-      "TopGroupingNameThe": "the Championship",
-      "entityNameThe": "Wigan Athletic",
-      "TopGroupingID": 1422,
-      "entID": 525,
-      "entityName": "Wigan Athletic",
-      "TopGroupingName": "Championship"
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Miami-OH",
+      "TopGroupingID": 1051,
+      "entID": 56,
+      "entityName": "Miami-OH",
+      "TopGroupingName": "FBS football"
     }
   },
   {
-    "RecIdentifier": "DataForEnt440",
+    "RecIdentifier": "DataForEnt57",
     "Omnidata": {
-      "TopGroupingNameThe": "the EPL",
-      "entityNameThe": "Arsenal",
-      "TopGroupingID": 1336,
-      "entID": 440,
-      "entityName": "Arsenal",
-      "TopGroupingName": "EPL"
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Michigan",
+      "TopGroupingID": 1051,
+      "entID": 57,
+      "entityName": "Michigan",
+      "TopGroupingName": "FBS football"
     }
   },
   {
-    "RecIdentifier": "DataForEnt441",
+    "RecIdentifier": "DataForEnt58",
     "Omnidata": {
-      "TopGroupingNameThe": "the EPL",
-      "entityNameThe": "Aston Villa",
-      "TopGroupingID": 1336,
-      "entID": 441,
-      "entityName": "Aston Villa",
-      "TopGroupingName": "EPL"
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Michigan St",
+      "TopGroupingID": 1051,
+      "entID": 58,
+      "entityName": "Michigan St",
+      "TopGroupingName": "FBS football"
     }
   },
   {
-    "RecIdentifier": "DataForEnt448",
+    "RecIdentifier": "DataForEnt59",
     "Omnidata": {
-      "TopGroupingNameThe": "the EPL",
-      "entityNameThe": "Bournemouth",
-      "TopGroupingID": 1336,
-      "entID": 448,
-      "entityName": "Bournemouth",
-      "TopGroupingName": "EPL"
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Middle Tennessee",
+      "TopGroupingID": 1051,
+      "entID": 59,
+      "entityName": "Middle Tennessee",
+      "TopGroupingName": "FBS football"
     }
   },
   {
-    "RecIdentifier": "DataForEnt451",
+    "RecIdentifier": "DataForEnt60",
     "Omnidata": {
-      "TopGroupingNameThe": "the EPL",
-      "entityNameThe": "Brighton",
-      "TopGroupingID": 1336,
-      "entID": 451,
-      "entityName": "Brighton",
-      "TopGroupingName": "EPL"
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Minnesota",
+      "TopGroupingID": 1051,
+      "entID": 60,
+      "entityName": "Minnesota",
+      "TopGroupingName": "FBS football"
     }
   },
   {
-    "RecIdentifier": "DataForEnt454",
+    "RecIdentifier": "DataForEnt61",
     "Omnidata": {
-      "TopGroupingNameThe": "the EPL",
-      "entityNameThe": "Burnley",
-      "TopGroupingID": 1336,
-      "entID": 454,
-      "entityName": "Burnley",
-      "TopGroupingName": "EPL"
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Mississippi St",
+      "TopGroupingID": 1051,
+      "entID": 61,
+      "entityName": "Mississippi St",
+      "TopGroupingName": "FBS football"
     }
   },
   {
-    "RecIdentifier": "DataForEnt461",
+    "RecIdentifier": "DataForEnt62",
     "Omnidata": {
-      "TopGroupingNameThe": "the EPL",
-      "entityNameThe": "Chelsea",
-      "TopGroupingID": 1336,
-      "entID": 461,
-      "entityName": "Chelsea",
-      "TopGroupingName": "EPL"
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Missouri",
+      "TopGroupingID": 1051,
+      "entID": 62,
+      "entityName": "Missouri",
+      "TopGroupingName": "FBS football"
     }
   },
   {
-    "RecIdentifier": "DataForEnt467",
+    "RecIdentifier": "DataForEnt64",
     "Omnidata": {
-      "TopGroupingNameThe": "the EPL",
-      "entityNameThe": "Crystal Palace",
-      "TopGroupingID": 1336,
-      "entID": 467,
-      "entityName": "Crystal Palace",
-      "TopGroupingName": "EPL"
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "NC State",
+      "TopGroupingID": 1051,
+      "entID": 64,
+      "entityName": "NC State",
+      "TopGroupingName": "FBS football"
     }
   },
   {
-    "RecIdentifier": "DataForEnt471",
+    "RecIdentifier": "DataForEnt69",
     "Omnidata": {
-      "TopGroupingNameThe": "the EPL",
-      "entityNameThe": "Everton",
-      "TopGroupingID": 1336,
-      "entID": 471,
-      "entityName": "Everton",
-      "TopGroupingName": "EPL"
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "NIU",
+      "TopGroupingID": 1051,
+      "entID": 69,
+      "entityName": "NIU",
+      "TopGroupingName": "FBS football"
     }
   },
   {
-    "RecIdentifier": "DataForEnt481",
+    "RecIdentifier": "DataForEnt63",
     "Omnidata": {
-      "TopGroupingNameThe": "the EPL",
-      "entityNameThe": "Leicester City",
-      "TopGroupingID": 1336,
-      "entID": 481,
-      "entityName": "Leicester City",
-      "TopGroupingName": "EPL"
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Navy",
+      "TopGroupingID": 1051,
+      "entID": 63,
+      "entityName": "Navy",
+      "TopGroupingName": "FBS football"
     }
   },
   {
-    "RecIdentifier": "DataForEnt483",
+    "RecIdentifier": "DataForEnt65",
     "Omnidata": {
-      "TopGroupingNameThe": "the EPL",
-      "entityNameThe": "Liverpool",
-      "TopGroupingID": 1336,
-      "entID": 483,
-      "entityName": "Liverpool",
-      "TopGroupingName": "EPL"
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Nebraska",
+      "TopGroupingID": 1051,
+      "entID": 65,
+      "entityName": "Nebraska",
+      "TopGroupingName": "FBS football"
     }
   },
   {
-    "RecIdentifier": "DataForEnt485",
+    "RecIdentifier": "DataForEnt66",
     "Omnidata": {
-      "TopGroupingNameThe": "the EPL",
-      "entityNameThe": "Man City",
-      "TopGroupingID": 1336,
-      "entID": 485,
-      "entityName": "Man City",
-      "TopGroupingName": "EPL"
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Nevada",
+      "TopGroupingID": 1051,
+      "entID": 66,
+      "entityName": "Nevada",
+      "TopGroupingName": "FBS football"
     }
   },
   {
-    "RecIdentifier": "DataForEnt486",
+    "RecIdentifier": "DataForEnt67",
     "Omnidata": {
-      "TopGroupingNameThe": "the EPL",
-      "entityNameThe": "Man United",
-      "TopGroupingID": 1336,
-      "entID": 486,
-      "entityName": "Man United",
-      "TopGroupingName": "EPL"
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "New Mexico",
+      "TopGroupingID": 1051,
+      "entID": 67,
+      "entityName": "New Mexico",
+      "TopGroupingName": "FBS football"
     }
   },
   {
-    "RecIdentifier": "DataForEnt492",
+    "RecIdentifier": "DataForEnt68",
     "Omnidata": {
-      "TopGroupingNameThe": "the EPL",
-      "entityNameThe": "Newcastle",
-      "TopGroupingID": 1336,
-      "entID": 492,
-      "entityName": "Newcastle",
-      "TopGroupingName": "EPL"
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "New Mexico St",
+      "TopGroupingID": 1051,
+      "entID": 68,
+      "entityName": "New Mexico St",
+      "TopGroupingName": "FBS football"
     }
   },
   {
-    "RecIdentifier": "DataForEnt495",
+    "RecIdentifier": "DataForEnt70",
     "Omnidata": {
-      "TopGroupingNameThe": "the EPL",
-      "entityNameThe": "Norwich",
-      "TopGroupingID": 1336,
-      "entID": 495,
-      "entityName": "Norwich",
-      "TopGroupingName": "EPL"
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "North Texas",
+      "TopGroupingID": 1051,
+      "entID": 70,
+      "entityName": "North Texas",
+      "TopGroupingName": "FBS football"
     }
   },
   {
-    "RecIdentifier": "DataForEnt510",
+    "RecIdentifier": "DataForEnt71",
     "Omnidata": {
-      "TopGroupingNameThe": "the EPL",
-      "entityNameThe": "Sheffield United",
-      "TopGroupingID": 1336,
-      "entID": 510,
-      "entityName": "Sheffield United",
-      "TopGroupingName": "EPL"
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Northwestern",
+      "TopGroupingID": 1051,
+      "entID": 71,
+      "entityName": "Northwestern",
+      "TopGroupingName": "FBS football"
     }
   },
   {
-    "RecIdentifier": "DataForEnt513",
+    "RecIdentifier": "DataForEnt72",
     "Omnidata": {
-      "TopGroupingNameThe": "the EPL",
-      "entityNameThe": "Southampton",
-      "TopGroupingID": 1336,
-      "entID": 513,
-      "entityName": "Southampton",
-      "TopGroupingName": "EPL"
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Notre Dame",
+      "TopGroupingID": 1051,
+      "entID": 72,
+      "entityName": "Notre Dame",
+      "TopGroupingName": "FBS football"
     }
   },
   {
-    "RecIdentifier": "DataForEnt520",
+    "RecIdentifier": "DataForEnt73",
     "Omnidata": {
-      "TopGroupingNameThe": "the EPL",
-      "entityNameThe": "Tottenham",
-      "TopGroupingID": 1336,
-      "entID": 520,
-      "entityName": "Tottenham",
-      "TopGroupingName": "EPL"
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "ODU",
+      "TopGroupingID": 1051,
+      "entID": 73,
+      "entityName": "ODU",
+      "TopGroupingName": "FBS football"
     }
   },
   {
-    "RecIdentifier": "DataForEnt522",
+    "RecIdentifier": "DataForEnt74",
     "Omnidata": {
-      "TopGroupingNameThe": "the EPL",
-      "entityNameThe": "Watford",
-      "TopGroupingID": 1336,
-      "entID": 522,
-      "entityName": "Watford",
-      "TopGroupingName": "EPL"
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Ohio",
+      "TopGroupingID": 1051,
+      "entID": 74,
+      "entityName": "Ohio",
+      "TopGroupingName": "FBS football"
     }
   },
   {
-    "RecIdentifier": "DataForEnt524",
+    "RecIdentifier": "DataForEnt75",
     "Omnidata": {
-      "TopGroupingNameThe": "the EPL",
-      "entityNameThe": "West Ham",
-      "TopGroupingID": 1336,
-      "entID": 524,
-      "entityName": "West Ham",
-      "TopGroupingName": "EPL"
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Ohio St",
+      "TopGroupingID": 1051,
+      "entID": 75,
+      "entityName": "Ohio St",
+      "TopGroupingName": "FBS football"
     }
   },
   {
-    "RecIdentifier": "DataForEnt526",
+    "RecIdentifier": "DataForEnt76",
     "Omnidata": {
-      "TopGroupingNameThe": "the EPL",
-      "entityNameThe": "Wolves",
-      "TopGroupingID": 1336,
-      "entID": 526,
-      "entityName": "Wolves",
-      "TopGroupingName": "EPL"
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Oklahoma",
+      "TopGroupingID": 1051,
+      "entID": 76,
+      "entityName": "Oklahoma",
+      "TopGroupingName": "FBS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt77",
+    "Omnidata": {
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Oklahoma St",
+      "TopGroupingID": 1051,
+      "entID": 77,
+      "entityName": "Oklahoma St",
+      "TopGroupingName": "FBS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt78",
+    "Omnidata": {
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Ole Miss",
+      "TopGroupingID": 1051,
+      "entID": 78,
+      "entityName": "Ole Miss",
+      "TopGroupingName": "FBS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt79",
+    "Omnidata": {
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Oregon",
+      "TopGroupingID": 1051,
+      "entID": 79,
+      "entityName": "Oregon",
+      "TopGroupingName": "FBS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt80",
+    "Omnidata": {
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Oregon St",
+      "TopGroupingID": 1051,
+      "entID": 80,
+      "entityName": "Oregon St",
+      "TopGroupingName": "FBS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt81",
+    "Omnidata": {
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Penn St",
+      "TopGroupingID": 1051,
+      "entID": 81,
+      "entityName": "Penn St",
+      "TopGroupingName": "FBS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt82",
+    "Omnidata": {
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Pitt",
+      "TopGroupingID": 1051,
+      "entID": 82,
+      "entityName": "Pitt",
+      "TopGroupingName": "FBS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt83",
+    "Omnidata": {
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Purdue",
+      "TopGroupingID": 1051,
+      "entID": 83,
+      "entityName": "Purdue",
+      "TopGroupingName": "FBS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt84",
+    "Omnidata": {
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Rice",
+      "TopGroupingID": 1051,
+      "entID": 84,
+      "entityName": "Rice",
+      "TopGroupingName": "FBS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt85",
+    "Omnidata": {
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Rutgers",
+      "TopGroupingID": 1051,
+      "entID": 85,
+      "entityName": "Rutgers",
+      "TopGroupingName": "FBS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt88",
+    "Omnidata": {
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "SMU",
+      "TopGroupingID": 1051,
+      "entID": 88,
+      "entityName": "SMU",
+      "TopGroupingName": "FBS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt86",
+    "Omnidata": {
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "San Diego St",
+      "TopGroupingID": 1051,
+      "entID": 86,
+      "entityName": "San Diego St",
+      "TopGroupingName": "FBS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt87",
+    "Omnidata": {
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "San Jose St",
+      "TopGroupingID": 1051,
+      "entID": 87,
+      "entityName": "San Jose St",
+      "TopGroupingName": "FBS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt89",
+    "Omnidata": {
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "South Alabama",
+      "TopGroupingID": 1051,
+      "entID": 89,
+      "entityName": "South Alabama",
+      "TopGroupingName": "FBS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt90",
+    "Omnidata": {
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "South Carolina",
+      "TopGroupingID": 1051,
+      "entID": 90,
+      "entityName": "South Carolina",
+      "TopGroupingName": "FBS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt91",
+    "Omnidata": {
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Southern Miss",
+      "TopGroupingID": 1051,
+      "entID": 91,
+      "entityName": "Southern Miss",
+      "TopGroupingName": "FBS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt92",
+    "Omnidata": {
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Stanford",
+      "TopGroupingID": 1051,
+      "entID": 92,
+      "entityName": "Stanford",
+      "TopGroupingName": "FBS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt93",
+    "Omnidata": {
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Syracuse",
+      "TopGroupingID": 1051,
+      "entID": 93,
+      "entityName": "Syracuse",
+      "TopGroupingName": "FBS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt94",
+    "Omnidata": {
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "TCU",
+      "TopGroupingID": 1051,
+      "entID": 94,
+      "entityName": "TCU",
+      "TopGroupingName": "FBS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt95",
+    "Omnidata": {
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Temple",
+      "TopGroupingID": 1051,
+      "entID": 95,
+      "entityName": "Temple",
+      "TopGroupingName": "FBS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt96",
+    "Omnidata": {
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Tennessee",
+      "TopGroupingID": 1051,
+      "entID": 96,
+      "entityName": "Tennessee",
+      "TopGroupingName": "FBS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt97",
+    "Omnidata": {
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Texas",
+      "TopGroupingID": 1051,
+      "entID": 97,
+      "entityName": "Texas",
+      "TopGroupingName": "FBS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt98",
+    "Omnidata": {
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Texas A&M",
+      "TopGroupingID": 1051,
+      "entID": 98,
+      "entityName": "Texas A&M",
+      "TopGroupingName": "FBS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt99",
+    "Omnidata": {
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Texas St",
+      "TopGroupingID": 1051,
+      "entID": 99,
+      "entityName": "Texas St",
+      "TopGroupingName": "FBS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt100",
+    "Omnidata": {
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Texas Tech",
+      "TopGroupingID": 1051,
+      "entID": 100,
+      "entityName": "Texas Tech",
+      "TopGroupingName": "FBS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt101",
+    "Omnidata": {
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Toledo",
+      "TopGroupingID": 1051,
+      "entID": 101,
+      "entityName": "Toledo",
+      "TopGroupingName": "FBS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt102",
+    "Omnidata": {
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Troy",
+      "TopGroupingID": 1051,
+      "entID": 102,
+      "entityName": "Troy",
+      "TopGroupingName": "FBS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt103",
+    "Omnidata": {
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Tulane",
+      "TopGroupingID": 1051,
+      "entID": 103,
+      "entityName": "Tulane",
+      "TopGroupingName": "FBS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt104",
+    "Omnidata": {
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Tulsa",
+      "TopGroupingID": 1051,
+      "entID": 104,
+      "entityName": "Tulsa",
+      "TopGroupingName": "FBS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt105",
+    "Omnidata": {
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "UAB",
+      "TopGroupingID": 1051,
+      "entID": 105,
+      "entityName": "UAB",
+      "TopGroupingName": "FBS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt106",
+    "Omnidata": {
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "UCF",
+      "TopGroupingID": 1051,
+      "entID": 106,
+      "entityName": "UCF",
+      "TopGroupingName": "FBS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt107",
+    "Omnidata": {
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "UCLA",
+      "TopGroupingID": 1051,
+      "entID": 107,
+      "entityName": "UCLA",
+      "TopGroupingName": "FBS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt108",
+    "Omnidata": {
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "UConn",
+      "TopGroupingID": 1051,
+      "entID": 108,
+      "entityName": "UConn",
+      "TopGroupingName": "FBS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt109",
+    "Omnidata": {
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "UMass",
+      "TopGroupingID": 1051,
+      "entID": 109,
+      "entityName": "UMass",
+      "TopGroupingName": "FBS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt110",
+    "Omnidata": {
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "UNC",
+      "TopGroupingID": 1051,
+      "entID": 110,
+      "entityName": "UNC",
+      "TopGroupingName": "FBS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt112",
+    "Omnidata": {
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "UNLV",
+      "TopGroupingID": 1051,
+      "entID": 112,
+      "entityName": "UNLV",
+      "TopGroupingName": "FBS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt113",
+    "Omnidata": {
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "USC",
+      "TopGroupingID": 1051,
+      "entID": 113,
+      "entityName": "USC",
+      "TopGroupingName": "FBS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt114",
+    "Omnidata": {
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "USF",
+      "TopGroupingID": 1051,
+      "entID": 114,
+      "entityName": "USF",
+      "TopGroupingName": "FBS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt117",
+    "Omnidata": {
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "UTEP",
+      "TopGroupingID": 1051,
+      "entID": 117,
+      "entityName": "UTEP",
+      "TopGroupingName": "FBS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt118",
+    "Omnidata": {
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "UTSA",
+      "TopGroupingID": 1051,
+      "entID": 118,
+      "entityName": "UTSA",
+      "TopGroupingName": "FBS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt119",
+    "Omnidata": {
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "UVA",
+      "TopGroupingID": 1051,
+      "entID": 119,
+      "entityName": "UVA",
+      "TopGroupingName": "FBS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt115",
+    "Omnidata": {
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Utah",
+      "TopGroupingID": 1051,
+      "entID": 115,
+      "entityName": "Utah",
+      "TopGroupingName": "FBS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt116",
+    "Omnidata": {
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Utah St",
+      "TopGroupingID": 1051,
+      "entID": 116,
+      "entityName": "Utah St",
+      "TopGroupingName": "FBS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt120",
+    "Omnidata": {
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Vanderbilt",
+      "TopGroupingID": 1051,
+      "entID": 120,
+      "entityName": "Vanderbilt",
+      "TopGroupingName": "FBS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt121",
+    "Omnidata": {
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Virginia Tech",
+      "TopGroupingID": 1051,
+      "entID": 121,
+      "entityName": "Virginia Tech",
+      "TopGroupingName": "FBS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt122",
+    "Omnidata": {
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Wake Forest",
+      "TopGroupingID": 1051,
+      "entID": 122,
+      "entityName": "Wake Forest",
+      "TopGroupingName": "FBS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt123",
+    "Omnidata": {
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Washington",
+      "TopGroupingID": 1051,
+      "entID": 123,
+      "entityName": "Washington",
+      "TopGroupingName": "FBS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt124",
+    "Omnidata": {
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Washington St",
+      "TopGroupingID": 1051,
+      "entID": 124,
+      "entityName": "Washington St",
+      "TopGroupingName": "FBS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt125",
+    "Omnidata": {
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "West Virginia",
+      "TopGroupingID": 1051,
+      "entID": 125,
+      "entityName": "West Virginia",
+      "TopGroupingName": "FBS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt126",
+    "Omnidata": {
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Western Kentucky",
+      "TopGroupingID": 1051,
+      "entID": 126,
+      "entityName": "Western Kentucky",
+      "TopGroupingName": "FBS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt127",
+    "Omnidata": {
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Western Michigan",
+      "TopGroupingID": 1051,
+      "entID": 127,
+      "entityName": "Western Michigan",
+      "TopGroupingName": "FBS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt128",
+    "Omnidata": {
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Wisconsin",
+      "TopGroupingID": 1051,
+      "entID": 128,
+      "entityName": "Wisconsin",
+      "TopGroupingName": "FBS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt129",
+    "Omnidata": {
+      "TopGroupingNameThe": "FBS football",
+      "entityNameThe": "Wyoming",
+      "TopGroupingID": 1051,
+      "entID": 129,
+      "entityName": "Wyoming",
+      "TopGroupingName": "FBS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt427",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Abilene Christian",
+      "TopGroupingID": 1063,
+      "entID": 427,
+      "entityName": "Abilene Christian",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt434",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Alabama A&M",
+      "TopGroupingID": 1063,
+      "entID": 434,
+      "entityName": "Alabama A&M",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt436",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Alabama St",
+      "TopGroupingID": 1063,
+      "entID": 436,
+      "entityName": "Alabama St",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt335",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Albany",
+      "TopGroupingID": 1063,
+      "entID": 335,
+      "entityName": "Albany",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt433",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Alcorn St",
+      "TopGroupingID": 1063,
+      "entID": 433,
+      "entityName": "Alcorn St",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt428",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Arkansas-Pine Bluff",
+      "TopGroupingID": 1063,
+      "entID": 428,
+      "entityName": "Arkansas-Pine Bluff",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt385",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Austin Peay",
+      "TopGroupingID": 1063,
+      "entID": 385,
+      "entityName": "Austin Peay",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt364",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Bethune-Cookman",
+      "TopGroupingID": 1063,
+      "entID": 364,
+      "entityName": "Bethune-Cookman",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt347",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Brown",
+      "TopGroupingID": 1063,
+      "entID": 347,
+      "entityName": "Brown",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt376",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Bryant University",
+      "TopGroupingID": 1063,
+      "entID": 376,
+      "entityName": "Bryant University",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt391",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Bucknell",
+      "TopGroupingID": 1063,
+      "entID": 391,
+      "entityName": "Bucknell",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt398",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Butler",
+      "TopGroupingID": 1063,
+      "entID": 398,
+      "entityName": "Butler",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt322",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Cal Poly",
+      "TopGroupingID": 1063,
+      "entID": 322,
+      "entityName": "Cal Poly",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt328",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Campbell",
+      "TopGroupingID": 1063,
+      "entID": 328,
+      "entityName": "Campbell",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt418",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Central Arkansas",
+      "TopGroupingID": 1063,
+      "entID": 418,
+      "entityName": "Central Arkansas",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt375",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Central Connecticut St",
+      "TopGroupingID": 1063,
+      "entID": 375,
+      "entityName": "Central Connecticut St",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt327",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Charleston Southern",
+      "TopGroupingID": 1063,
+      "entID": 327,
+      "entityName": "Charleston Southern",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt414",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Chattanooga",
+      "TopGroupingID": 1063,
+      "entID": 414,
+      "entityName": "Chattanooga",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt411",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Citadel",
+      "TopGroupingID": 1063,
+      "entID": 411,
+      "entityName": "Citadel",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt396",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Colgate",
+      "TopGroupingID": 1063,
+      "entID": 396,
+      "entityName": "Colgate",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt352",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Columbia",
+      "TopGroupingID": 1063,
+      "entID": 352,
+      "entityName": "Columbia",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt349",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Cornell",
+      "TopGroupingID": 1063,
+      "entID": 349,
+      "entityName": "Cornell",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt348",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Dartmouth",
+      "TopGroupingID": 1063,
+      "entID": 348,
+      "entityName": "Dartmouth",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt407",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Davidson",
+      "TopGroupingID": 1063,
+      "entID": 407,
+      "entityName": "Davidson",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt403",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Dayton",
+      "TopGroupingID": 1063,
+      "entID": 403,
+      "entityName": "Dayton",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt334",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Delaware",
+      "TopGroupingID": 1063,
+      "entID": 334,
+      "entityName": "Delaware",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt360",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Delaware St",
+      "TopGroupingID": 1063,
+      "entID": 360,
+      "entityName": "Delaware St",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt399",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Drake",
+      "TopGroupingID": 1063,
+      "entID": 399,
+      "entityName": "Drake",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt378",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Duquesne",
+      "TopGroupingID": 1063,
+      "entID": 378,
+      "entityName": "Duquesne",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt409",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "East Tennessee St",
+      "TopGroupingID": 1063,
+      "entID": 409,
+      "entityName": "East Tennessee St",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt386",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Eastern Illinois",
+      "TopGroupingID": 1063,
+      "entID": 386,
+      "entityName": "Eastern Illinois",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt382",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Eastern Kentucky",
+      "TopGroupingID": 1063,
+      "entID": 382,
+      "entityName": "Eastern Kentucky",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt318",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Eastern Washington",
+      "TopGroupingID": 1063,
+      "entID": 318,
+      "entityName": "Eastern Washington",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt336",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Elon",
+      "TopGroupingID": 1063,
+      "entID": 336,
+      "entityName": "Elon",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt361",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Florida A&M",
+      "TopGroupingID": 1063,
+      "entID": 361,
+      "entityName": "Florida A&M",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt397",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Fordham",
+      "TopGroupingID": 1063,
+      "entID": 397,
+      "entityName": "Fordham",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt415",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Furman",
+      "TopGroupingID": 1063,
+      "entID": 415,
+      "entityName": "Furman",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt331",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Gardner-Webb",
+      "TopGroupingID": 1063,
+      "entID": 331,
+      "entityName": "Gardner-Webb",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt394",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Georgetown",
+      "TopGroupingID": 1063,
+      "entID": 394,
+      "entityName": "Georgetown",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt431",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Grambling St",
+      "TopGroupingID": 1063,
+      "entID": 431,
+      "entityName": "Grambling St",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt346",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Hampton",
+      "TopGroupingID": 1063,
+      "entID": 346,
+      "entityName": "Hampton",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt351",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Harvard",
+      "TopGroupingID": 1063,
+      "entID": 351,
+      "entityName": "Harvard",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt392",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Holy Cross",
+      "TopGroupingID": 1063,
+      "entID": 392,
+      "entityName": "Holy Cross",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt424",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Houston Baptist",
+      "TopGroupingID": 1063,
+      "entID": 424,
+      "entityName": "Houston Baptist",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt357",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Howard",
+      "TopGroupingID": 1063,
+      "entID": 357,
+      "entityName": "Howard",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt38",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Idaho",
+      "TopGroupingID": 1063,
+      "entID": 38,
+      "entityName": "Idaho",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt316",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Idaho St",
+      "TopGroupingID": 1063,
+      "entID": 316,
+      "entityName": "Idaho St",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt372",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Illinois St",
+      "TopGroupingID": 1063,
+      "entID": 372,
+      "entityName": "Illinois St",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt419",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Incarnate Word",
+      "TopGroupingID": 1063,
+      "entID": 419,
+      "entityName": "Incarnate Word",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt374",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Indiana St",
+      "TopGroupingID": 1063,
+      "entID": 374,
+      "entityName": "Indiana St",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt437",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Jackson St",
+      "TopGroupingID": 1063,
+      "entID": 437,
+      "entityName": "Jackson St",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt401",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Jacksonville",
+      "TopGroupingID": 1063,
+      "entID": 401,
+      "entityName": "Jacksonville",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt383",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Jacksonville St",
+      "TopGroupingID": 1063,
+      "entID": 383,
+      "entityName": "Jacksonville St",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt333",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "James Madison",
+      "TopGroupingID": 1063,
+      "entID": 333,
+      "entityName": "James Madison",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt330",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Kennesaw St",
+      "TopGroupingID": 1063,
+      "entID": 330,
+      "entityName": "Kennesaw St",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt1342",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "LIU",
+      "TopGroupingID": 1063,
+      "entID": 1342,
+      "entityName": "LIU",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt395",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Lafayette",
+      "TopGroupingID": 1063,
+      "entID": 395,
+      "entityName": "Lafayette",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt420",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Lamar",
+      "TopGroupingID": 1063,
+      "entID": 420,
+      "entityName": "Lamar",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt393",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Lehigh",
+      "TopGroupingID": 1063,
+      "entID": 393,
+      "entityName": "Lehigh",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt332",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Maine",
+      "TopGroupingID": 1063,
+      "entID": 332,
+      "entityName": "Maine",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt405",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Marist",
+      "TopGroupingID": 1063,
+      "entID": 405,
+      "entityName": "Marist",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt422",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "McNeese St",
+      "TopGroupingID": 1063,
+      "entID": 422,
+      "entityName": "McNeese St",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt408",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Mercer",
+      "TopGroupingID": 1063,
+      "entID": 408,
+      "entityName": "Mercer",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt1343",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Merrimack",
+      "TopGroupingID": 1063,
+      "entID": 1343,
+      "entityName": "Merrimack",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt435",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Mississippi Valley St",
+      "TopGroupingID": 1063,
+      "entID": 435,
+      "entityName": "Mississippi Valley St",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt365",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Missouri St",
+      "TopGroupingID": 1063,
+      "entID": 365,
+      "entityName": "Missouri St",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt329",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Monmouth",
+      "TopGroupingID": 1063,
+      "entID": 329,
+      "entityName": "Monmouth",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt319",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Montana",
+      "TopGroupingID": 1063,
+      "entID": 319,
+      "entityName": "Montana",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt317",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Montana St",
+      "TopGroupingID": 1063,
+      "entID": 317,
+      "entityName": "Montana St",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt402",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Morehead St",
+      "TopGroupingID": 1063,
+      "entID": 402,
+      "entityName": "Morehead St",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt356",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Morgan St",
+      "TopGroupingID": 1063,
+      "entID": 356,
+      "entityName": "Morgan St",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt387",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Murray St",
+      "TopGroupingID": 1063,
+      "entID": 387,
+      "entityName": "Murray St",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt359",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "NC Central",
+      "TopGroupingID": 1063,
+      "entID": 359,
+      "entityName": "NC Central",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt342",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "New Hampshire",
+      "TopGroupingID": 1063,
+      "entID": 342,
+      "entityName": "New Hampshire",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt421",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Nicholls St",
+      "TopGroupingID": 1063,
+      "entID": 421,
+      "entityName": "Nicholls St",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt362",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Norfolk St",
+      "TopGroupingID": 1063,
+      "entID": 362,
+      "entityName": "Norfolk St",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt345",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "North Alabama",
+      "TopGroupingID": 1063,
+      "entID": 345,
+      "entityName": "North Alabama",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt355",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "North Carolina A&T",
+      "TopGroupingID": 1063,
+      "entID": 355,
+      "entityName": "North Carolina A&T",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt344",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "North Dakota",
+      "TopGroupingID": 1063,
+      "entID": 344,
+      "entityName": "North Dakota",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt366",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "North Dakota St",
+      "TopGroupingID": 1063,
+      "entID": 366,
+      "entityName": "North Dakota St",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt321",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Northern Arizona",
+      "TopGroupingID": 1063,
+      "entID": 321,
+      "entityName": "Northern Arizona",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt315",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Northern Colorado",
+      "TopGroupingID": 1063,
+      "entID": 315,
+      "entityName": "Northern Colorado",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt370",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Northern Iowa",
+      "TopGroupingID": 1063,
+      "entID": 370,
+      "entityName": "Northern Iowa",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt423",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Northwestern State",
+      "TopGroupingID": 1063,
+      "entID": 423,
+      "entityName": "Northwestern State",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt353",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Penn",
+      "TopGroupingID": 1063,
+      "entID": 353,
+      "entityName": "Penn",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt324",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Portland St",
+      "TopGroupingID": 1063,
+      "entID": 324,
+      "entityName": "Portland St",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt430",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Prairie View A&M",
+      "TopGroupingID": 1063,
+      "entID": 430,
+      "entityName": "Prairie View A&M",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt326",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Presbyterian",
+      "TopGroupingID": 1063,
+      "entID": 326,
+      "entityName": "Presbyterian",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt354",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Princeton",
+      "TopGroupingID": 1063,
+      "entID": 354,
+      "entityName": "Princeton",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt337",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Rhode Island",
+      "TopGroupingID": 1063,
+      "entID": 337,
+      "entityName": "Rhode Island",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt339",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Richmond",
+      "TopGroupingID": 1063,
+      "entID": 339,
+      "entityName": "Richmond",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt377",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Robert Morris",
+      "TopGroupingID": 1063,
+      "entID": 377,
+      "entityName": "Robert Morris",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt320",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Sacramento St",
+      "TopGroupingID": 1063,
+      "entID": 320,
+      "entityName": "Sacramento St",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt379",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Sacred Heart",
+      "TopGroupingID": 1063,
+      "entID": 379,
+      "entityName": "Sacred Heart",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt417",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Sam Houston St",
+      "TopGroupingID": 1063,
+      "entID": 417,
+      "entityName": "Sam Houston St",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt410",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Samford",
+      "TopGroupingID": 1063,
+      "entID": 410,
+      "entityName": "Samford",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt406",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "San Diego",
+      "TopGroupingID": 1063,
+      "entID": 406,
+      "entityName": "San Diego",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt358",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "South Carolina St",
+      "TopGroupingID": 1063,
+      "entID": 358,
+      "entityName": "South Carolina St",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt367",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "South Dakota",
+      "TopGroupingID": 1063,
+      "entID": 367,
+      "entityName": "South Dakota",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt368",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "South Dakota St",
+      "TopGroupingID": 1063,
+      "entID": 368,
+      "entityName": "South Dakota St",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt388",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Southeast Missouri St",
+      "TopGroupingID": 1063,
+      "entID": 388,
+      "entityName": "Southeast Missouri St",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt425",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Southeastern Louisiana",
+      "TopGroupingID": 1063,
+      "entID": 425,
+      "entityName": "Southeastern Louisiana",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt373",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Southern Illinois",
+      "TopGroupingID": 1063,
+      "entID": 373,
+      "entityName": "Southern Illinois",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt429",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Southern University",
+      "TopGroupingID": 1063,
+      "entID": 429,
+      "entityName": "Southern University",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt323",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Southern Utah",
+      "TopGroupingID": 1063,
+      "entID": 323,
+      "entityName": "Southern Utah",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt380",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "St Francis (PA)",
+      "TopGroupingID": 1063,
+      "entID": 380,
+      "entityName": "St Francis (PA)",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt426",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Stephen F. Austin",
+      "TopGroupingID": 1063,
+      "entID": 426,
+      "entityName": "Stephen F. Austin",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt404",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Stetson",
+      "TopGroupingID": 1063,
+      "entID": 404,
+      "entityName": "Stetson",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt338",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Stony Brook",
+      "TopGroupingID": 1063,
+      "entID": 338,
+      "entityName": "Stony Brook",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt390",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Tennessee St",
+      "TopGroupingID": 1063,
+      "entID": 390,
+      "entityName": "Tennessee St",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt384",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Tennessee Tech",
+      "TopGroupingID": 1063,
+      "entID": 384,
+      "entityName": "Tennessee Tech",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt389",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Tennessee-Martin",
+      "TopGroupingID": 1063,
+      "entID": 389,
+      "entityName": "Tennessee-Martin",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt432",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Texas Southern",
+      "TopGroupingID": 1063,
+      "entID": 432,
+      "entityName": "Texas Southern",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt340",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Towson",
+      "TopGroupingID": 1063,
+      "entID": 340,
+      "entityName": "Towson",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt314",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "UC Davis",
+      "TopGroupingID": 1063,
+      "entID": 314,
+      "entityName": "UC Davis",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt413",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "VMI",
+      "TopGroupingID": 1063,
+      "entID": 413,
+      "entityName": "VMI",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt400",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Valparaiso",
+      "TopGroupingID": 1063,
+      "entID": 400,
+      "entityName": "Valparaiso",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt343",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Villanova",
+      "TopGroupingID": 1063,
+      "entID": 343,
+      "entityName": "Villanova",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt381",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Wagner",
+      "TopGroupingID": 1063,
+      "entID": 381,
+      "entityName": "Wagner",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt325",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Weber St",
+      "TopGroupingID": 1063,
+      "entID": 325,
+      "entityName": "Weber St",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt412",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Western Carolina",
+      "TopGroupingID": 1063,
+      "entID": 412,
+      "entityName": "Western Carolina",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt369",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Western Illinois",
+      "TopGroupingID": 1063,
+      "entID": 369,
+      "entityName": "Western Illinois",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt341",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "William & Mary",
+      "TopGroupingID": 1063,
+      "entID": 341,
+      "entityName": "William & Mary",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt416",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Wofford",
+      "TopGroupingID": 1063,
+      "entID": 416,
+      "entityName": "Wofford",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt350",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Yale",
+      "TopGroupingID": 1063,
+      "entID": 350,
+      "entityName": "Yale",
+      "TopGroupingName": "FCS football"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt371",
+    "Omnidata": {
+      "TopGroupingNameThe": "FCS football",
+      "entityNameThe": "Youngstown St",
+      "TopGroupingID": 1063,
+      "entID": 371,
+      "entityName": "Youngstown St",
+      "TopGroupingName": "FCS football"
     }
   },
   {
@@ -1229,512 +2989,6 @@
       "entID": 295,
       "entityName": "Sunrisers Hyderabad",
       "TopGroupingName": "IPL"
-    }
-  },
-  {
-    "RecIdentifier": "DataForEnt439",
-    "Omnidata": {
-      "TopGroupingNameThe": "League One",
-      "entityNameThe": "AFC Wimbledon",
-      "TopGroupingID": 1423,
-      "entID": 439,
-      "entityName": "AFC Wimbledon",
-      "TopGroupingName": "League One"
-    }
-  },
-  {
-    "RecIdentifier": "DataForEnt446",
-    "Omnidata": {
-      "TopGroupingNameThe": "League One",
-      "entityNameThe": "Blackpool",
-      "TopGroupingID": 1423,
-      "entID": 446,
-      "entityName": "Blackpool",
-      "TopGroupingName": "League One"
-    }
-  },
-  {
-    "RecIdentifier": "DataForEnt447",
-    "Omnidata": {
-      "TopGroupingNameThe": "League One",
-      "entityNameThe": "Bolton",
-      "TopGroupingID": 1423,
-      "entID": 447,
-      "entityName": "Bolton",
-      "TopGroupingName": "League One"
-    }
-  },
-  {
-    "RecIdentifier": "DataForEnt453",
-    "Omnidata": {
-      "TopGroupingNameThe": "League One",
-      "entityNameThe": "Bristol Rovers",
-      "TopGroupingID": 1423,
-      "entID": 453,
-      "entityName": "Bristol Rovers",
-      "TopGroupingName": "League One"
-    }
-  },
-  {
-    "RecIdentifier": "DataForEnt455",
-    "Omnidata": {
-      "TopGroupingNameThe": "League One",
-      "entityNameThe": "Burton",
-      "TopGroupingID": 1423,
-      "entID": 455,
-      "entityName": "Burton",
-      "TopGroupingName": "League One"
-    }
-  },
-  {
-    "RecIdentifier": "DataForEnt456",
-    "Omnidata": {
-      "TopGroupingNameThe": "League One",
-      "entityNameThe": "Bury",
-      "TopGroupingID": 1423,
-      "entID": 456,
-      "entityName": "Bury",
-      "TopGroupingName": "League One"
-    }
-  },
-  {
-    "RecIdentifier": "DataForEnt464",
-    "Omnidata": {
-      "TopGroupingNameThe": "League One",
-      "entityNameThe": "Coventry",
-      "TopGroupingID": 1423,
-      "entID": 464,
-      "entityName": "Coventry",
-      "TopGroupingName": "League One"
-    }
-  },
-  {
-    "RecIdentifier": "DataForEnt470",
-    "Omnidata": {
-      "TopGroupingNameThe": "League One",
-      "entityNameThe": "Doncaster",
-      "TopGroupingID": 1423,
-      "entID": 470,
-      "entityName": "Doncaster",
-      "TopGroupingName": "League One"
-    }
-  },
-  {
-    "RecIdentifier": "DataForEnt473",
-    "Omnidata": {
-      "TopGroupingNameThe": "League One",
-      "entityNameThe": "Fleetwood",
-      "TopGroupingID": 1423,
-      "entID": 473,
-      "entityName": "Fleetwood",
-      "TopGroupingName": "League One"
-    }
-  },
-  {
-    "RecIdentifier": "DataForEnt475",
-    "Omnidata": {
-      "TopGroupingNameThe": "League One",
-      "entityNameThe": "Gillingham",
-      "TopGroupingID": 1423,
-      "entID": 475,
-      "entityName": "Gillingham",
-      "TopGroupingName": "League One"
-    }
-  },
-  {
-    "RecIdentifier": "DataForEnt479",
-    "Omnidata": {
-      "TopGroupingNameThe": "League One",
-      "entityNameThe": "Ipswich Town",
-      "TopGroupingID": 1423,
-      "entID": 479,
-      "entityName": "Ipswich Town",
-      "TopGroupingName": "League One"
-    }
-  },
-  {
-    "RecIdentifier": "DataForEnt490",
-    "Omnidata": {
-      "TopGroupingNameThe": "League One",
-      "entityNameThe": "MK Dons",
-      "TopGroupingID": 1423,
-      "entID": 490,
-      "entityName": "MK Dons",
-      "TopGroupingName": "League One"
-    }
-  },
-  {
-    "RecIdentifier": "DataForEnt499",
-    "Omnidata": {
-      "TopGroupingNameThe": "League One",
-      "entityNameThe": "Oxford United",
-      "TopGroupingID": 1423,
-      "entID": 499,
-      "entityName": "Oxford United",
-      "TopGroupingName": "League One"
-    }
-  },
-  {
-    "RecIdentifier": "DataForEnt500",
-    "Omnidata": {
-      "TopGroupingNameThe": "League One",
-      "entityNameThe": "Peterborough",
-      "TopGroupingID": 1423,
-      "entID": 500,
-      "entityName": "Peterborough",
-      "TopGroupingName": "League One"
-    }
-  },
-  {
-    "RecIdentifier": "DataForEnt503",
-    "Omnidata": {
-      "TopGroupingNameThe": "League One",
-      "entityNameThe": "Portsmouth",
-      "TopGroupingID": 1423,
-      "entID": 503,
-      "entityName": "Portsmouth",
-      "TopGroupingName": "League One"
-    }
-  },
-  {
-    "RecIdentifier": "DataForEnt507",
-    "Omnidata": {
-      "TopGroupingNameThe": "League One",
-      "entityNameThe": "Rochdale",
-      "TopGroupingID": 1423,
-      "entID": 507,
-      "entityName": "Rochdale",
-      "TopGroupingName": "League One"
-    }
-  },
-  {
-    "RecIdentifier": "DataForEnt508",
-    "Omnidata": {
-      "TopGroupingNameThe": "League One",
-      "entityNameThe": "Rotherham",
-      "TopGroupingID": 1423,
-      "entID": 508,
-      "entityName": "Rotherham",
-      "TopGroupingName": "League One"
-    }
-  },
-  {
-    "RecIdentifier": "DataForEnt512",
-    "Omnidata": {
-      "TopGroupingNameThe": "League One",
-      "entityNameThe": "Shrewsbury",
-      "TopGroupingID": 1423,
-      "entID": 512,
-      "entityName": "Shrewsbury",
-      "TopGroupingName": "League One"
-    }
-  },
-  {
-    "RecIdentifier": "DataForEnt514",
-    "Omnidata": {
-      "TopGroupingNameThe": "League One",
-      "entityNameThe": "Southend United",
-      "TopGroupingID": 1423,
-      "entID": 514,
-      "entityName": "Southend United",
-      "TopGroupingName": "League One"
-    }
-  },
-  {
-    "RecIdentifier": "DataForEnt438",
-    "Omnidata": {
-      "TopGroupingNameThe": "League One",
-      "entityNameThe": "Stanley",
-      "TopGroupingID": 1423,
-      "entID": 438,
-      "entityName": "Stanley",
-      "TopGroupingName": "League One"
-    }
-  },
-  {
-    "RecIdentifier": "DataForEnt517",
-    "Omnidata": {
-      "TopGroupingNameThe": "League One",
-      "entityNameThe": "Sunderland",
-      "TopGroupingID": 1423,
-      "entID": 517,
-      "entityName": "Sunderland",
-      "TopGroupingName": "League One"
-    }
-  },
-  {
-    "RecIdentifier": "DataForEnt530",
-    "Omnidata": {
-      "TopGroupingNameThe": "League One",
-      "entityNameThe": "Tranmere",
-      "TopGroupingID": 1423,
-      "entID": 530,
-      "entityName": "Tranmere",
-      "TopGroupingName": "League One"
-    }
-  },
-  {
-    "RecIdentifier": "DataForEnt527",
-    "Omnidata": {
-      "TopGroupingNameThe": "League One",
-      "entityNameThe": "Wycombe",
-      "TopGroupingID": 1423,
-      "entID": 527,
-      "entityName": "Wycombe",
-      "TopGroupingName": "League One"
-    }
-  },
-  {
-    "RecIdentifier": "DataForEnt449",
-    "Omnidata": {
-      "TopGroupingNameThe": "League Two",
-      "entityNameThe": "Bradford City",
-      "TopGroupingID": 1424,
-      "entID": 449,
-      "entityName": "Bradford City",
-      "TopGroupingName": "League Two"
-    }
-  },
-  {
-    "RecIdentifier": "DataForEnt457",
-    "Omnidata": {
-      "TopGroupingNameThe": "League Two",
-      "entityNameThe": "Cambridge United",
-      "TopGroupingID": 1424,
-      "entID": 457,
-      "entityName": "Cambridge United",
-      "TopGroupingName": "League Two"
-    }
-  },
-  {
-    "RecIdentifier": "DataForEnt459",
-    "Omnidata": {
-      "TopGroupingNameThe": "League Two",
-      "entityNameThe": "Carlisle",
-      "TopGroupingID": 1424,
-      "entID": 459,
-      "entityName": "Carlisle",
-      "TopGroupingName": "League Two"
-    }
-  },
-  {
-    "RecIdentifier": "DataForEnt535",
-    "Omnidata": {
-      "TopGroupingNameThe": "League Two",
-      "entityNameThe": "Cheltenham",
-      "TopGroupingID": 1424,
-      "entID": 535,
-      "entityName": "Cheltenham",
-      "TopGroupingName": "League Two"
-    }
-  },
-  {
-    "RecIdentifier": "DataForEnt463",
-    "Omnidata": {
-      "TopGroupingNameThe": "League Two",
-      "entityNameThe": "Colchester",
-      "TopGroupingID": 1424,
-      "entID": 463,
-      "entityName": "Colchester",
-      "TopGroupingName": "League Two"
-    }
-  },
-  {
-    "RecIdentifier": "DataForEnt465",
-    "Omnidata": {
-      "TopGroupingNameThe": "League Two",
-      "entityNameThe": "Crawley Town",
-      "TopGroupingID": 1424,
-      "entID": 465,
-      "entityName": "Crawley Town",
-      "TopGroupingName": "League Two"
-    }
-  },
-  {
-    "RecIdentifier": "DataForEnt466",
-    "Omnidata": {
-      "TopGroupingNameThe": "League Two",
-      "entityNameThe": "Crewe",
-      "TopGroupingID": 1424,
-      "entID": 466,
-      "entityName": "Crewe",
-      "TopGroupingName": "League Two"
-    }
-  },
-  {
-    "RecIdentifier": "DataForEnt472",
-    "Omnidata": {
-      "TopGroupingNameThe": "League Two",
-      "entityNameThe": "Exeter City",
-      "TopGroupingID": 1424,
-      "entID": 472,
-      "entityName": "Exeter City",
-      "TopGroupingName": "League Two"
-    }
-  },
-  {
-    "RecIdentifier": "DataForEnt534",
-    "Omnidata": {
-      "TopGroupingNameThe": "League Two",
-      "entityNameThe": "Forest Green",
-      "TopGroupingID": 1424,
-      "entID": 534,
-      "entityName": "Forest Green",
-      "TopGroupingName": "League Two"
-    }
-  },
-  {
-    "RecIdentifier": "DataForEnt533",
-    "Omnidata": {
-      "TopGroupingNameThe": "League Two",
-      "entityNameThe": "Gimsby Town",
-      "TopGroupingID": 1424,
-      "entID": 533,
-      "entityName": "Gimsby Town",
-      "TopGroupingName": "League Two"
-    }
-  },
-  {
-    "RecIdentifier": "DataForEnt482",
-    "Omnidata": {
-      "TopGroupingNameThe": "League Two",
-      "entityNameThe": "Leyton Orient",
-      "TopGroupingID": 1424,
-      "entID": 482,
-      "entityName": "Leyton Orient",
-      "TopGroupingName": "League Two"
-    }
-  },
-  {
-    "RecIdentifier": "DataForEnt531",
-    "Omnidata": {
-      "TopGroupingNameThe": "League Two",
-      "entityNameThe": "Macclesfield Town",
-      "TopGroupingID": 1424,
-      "entID": 531,
-      "entityName": "Macclesfield Town",
-      "TopGroupingName": "League Two"
-    }
-  },
-  {
-    "RecIdentifier": "DataForEnt491",
-    "Omnidata": {
-      "TopGroupingNameThe": "League Two",
-      "entityNameThe": "Morecambe",
-      "TopGroupingID": 1424,
-      "entID": 491,
-      "entityName": "Morecambe",
-      "TopGroupingName": "League Two"
-    }
-  },
-  {
-    "RecIdentifier": "DataForEnt493",
-    "Omnidata": {
-      "TopGroupingNameThe": "League Two",
-      "entityNameThe": "Newport County",
-      "TopGroupingID": 1424,
-      "entID": 493,
-      "entityName": "Newport County",
-      "TopGroupingName": "League Two"
-    }
-  },
-  {
-    "RecIdentifier": "DataForEnt494",
-    "Omnidata": {
-      "TopGroupingNameThe": "League Two",
-      "entityNameThe": "Northampton",
-      "TopGroupingID": 1424,
-      "entID": 494,
-      "entityName": "Northampton",
-      "TopGroupingName": "League Two"
-    }
-  },
-  {
-    "RecIdentifier": "DataForEnt498",
-    "Omnidata": {
-      "TopGroupingNameThe": "League Two",
-      "entityNameThe": "Oldham Athletic",
-      "TopGroupingID": 1424,
-      "entID": 498,
-      "entityName": "Oldham Athletic",
-      "TopGroupingName": "League Two"
-    }
-  },
-  {
-    "RecIdentifier": "DataForEnt501",
-    "Omnidata": {
-      "TopGroupingNameThe": "League Two",
-      "entityNameThe": "Plymouth Argyle",
-      "TopGroupingID": 1424,
-      "entID": 501,
-      "entityName": "Plymouth Argyle",
-      "TopGroupingName": "League Two"
-    }
-  },
-  {
-    "RecIdentifier": "DataForEnt502",
-    "Omnidata": {
-      "TopGroupingNameThe": "League Two",
-      "entityNameThe": "Port Vale",
-      "TopGroupingID": 1424,
-      "entID": 502,
-      "entityName": "Port Vale",
-      "TopGroupingName": "League Two"
-    }
-  },
-  {
-    "RecIdentifier": "DataForEnt536",
-    "Omnidata": {
-      "TopGroupingNameThe": "League Two",
-      "entityNameThe": "Salford City",
-      "TopGroupingID": 1424,
-      "entID": 536,
-      "entityName": "Salford City",
-      "TopGroupingName": "League Two"
-    }
-  },
-  {
-    "RecIdentifier": "DataForEnt509",
-    "Omnidata": {
-      "TopGroupingNameThe": "League Two",
-      "entityNameThe": "Scunthorpe",
-      "TopGroupingID": 1424,
-      "entID": 509,
-      "entityName": "Scunthorpe",
-      "TopGroupingName": "League Two"
-    }
-  },
-  {
-    "RecIdentifier": "DataForEnt515",
-    "Omnidata": {
-      "TopGroupingNameThe": "League Two",
-      "entityNameThe": "Stevenage",
-      "TopGroupingID": 1424,
-      "entID": 515,
-      "entityName": "Stevenage",
-      "TopGroupingName": "League Two"
-    }
-  },
-  {
-    "RecIdentifier": "DataForEnt519",
-    "Omnidata": {
-      "TopGroupingNameThe": "League Two",
-      "entityNameThe": "Swindon Town",
-      "TopGroupingID": 1424,
-      "entID": 519,
-      "entityName": "Swindon Town",
-      "TopGroupingName": "League Two"
-    }
-  },
-  {
-    "RecIdentifier": "DataForEnt521",
-    "Omnidata": {
-      "TopGroupingNameThe": "League Two",
-      "entityNameThe": "Walsall",
-      "TopGroupingID": 1424,
-      "entID": 521,
-      "entityName": "Walsall",
-      "TopGroupingName": "League Two"
     }
   },
   {
@@ -2860,6 +4114,17 @@
     }
   },
   {
+    "RecIdentifier": "DataForEnt182",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NFL",
+      "entityNameThe": "the Las Vegas Raiders",
+      "TopGroupingID": 1047,
+      "entID": 182,
+      "entityName": "Las Vegas Raiders",
+      "TopGroupingName": "NFL"
+    }
+  },
+  {
     "RecIdentifier": "DataForEnt176",
     "Omnidata": {
       "TopGroupingNameThe": "the NFL",
@@ -2922,17 +4187,6 @@
       "TopGroupingID": 1047,
       "entID": 181,
       "entityName": "New York Jets",
-      "TopGroupingName": "NFL"
-    }
-  },
-  {
-    "RecIdentifier": "DataForEnt182",
-    "Omnidata": {
-      "TopGroupingNameThe": "the NFL",
-      "entityNameThe": "the Las Vegas Raiders",
-      "TopGroupingID": 1047,
-      "entID": 182,
-      "entityName": "Las Vegas Raiders",
       "TopGroupingName": "NFL"
     }
   },
