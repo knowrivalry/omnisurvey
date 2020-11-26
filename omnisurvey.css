@@ -410,7 +410,10 @@ WELCOME PAGE
     .SplashSelectGroupingEntry{}
         .SplashSelectGroupingEntry .text{}
         .SplashSelectGroupingEntry img{
-            height: 20px; width: auto;
+            max-height: 20px !important;
+            width: 40px;
+            vertical-align: middle;
+            margin-right: 2px;
         }
 
     /* This is the error box for grouping selection if necessary... which we hope is never*/
