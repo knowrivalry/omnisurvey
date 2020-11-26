@@ -4739,5 +4739,203 @@
       "entityName": "Washington Mystics",
       "TopGroupingName": "WNBA"
     }
+  },
+  {
+    "RecIdentifier": "DataForEnt296",
+    "Omnidata": {
+      "TopGroupingNameThe": "the AFL",
+      "entityNameThe": "the Adelaide Crows",
+      "TopGroupingID": 1428,
+      "entID": 296,
+      "entityName": "Adelaide Crows",
+      "TopGroupingName": "AFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt297",
+    "Omnidata": {
+      "TopGroupingNameThe": "the AFL",
+      "entityNameThe": "the Brisbane Lions",
+      "TopGroupingID": 1428,
+      "entID": 297,
+      "entityName": "Brisbane Lions",
+      "TopGroupingName": "AFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt298",
+    "Omnidata": {
+      "TopGroupingNameThe": "the AFL",
+      "entityNameThe": "the Carlton Blues",
+      "TopGroupingID": 1428,
+      "entID": 298,
+      "entityName": "Carlton Blues",
+      "TopGroupingName": "AFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt299",
+    "Omnidata": {
+      "TopGroupingNameThe": "the AFL",
+      "entityNameThe": "the Collingwood Magpies",
+      "TopGroupingID": 1428,
+      "entID": 299,
+      "entityName": "Collingwood Magpies",
+      "TopGroupingName": "AFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt300",
+    "Omnidata": {
+      "TopGroupingNameThe": "the AFL",
+      "entityNameThe": "the Essendon Bombers",
+      "TopGroupingID": 1428,
+      "entID": 300,
+      "entityName": "Essendon Bombers",
+      "TopGroupingName": "AFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt301",
+    "Omnidata": {
+      "TopGroupingNameThe": "the AFL",
+      "entityNameThe": "the Fremantle Dockers",
+      "TopGroupingID": 1428,
+      "entID": 301,
+      "entityName": "Fremantle Dockers",
+      "TopGroupingName": "AFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt304",
+    "Omnidata": {
+      "TopGroupingNameThe": "the AFL",
+      "entityNameThe": "the GWS Giants",
+      "TopGroupingID": 1428,
+      "entID": 304,
+      "entityName": "GWS Giants",
+      "TopGroupingName": "AFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt302",
+    "Omnidata": {
+      "TopGroupingNameThe": "the AFL",
+      "entityNameThe": "the Geelong Cats",
+      "TopGroupingID": 1428,
+      "entID": 302,
+      "entityName": "Geelong Cats",
+      "TopGroupingName": "AFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt303",
+    "Omnidata": {
+      "TopGroupingNameThe": "the AFL",
+      "entityNameThe": "the Gold Coast Suns",
+      "TopGroupingID": 1428,
+      "entID": 303,
+      "entityName": "Gold Coast Suns",
+      "TopGroupingName": "AFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt305",
+    "Omnidata": {
+      "TopGroupingNameThe": "the AFL",
+      "entityNameThe": "the Hawthorn Hawks",
+      "TopGroupingID": 1428,
+      "entID": 305,
+      "entityName": "Hawthorn Hawks",
+      "TopGroupingName": "AFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt306",
+    "Omnidata": {
+      "TopGroupingNameThe": "the AFL",
+      "entityNameThe": "the Melbourne Demons",
+      "TopGroupingID": 1428,
+      "entID": 306,
+      "entityName": "Melbourne Demons",
+      "TopGroupingName": "AFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt307",
+    "Omnidata": {
+      "TopGroupingNameThe": "the AFL",
+      "entityNameThe": "the North Melbourne Kangaroos",
+      "TopGroupingID": 1428,
+      "entID": 307,
+      "entityName": "North Melbourne Kangaroos",
+      "TopGroupingName": "AFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt308",
+    "Omnidata": {
+      "TopGroupingNameThe": "the AFL",
+      "entityNameThe": "the Port Adelaide Power",
+      "TopGroupingID": 1428,
+      "entID": 308,
+      "entityName": "Port Adelaide Power",
+      "TopGroupingName": "AFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt309",
+    "Omnidata": {
+      "TopGroupingNameThe": "the AFL",
+      "entityNameThe": "the Richmond Tigers",
+      "TopGroupingID": 1428,
+      "entID": 309,
+      "entityName": "Richmond Tigers",
+      "TopGroupingName": "AFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt310",
+    "Omnidata": {
+      "TopGroupingNameThe": "the AFL",
+      "entityNameThe": "the St Kilda Saints",
+      "TopGroupingID": 1428,
+      "entID": 310,
+      "entityName": "St Kilda Saints",
+      "TopGroupingName": "AFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt311",
+    "Omnidata": {
+      "TopGroupingNameThe": "the AFL",
+      "entityNameThe": "the Sydney Swans",
+      "TopGroupingID": 1428,
+      "entID": 311,
+      "entityName": "Sydney Swans",
+      "TopGroupingName": "AFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt312",
+    "Omnidata": {
+      "TopGroupingNameThe": "the AFL",
+      "entityNameThe": "the West Coast Eagles",
+      "TopGroupingID": 1428,
+      "entID": 312,
+      "entityName": "West Coast Eagles",
+      "TopGroupingName": "AFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt313",
+    "Omnidata": {
+      "TopGroupingNameThe": "the AFL",
+      "entityNameThe": "the Western Bulldogs",
+      "TopGroupingID": 1428,
+      "entID": 313,
+      "entityName": "Western Bulldogs",
+      "TopGroupingName": "AFL"
+    }
   }
 ]

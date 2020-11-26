@@ -2476,6 +2476,99 @@
                         ]
                     }
                 ]
+            },
+            {
+                "entID": 1041,
+                "termKRQualtrics": "Australian Rules Football",
+                "grpShowSurvSelRival": false,
+                "subgroups": [
+                    {
+                        "entID": 2771,
+                        "termKRQualtrics": "Australian Rules Football, men",
+                        "grpShowSurvSelRival": true,
+                        "subgroups": [
+                            {
+                                "termKRQualtrics": "AFL",
+                                "grpShowSurvSelRival": true,
+                                "subgroups": [
+                                    {
+                                        "termKRQualtrics": "Adelaide Crows",
+                                        "entID": 296
+                                    },
+                                    {
+                                        "termKRQualtrics": "Brisbane Lions",
+                                        "entID": 297
+                                    },
+                                    {
+                                        "termKRQualtrics": "Carlton Blues",
+                                        "entID": 298
+                                    },
+                                    {
+                                        "termKRQualtrics": "Collingwood Magpies",
+                                        "entID": 299
+                                    },
+                                    {
+                                        "termKRQualtrics": "Essendon Bombers",
+                                        "entID": 300
+                                    },
+                                    {
+                                        "termKRQualtrics": "Fremantle Dockers",
+                                        "entID": 301
+                                    },
+                                    {
+                                        "termKRQualtrics": "Geelong Cats",
+                                        "entID": 302
+                                    },
+                                    {
+                                        "termKRQualtrics": "Gold Coast Suns",
+                                        "entID": 303
+                                    },
+                                    {
+                                        "termKRQualtrics": "GWS Giants",
+                                        "entID": 304
+                                    },
+                                    {
+                                        "termKRQualtrics": "Hawthorn Hawks",
+                                        "entID": 305
+                                    },
+                                    {
+                                        "termKRQualtrics": "Melbourne Demons",
+                                        "entID": 306
+                                    },
+                                    {
+                                        "termKRQualtrics": "North Melbourne Kangaroos",
+                                        "entID": 307
+                                    },
+                                    {
+                                        "termKRQualtrics": "Port Adelaide Power",
+                                        "entID": 308
+                                    },
+                                    {
+                                        "termKRQualtrics": "Richmond Tigers",
+                                        "entID": 309
+                                    },
+                                    {
+                                        "termKRQualtrics": "St Kilda Saints",
+                                        "entID": 310
+                                    },
+                                    {
+                                        "termKRQualtrics": "Sydney Swans",
+                                        "entID": 311
+                                    },
+                                    {
+                                        "termKRQualtrics": "West Coast Eagles",
+                                        "entID": 312
+                                    },
+                                    {
+                                        "termKRQualtrics": "Western Bulldogs",
+                                        "entID": 313
+                                    }
+                                ],
+                                "entID": 1428
+                            }
+                        ]
+                    }
+                ]
             }
         ]
     }

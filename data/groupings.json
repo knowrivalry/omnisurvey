@@ -78,5 +78,13 @@
     "termKRQualtrics": "NCAA FCS",
     "grpCurrentSurvID": 30,
     "grpBritishSpelling": false
+  },
+  "grpID1428": {
+    "grpID": 1428,
+    "entID": 1428,
+    "grpSport": "Australian Rules Football",
+    "termKRQualtrics": "AFL",
+    "grpCurrentSurvID": 30,
+    "grpBritishSpelling": true
   }
 }
