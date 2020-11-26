@@ -406,6 +406,13 @@ WELCOME PAGE
             -webkit-text-stroke-color: lightgray;
         }
 
+    /* Text and logo for each grouping entry (i.e., each league selection button text) */
+    .SplashSelectGroupingEntry{}
+        .SplashSelectGroupingEntry .text{}
+        .SplashSelectGroupingEntry img{
+            height: 20px; width: auto;
+        }
+
     /* This is the error box for grouping selection if necessary... which we hope is never*/
     #SplashErrorSelectGrouping {
         margin: auto;
