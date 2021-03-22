@@ -2,37 +2,37 @@
     {
         "entID": 3290,
         "termKRQualtrics": "Sports",
-        "grpShowSurvSelRival": false,
+        "omnisurvShowSelRival": false,
         "subgroups": [
             {
                 "entID": 3289,
                 "termKRQualtrics": "Basketball",
-                "grpShowSurvSelRival": false,
+                "omnisurvShowSelRival": false,
                 "subgroups": [
                     {
                         "entID": 928,
                         "termKRQualtrics": "Basketball (5 on 5)",
-                        "grpShowSurvSelRival": false,
+                        "omnisurvShowSelRival": false,
                         "subgroups": [
                             {
                                 "entID": 2700,
                                 "termKRQualtrics": "Men's basketball",
-                                "grpShowSurvSelRival": false,
+                                "omnisurvShowSelRival": false,
                                 "subgroups": [
                                     {
                                         "entID": 1364,
                                         "termKRQualtrics": "NBA",
-                                        "grpShowSurvSelRival": true,
+                                        "omnisurvShowSelRival": true,
                                         "subgroups": [
                                             {
                                                 "entID": 1366,
                                                 "termKRQualtrics": "Eastern",
-                                                "grpShowSurvSelRival": true,
+                                                "omnisurvShowSelRival": true,
                                                 "subgroups": [
                                                     {
                                                         "entID": 2656,
                                                         "termKRQualtrics": "Atlantic",
-                                                        "grpShowSurvSelRival": true,
+                                                        "omnisurvShowSelRival": true,
                                                         "subgroups": [
                                                             {
                                                                 "entID": 244,
@@ -59,7 +59,7 @@
                                                     {
                                                         "entID": 2657,
                                                         "termKRQualtrics": "Central",
-                                                        "grpShowSurvSelRival": true,
+                                                        "omnisurvShowSelRival": true,
                                                         "subgroups": [
                                                             {
                                                                 "entID": 247,
@@ -86,7 +86,7 @@
                                                     {
                                                         "entID": 2658,
                                                         "termKRQualtrics": "Southeast",
-                                                        "grpShowSurvSelRival": true,
+                                                        "omnisurvShowSelRival": true,
                                                         "subgroups": [
                                                             {
                                                                 "entID": 243,
@@ -115,12 +115,12 @@
                                             {
                                                 "entID": 1365,
                                                 "termKRQualtrics": "Western",
-                                                "grpShowSurvSelRival": true,
+                                                "omnisurvShowSelRival": true,
                                                 "subgroups": [
                                                     {
                                                         "entID": 2660,
                                                         "termKRQualtrics": "Northwest",
-                                                        "grpShowSurvSelRival": true,
+                                                        "omnisurvShowSelRival": true,
                                                         "subgroups": [
                                                             {
                                                                 "entID": 250,
@@ -147,7 +147,7 @@
                                                     {
                                                         "entID": 2659,
                                                         "termKRQualtrics": "Pacific",
-                                                        "grpShowSurvSelRival": true,
+                                                        "omnisurvShowSelRival": true,
                                                         "subgroups": [
                                                             {
                                                                 "entID": 252,
@@ -174,7 +174,7 @@
                                                     {
                                                         "entID": 2661,
                                                         "termKRQualtrics": "Southwest",
-                                                        "grpShowSurvSelRival": true,
+                                                        "omnisurvShowSelRival": true,
                                                         "subgroups": [
                                                             {
                                                                 "entID": 249,
@@ -207,16 +207,16 @@
                             {
                                 "entID": 2725,
                                 "termKRQualtrics": "Women's basketball",
-                                "grpShowSurvSelRival": false,
+                                "omnisurvShowSelRival": false,
                                 "subgroups": [
                                     {
                                         "entID": 1425,
                                         "termKRQualtrics": "WNBA",
-                                        "grpShowSurvSelRival": true,
+                                        "omnisurvShowSelRival": true,
                                         "subgroups": [
                                             {
                                                 "termKRQualtrics": "Eastern",
-                                                "grpShowSurvSelRival": true,
+                                                "omnisurvShowSelRival": true,
                                                 "subgroups": [
                                                     {
                                                         "termKRQualtrics": "Atlanta Dream",
@@ -247,7 +247,7 @@
                                             },
                                             {
                                                 "termKRQualtrics": "Western",
-                                                "grpShowSurvSelRival": true,
+                                                "omnisurvShowSelRival": true,
                                                 "subgroups": [
                                                     {
                                                         "termKRQualtrics": "Dallas Wings",
@@ -287,30 +287,30 @@
             {
                 "entID": 1043,
                 "termKRQualtrics": "Gridiron",
-                "grpShowSurvSelRival": false,
+                "omnisurvShowSelRival": false,
                 "subgroups": [
                     {
                         "entID": 916,
                         "termKRQualtrics": "American football",
-                        "grpShowSurvSelRival": false,
+                        "omnisurvShowSelRival": false,
                         "subgroups": [
                             {
                                 "entID": 3291,
                                 "termKRQualtrics": "Pro football",
-                                "grpShowSurvSelRival": false,
+                                "omnisurvShowSelRival": false,
                                 "subgroups": [
                                     {
                                         "entID": 1047,
                                         "termKRQualtrics": "NFL",
-                                        "grpShowSurvSelRival": true,
+                                        "omnisurvShowSelRival": true,
                                         "subgroups": [
                                             {
                                                 "termKRQualtrics": "AFC",
-                                                "grpShowSurvSelRival": true,
+                                                "omnisurvShowSelRival": true,
                                                 "subgroups": [
                                                     {
                                                         "termKRQualtrics": "East",
-                                                        "grpShowSurvSelRival": true,
+                                                        "omnisurvShowSelRival": true,
                                                         "subgroups": [
                                                             {
                                                                 "termKRQualtrics": "Buffalo Bills",
@@ -333,7 +333,7 @@
                                                     },
                                                     {
                                                         "termKRQualtrics": "North",
-                                                        "grpShowSurvSelRival": true,
+                                                        "omnisurvShowSelRival": true,
                                                         "subgroups": [
                                                             {
                                                                 "termKRQualtrics": "Baltimore Ravens",
@@ -356,7 +356,7 @@
                                                     },
                                                     {
                                                         "termKRQualtrics": "South",
-                                                        "grpShowSurvSelRival": true,
+                                                        "omnisurvShowSelRival": true,
                                                         "subgroups": [
                                                             {
                                                                 "termKRQualtrics": "Houston Texans",
@@ -379,7 +379,7 @@
                                                     },
                                                     {
                                                         "termKRQualtrics": "West",
-                                                        "grpShowSurvSelRival": true,
+                                                        "omnisurvShowSelRival": true,
                                                         "subgroups": [
                                                             {
                                                                 "termKRQualtrics": "Denver Broncos",
@@ -405,11 +405,11 @@
                                             },
                                             {
                                                 "termKRQualtrics": "NFC",
-                                                "grpShowSurvSelRival": true,
+                                                "omnisurvShowSelRival": true,
                                                 "subgroups": [
                                                     {
                                                         "termKRQualtrics": "East",
-                                                        "grpShowSurvSelRival": true,
+                                                        "omnisurvShowSelRival": true,
                                                         "subgroups": [
                                                             {
                                                                 "termKRQualtrics": "Dallas Cowboys",
@@ -432,7 +432,7 @@
                                                     },
                                                     {
                                                         "termKRQualtrics": "North",
-                                                        "grpShowSurvSelRival": true,
+                                                        "omnisurvShowSelRival": true,
                                                         "subgroups": [
                                                             {
                                                                 "termKRQualtrics": "Chicago Bears",
@@ -455,7 +455,7 @@
                                                     },
                                                     {
                                                         "termKRQualtrics": "South",
-                                                        "grpShowSurvSelRival": true,
+                                                        "omnisurvShowSelRival": true,
                                                         "subgroups": [
                                                             {
                                                                 "termKRQualtrics": "Atlanta Falcons",
@@ -478,7 +478,7 @@
                                                     },
                                                     {
                                                         "termKRQualtrics": "West",
-                                                        "grpShowSurvSelRival": true,
+                                                        "omnisurvShowSelRival": true,
                                                         "subgroups": [
                                                             {
                                                                 "termKRQualtrics": "Arizona Cardinals",
@@ -509,20 +509,20 @@
                             {
                                 "entID": 1048,
                                 "termKRQualtrics": "College football",
-                                "grpShowSurvSelRival": true,
+                                "omnisurvShowSelRival": true,
                                 "subgroups": [
                                     {
                                         "entID": 1051,
                                         "termKRQualtrics": "FBS football",
-                                        "grpShowSurvSelRival": true,
+                                        "omnisurvShowSelRival": true,
                                         "subgroups": [
                                             {
                                                 "termKRQualtrics": "ACC",
-                                                "grpShowSurvSelRival": true,
+                                                "omnisurvShowSelRival": true,
                                                 "subgroups": [
                                                     {
                                                         "termKRQualtrics": "Atlantic",
-                                                        "grpShowSurvSelRival": true,
+                                                        "omnisurvShowSelRival": true,
                                                         "subgroups": [
                                                             {
                                                                 "termKRQualtrics": "Boston College",
@@ -557,7 +557,7 @@
                                                     },
                                                     {
                                                         "termKRQualtrics": "Coastal",
-                                                        "grpShowSurvSelRival": true,
+                                                        "omnisurvShowSelRival": true,
                                                         "subgroups": [
                                                             {
                                                                 "termKRQualtrics": "Duke",
@@ -595,11 +595,11 @@
                                             },
                                             {
                                                 "termKRQualtrics": "American",
-                                                "grpShowSurvSelRival": true,
+                                                "omnisurvShowSelRival": true,
                                                 "subgroups": [
                                                     {
                                                         "termKRQualtrics": "East",
-                                                        "grpShowSurvSelRival": true,
+                                                        "omnisurvShowSelRival": true,
                                                         "subgroups": [
                                                             {
                                                                 "termKRQualtrics": "Cincinnati",
@@ -630,7 +630,7 @@
                                                     },
                                                     {
                                                         "termKRQualtrics": "West",
-                                                        "grpShowSurvSelRival": true,
+                                                        "omnisurvShowSelRival": true,
                                                         "subgroups": [
                                                             {
                                                                 "termKRQualtrics": "Houston",
@@ -664,7 +664,7 @@
                                             },
                                             {
                                                 "termKRQualtrics": "Big 12",
-                                                "grpShowSurvSelRival": true,
+                                                "omnisurvShowSelRival": true,
                                                 "subgroups": [
                                                     {
                                                         "termKRQualtrics": "Baylor",
@@ -711,11 +711,11 @@
                                             },
                                             {
                                                 "termKRQualtrics": "Big Ten",
-                                                "grpShowSurvSelRival": true,
+                                                "omnisurvShowSelRival": true,
                                                 "subgroups": [
                                                     {
                                                         "termKRQualtrics": "East",
-                                                        "grpShowSurvSelRival": true,
+                                                        "omnisurvShowSelRival": true,
                                                         "subgroups": [
                                                             {
                                                                 "termKRQualtrics": "Indiana",
@@ -750,7 +750,7 @@
                                                     },
                                                     {
                                                         "termKRQualtrics": "West",
-                                                        "grpShowSurvSelRival": true,
+                                                        "omnisurvShowSelRival": true,
                                                         "subgroups": [
                                                             {
                                                                 "termKRQualtrics": "Illinois",
@@ -788,11 +788,11 @@
                                             },
                                             {
                                                 "termKRQualtrics": "C-USA",
-                                                "grpShowSurvSelRival": true,
+                                                "omnisurvShowSelRival": true,
                                                 "subgroups": [
                                                     {
                                                         "termKRQualtrics": "East",
-                                                        "grpShowSurvSelRival": true,
+                                                        "omnisurvShowSelRival": true,
                                                         "subgroups": [
                                                             {
                                                                 "termKRQualtrics": "Charlotte",
@@ -827,7 +827,7 @@
                                                     },
                                                     {
                                                         "termKRQualtrics": "West",
-                                                        "grpShowSurvSelRival": true,
+                                                        "omnisurvShowSelRival": true,
                                                         "subgroups": [
                                                             {
                                                                 "termKRQualtrics": "Louisiana Tech",
@@ -865,7 +865,7 @@
                                             },
                                             {
                                                 "termKRQualtrics": "Independents",
-                                                "grpShowSurvSelRival": true,
+                                                "omnisurvShowSelRival": true,
                                                 "subgroups": [
                                                     {
                                                         "termKRQualtrics": "Army",
@@ -896,11 +896,11 @@
                                             },
                                             {
                                                 "termKRQualtrics": "MAC",
-                                                "grpShowSurvSelRival": true,
+                                                "omnisurvShowSelRival": true,
                                                 "subgroups": [
                                                     {
                                                         "termKRQualtrics": "East",
-                                                        "grpShowSurvSelRival": true,
+                                                        "omnisurvShowSelRival": true,
                                                         "subgroups": [
                                                             {
                                                                 "termKRQualtrics": "Akron",
@@ -931,7 +931,7 @@
                                                     },
                                                     {
                                                         "termKRQualtrics": "West",
-                                                        "grpShowSurvSelRival": true,
+                                                        "omnisurvShowSelRival": true,
                                                         "subgroups": [
                                                             {
                                                                 "termKRQualtrics": "Ball St",
@@ -965,11 +965,11 @@
                                             },
                                             {
                                                 "termKRQualtrics": "MWC",
-                                                "grpShowSurvSelRival": true,
+                                                "omnisurvShowSelRival": true,
                                                 "subgroups": [
                                                     {
                                                         "termKRQualtrics": "West",
-                                                        "grpShowSurvSelRival": true,
+                                                        "omnisurvShowSelRival": true,
                                                         "subgroups": [
                                                             {
                                                                 "termKRQualtrics": "Fresno St",
@@ -1000,7 +1000,7 @@
                                                     },
                                                     {
                                                         "termKRQualtrics": "Mountain",
-                                                        "grpShowSurvSelRival": true,
+                                                        "omnisurvShowSelRival": true,
                                                         "subgroups": [
                                                             {
                                                                 "termKRQualtrics": "Air Force",
@@ -1034,11 +1034,11 @@
                                             },
                                             {
                                                 "termKRQualtrics": "Pac-12",
-                                                "grpShowSurvSelRival": true,
+                                                "omnisurvShowSelRival": true,
                                                 "subgroups": [
                                                     {
                                                         "termKRQualtrics": "North",
-                                                        "grpShowSurvSelRival": true,
+                                                        "omnisurvShowSelRival": true,
                                                         "subgroups": [
                                                             {
                                                                 "termKRQualtrics": "Cal",
@@ -1069,7 +1069,7 @@
                                                     },
                                                     {
                                                         "termKRQualtrics": "South",
-                                                        "grpShowSurvSelRival": true,
+                                                        "omnisurvShowSelRival": true,
                                                         "subgroups": [
                                                             {
                                                                 "termKRQualtrics": "Arizona",
@@ -1103,11 +1103,11 @@
                                             },
                                             {
                                                 "termKRQualtrics": "SEC",
-                                                "grpShowSurvSelRival": true,
+                                                "omnisurvShowSelRival": true,
                                                 "subgroups": [
                                                     {
                                                         "termKRQualtrics": "East",
-                                                        "grpShowSurvSelRival": true,
+                                                        "omnisurvShowSelRival": true,
                                                         "subgroups": [
                                                             {
                                                                 "termKRQualtrics": "Florida",
@@ -1142,7 +1142,7 @@
                                                     },
                                                     {
                                                         "termKRQualtrics": "West",
-                                                        "grpShowSurvSelRival": true,
+                                                        "omnisurvShowSelRival": true,
                                                         "subgroups": [
                                                             {
                                                                 "termKRQualtrics": "Alabama",
@@ -1180,11 +1180,11 @@
                                             },
                                             {
                                                 "termKRQualtrics": "Sun Belt",
-                                                "grpShowSurvSelRival": true,
+                                                "omnisurvShowSelRival": true,
                                                 "subgroups": [
                                                     {
                                                         "termKRQualtrics": "East",
-                                                        "grpShowSurvSelRival": true,
+                                                        "omnisurvShowSelRival": true,
                                                         "subgroups": [
                                                             {
                                                                 "termKRQualtrics": "App State",
@@ -1211,7 +1211,7 @@
                                                     },
                                                     {
                                                         "termKRQualtrics": "West",
-                                                        "grpShowSurvSelRival": true,
+                                                        "omnisurvShowSelRival": true,
                                                         "subgroups": [
                                                             {
                                                                 "termKRQualtrics": "Arkansas St",
@@ -1244,11 +1244,11 @@
                                     {
                                         "entID": 1063,
                                         "termKRQualtrics": "FCS football",
-                                        "grpShowSurvSelRival": true,
+                                        "omnisurvShowSelRival": true,
                                         "subgroups": [
                                             {
                                                 "termKRQualtrics": "Big Sky",
-                                                "grpShowSurvSelRival": true,
+                                                "omnisurvShowSelRival": true,
                                                 "subgroups": [
                                                     {
                                                         "termKRQualtrics": "Cal Poly",
@@ -1307,7 +1307,7 @@
                                             },
                                             {
                                                 "termKRQualtrics": "Big South",
-                                                "grpShowSurvSelRival": true,
+                                                "omnisurvShowSelRival": true,
                                                 "subgroups": [
                                                     {
                                                         "termKRQualtrics": "Campbell",
@@ -1346,7 +1346,7 @@
                                             },
                                             {
                                                 "termKRQualtrics": "Colonial",
-                                                "grpShowSurvSelRival": true,
+                                                "omnisurvShowSelRival": true,
                                                 "subgroups": [
                                                     {
                                                         "termKRQualtrics": "Albany",
@@ -1401,7 +1401,7 @@
                                             },
                                             {
                                                 "termKRQualtrics": "Independents",
-                                                "grpShowSurvSelRival": true,
+                                                "omnisurvShowSelRival": true,
                                                 "subgroups": [
                                                     {
                                                         "termKRQualtrics": "North Dakota",
@@ -1412,7 +1412,7 @@
                                             },
                                             {
                                                 "termKRQualtrics": "Ivy",
-                                                "grpShowSurvSelRival": true,
+                                                "omnisurvShowSelRival": true,
                                                 "subgroups": [
                                                     {
                                                         "termKRQualtrics": "Brown",
@@ -1451,7 +1451,7 @@
                                             },
                                             {
                                                 "termKRQualtrics": "MEAC",
-                                                "grpShowSurvSelRival": true,
+                                                "omnisurvShowSelRival": true,
                                                 "subgroups": [
                                                     {
                                                         "termKRQualtrics": "Bethune-Cookman",
@@ -1494,7 +1494,7 @@
                                             },
                                             {
                                                 "termKRQualtrics": "Missouri Valley",
-                                                "grpShowSurvSelRival": true,
+                                                "omnisurvShowSelRival": true,
                                                 "subgroups": [
                                                     {
                                                         "termKRQualtrics": "Illinois St",
@@ -1541,7 +1541,7 @@
                                             },
                                             {
                                                 "termKRQualtrics": "Northeast",
-                                                "grpShowSurvSelRival": true,
+                                                "omnisurvShowSelRival": true,
                                                 "subgroups": [
                                                     {
                                                         "termKRQualtrics": "Bryant University",
@@ -1584,7 +1584,7 @@
                                             },
                                             {
                                                 "termKRQualtrics": "Ohio Valley",
-                                                "grpShowSurvSelRival": true,
+                                                "omnisurvShowSelRival": true,
                                                 "subgroups": [
                                                     {
                                                         "termKRQualtrics": "Austin Peay",
@@ -1627,7 +1627,7 @@
                                             },
                                             {
                                                 "termKRQualtrics": "Patriot",
-                                                "grpShowSurvSelRival": true,
+                                                "omnisurvShowSelRival": true,
                                                 "subgroups": [
                                                     {
                                                         "termKRQualtrics": "Bucknell",
@@ -1662,7 +1662,7 @@
                                             },
                                             {
                                                 "termKRQualtrics": "Pioneer",
-                                                "grpShowSurvSelRival": true,
+                                                "omnisurvShowSelRival": true,
                                                 "subgroups": [
                                                     {
                                                         "termKRQualtrics": "Butler",
@@ -1709,7 +1709,7 @@
                                             },
                                             {
                                                 "termKRQualtrics": "SoCon",
-                                                "grpShowSurvSelRival": true,
+                                                "omnisurvShowSelRival": true,
                                                 "subgroups": [
                                                     {
                                                         "termKRQualtrics": "Chattanooga",
@@ -1752,7 +1752,7 @@
                                             },
                                             {
                                                 "termKRQualtrics": "Southland",
-                                                "grpShowSurvSelRival": true,
+                                                "omnisurvShowSelRival": true,
                                                 "subgroups": [
                                                     {
                                                         "termKRQualtrics": "Abilene Christian",
@@ -1803,11 +1803,11 @@
                                             },
                                             {
                                                 "termKRQualtrics": "SWAC",
-                                                "grpShowSurvSelRival": true,
+                                                "omnisurvShowSelRival": true,
                                                 "subgroups": [
                                                     {
                                                         "termKRQualtrics": "East",
-                                                        "grpShowSurvSelRival": true,
+                                                        "omnisurvShowSelRival": true,
                                                         "subgroups": [
                                                             {
                                                                 "termKRQualtrics": "Alabama A&M",
@@ -1834,7 +1834,7 @@
                                                     },
                                                     {
                                                         "termKRQualtrics": "West",
-                                                        "grpShowSurvSelRival": true,
+                                                        "omnisurvShowSelRival": true,
                                                         "subgroups": [
                                                             {
                                                                 "termKRQualtrics": "Arkansas-Pine Bluff",
@@ -1867,31 +1867,88 @@
                                 ]
                             }
                         ]
+                    },
+                    {
+                        "entID": 1471,
+                        "termKRQualtrics": "Canadian football",
+                        "omnisurvShowSelRival": false,
+                        "subgroups": [
+                            {
+                                "entID": 2772,
+                                "termKRQualtrics": "Men's Canadian football",
+                                "omnisurvShowSelRival": false,
+                                "subgroups": [
+                                    {
+                                        "entID": 1429,
+                                        "termKRQualtrics": "CFL",
+                                        "omnisurvShowSelRival": false,
+                                        "subgroups": [
+                                            {
+                                                "termKRQualtrics": "BC Lions",
+                                                "entID": 1432
+                                            },
+                                            {
+                                                "termKRQualtrics": "Calgary Stampeders",
+                                                "entID": 1433
+                                            },
+                                            {
+                                                "termKRQualtrics": "Edmonton Eskimos",
+                                                "entID": 1434
+                                            },
+                                            {
+                                                "termKRQualtrics": "Hamilton Tiger-Cats",
+                                                "entID": 1437
+                                            },
+                                            {
+                                                "termKRQualtrics": "Montreal Alouettes",
+                                                "entID": 1438
+                                            },
+                                            {
+                                                "termKRQualtrics": "Ottawa Redblacks",
+                                                "entID": 1439
+                                            },
+                                            {
+                                                "termKRQualtrics": "Saskatchewan Roughriders",
+                                                "entID": 1435
+                                            },
+                                            {
+                                                "termKRQualtrics": "Toronto Argonauts",
+                                                "entID": 1440
+                                            },
+                                            {
+                                                "termKRQualtrics": "Winnipeg Blue Bombers",
+                                                "entID": 1436
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
                     }
                 ]
             },
             {
                 "entID": 925,
                 "termKRQualtrics": "Baseball",
-                "grpShowSurvSelRival": false,
+                "omnisurvShowSelRival": false,
                 "subgroups": [
                     {
-                        "entID": 1367,
-                        "termKRQualtrics": "Intl Baseball Fed",
-                        "grpShowSurvSelRival": false,
+                        "entID": 2699,
+                        "termKRQualtrics": "Men's Baseball",
+                        "omnisurvShowSelRival": false,
                         "subgroups": [
                             {
                                 "entID": 1368,
                                 "termKRQualtrics": "MLB",
-                                "grpShowSurvSelRival": true,
+                                "omnisurvShowSelRival": true,
                                 "subgroups": [
                                     {
                                         "termKRQualtrics": "American",
-                                        "grpShowSurvSelRival": true,
+                                        "omnisurvShowSelRival": true,
                                         "subgroups": [
                                             {
                                                 "termKRQualtrics": "East",
-                                                "grpShowSurvSelRival": true,
+                                                "omnisurvShowSelRival": true,
                                                 "subgroups": [
                                                     {
                                                         "termKRQualtrics": "Baltimore Orioles",
@@ -1918,7 +1975,7 @@
                                             },
                                             {
                                                 "termKRQualtrics": "Central",
-                                                "grpShowSurvSelRival": true,
+                                                "omnisurvShowSelRival": true,
                                                 "subgroups": [
                                                     {
                                                         "termKRQualtrics": "Chicago White Sox",
@@ -1945,7 +2002,7 @@
                                             },
                                             {
                                                 "termKRQualtrics": "West",
-                                                "grpShowSurvSelRival": true,
+                                                "omnisurvShowSelRival": true,
                                                 "subgroups": [
                                                     {
                                                         "termKRQualtrics": "Houston Astros",
@@ -1975,11 +2032,11 @@
                                     },
                                     {
                                         "termKRQualtrics": "National",
-                                        "grpShowSurvSelRival": true,
+                                        "omnisurvShowSelRival": true,
                                         "subgroups": [
                                             {
                                                 "termKRQualtrics": "Central",
-                                                "grpShowSurvSelRival": true,
+                                                "omnisurvShowSelRival": true,
                                                 "subgroups": [
                                                     {
                                                         "termKRQualtrics": "Chicago Cubs",
@@ -2006,7 +2063,7 @@
                                             },
                                             {
                                                 "termKRQualtrics": "East",
-                                                "grpShowSurvSelRival": true,
+                                                "omnisurvShowSelRival": true,
                                                 "subgroups": [
                                                     {
                                                         "termKRQualtrics": "Atlanta Braves",
@@ -2033,7 +2090,7 @@
                                             },
                                             {
                                                 "termKRQualtrics": "West",
-                                                "grpShowSurvSelRival": true,
+                                                "omnisurvShowSelRival": true,
                                                 "subgroups": [
                                                     {
                                                         "termKRQualtrics": "Arizona Diamondbacks",
@@ -2062,6 +2119,75 @@
                                         "entID": 1370
                                     }
                                 ]
+                            },
+                            {
+                                "entID": 4808,
+                                "termKRQualtrics": "NPB",
+                                "omnisurvShowSelRival": true,
+                                "subgroups": [
+                                    {
+                                        "entID": 4821,
+                                        "termKRQualtrics": "Central League",
+                                        "omnisurvShowSelRival": true,
+                                        "subgroups": [
+                                            {
+                                                "entID": 4809,
+                                                "termKRQualtrics": "Chunichi Dragons"
+                                            },
+                                            {
+                                                "entID": 4810,
+                                                "termKRQualtrics": "Hanshin Tigers"
+                                            },
+                                            {
+                                                "entID": 4811,
+                                                "termKRQualtrics": "Hiroshima Carp"
+                                            },
+                                            {
+                                                "entID": 4812,
+                                                "termKRQualtrics": "Yakult Swallows"
+                                            },
+                                            {
+                                                "entID": 4813,
+                                                "termKRQualtrics": "Yokohama BayStars"
+                                            },
+                                            {
+                                                "entID": 4814,
+                                                "termKRQualtrics": "Yomiuri Giants"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "entID": 4822,
+                                        "termKRQualtrics": "Pacific League",
+                                        "omnisurvShowSelRival": true,
+                                        "subgroups": [
+                                            {
+                                                "entID": 4816,
+                                                "termKRQualtrics": "Fukuoka SoftBank Hawks"
+                                            },
+                                            {
+                                                "entID": 4815,
+                                                "termKRQualtrics": "Lotte Marines"
+                                            },
+                                            {
+                                                "entID": 4817,
+                                                "termKRQualtrics": "Nippon-Ham Fighters"
+                                            },
+                                            {
+                                                "entID": 4818,
+                                                "termKRQualtrics": "Orix Buffaloes"
+                                            },
+                                            {
+                                                "entID": 4820,
+                                                "termKRQualtrics": "Rakuten Golden Eagles"
+                                            },
+                                            {
+                                                "entID": 4819,
+                                                "termKRQualtrics": "Seibu Lions"
+                                            }
+                                        ]
+                                    }
+                                ]
                             }
                         ]
                     }
@@ -2070,20 +2196,20 @@
             {
                 "entID": 975,
                 "termKRQualtrics": "Ice hockey",
-                "grpShowSurvSelRival": false,
+                "omnisurvShowSelRival": false,
                 "subgroups": [
                     {
                         "entID": 1379,
                         "termKRQualtrics": "NHL",
-                        "grpShowSurvSelRival": true,
+                        "omnisurvShowSelRival": true,
                         "subgroups": [
                             {
                                 "termKRQualtrics": "Eastern",
-                                "grpShowSurvSelRival": true,
+                                "omnisurvShowSelRival": true,
                                 "subgroups": [
                                     {
                                         "termKRQualtrics": "Atlantic",
-                                        "grpShowSurvSelRival": true,
+                                        "omnisurvShowSelRival": true,
                                         "subgroups": [
                                             {
                                                 "termKRQualtrics": "Boston Bruins",
@@ -2122,7 +2248,7 @@
                                     },
                                     {
                                         "termKRQualtrics": "Metropolitan",
-                                        "grpShowSurvSelRival": true,
+                                        "omnisurvShowSelRival": true,
                                         "subgroups": [
                                             {
                                                 "termKRQualtrics": "Carolina Hurricanes",
@@ -2164,11 +2290,11 @@
                             },
                             {
                                 "termKRQualtrics": "Western",
-                                "grpShowSurvSelRival": true,
+                                "omnisurvShowSelRival": true,
                                 "subgroups": [
                                     {
                                         "termKRQualtrics": "Central",
-                                        "grpShowSurvSelRival": true,
+                                        "omnisurvShowSelRival": true,
                                         "subgroups": [
                                             {
                                                 "termKRQualtrics": "Chicago Blackhawks",
@@ -2203,7 +2329,7 @@
                                     },
                                     {
                                         "termKRQualtrics": "Pacific",
-                                        "grpShowSurvSelRival": true,
+                                        "omnisurvShowSelRival": true,
                                         "subgroups": [
                                             {
                                                 "termKRQualtrics": "Anaheim Ducks",
@@ -2248,124 +2374,971 @@
                 ]
             },
             {
-                "entID": 1327,
+                "entID": 965,
                 "termKRQualtrics": "Soccer",
-                "grpShowSurvSelRival": false,
+                "omnisurvShowSelRival": false,
                 "subgroups": [
                     {
-                        "entID": 1339,
-                        "termKRQualtrics": "MLS",
-                        "grpShowSurvSelRival": true,
+                        "entID": 2705,
+                        "termKRQualtrics": "Men's Soccer",
+                        "omnisurvShowSelRival": false,
                         "subgroups": [
                             {
-                                "termKRQualtrics": "Eastern",
-                                "grpShowSurvSelRival": true,
+                                "entID": 1333,
+                                "termKRQualtrics": "FIFA",
+                                "omnisurvShowSelRival": true,
                                 "subgroups": [
                                     {
-                                        "termKRQualtrics": "Atlanta United",
-                                        "entID": 281
+                                        "entID": 1334,
+                                        "termKRQualtrics": "UEFA",
+                                        "omnisurvShowSelRival": true,
+                                        "subgroups": [
+                                            {
+                                                "entID": 1335,
+                                                "termKRQualtrics": "Football Association",
+                                                "omnisurvShowSelRival": true,
+                                                "subgroups": [
+                                                    {
+                                                        "entID": 1336,
+                                                        "termKRQualtrics": "EPL",
+                                                        "omnisurvShowSelRival": true,
+                                                        "subgroups": [
+                                                            {
+                                                                "entID": 440,
+                                                                "termKRQualtrics": "Arsenal"
+                                                            },
+                                                            {
+                                                                "entID": 441,
+                                                                "termKRQualtrics": "Aston Villa"
+                                                            },
+                                                            {
+                                                                "entID": 451,
+                                                                "termKRQualtrics": "Brighton"
+                                                            },
+                                                            {
+                                                                "entID": 454,
+                                                                "termKRQualtrics": "Burnley"
+                                                            },
+                                                            {
+                                                                "entID": 461,
+                                                                "termKRQualtrics": "Chelsea"
+                                                            },
+                                                            {
+                                                                "entID": 467,
+                                                                "termKRQualtrics": "Crystal Palace"
+                                                            },
+                                                            {
+                                                                "entID": 471,
+                                                                "termKRQualtrics": "Everton"
+                                                            },
+                                                            {
+                                                                "entID": 474,
+                                                                "termKRQualtrics": "Fulham"
+                                                            },
+                                                            {
+                                                                "entID": 480,
+                                                                "termKRQualtrics": "Leeds"
+                                                            },
+                                                            {
+                                                                "entID": 481,
+                                                                "termKRQualtrics": "Leicester City"
+                                                            },
+                                                            {
+                                                                "entID": 483,
+                                                                "termKRQualtrics": "Liverpool"
+                                                            },
+                                                            {
+                                                                "entID": 485,
+                                                                "termKRQualtrics": "Man City"
+                                                            },
+                                                            {
+                                                                "entID": 486,
+                                                                "termKRQualtrics": "Man United"
+                                                            },
+                                                            {
+                                                                "entID": 492,
+                                                                "termKRQualtrics": "Newcastle"
+                                                            },
+                                                            {
+                                                                "entID": 510,
+                                                                "termKRQualtrics": "Sheffield United"
+                                                            },
+                                                            {
+                                                                "entID": 513,
+                                                                "termKRQualtrics": "Southampton"
+                                                            },
+                                                            {
+                                                                "entID": 520,
+                                                                "termKRQualtrics": "Tottenham"
+                                                            },
+                                                            {
+                                                                "entID": 523,
+                                                                "termKRQualtrics": "West Brom"
+                                                            },
+                                                            {
+                                                                "entID": 524,
+                                                                "termKRQualtrics": "West Ham"
+                                                            },
+                                                            {
+                                                                "entID": 526,
+                                                                "termKRQualtrics": "Wolves"
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "entID": 1421,
+                                                        "termKRQualtrics": "English Football League",
+                                                        "omnisurvShowSelRival": true,
+                                                        "subgroups": [
+                                                            {
+                                                                "entID": 1422,
+                                                                "termKRQualtrics": "Championship",
+                                                                "omnisurvShowSelRival": true,
+                                                                "subgroups": [
+                                                                    {
+                                                                        "entID": 443,
+                                                                        "termKRQualtrics": "Barnsley"
+                                                                    },
+                                                                    {
+                                                                        "entID": 444,
+                                                                        "termKRQualtrics": "Birmingham"
+                                                                    },
+                                                                    {
+                                                                        "entID": 445,
+                                                                        "termKRQualtrics": "Blackburn"
+                                                                    },
+                                                                    {
+                                                                        "entID": 448,
+                                                                        "termKRQualtrics": "Bournemouth"
+                                                                    },
+                                                                    {
+                                                                        "entID": 450,
+                                                                        "termKRQualtrics": "Brentford"
+                                                                    },
+                                                                    {
+                                                                        "entID": 452,
+                                                                        "termKRQualtrics": "Bristol City"
+                                                                    },
+                                                                    {
+                                                                        "entID": 458,
+                                                                        "termKRQualtrics": "Cardiff City"
+                                                                    },
+                                                                    {
+                                                                        "entID": 464,
+                                                                        "termKRQualtrics": "Coventry"
+                                                                    },
+                                                                    {
+                                                                        "entID": 469,
+                                                                        "termKRQualtrics": "Derby"
+                                                                    },
+                                                                    {
+                                                                        "entID": 477,
+                                                                        "termKRQualtrics": "Huddersfield"
+                                                                    },
+                                                                    {
+                                                                        "entID": 484,
+                                                                        "termKRQualtrics": "Luton Town"
+                                                                    },
+                                                                    {
+                                                                        "entID": 488,
+                                                                        "termKRQualtrics": "Middlesbrough"
+                                                                    },
+                                                                    {
+                                                                        "entID": 489,
+                                                                        "termKRQualtrics": "Millwall"
+                                                                    },
+                                                                    {
+                                                                        "entID": 495,
+                                                                        "termKRQualtrics": "Norwich"
+                                                                    },
+                                                                    {
+                                                                        "entID": 496,
+                                                                        "termKRQualtrics": "Nottingham Forest"
+                                                                    },
+                                                                    {
+                                                                        "entID": 504,
+                                                                        "termKRQualtrics": "Preston"
+                                                                    },
+                                                                    {
+                                                                        "entID": 505,
+                                                                        "termKRQualtrics": "QPR"
+                                                                    },
+                                                                    {
+                                                                        "entID": 506,
+                                                                        "termKRQualtrics": "Reading"
+                                                                    },
+                                                                    {
+                                                                        "entID": 508,
+                                                                        "termKRQualtrics": "Rotherham"
+                                                                    },
+                                                                    {
+                                                                        "entID": 511,
+                                                                        "termKRQualtrics": "Sheffield Wednesday"
+                                                                    },
+                                                                    {
+                                                                        "entID": 516,
+                                                                        "termKRQualtrics": "Stoke"
+                                                                    },
+                                                                    {
+                                                                        "entID": 518,
+                                                                        "termKRQualtrics": "Swansea"
+                                                                    },
+                                                                    {
+                                                                        "entID": 522,
+                                                                        "termKRQualtrics": "Watford"
+                                                                    },
+                                                                    {
+                                                                        "entID": 527,
+                                                                        "termKRQualtrics": "Wycombe"
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "entID": 1423,
+                                                                "termKRQualtrics": "League One",
+                                                                "omnisurvShowSelRival": true,
+                                                                "subgroups": [
+                                                                    {
+                                                                        "entID": 439,
+                                                                        "termKRQualtrics": "AFC Wimbledon"
+                                                                    },
+                                                                    {
+                                                                        "entID": 446,
+                                                                        "termKRQualtrics": "Blackpool"
+                                                                    },
+                                                                    {
+                                                                        "entID": 453,
+                                                                        "termKRQualtrics": "Bristol Rovers"
+                                                                    },
+                                                                    {
+                                                                        "entID": 455,
+                                                                        "termKRQualtrics": "Burton"
+                                                                    },
+                                                                    {
+                                                                        "entID": 460,
+                                                                        "termKRQualtrics": "Charlton"
+                                                                    },
+                                                                    {
+                                                                        "entID": 466,
+                                                                        "termKRQualtrics": "Crewe"
+                                                                    },
+                                                                    {
+                                                                        "entID": 470,
+                                                                        "termKRQualtrics": "Doncaster"
+                                                                    },
+                                                                    {
+                                                                        "entID": 473,
+                                                                        "termKRQualtrics": "Fleetwood"
+                                                                    },
+                                                                    {
+                                                                        "entID": 475,
+                                                                        "termKRQualtrics": "Gillingham"
+                                                                    },
+                                                                    {
+                                                                        "entID": 478,
+                                                                        "termKRQualtrics": "Hull City"
+                                                                    },
+                                                                    {
+                                                                        "entID": 479,
+                                                                        "termKRQualtrics": "Ipswich Town"
+                                                                    },
+                                                                    {
+                                                                        "entID": 532,
+                                                                        "termKRQualtrics": "Lincoln City"
+                                                                    },
+                                                                    {
+                                                                        "entID": 490,
+                                                                        "termKRQualtrics": "MK Dons"
+                                                                    },
+                                                                    {
+                                                                        "entID": 494,
+                                                                        "termKRQualtrics": "Northampton"
+                                                                    },
+                                                                    {
+                                                                        "entID": 499,
+                                                                        "termKRQualtrics": "Oxford United"
+                                                                    },
+                                                                    {
+                                                                        "entID": 500,
+                                                                        "termKRQualtrics": "Peterborough"
+                                                                    },
+                                                                    {
+                                                                        "entID": 501,
+                                                                        "termKRQualtrics": "Plymouth Argyle"
+                                                                    },
+                                                                    {
+                                                                        "entID": 503,
+                                                                        "termKRQualtrics": "Portsmouth"
+                                                                    },
+                                                                    {
+                                                                        "entID": 507,
+                                                                        "termKRQualtrics": "Rochdale"
+                                                                    },
+                                                                    {
+                                                                        "entID": 512,
+                                                                        "termKRQualtrics": "Shrewsbury"
+                                                                    },
+                                                                    {
+                                                                        "entID": 438,
+                                                                        "termKRQualtrics": "Stanley"
+                                                                    },
+                                                                    {
+                                                                        "entID": 517,
+                                                                        "termKRQualtrics": "Sunderland"
+                                                                    },
+                                                                    {
+                                                                        "entID": 519,
+                                                                        "termKRQualtrics": "Swindon Town"
+                                                                    },
+                                                                    {
+                                                                        "entID": 525,
+                                                                        "termKRQualtrics": "Wigan Athletic"
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "entID": 1424,
+                                                                "termKRQualtrics": "League Two",
+                                                                "omnisurvShowSelRival": true,
+                                                                "subgroups": [
+                                                                    {
+                                                                        "entID": 7153,
+                                                                        "termKRQualtrics": "Barrow"
+                                                                    },
+                                                                    {
+                                                                        "entID": 447,
+                                                                        "termKRQualtrics": "Bolton"
+                                                                    },
+                                                                    {
+                                                                        "entID": 449,
+                                                                        "termKRQualtrics": "Bradford City"
+                                                                    },
+                                                                    {
+                                                                        "entID": 457,
+                                                                        "termKRQualtrics": "Cambridge United"
+                                                                    },
+                                                                    {
+                                                                        "entID": 459,
+                                                                        "termKRQualtrics": "Carlisle"
+                                                                    },
+                                                                    {
+                                                                        "entID": 535,
+                                                                        "termKRQualtrics": "Cheltenham"
+                                                                    },
+                                                                    {
+                                                                        "entID": 463,
+                                                                        "termKRQualtrics": "Colchester"
+                                                                    },
+                                                                    {
+                                                                        "entID": 465,
+                                                                        "termKRQualtrics": "Crawley Town"
+                                                                    },
+                                                                    {
+                                                                        "entID": 472,
+                                                                        "termKRQualtrics": "Exeter City"
+                                                                    },
+                                                                    {
+                                                                        "entID": 534,
+                                                                        "termKRQualtrics": "Forest Green"
+                                                                    },
+                                                                    {
+                                                                        "entID": 533,
+                                                                        "termKRQualtrics": "Gimsby Town"
+                                                                    },
+                                                                    {
+                                                                        "entID": 542,
+                                                                        "termKRQualtrics": "Harrogate Town"
+                                                                    },
+                                                                    {
+                                                                        "entID": 482,
+                                                                        "termKRQualtrics": "Leyton Orient"
+                                                                    },
+                                                                    {
+                                                                        "entID": 487,
+                                                                        "termKRQualtrics": "Mansfield Town"
+                                                                    },
+                                                                    {
+                                                                        "entID": 491,
+                                                                        "termKRQualtrics": "Morecambe"
+                                                                    },
+                                                                    {
+                                                                        "entID": 493,
+                                                                        "termKRQualtrics": "Newport County"
+                                                                    },
+                                                                    {
+                                                                        "entID": 498,
+                                                                        "termKRQualtrics": "Oldham Athletic"
+                                                                    },
+                                                                    {
+                                                                        "entID": 502,
+                                                                        "termKRQualtrics": "Port Vale"
+                                                                    },
+                                                                    {
+                                                                        "entID": 536,
+                                                                        "termKRQualtrics": "Salford City"
+                                                                    },
+                                                                    {
+                                                                        "entID": 509,
+                                                                        "termKRQualtrics": "Scunthorpe"
+                                                                    },
+                                                                    {
+                                                                        "entID": 514,
+                                                                        "termKRQualtrics": "Southend United"
+                                                                    },
+                                                                    {
+                                                                        "entID": 515,
+                                                                        "termKRQualtrics": "Stevenage"
+                                                                    },
+                                                                    {
+                                                                        "entID": 530,
+                                                                        "termKRQualtrics": "Tranmere"
+                                                                    },
+                                                                    {
+                                                                        "entID": 521,
+                                                                        "termKRQualtrics": "Walsall"
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "entID": 1451,
+                                                "termKRQualtrics": "German Football Association",
+                                                "omnisurvShowSelRival": true,
+                                                "subgroups": [
+                                                    {
+                                                        "entID": 1452,
+                                                        "termKRQualtrics": "Bundesliga",
+                                                        "omnisurvShowSelRival": true,
+                                                        "subgroups": [
+                                                            {
+                                                                "entID": 5274,
+                                                                "termKRQualtrics": "Arminia Bielefeld"
+                                                            },
+                                                            {
+                                                                "entID": 1453,
+                                                                "termKRQualtrics": "Augsburg"
+                                                            },
+                                                            {
+                                                                "entID": 1464,
+                                                                "termKRQualtrics": "Bayer Leverkusen"
+                                                            },
+                                                            {
+                                                                "entID": 1467,
+                                                                "termKRQualtrics": "Bayern München"
+                                                            },
+                                                            {
+                                                                "entID": 1457,
+                                                                "termKRQualtrics": "Borussia Dortmund"
+                                                            },
+                                                            {
+                                                                "entID": 1459,
+                                                                "termKRQualtrics": "Eintracht"
+                                                            },
+                                                            {
+                                                                "entID": 1462,
+                                                                "termKRQualtrics": "FC Köln"
+                                                            },
+                                                            {
+                                                                "entID": 1454,
+                                                                "termKRQualtrics": "Hertha BSC"
+                                                            },
+                                                            {
+                                                                "entID": 1465,
+                                                                "termKRQualtrics": "Mainz"
+                                                            },
+                                                            {
+                                                                "entID": 1466,
+                                                                "termKRQualtrics": "Mönchengladbach"
+                                                            },
+                                                            {
+                                                                "entID": 1463,
+                                                                "termKRQualtrics": "RB Leipzig"
+                                                            },
+                                                            {
+                                                                "entID": 1460,
+                                                                "termKRQualtrics": "SC Freiburg"
+                                                            },
+                                                            {
+                                                                "entID": 1469,
+                                                                "termKRQualtrics": "Schalke"
+                                                            },
+                                                            {
+                                                                "entID": 1461,
+                                                                "termKRQualtrics": "TSG 1899 Hoffenheim"
+                                                            },
+                                                            {
+                                                                "entID": 1455,
+                                                                "termKRQualtrics": "Union Berlin"
+                                                            },
+                                                            {
+                                                                "entID": 5275,
+                                                                "termKRQualtrics": "VfB Stuttgart"
+                                                            },
+                                                            {
+                                                                "entID": 1456,
+                                                                "termKRQualtrics": "Werder Bremen"
+                                                            },
+                                                            {
+                                                                "entID": 1470,
+                                                                "termKRQualtrics": "Wolfsburg"
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "entID": 5273,
+                                                        "termKRQualtrics": "2. Bundesliga",
+                                                        "omnisurvShowSelRival": true,
+                                                        "subgroups": [
+                                                            {
+                                                                "entID": 5281,
+                                                                "termKRQualtrics": "Bochum"
+                                                            },
+                                                            {
+                                                                "entID": 5278,
+                                                                "termKRQualtrics": "Darmstadt 98"
+                                                            },
+                                                            {
+                                                                "entID": 7152,
+                                                                "termKRQualtrics": "Eintracht Braunschweig"
+                                                            },
+                                                            {
+                                                                "entID": 5280,
+                                                                "termKRQualtrics": "Erzgebirge Aue"
+                                                            },
+                                                            {
+                                                                "entID": 5289,
+                                                                "termKRQualtrics": "FC Nürnberg"
+                                                            },
+                                                            {
+                                                                "entID": 1458,
+                                                                "termKRQualtrics": "Fortuna Düsseldorf"
+                                                            },
+                                                            {
+                                                                "entID": 5277,
+                                                                "termKRQualtrics": "Hamburger SV"
+                                                            },
+                                                            {
+                                                                "entID": 5279,
+                                                                "termKRQualtrics": "Hannover 96"
+                                                            },
+                                                            {
+                                                                "entID": 5276,
+                                                                "termKRQualtrics": "Heidenheim"
+                                                            },
+                                                            {
+                                                                "entID": 5284,
+                                                                "termKRQualtrics": "Holstein Kiel"
+                                                            },
+                                                            {
+                                                                "entID": 5285,
+                                                                "termKRQualtrics": "Jahn Regensburg"
+                                                            },
+                                                            {
+                                                                "entID": 5288,
+                                                                "termKRQualtrics": "Karlsruher"
+                                                            },
+                                                            {
+                                                                "entID": 1468,
+                                                                "termKRQualtrics": "Paderborn"
+                                                            },
+                                                            {
+                                                                "entID": 5283,
+                                                                "termKRQualtrics": "SV Sandhausen"
+                                                            },
+                                                            {
+                                                                "entID": 5282,
+                                                                "termKRQualtrics": "SpVgg Greuther Fürth"
+                                                            },
+                                                            {
+                                                                "entID": 5287,
+                                                                "termKRQualtrics": "St. Pauli"
+                                                            },
+                                                            {
+                                                                "entID": 5286,
+                                                                "termKRQualtrics": "VfL Osnabrück"
+                                                            },
+                                                            {
+                                                                "entID": 7151,
+                                                                "termKRQualtrics": "Würzburger Kickers"
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
                                     },
                                     {
-                                        "termKRQualtrics": "Chicago Fire",
-                                        "entID": 192
-                                    },
-                                    {
-                                        "termKRQualtrics": "Columbus Crew",
-                                        "entID": 195
-                                    },
-                                    {
-                                        "termKRQualtrics": "DC United",
-                                        "entID": 196
-                                    },
-                                    {
-                                        "termKRQualtrics": "FC Cincinnati",
-                                        "entID": 282
-                                    },
-                                    {
-                                        "termKRQualtrics": "Montreal Impact",
-                                        "entID": 200
-                                    },
-                                    {
-                                        "termKRQualtrics": "NE Revolution",
-                                        "entID": 201
-                                    },
-                                    {
-                                        "termKRQualtrics": "NYC FC",
-                                        "entID": 202
-                                    },
-                                    {
-                                        "termKRQualtrics": "New York Red Bulls",
-                                        "entID": 203
-                                    },
-                                    {
-                                        "termKRQualtrics": "Orlando City",
-                                        "entID": 204
-                                    },
-                                    {
-                                        "termKRQualtrics": "Philadelphia Union",
-                                        "entID": 205
-                                    },
-                                    {
-                                        "termKRQualtrics": "Toronto FC",
-                                        "entID": 211
+                                        "entID": 1337,
+                                        "termKRQualtrics": "CONCACAF",
+                                        "omnisurvShowSelRival": true,
+                                        "subgroups": [
+                                            {
+                                                "entID": 1338,
+                                                "termKRQualtrics": "USSF",
+                                                "omnisurvShowSelRival": true,
+                                                "subgroups": [
+                                                    {
+                                                        "entID": 1339,
+                                                        "termKRQualtrics": "MLS",
+                                                        "omnisurvShowSelRival": true,
+                                                        "subgroups": [
+                                                            {
+                                                                "termKRQualtrics": "Eastern",
+                                                                "omnisurvShowSelRival": true,
+                                                                "subgroups": [
+                                                                    {
+                                                                        "termKRQualtrics": "Atlanta United",
+                                                                        "entID": 281
+                                                                    },
+                                                                    {
+                                                                        "termKRQualtrics": "Chicago Fire",
+                                                                        "entID": 192
+                                                                    },
+                                                                    {
+                                                                        "termKRQualtrics": "Columbus Crew",
+                                                                        "entID": 195
+                                                                    },
+                                                                    {
+                                                                        "termKRQualtrics": "DC United",
+                                                                        "entID": 196
+                                                                    },
+                                                                    {
+                                                                        "termKRQualtrics": "FC Cincinnati",
+                                                                        "entID": 282
+                                                                    },
+                                                                    {
+                                                                        "termKRQualtrics": "Montreal Impact",
+                                                                        "entID": 200
+                                                                    },
+                                                                    {
+                                                                        "termKRQualtrics": "NE Revolution",
+                                                                        "entID": 201
+                                                                    },
+                                                                    {
+                                                                        "termKRQualtrics": "NYC FC",
+                                                                        "entID": 202
+                                                                    },
+                                                                    {
+                                                                        "termKRQualtrics": "New York Red Bulls",
+                                                                        "entID": 203
+                                                                    },
+                                                                    {
+                                                                        "termKRQualtrics": "Orlando City",
+                                                                        "entID": 204
+                                                                    },
+                                                                    {
+                                                                        "termKRQualtrics": "Philadelphia Union",
+                                                                        "entID": 205
+                                                                    },
+                                                                    {
+                                                                        "termKRQualtrics": "Toronto FC",
+                                                                        "entID": 211
+                                                                    }
+                                                                ],
+                                                                "entID": 1341
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Western",
+                                                                "omnisurvShowSelRival": true,
+                                                                "subgroups": [
+                                                                    {
+                                                                        "termKRQualtrics": "Colorado Rapids",
+                                                                        "entID": 194
+                                                                    },
+                                                                    {
+                                                                        "termKRQualtrics": "FC Dallas",
+                                                                        "entID": 197
+                                                                    },
+                                                                    {
+                                                                        "termKRQualtrics": "Houston Dynamo",
+                                                                        "entID": 198
+                                                                    },
+                                                                    {
+                                                                        "termKRQualtrics": "LA Galaxy",
+                                                                        "entID": 199
+                                                                    },
+                                                                    {
+                                                                        "termKRQualtrics": "LAFC",
+                                                                        "entID": 283
+                                                                    },
+                                                                    {
+                                                                        "termKRQualtrics": "Minnesota United",
+                                                                        "entID": 284
+                                                                    },
+                                                                    {
+                                                                        "termKRQualtrics": "Portland Timbers",
+                                                                        "entID": 206
+                                                                    },
+                                                                    {
+                                                                        "termKRQualtrics": "Real Salt Lake",
+                                                                        "entID": 207
+                                                                    },
+                                                                    {
+                                                                        "termKRQualtrics": "San Jose Earthquakes",
+                                                                        "entID": 208
+                                                                    },
+                                                                    {
+                                                                        "termKRQualtrics": "Seattle Sounders",
+                                                                        "entID": 209
+                                                                    },
+                                                                    {
+                                                                        "termKRQualtrics": "Sporting Kansas City",
+                                                                        "entID": 210
+                                                                    },
+                                                                    {
+                                                                        "termKRQualtrics": "Vancouver Whitecaps",
+                                                                        "entID": 212
+                                                                    }
+                                                                ],
+                                                                "entID": 1340
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "entID": 1449,
+                                                "termKRQualtrics": "Canadian Soccer Association",
+                                                "omnisurvShowSelRival": true,
+                                                "subgroups": [
+                                                    {
+                                                        "entID": 1441,
+                                                        "termKRQualtrics": "CPL",
+                                                        "omnisurvShowSelRival": true,
+                                                        "subgroups": [
+                                                            {
+                                                                "termKRQualtrics": "Atlético Ottawa",
+                                                                "entID": 7150
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Cavalry FC",
+                                                                "entID": 1442
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "FC Edmonton",
+                                                                "entID": 1443
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Forge FC",
+                                                                "entID": 1444
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "HFX Wanderers FC",
+                                                                "entID": 1445
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Pacific FC",
+                                                                "entID": 1446
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "Valour FC",
+                                                                "entID": 1447
+                                                            },
+                                                            {
+                                                                "termKRQualtrics": "York9 FC",
+                                                                "entID": 1448
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
                                     }
-                                ],
-                                "entID": 1341
-                            },
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "entID": 965,
+                        "termKRQualtrics": "Women's soccer",
+                        "omnisurvShowSelRival": false,
+                        "subgroups": [
                             {
-                                "termKRQualtrics": "Western",
-                                "grpShowSurvSelRival": true,
+                                "entID": 1333,
+                                "termKRQualtrics": "FIFA",
+                                "omnisurvShowSelRival": true,
                                 "subgroups": [
                                     {
-                                        "termKRQualtrics": "Colorado Rapids",
-                                        "entID": 194
+                                        "entID": 1334,
+                                        "termKRQualtrics": "UEFA",
+                                        "omnisurvShowSelRival": true,
+                                        "subgroups": [
+                                            {
+                                                "entID": 1335,
+                                                "termKRQualtrics": "Football Association",
+                                                "omnisurvShowSelRival": true,
+                                                "subgroups": [
+                                                    {
+                                                        "entID": 4955,
+                                                        "termKRQualtrics": "FA Women's Super League",
+                                                        "omnisurvShowSelRival": true,
+                                                        "subgroups": [
+                                                            {
+                                                                "entID": 5036,
+                                                                "termKRQualtrics": "Aston Villa"
+                                                            },
+                                                            {
+                                                                "entID": 4956,
+                                                                "termKRQualtrics": "Arsenal"
+                                                            },
+                                                            {
+                                                                "entID": 4958,
+                                                                "termKRQualtrics": "Birmingham City"
+                                                            },
+                                                            {
+                                                                "entID": 4959,
+                                                                "termKRQualtrics": "Brighton & Hove Albion"
+                                                            },
+                                                            {
+                                                                "entID": 4960,
+                                                                "termKRQualtrics": "Bristol City"
+                                                            },
+                                                            {
+                                                                "entID": 4961,
+                                                                "termKRQualtrics": "Chelsea"
+                                                            },
+                                                            {
+                                                                "entID": 4962,
+                                                                "termKRQualtrics": "Everton"
+                                                            },
+                                                            {
+                                                                "entID": 4963,
+                                                                "termKRQualtrics": "Manchester City"
+                                                            },
+                                                            {
+                                                                "entID": 4964,
+                                                                "termKRQualtrics": "Manchester United"
+                                                            },
+                                                            {
+                                                                "entID": 4965,
+                                                                "termKRQualtrics": "Reading"
+                                                            },
+                                                            {
+                                                                "entID": 4966,
+                                                                "termKRQualtrics": "Tottenham Hotspur"
+                                                            },
+                                                            {
+                                                                "entID": 4967,
+                                                                "termKRQualtrics": "West Ham United"
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "entID": 5035,
+                                                        "termKRQualtrics": "FA Women's Championship",
+                                                        "omnisurvShowSelRival": true,
+                                                        "subgroups": [
+                                                            {
+                                                                "entID": 5037,
+                                                                "termKRQualtrics": "Blackburn Rovers"
+                                                            },
+                                                            {
+                                                                "entID": 5038,
+                                                                "termKRQualtrics": "Charlton Athletic"
+                                                            },
+                                                            {
+                                                                "entID": 5039,
+                                                                "termKRQualtrics": "Coventry United"
+                                                            },
+                                                            {
+                                                                "entID": 5040,
+                                                                "termKRQualtrics": "Crystal Palace"
+                                                            },
+                                                            {
+                                                                "entID": 5041,
+                                                                "termKRQualtrics": "Durham"
+                                                            },
+                                                            {
+                                                                "entID": 5042,
+                                                                "termKRQualtrics": "Leicester City"
+                                                            },
+                                                            {
+                                                                "entID": 5043,
+                                                                "termKRQualtrics": "Lewes"
+                                                            },
+                                                            {
+                                                                "entID": 4957,
+                                                                "termKRQualtrics": "Liverpool"
+                                                            },
+                                                            {
+                                                                "entID": 5044,
+                                                                "termKRQualtrics": "London Bees"
+                                                            },
+                                                            {
+                                                                "entID": 5045,
+                                                                "termKRQualtrics": "London City Lionesses"
+                                                            },
+                                                            {
+                                                                "entID": 5046,
+                                                                "termKRQualtrics": "Sheffield United"
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
                                     },
                                     {
-                                        "termKRQualtrics": "FC Dallas",
-                                        "entID": 197
-                                    },
-                                    {
-                                        "termKRQualtrics": "Houston Dynamo",
-                                        "entID": 198
-                                    },
-                                    {
-                                        "termKRQualtrics": "LA Galaxy",
-                                        "entID": 199
-                                    },
-                                    {
-                                        "termKRQualtrics": "LAFC",
-                                        "entID": 283
-                                    },
-                                    {
-                                        "termKRQualtrics": "Minnesota United",
-                                        "entID": 284
-                                    },
-                                    {
-                                        "termKRQualtrics": "Portland Timbers",
-                                        "entID": 206
-                                    },
-                                    {
-                                        "termKRQualtrics": "Real Salt Lake",
-                                        "entID": 207
-                                    },
-                                    {
-                                        "termKRQualtrics": "San Jose Earthquakes",
-                                        "entID": 208
-                                    },
-                                    {
-                                        "termKRQualtrics": "Seattle Sounders",
-                                        "entID": 209
-                                    },
-                                    {
-                                        "termKRQualtrics": "Sporting Kansas City",
-                                        "entID": 210
-                                    },
-                                    {
-                                        "termKRQualtrics": "Vancouver Whitecaps",
-                                        "entID": 212
+                                        "entID": 1337,
+                                        "termKRQualtrics": "CONCACAF",
+                                        "omnisurvShowSelRival": true,
+                                        "subgroups": [
+                                            {
+                                                "entID": 1338,
+                                                "termKRQualtrics": "USSF",
+                                                "omnisurvShowSelRival": true,
+                                                "subgroups": [
+                                                    {
+                                                        "entID": 4823,
+                                                        "termKRQualtrics": "NWSL",
+                                                        "omnisurvShowSelRival": true,
+                                                        "subgroups": [
+                                                            {
+                                                                "entID": 4824,
+                                                                "termKRQualtrics": "Chicago Red Stars"
+                                                            },
+                                                            {
+                                                                "entID": 4825,
+                                                                "termKRQualtrics": "Houston Dash"
+                                                            },
+                                                            {
+                                                                "entID": 4826,
+                                                                "termKRQualtrics": "North Carolina Courage"
+                                                            },
+                                                            {
+                                                                "entID": 4827,
+                                                                "termKRQualtrics": "OL Reign"
+                                                            },
+                                                            {
+                                                                "entID": 4828,
+                                                                "termKRQualtrics": "Orlando Pride"
+                                                            },
+                                                            {
+                                                                "entID": 4829,
+                                                                "termKRQualtrics": "Portland Thorns"
+                                                            },
+                                                            {
+                                                                "entID": 4830,
+                                                                "termKRQualtrics": "Sky Blue FC"
+                                                            },
+                                                            {
+                                                                "entID": 4831,
+                                                                "termKRQualtrics": "Utah Royals"
+                                                            },
+                                                            {
+                                                                "entID": 4832,
+                                                                "termKRQualtrics": "Washington Spirit"
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
                                     }
-                                ],
-                                "entID": 1340
+                                ]
                             }
                         ]
                     }
@@ -2374,21 +3347,21 @@
             {
                 "entID": 1371,
                 "termKRQualtrics": "Intl Cricket Council (ICC)",
-                "grpShowSurvSelRival": false,
+                "omnisurvShowSelRival": false,
                 "subgroups": [
                     {
                         "entID": 1372,
                         "termKRQualtrics": "Asian Cricket Council",
-                        "grpShowSurvSelRival": false,
+                        "omnisurvShowSelRival": false,
                         "subgroups": [
                             {
                                 "entID": 1374,
                                 "termKRQualtrics": "BCCI",
-                                "grpShowSurvSelRival": false,
+                                "omnisurvShowSelRival": false,
                                 "subgroups": [
                                     {
                                         "termKRQualtrics": "IPL",
-                                        "grpShowSurvSelRival": true,
+                                        "omnisurvShowSelRival": true,
                                         "subgroups": [
                                             {
                                                 "termKRQualtrics": "Chennai Super Kings",
@@ -2432,11 +3405,11 @@
                     {
                         "entID": 1373,
                         "termKRQualtrics": "Cricket Australia",
-                        "grpShowSurvSelRival": false,
+                        "omnisurvShowSelRival": false,
                         "subgroups": [
                             {
                                 "termKRQualtrics": "BBL",
-                                "grpShowSurvSelRival": true,
+                                "omnisurvShowSelRival": true,
                                 "subgroups": [
                                     {
                                         "termKRQualtrics": "Adelaide Strikers",
@@ -2480,16 +3453,16 @@
             {
                 "entID": 1041,
                 "termKRQualtrics": "Australian Rules Football",
-                "grpShowSurvSelRival": false,
+                "omnisurvShowSelRival": false,
                 "subgroups": [
                     {
                         "entID": 2771,
                         "termKRQualtrics": "Australian Rules Football, men",
-                        "grpShowSurvSelRival": true,
+                        "omnisurvShowSelRival": true,
                         "subgroups": [
                             {
                                 "termKRQualtrics": "AFL",
-                                "grpShowSurvSelRival": true,
+                                "omnisurvShowSelRival": true,
                                 "subgroups": [
                                     {
                                         "termKRQualtrics": "Adelaide Crows",
@@ -2565,6 +3538,200 @@
                                     }
                                 ],
                                 "entID": 1428
+                            }
+                        ]
+                    },
+                    {
+                        "entID": 3292,
+                        "termKRQualtrics": "Australian Rules Football, women",
+                        "omnisurvShowSelRival": true,
+                        "subgroups": [
+                            {
+                                "entID": 3295,
+                                "termKRQualtrics": "Adelaide Crows"
+                            },
+                            {
+                                "entID": 3296,
+                                "termKRQualtrics": "Brisbane Lions"
+                            },
+                            {
+                                "entID": 3297,
+                                "termKRQualtrics": "Carlton Blues"
+                            },
+                            {
+                                "entID": 3298,
+                                "termKRQualtrics": "Collingwood Magpies"
+                            },
+                            {
+                                "entID": 3299,
+                                "termKRQualtrics": "Fremantle Dockers"
+                            },
+                            {
+                                "entID": 3302,
+                                "termKRQualtrics": "GWS Giants"
+                            },
+                            {
+                                "entID": 3300,
+                                "termKRQualtrics": "Geelong Cats"
+                            },
+                            {
+                                "entID": 3301,
+                                "termKRQualtrics": "Gold Coast Suns"
+                            },
+                            {
+                                "entID": 3303,
+                                "termKRQualtrics": "Melbourne Demons"
+                            },
+                            {
+                                "entID": 3304,
+                                "termKRQualtrics": "North Melbourne Kangaroos"
+                            },
+                            {
+                                "entID": 3305,
+                                "termKRQualtrics": "Richmond Tigers"
+                            },
+                            {
+                                "entID": 3306,
+                                "termKRQualtrics": "St Kilda Saints"
+                            },
+                            {
+                                "entID": 3307,
+                                "termKRQualtrics": "West Coast Eagles"
+                            },
+                            {
+                                "entID": 3308,
+                                "termKRQualtrics": "Western Bulldogs"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "entID": 1002,
+                "termKRQualtrics": "Rugby",
+                "omnisurvShowSelRival": false,
+                "subgroups": [
+                    {
+                        "entID": 6536,
+                        "termKRQualtrics": "Rugby Union",
+                        "omnisurvShowSelRival": false,
+                        "subgroups": [
+                            {
+                                "entID": 7115,
+                                "termKRQualtrics": "Men's Rugby Union",
+                                "omnisurvShowSelRival": true,
+                                "subgroups": [
+                                    {
+                                        "entID": 5667,
+                                        "termKRQualtrics": "Premiership Rugby",
+                                        "omnisurvShowSelRival": true,
+                                        "subgroups": [
+                                            {
+                                                "entID": 5669,
+                                                "termKRQualtrics": "Bath Rugby"
+                                            },
+                                            {
+                                                "entID": 5670,
+                                                "termKRQualtrics": "Bristol Rugby Club"
+                                            },
+                                            {
+                                                "entID": 5671,
+                                                "termKRQualtrics": "Exeter Rugby Club"
+                                            },
+                                            {
+                                                "entID": 5672,
+                                                "termKRQualtrics": "Gloucester Rugby"
+                                            },
+                                            {
+                                                "entID": 5673,
+                                                "termKRQualtrics": "Harlequin Football Club"
+                                            },
+                                            {
+                                                "entID": 5674,
+                                                "termKRQualtrics": "Leicester Tigers"
+                                            },
+                                            {
+                                                "entID": 5675,
+                                                "termKRQualtrics": "London Irish"
+                                            },
+                                            {
+                                                "entID": 5703,
+                                                "termKRQualtrics": "Newcastle Falcons"
+                                            },
+                                            {
+                                                "entID": 5676,
+                                                "termKRQualtrics": "Northampton Saints"
+                                            },
+                                            {
+                                                "entID": 5677,
+                                                "termKRQualtrics": "Sale Sharks"
+                                            },
+                                            {
+                                                "entID": 5679,
+                                                "termKRQualtrics": "Wasps"
+                                            },
+                                            {
+                                                "entID": 5680,
+                                                "termKRQualtrics": "Worcester Warriors"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "entID": 5668,
+                                        "termKRQualtrics": "RFU Championship",
+                                        "omnisurvShowSelRival": true,
+                                        "subgroups": [
+                                            {
+                                                "entID": 5694,
+                                                "termKRQualtrics": "Ampthill"
+                                            },
+                                            {
+                                                "entID": 5695,
+                                                "termKRQualtrics": "Bedford Blues"
+                                            },
+                                            {
+                                                "entID": 5696,
+                                                "termKRQualtrics": "Cornish Pirates"
+                                            },
+                                            {
+                                                "entID": 5697,
+                                                "termKRQualtrics": "Coventry"
+                                            },
+                                            {
+                                                "entID": 5698,
+                                                "termKRQualtrics": "Doncaster Knights"
+                                            },
+                                            {
+                                                "entID": 5699,
+                                                "termKRQualtrics": "Ealing Trailfinders"
+                                            },
+                                            {
+                                                "entID": 5700,
+                                                "termKRQualtrics": "Hartpury"
+                                            },
+                                            {
+                                                "entID": 5701,
+                                                "termKRQualtrics": "Jersey Reds"
+                                            },
+                                            {
+                                                "entID": 5705,
+                                                "termKRQualtrics": "Leeds Tykes"
+                                            },
+                                            {
+                                                "entID": 5702,
+                                                "termKRQualtrics": "London Scottish"
+                                            },
+                                            {
+                                                "entID": 5704,
+                                                "termKRQualtrics": "Nottingham"
+                                            },
+                                            {
+                                                "entID": 5678,
+                                                "termKRQualtrics": "Saracens"
+                                            }
+                                        ]
+                                    }
+                                ]
                             }
                         ]
                     }

@@ -1,5 +1,555 @@
 ﻿[
   {
+    "RecIdentifier": "DataForEnt5274",
+    "Omnidata": {
+      "TopGroupingNameThe": "2. Bundesliga",
+      "entityNameThe": "Arminia Bielefeld",
+      "TopGroupingID": 5273,
+      "entID": 5274,
+      "entityName": "Arminia Bielefeld",
+      "TopGroupingName": "2. Bundesliga"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt5281",
+    "Omnidata": {
+      "TopGroupingNameThe": "2. Bundesliga",
+      "entityNameThe": "Bochum",
+      "TopGroupingID": 5273,
+      "entID": 5281,
+      "entityName": "Bochum",
+      "TopGroupingName": "2. Bundesliga"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt5278",
+    "Omnidata": {
+      "TopGroupingNameThe": "2. Bundesliga",
+      "entityNameThe": "Darmstadt 98",
+      "TopGroupingID": 5273,
+      "entID": 5278,
+      "entityName": "Darmstadt 98",
+      "TopGroupingName": "2. Bundesliga"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt5291",
+    "Omnidata": {
+      "TopGroupingNameThe": "2. Bundesliga",
+      "entityNameThe": "Dynamo Dresden",
+      "TopGroupingID": 5273,
+      "entID": 5291,
+      "entityName": "Dynamo Dresden",
+      "TopGroupingName": "2. Bundesliga"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt5280",
+    "Omnidata": {
+      "TopGroupingNameThe": "2. Bundesliga",
+      "entityNameThe": "Erzgebirge Aue",
+      "TopGroupingID": 5273,
+      "entID": 5280,
+      "entityName": "Erzgebirge Aue",
+      "TopGroupingName": "2. Bundesliga"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt5289",
+    "Omnidata": {
+      "TopGroupingNameThe": "2. Bundesliga",
+      "entityNameThe": "FC Nürnberg",
+      "TopGroupingID": 5273,
+      "entID": 5289,
+      "entityName": "FC Nürnberg",
+      "TopGroupingName": "2. Bundesliga"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt5277",
+    "Omnidata": {
+      "TopGroupingNameThe": "2. Bundesliga",
+      "entityNameThe": "Hamburger SV",
+      "TopGroupingID": 5273,
+      "entID": 5277,
+      "entityName": "Hamburger SV",
+      "TopGroupingName": "2. Bundesliga"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt5279",
+    "Omnidata": {
+      "TopGroupingNameThe": "2. Bundesliga",
+      "entityNameThe": "Hannover 96",
+      "TopGroupingID": 5273,
+      "entID": 5279,
+      "entityName": "Hannover 96",
+      "TopGroupingName": "2. Bundesliga"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt5276",
+    "Omnidata": {
+      "TopGroupingNameThe": "2. Bundesliga",
+      "entityNameThe": "Heidenheim",
+      "TopGroupingID": 5273,
+      "entID": 5276,
+      "entityName": "Heidenheim",
+      "TopGroupingName": "2. Bundesliga"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt5284",
+    "Omnidata": {
+      "TopGroupingNameThe": "2. Bundesliga",
+      "entityNameThe": "Holstein Kiel",
+      "TopGroupingID": 5273,
+      "entID": 5284,
+      "entityName": "Holstein Kiel",
+      "TopGroupingName": "2. Bundesliga"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt5285",
+    "Omnidata": {
+      "TopGroupingNameThe": "2. Bundesliga",
+      "entityNameThe": "Jahn Regensburg",
+      "TopGroupingID": 5273,
+      "entID": 5285,
+      "entityName": "Jahn Regensburg",
+      "TopGroupingName": "2. Bundesliga"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt5288",
+    "Omnidata": {
+      "TopGroupingNameThe": "2. Bundesliga",
+      "entityNameThe": "Karlsruher",
+      "TopGroupingID": 5273,
+      "entID": 5288,
+      "entityName": "Karlsruher",
+      "TopGroupingName": "2. Bundesliga"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt5283",
+    "Omnidata": {
+      "TopGroupingNameThe": "2. Bundesliga",
+      "entityNameThe": "SV Sandhausen",
+      "TopGroupingID": 5273,
+      "entID": 5283,
+      "entityName": "SV Sandhausen",
+      "TopGroupingName": "2. Bundesliga"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt5282",
+    "Omnidata": {
+      "TopGroupingNameThe": "2. Bundesliga",
+      "entityNameThe": "SpVgg Greuther Fürth",
+      "TopGroupingID": 5273,
+      "entID": 5282,
+      "entityName": "SpVgg Greuther Fürth",
+      "TopGroupingName": "2. Bundesliga"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt5287",
+    "Omnidata": {
+      "TopGroupingNameThe": "2. Bundesliga",
+      "entityNameThe": "St. Pauli",
+      "TopGroupingID": 5273,
+      "entID": 5287,
+      "entityName": "St. Pauli",
+      "TopGroupingName": "2. Bundesliga"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt5275",
+    "Omnidata": {
+      "TopGroupingNameThe": "2. Bundesliga",
+      "entityNameThe": "VfB Stuttgart",
+      "TopGroupingID": 5273,
+      "entID": 5275,
+      "entityName": "VfB Stuttgart",
+      "TopGroupingName": "2. Bundesliga"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt5286",
+    "Omnidata": {
+      "TopGroupingNameThe": "2. Bundesliga",
+      "entityNameThe": "VfL Osnabrück",
+      "TopGroupingID": 5273,
+      "entID": 5286,
+      "entityName": "VfL Osnabrück",
+      "TopGroupingName": "2. Bundesliga"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt5290",
+    "Omnidata": {
+      "TopGroupingNameThe": "2. Bundesliga",
+      "entityNameThe": "Wehen",
+      "TopGroupingID": 5273,
+      "entID": 5290,
+      "entityName": "Wehen",
+      "TopGroupingName": "2. Bundesliga"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt296",
+    "Omnidata": {
+      "TopGroupingNameThe": "the AFL",
+      "entityNameThe": "the Adelaide Crows",
+      "TopGroupingID": 1428,
+      "entID": 296,
+      "entityName": "Adelaide Crows",
+      "TopGroupingName": "AFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt297",
+    "Omnidata": {
+      "TopGroupingNameThe": "the AFL",
+      "entityNameThe": "the Brisbane Lions",
+      "TopGroupingID": 1428,
+      "entID": 297,
+      "entityName": "Brisbane Lions",
+      "TopGroupingName": "AFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt298",
+    "Omnidata": {
+      "TopGroupingNameThe": "the AFL",
+      "entityNameThe": "the Carlton Blues",
+      "TopGroupingID": 1428,
+      "entID": 298,
+      "entityName": "Carlton Blues",
+      "TopGroupingName": "AFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt299",
+    "Omnidata": {
+      "TopGroupingNameThe": "the AFL",
+      "entityNameThe": "the Collingwood Magpies",
+      "TopGroupingID": 1428,
+      "entID": 299,
+      "entityName": "Collingwood Magpies",
+      "TopGroupingName": "AFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt300",
+    "Omnidata": {
+      "TopGroupingNameThe": "the AFL",
+      "entityNameThe": "the Essendon Bombers",
+      "TopGroupingID": 1428,
+      "entID": 300,
+      "entityName": "Essendon Bombers",
+      "TopGroupingName": "AFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt301",
+    "Omnidata": {
+      "TopGroupingNameThe": "the AFL",
+      "entityNameThe": "the Fremantle Dockers",
+      "TopGroupingID": 1428,
+      "entID": 301,
+      "entityName": "Fremantle Dockers",
+      "TopGroupingName": "AFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt304",
+    "Omnidata": {
+      "TopGroupingNameThe": "the AFL",
+      "entityNameThe": "the GWS Giants",
+      "TopGroupingID": 1428,
+      "entID": 304,
+      "entityName": "GWS Giants",
+      "TopGroupingName": "AFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt302",
+    "Omnidata": {
+      "TopGroupingNameThe": "the AFL",
+      "entityNameThe": "the Geelong Cats",
+      "TopGroupingID": 1428,
+      "entID": 302,
+      "entityName": "Geelong Cats",
+      "TopGroupingName": "AFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt303",
+    "Omnidata": {
+      "TopGroupingNameThe": "the AFL",
+      "entityNameThe": "the Gold Coast Suns",
+      "TopGroupingID": 1428,
+      "entID": 303,
+      "entityName": "Gold Coast Suns",
+      "TopGroupingName": "AFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt305",
+    "Omnidata": {
+      "TopGroupingNameThe": "the AFL",
+      "entityNameThe": "the Hawthorn Hawks",
+      "TopGroupingID": 1428,
+      "entID": 305,
+      "entityName": "Hawthorn Hawks",
+      "TopGroupingName": "AFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt306",
+    "Omnidata": {
+      "TopGroupingNameThe": "the AFL",
+      "entityNameThe": "the Melbourne Demons",
+      "TopGroupingID": 1428,
+      "entID": 306,
+      "entityName": "Melbourne Demons",
+      "TopGroupingName": "AFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt307",
+    "Omnidata": {
+      "TopGroupingNameThe": "the AFL",
+      "entityNameThe": "the North Melbourne Kangaroos",
+      "TopGroupingID": 1428,
+      "entID": 307,
+      "entityName": "North Melbourne Kangaroos",
+      "TopGroupingName": "AFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt308",
+    "Omnidata": {
+      "TopGroupingNameThe": "the AFL",
+      "entityNameThe": "the Port Adelaide Power",
+      "TopGroupingID": 1428,
+      "entID": 308,
+      "entityName": "Port Adelaide Power",
+      "TopGroupingName": "AFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt309",
+    "Omnidata": {
+      "TopGroupingNameThe": "the AFL",
+      "entityNameThe": "the Richmond Tigers",
+      "TopGroupingID": 1428,
+      "entID": 309,
+      "entityName": "Richmond Tigers",
+      "TopGroupingName": "AFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt310",
+    "Omnidata": {
+      "TopGroupingNameThe": "the AFL",
+      "entityNameThe": "the St Kilda Saints",
+      "TopGroupingID": 1428,
+      "entID": 310,
+      "entityName": "St Kilda Saints",
+      "TopGroupingName": "AFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt311",
+    "Omnidata": {
+      "TopGroupingNameThe": "the AFL",
+      "entityNameThe": "the Sydney Swans",
+      "TopGroupingID": 1428,
+      "entID": 311,
+      "entityName": "Sydney Swans",
+      "TopGroupingName": "AFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt312",
+    "Omnidata": {
+      "TopGroupingNameThe": "the AFL",
+      "entityNameThe": "the West Coast Eagles",
+      "TopGroupingID": 1428,
+      "entID": 312,
+      "entityName": "West Coast Eagles",
+      "TopGroupingName": "AFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt313",
+    "Omnidata": {
+      "TopGroupingNameThe": "the AFL",
+      "entityNameThe": "the Western Bulldogs",
+      "TopGroupingID": 1428,
+      "entID": 313,
+      "entityName": "Western Bulldogs",
+      "TopGroupingName": "AFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt3295",
+    "Omnidata": {
+      "TopGroupingNameThe": "the AFLW",
+      "entityNameThe": "the Adelaide Crows",
+      "TopGroupingID": 3292,
+      "entID": 3295,
+      "entityName": "Adelaide Crows",
+      "TopGroupingName": "AFL Women's"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt3296",
+    "Omnidata": {
+      "TopGroupingNameThe": "the AFLW",
+      "entityNameThe": "the Brisbane Lions",
+      "TopGroupingID": 3292,
+      "entID": 3296,
+      "entityName": "Brisbane Lions",
+      "TopGroupingName": "AFL Women's"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt3297",
+    "Omnidata": {
+      "TopGroupingNameThe": "the AFLW",
+      "entityNameThe": "the Carlton Blues",
+      "TopGroupingID": 3292,
+      "entID": 3297,
+      "entityName": "Carlton Blues",
+      "TopGroupingName": "AFL Women's"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt3298",
+    "Omnidata": {
+      "TopGroupingNameThe": "the AFLW",
+      "entityNameThe": "the Collingwood Magpies",
+      "TopGroupingID": 3292,
+      "entID": 3298,
+      "entityName": "Collingwood Magpies",
+      "TopGroupingName": "AFL Women's"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt3299",
+    "Omnidata": {
+      "TopGroupingNameThe": "the AFLW",
+      "entityNameThe": "the Fremantle Dockers",
+      "TopGroupingID": 3292,
+      "entID": 3299,
+      "entityName": "Fremantle Dockers",
+      "TopGroupingName": "AFL Women's"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt3302",
+    "Omnidata": {
+      "TopGroupingNameThe": "the AFLW",
+      "entityNameThe": "the GWS Giants",
+      "TopGroupingID": 3292,
+      "entID": 3302,
+      "entityName": "GWS Giants",
+      "TopGroupingName": "AFL Women's"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt3300",
+    "Omnidata": {
+      "TopGroupingNameThe": "the AFLW",
+      "entityNameThe": "the Geelong Cats",
+      "TopGroupingID": 3292,
+      "entID": 3300,
+      "entityName": "Geelong Cats",
+      "TopGroupingName": "AFL Women's"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt3301",
+    "Omnidata": {
+      "TopGroupingNameThe": "the AFLW",
+      "entityNameThe": "the Gold Coast Suns",
+      "TopGroupingID": 3292,
+      "entID": 3301,
+      "entityName": "Gold Coast Suns",
+      "TopGroupingName": "AFL Women's"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt3303",
+    "Omnidata": {
+      "TopGroupingNameThe": "the AFLW",
+      "entityNameThe": "the Melbourne Demons",
+      "TopGroupingID": 3292,
+      "entID": 3303,
+      "entityName": "Melbourne Demons",
+      "TopGroupingName": "AFL Women's"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt3304",
+    "Omnidata": {
+      "TopGroupingNameThe": "the AFLW",
+      "entityNameThe": "the North Melbourne Kangaroos",
+      "TopGroupingID": 3292,
+      "entID": 3304,
+      "entityName": "North Melbourne Kangaroos",
+      "TopGroupingName": "AFL Women's"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt3305",
+    "Omnidata": {
+      "TopGroupingNameThe": "the AFLW",
+      "entityNameThe": "the Richmond Tigers",
+      "TopGroupingID": 3292,
+      "entID": 3305,
+      "entityName": "Richmond Tigers",
+      "TopGroupingName": "AFL Women's"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt3306",
+    "Omnidata": {
+      "TopGroupingNameThe": "the AFLW",
+      "entityNameThe": "the St Kilda Saints",
+      "TopGroupingID": 3292,
+      "entID": 3306,
+      "entityName": "St Kilda Saints",
+      "TopGroupingName": "AFL Women's"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt3307",
+    "Omnidata": {
+      "TopGroupingNameThe": "the AFLW",
+      "entityNameThe": "the West Coast Eagles",
+      "TopGroupingID": 3292,
+      "entID": 3307,
+      "entityName": "West Coast Eagles",
+      "TopGroupingName": "AFL Women's"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt3308",
+    "Omnidata": {
+      "TopGroupingNameThe": "the AFLW",
+      "entityNameThe": "Western Bulldogs",
+      "TopGroupingID": 3292,
+      "entID": 3308,
+      "entityName": "Western Bulldogs",
+      "TopGroupingName": "AFL Women's"
+    }
+  },
+  {
     "RecIdentifier": "DataForEnt273",
     "Omnidata": {
       "TopGroupingNameThe": "the BBL",
@@ -85,6 +635,1117 @@
       "entID": 280,
       "entityName": "Sydney Thunder",
       "TopGroupingName": "BBL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt1453",
+    "Omnidata": {
+      "TopGroupingNameThe": "the Bundesliga",
+      "entityNameThe": "Augsburg",
+      "TopGroupingID": 1452,
+      "entID": 1453,
+      "entityName": "Augsburg",
+      "TopGroupingName": "Bundesliga"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt1464",
+    "Omnidata": {
+      "TopGroupingNameThe": "the Bundesliga",
+      "entityNameThe": "Bayer Leverkusen",
+      "TopGroupingID": 1452,
+      "entID": 1464,
+      "entityName": "Bayer Leverkusen",
+      "TopGroupingName": "Bundesliga"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt1467",
+    "Omnidata": {
+      "TopGroupingNameThe": "the Bundesliga",
+      "entityNameThe": "Bayern München",
+      "TopGroupingID": 1452,
+      "entID": 1467,
+      "entityName": "Bayern München",
+      "TopGroupingName": "Bundesliga"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt1457",
+    "Omnidata": {
+      "TopGroupingNameThe": "the Bundesliga",
+      "entityNameThe": "Borussia Dortmund",
+      "TopGroupingID": 1452,
+      "entID": 1457,
+      "entityName": "Borussia Dortmund",
+      "TopGroupingName": "Bundesliga"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt1459",
+    "Omnidata": {
+      "TopGroupingNameThe": "the Bundesliga",
+      "entityNameThe": "Eintracht",
+      "TopGroupingID": 1452,
+      "entID": 1459,
+      "entityName": "Eintracht",
+      "TopGroupingName": "Bundesliga"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt1462",
+    "Omnidata": {
+      "TopGroupingNameThe": "the Bundesliga",
+      "entityNameThe": "FC Köln",
+      "TopGroupingID": 1452,
+      "entID": 1462,
+      "entityName": "FC Köln",
+      "TopGroupingName": "Bundesliga"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt1458",
+    "Omnidata": {
+      "TopGroupingNameThe": "the Bundesliga",
+      "entityNameThe": "Fortuna Düsseldorf",
+      "TopGroupingID": 1452,
+      "entID": 1458,
+      "entityName": "Fortuna Düsseldorf",
+      "TopGroupingName": "Bundesliga"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt1454",
+    "Omnidata": {
+      "TopGroupingNameThe": "the Bundesliga",
+      "entityNameThe": "Hertha BSC",
+      "TopGroupingID": 1452,
+      "entID": 1454,
+      "entityName": "Hertha BSC",
+      "TopGroupingName": "Bundesliga"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt1465",
+    "Omnidata": {
+      "TopGroupingNameThe": "the Bundesliga",
+      "entityNameThe": "Mainz",
+      "TopGroupingID": 1452,
+      "entID": 1465,
+      "entityName": "Mainz",
+      "TopGroupingName": "Bundesliga"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt1466",
+    "Omnidata": {
+      "TopGroupingNameThe": "the Bundesliga",
+      "entityNameThe": "Mönchengladbach",
+      "TopGroupingID": 1452,
+      "entID": 1466,
+      "entityName": "Mönchengladbach",
+      "TopGroupingName": "Bundesliga"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt1468",
+    "Omnidata": {
+      "TopGroupingNameThe": "the Bundesliga",
+      "entityNameThe": "Paderborn",
+      "TopGroupingID": 1452,
+      "entID": 1468,
+      "entityName": "Paderborn",
+      "TopGroupingName": "Bundesliga"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt1463",
+    "Omnidata": {
+      "TopGroupingNameThe": "the Bundesliga",
+      "entityNameThe": "RB Leipzig",
+      "TopGroupingID": 1452,
+      "entID": 1463,
+      "entityName": "RB Leipzig",
+      "TopGroupingName": "Bundesliga"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt1460",
+    "Omnidata": {
+      "TopGroupingNameThe": "the Bundesliga",
+      "entityNameThe": "SC Freiburg",
+      "TopGroupingID": 1452,
+      "entID": 1460,
+      "entityName": "SC Freiburg",
+      "TopGroupingName": "Bundesliga"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt1469",
+    "Omnidata": {
+      "TopGroupingNameThe": "the Bundesliga",
+      "entityNameThe": "Schalke",
+      "TopGroupingID": 1452,
+      "entID": 1469,
+      "entityName": "Schalke",
+      "TopGroupingName": "Bundesliga"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt1461",
+    "Omnidata": {
+      "TopGroupingNameThe": "the Bundesliga",
+      "entityNameThe": "TSG 1899 Hoffenheim",
+      "TopGroupingID": 1452,
+      "entID": 1461,
+      "entityName": "TSG 1899 Hoffenheim",
+      "TopGroupingName": "Bundesliga"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt1455",
+    "Omnidata": {
+      "TopGroupingNameThe": "the Bundesliga",
+      "entityNameThe": "Union Berlin",
+      "TopGroupingID": 1452,
+      "entID": 1455,
+      "entityName": "Union Berlin",
+      "TopGroupingName": "Bundesliga"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt1456",
+    "Omnidata": {
+      "TopGroupingNameThe": "the Bundesliga",
+      "entityNameThe": "Werder Bremen",
+      "TopGroupingID": 1452,
+      "entID": 1456,
+      "entityName": "Werder Bremen",
+      "TopGroupingName": "Bundesliga"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt1470",
+    "Omnidata": {
+      "TopGroupingNameThe": "the Bundesliga",
+      "entityNameThe": "Wolfsburg",
+      "TopGroupingID": 1452,
+      "entID": 1470,
+      "entityName": "Wolfsburg",
+      "TopGroupingName": "Bundesliga"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt1432",
+    "Omnidata": {
+      "TopGroupingNameThe": "the CFL",
+      "entityNameThe": "the BC Lions",
+      "TopGroupingID": 1429,
+      "entID": 1432,
+      "entityName": "BC Lions",
+      "TopGroupingName": "CFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt1433",
+    "Omnidata": {
+      "TopGroupingNameThe": "the CFL",
+      "entityNameThe": "the Calgary Stampeders",
+      "TopGroupingID": 1429,
+      "entID": 1433,
+      "entityName": "Calgary Stampeders",
+      "TopGroupingName": "CFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt1434",
+    "Omnidata": {
+      "TopGroupingNameThe": "the CFL",
+      "entityNameThe": "the Edmonton Eskimos",
+      "TopGroupingID": 1429,
+      "entID": 1434,
+      "entityName": "Edmonton Eskimos",
+      "TopGroupingName": "CFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt1437",
+    "Omnidata": {
+      "TopGroupingNameThe": "the CFL",
+      "entityNameThe": "the Hamilton Tiger-Cats",
+      "TopGroupingID": 1429,
+      "entID": 1437,
+      "entityName": "Hamilton Tiger-Cats",
+      "TopGroupingName": "CFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt1438",
+    "Omnidata": {
+      "TopGroupingNameThe": "the CFL",
+      "entityNameThe": "the Montreal Alouettes",
+      "TopGroupingID": 1429,
+      "entID": 1438,
+      "entityName": "Montreal Alouettes",
+      "TopGroupingName": "CFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt1439",
+    "Omnidata": {
+      "TopGroupingNameThe": "the CFL",
+      "entityNameThe": "the Ottawa Redblacks",
+      "TopGroupingID": 1429,
+      "entID": 1439,
+      "entityName": "Ottawa Redblacks",
+      "TopGroupingName": "CFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt1435",
+    "Omnidata": {
+      "TopGroupingNameThe": "the CFL",
+      "entityNameThe": "the Saskatchewan Roughriders",
+      "TopGroupingID": 1429,
+      "entID": 1435,
+      "entityName": "Saskatchewan Roughriders",
+      "TopGroupingName": "CFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt1440",
+    "Omnidata": {
+      "TopGroupingNameThe": "the CFL",
+      "entityNameThe": "the Toronto Argonauts",
+      "TopGroupingID": 1429,
+      "entID": 1440,
+      "entityName": "Toronto Argonauts",
+      "TopGroupingName": "CFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt1436",
+    "Omnidata": {
+      "TopGroupingNameThe": "the CFL",
+      "entityNameThe": "the Winnipeg Blue Bombers",
+      "TopGroupingID": 1429,
+      "entID": 1436,
+      "entityName": "Winnipeg Blue Bombers",
+      "TopGroupingName": "CFL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt1442",
+    "Omnidata": {
+      "TopGroupingNameThe": "the CPL",
+      "entityNameThe": "Cavalry FC",
+      "TopGroupingID": 1441,
+      "entID": 1442,
+      "entityName": "Cavalry FC",
+      "TopGroupingName": "CPL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt1443",
+    "Omnidata": {
+      "TopGroupingNameThe": "the CPL",
+      "entityNameThe": "FC Edmonton",
+      "TopGroupingID": 1441,
+      "entID": 1443,
+      "entityName": "FC Edmonton",
+      "TopGroupingName": "CPL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt1444",
+    "Omnidata": {
+      "TopGroupingNameThe": "the CPL",
+      "entityNameThe": "Forge FC",
+      "TopGroupingID": 1441,
+      "entID": 1444,
+      "entityName": "Forge FC",
+      "TopGroupingName": "CPL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt1445",
+    "Omnidata": {
+      "TopGroupingNameThe": "the CPL",
+      "entityNameThe": "HFX Wanderers FC",
+      "TopGroupingID": 1441,
+      "entID": 1445,
+      "entityName": "HFX Wanderers FC",
+      "TopGroupingName": "CPL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt1446",
+    "Omnidata": {
+      "TopGroupingNameThe": "the CPL",
+      "entityNameThe": "Pacific FC",
+      "TopGroupingID": 1441,
+      "entID": 1446,
+      "entityName": "Pacific FC",
+      "TopGroupingName": "CPL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt1447",
+    "Omnidata": {
+      "TopGroupingNameThe": "the CPL",
+      "entityNameThe": "Valour FC",
+      "TopGroupingID": 1441,
+      "entID": 1447,
+      "entityName": "Valour FC",
+      "TopGroupingName": "CPL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt1448",
+    "Omnidata": {
+      "TopGroupingNameThe": "the CPL",
+      "entityNameThe": "York9 FC",
+      "TopGroupingID": 1441,
+      "entID": 1448,
+      "entityName": "York9 FC",
+      "TopGroupingName": "CPL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt443",
+    "Omnidata": {
+      "TopGroupingNameThe": "the Championship",
+      "entityNameThe": "Barnsley",
+      "TopGroupingID": 1422,
+      "entID": 443,
+      "entityName": "Barnsley",
+      "TopGroupingName": "Championship"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt444",
+    "Omnidata": {
+      "TopGroupingNameThe": "the Championship",
+      "entityNameThe": "Birmingham",
+      "TopGroupingID": 1422,
+      "entID": 444,
+      "entityName": "Birmingham",
+      "TopGroupingName": "Championship"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt445",
+    "Omnidata": {
+      "TopGroupingNameThe": "the Championship",
+      "entityNameThe": "Blackburn",
+      "TopGroupingID": 1422,
+      "entID": 445,
+      "entityName": "Blackburn",
+      "TopGroupingName": "Championship"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt450",
+    "Omnidata": {
+      "TopGroupingNameThe": "the Championship",
+      "entityNameThe": "Brentford",
+      "TopGroupingID": 1422,
+      "entID": 450,
+      "entityName": "Brentford",
+      "TopGroupingName": "Championship"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt452",
+    "Omnidata": {
+      "TopGroupingNameThe": "the Championship",
+      "entityNameThe": "Bristol City",
+      "TopGroupingID": 1422,
+      "entID": 452,
+      "entityName": "Bristol City",
+      "TopGroupingName": "Championship"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt458",
+    "Omnidata": {
+      "TopGroupingNameThe": "the Championship",
+      "entityNameThe": "Cardiff City",
+      "TopGroupingID": 1422,
+      "entID": 458,
+      "entityName": "Cardiff City",
+      "TopGroupingName": "Championship"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt460",
+    "Omnidata": {
+      "TopGroupingNameThe": "the Championship",
+      "entityNameThe": "Charlton",
+      "TopGroupingID": 1422,
+      "entID": 460,
+      "entityName": "Charlton",
+      "TopGroupingName": "Championship"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt469",
+    "Omnidata": {
+      "TopGroupingNameThe": "the Championship",
+      "entityNameThe": "Derby",
+      "TopGroupingID": 1422,
+      "entID": 469,
+      "entityName": "Derby",
+      "TopGroupingName": "Championship"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt474",
+    "Omnidata": {
+      "TopGroupingNameThe": "the Championship",
+      "entityNameThe": "Fulham",
+      "TopGroupingID": 1422,
+      "entID": 474,
+      "entityName": "Fulham",
+      "TopGroupingName": "Championship"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt477",
+    "Omnidata": {
+      "TopGroupingNameThe": "the Championship",
+      "entityNameThe": "Huddersfield",
+      "TopGroupingID": 1422,
+      "entID": 477,
+      "entityName": "Huddersfield",
+      "TopGroupingName": "Championship"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt478",
+    "Omnidata": {
+      "TopGroupingNameThe": "the Championship",
+      "entityNameThe": "Hull City",
+      "TopGroupingID": 1422,
+      "entID": 478,
+      "entityName": "Hull City",
+      "TopGroupingName": "Championship"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt480",
+    "Omnidata": {
+      "TopGroupingNameThe": "the Championship",
+      "entityNameThe": "Leeds",
+      "TopGroupingID": 1422,
+      "entID": 480,
+      "entityName": "Leeds",
+      "TopGroupingName": "Championship"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt484",
+    "Omnidata": {
+      "TopGroupingNameThe": "the Championship",
+      "entityNameThe": "Luton Town",
+      "TopGroupingID": 1422,
+      "entID": 484,
+      "entityName": "Luton Town",
+      "TopGroupingName": "Championship"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt488",
+    "Omnidata": {
+      "TopGroupingNameThe": "the Championship",
+      "entityNameThe": "Middlesbrough",
+      "TopGroupingID": 1422,
+      "entID": 488,
+      "entityName": "Middlesbrough",
+      "TopGroupingName": "Championship"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt489",
+    "Omnidata": {
+      "TopGroupingNameThe": "the Championship",
+      "entityNameThe": "Millwall",
+      "TopGroupingID": 1422,
+      "entID": 489,
+      "entityName": "Millwall",
+      "TopGroupingName": "Championship"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt496",
+    "Omnidata": {
+      "TopGroupingNameThe": "the Championship",
+      "entityNameThe": "Nottingham Forest",
+      "TopGroupingID": 1422,
+      "entID": 496,
+      "entityName": "Nottingham Forest",
+      "TopGroupingName": "Championship"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt504",
+    "Omnidata": {
+      "TopGroupingNameThe": "the Championship",
+      "entityNameThe": "Preston",
+      "TopGroupingID": 1422,
+      "entID": 504,
+      "entityName": "Preston",
+      "TopGroupingName": "Championship"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt505",
+    "Omnidata": {
+      "TopGroupingNameThe": "the Championship",
+      "entityNameThe": "QPR",
+      "TopGroupingID": 1422,
+      "entID": 505,
+      "entityName": "QPR",
+      "TopGroupingName": "Championship"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt506",
+    "Omnidata": {
+      "TopGroupingNameThe": "the Championship",
+      "entityNameThe": "Reading",
+      "TopGroupingID": 1422,
+      "entID": 506,
+      "entityName": "Reading",
+      "TopGroupingName": "Championship"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt511",
+    "Omnidata": {
+      "TopGroupingNameThe": "the Championship",
+      "entityNameThe": "Sheffield Wednesday",
+      "TopGroupingID": 1422,
+      "entID": 511,
+      "entityName": "Sheffield Wednesday",
+      "TopGroupingName": "Championship"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt516",
+    "Omnidata": {
+      "TopGroupingNameThe": "the Championship",
+      "entityNameThe": "Stoke",
+      "TopGroupingID": 1422,
+      "entID": 516,
+      "entityName": "Stoke",
+      "TopGroupingName": "Championship"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt518",
+    "Omnidata": {
+      "TopGroupingNameThe": "the Championship",
+      "entityNameThe": "Swansea",
+      "TopGroupingID": 1422,
+      "entID": 518,
+      "entityName": "Swansea",
+      "TopGroupingName": "Championship"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt523",
+    "Omnidata": {
+      "TopGroupingNameThe": "the Championship",
+      "entityNameThe": "West Brom",
+      "TopGroupingID": 1422,
+      "entID": 523,
+      "entityName": "West Brom",
+      "TopGroupingName": "Championship"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt525",
+    "Omnidata": {
+      "TopGroupingNameThe": "the Championship",
+      "entityNameThe": "Wigan Athletic",
+      "TopGroupingID": 1422,
+      "entID": 525,
+      "entityName": "Wigan Athletic",
+      "TopGroupingName": "Championship"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt440",
+    "Omnidata": {
+      "TopGroupingNameThe": "the EPL",
+      "entityNameThe": "Arsenal",
+      "TopGroupingID": 1336,
+      "entID": 440,
+      "entityName": "Arsenal",
+      "TopGroupingName": "EPL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt441",
+    "Omnidata": {
+      "TopGroupingNameThe": "the EPL",
+      "entityNameThe": "Aston Villa",
+      "TopGroupingID": 1336,
+      "entID": 441,
+      "entityName": "Aston Villa",
+      "TopGroupingName": "EPL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt448",
+    "Omnidata": {
+      "TopGroupingNameThe": "the EPL",
+      "entityNameThe": "Bournemouth",
+      "TopGroupingID": 1336,
+      "entID": 448,
+      "entityName": "Bournemouth",
+      "TopGroupingName": "EPL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt451",
+    "Omnidata": {
+      "TopGroupingNameThe": "the EPL",
+      "entityNameThe": "Brighton",
+      "TopGroupingID": 1336,
+      "entID": 451,
+      "entityName": "Brighton",
+      "TopGroupingName": "EPL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt454",
+    "Omnidata": {
+      "TopGroupingNameThe": "the EPL",
+      "entityNameThe": "Burnley",
+      "TopGroupingID": 1336,
+      "entID": 454,
+      "entityName": "Burnley",
+      "TopGroupingName": "EPL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt461",
+    "Omnidata": {
+      "TopGroupingNameThe": "the EPL",
+      "entityNameThe": "Chelsea",
+      "TopGroupingID": 1336,
+      "entID": 461,
+      "entityName": "Chelsea",
+      "TopGroupingName": "EPL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt467",
+    "Omnidata": {
+      "TopGroupingNameThe": "the EPL",
+      "entityNameThe": "Crystal Palace",
+      "TopGroupingID": 1336,
+      "entID": 467,
+      "entityName": "Crystal Palace",
+      "TopGroupingName": "EPL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt471",
+    "Omnidata": {
+      "TopGroupingNameThe": "the EPL",
+      "entityNameThe": "Everton",
+      "TopGroupingID": 1336,
+      "entID": 471,
+      "entityName": "Everton",
+      "TopGroupingName": "EPL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt481",
+    "Omnidata": {
+      "TopGroupingNameThe": "the EPL",
+      "entityNameThe": "Leicester City",
+      "TopGroupingID": 1336,
+      "entID": 481,
+      "entityName": "Leicester City",
+      "TopGroupingName": "EPL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt483",
+    "Omnidata": {
+      "TopGroupingNameThe": "the EPL",
+      "entityNameThe": "Liverpool",
+      "TopGroupingID": 1336,
+      "entID": 483,
+      "entityName": "Liverpool",
+      "TopGroupingName": "EPL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt485",
+    "Omnidata": {
+      "TopGroupingNameThe": "the EPL",
+      "entityNameThe": "Man City",
+      "TopGroupingID": 1336,
+      "entID": 485,
+      "entityName": "Man City",
+      "TopGroupingName": "EPL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt486",
+    "Omnidata": {
+      "TopGroupingNameThe": "the EPL",
+      "entityNameThe": "Man United",
+      "TopGroupingID": 1336,
+      "entID": 486,
+      "entityName": "Man United",
+      "TopGroupingName": "EPL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt492",
+    "Omnidata": {
+      "TopGroupingNameThe": "the EPL",
+      "entityNameThe": "Newcastle",
+      "TopGroupingID": 1336,
+      "entID": 492,
+      "entityName": "Newcastle",
+      "TopGroupingName": "EPL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt495",
+    "Omnidata": {
+      "TopGroupingNameThe": "the EPL",
+      "entityNameThe": "Norwich",
+      "TopGroupingID": 1336,
+      "entID": 495,
+      "entityName": "Norwich",
+      "TopGroupingName": "EPL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt510",
+    "Omnidata": {
+      "TopGroupingNameThe": "the EPL",
+      "entityNameThe": "Sheffield United",
+      "TopGroupingID": 1336,
+      "entID": 510,
+      "entityName": "Sheffield United",
+      "TopGroupingName": "EPL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt513",
+    "Omnidata": {
+      "TopGroupingNameThe": "the EPL",
+      "entityNameThe": "Southampton",
+      "TopGroupingID": 1336,
+      "entID": 513,
+      "entityName": "Southampton",
+      "TopGroupingName": "EPL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt520",
+    "Omnidata": {
+      "TopGroupingNameThe": "the EPL",
+      "entityNameThe": "Tottenham",
+      "TopGroupingID": 1336,
+      "entID": 520,
+      "entityName": "Tottenham",
+      "TopGroupingName": "EPL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt522",
+    "Omnidata": {
+      "TopGroupingNameThe": "the EPL",
+      "entityNameThe": "Watford",
+      "TopGroupingID": 1336,
+      "entID": 522,
+      "entityName": "Watford",
+      "TopGroupingName": "EPL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt524",
+    "Omnidata": {
+      "TopGroupingNameThe": "the EPL",
+      "entityNameThe": "West Ham",
+      "TopGroupingID": 1336,
+      "entID": 524,
+      "entityName": "West Ham",
+      "TopGroupingName": "EPL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt526",
+    "Omnidata": {
+      "TopGroupingNameThe": "the EPL",
+      "entityNameThe": "Wolves",
+      "TopGroupingID": 1336,
+      "entID": 526,
+      "entityName": "Wolves",
+      "TopGroupingName": "EPL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt5036",
+    "Omnidata": {
+      "TopGroupingNameThe": "the FA Women's Championship",
+      "entityNameThe": "Aston Villa",
+      "TopGroupingID": 5035,
+      "entID": 5036,
+      "entityName": "Aston Villa",
+      "TopGroupingName": "FA Women's Championship"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt5037",
+    "Omnidata": {
+      "TopGroupingNameThe": "the FA Women's Championship",
+      "entityNameThe": "Blackburn Rovers",
+      "TopGroupingID": 5035,
+      "entID": 5037,
+      "entityName": "Blackburn Rovers",
+      "TopGroupingName": "FA Women's Championship"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt5038",
+    "Omnidata": {
+      "TopGroupingNameThe": "the FA Women's Championship",
+      "entityNameThe": "Charlton Athletic",
+      "TopGroupingID": 5035,
+      "entID": 5038,
+      "entityName": "Charlton Athletic",
+      "TopGroupingName": "FA Women's Championship"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt5039",
+    "Omnidata": {
+      "TopGroupingNameThe": "the FA Women's Championship",
+      "entityNameThe": "Coventry United",
+      "TopGroupingID": 5035,
+      "entID": 5039,
+      "entityName": "Coventry United",
+      "TopGroupingName": "FA Women's Championship"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt5040",
+    "Omnidata": {
+      "TopGroupingNameThe": "the FA Women's Championship",
+      "entityNameThe": "Crystal Palace",
+      "TopGroupingID": 5035,
+      "entID": 5040,
+      "entityName": "Crystal Palace",
+      "TopGroupingName": "FA Women's Championship"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt5041",
+    "Omnidata": {
+      "TopGroupingNameThe": "the FA Women's Championship",
+      "entityNameThe": "Durham",
+      "TopGroupingID": 5035,
+      "entID": 5041,
+      "entityName": "Durham",
+      "TopGroupingName": "FA Women's Championship"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt5042",
+    "Omnidata": {
+      "TopGroupingNameThe": "the FA Women's Championship",
+      "entityNameThe": "Leicester City",
+      "TopGroupingID": 5035,
+      "entID": 5042,
+      "entityName": "Leicester City",
+      "TopGroupingName": "FA Women's Championship"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt5043",
+    "Omnidata": {
+      "TopGroupingNameThe": "the FA Women's Championship",
+      "entityNameThe": "Lewes",
+      "TopGroupingID": 5035,
+      "entID": 5043,
+      "entityName": "Lewes",
+      "TopGroupingName": "FA Women's Championship"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt5044",
+    "Omnidata": {
+      "TopGroupingNameThe": "the FA Women's Championship",
+      "entityNameThe": "the London Bees",
+      "TopGroupingID": 5035,
+      "entID": 5044,
+      "entityName": "London Bees",
+      "TopGroupingName": "FA Women's Championship"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt5045",
+    "Omnidata": {
+      "TopGroupingNameThe": "the FA Women's Championship",
+      "entityNameThe": "the London City Lionesses",
+      "TopGroupingID": 5035,
+      "entID": 5045,
+      "entityName": "London City Lionesses",
+      "TopGroupingName": "FA Women's Championship"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt5046",
+    "Omnidata": {
+      "TopGroupingNameThe": "the FA Women's Championship",
+      "entityNameThe": "Sheffield United",
+      "TopGroupingID": 5035,
+      "entID": 5046,
+      "entityName": "Sheffield United",
+      "TopGroupingName": "FA Women's Championship"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt4956",
+    "Omnidata": {
+      "TopGroupingNameThe": "the FA Women's Super League",
+      "entityNameThe": "Arsenal",
+      "TopGroupingID": 4955,
+      "entID": 4956,
+      "entityName": "Arsenal",
+      "TopGroupingName": "FA Women's Super League"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt4958",
+    "Omnidata": {
+      "TopGroupingNameThe": "the FA Women's Super League",
+      "entityNameThe": "Birmingham City",
+      "TopGroupingID": 4955,
+      "entID": 4958,
+      "entityName": "Birmingham City",
+      "TopGroupingName": "FA Women's Super League"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt4959",
+    "Omnidata": {
+      "TopGroupingNameThe": "the FA Women's Super League",
+      "entityNameThe": "Brighton & Hove Albion",
+      "TopGroupingID": 4955,
+      "entID": 4959,
+      "entityName": "Brighton & Hove Albion",
+      "TopGroupingName": "FA Women's Super League"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt4960",
+    "Omnidata": {
+      "TopGroupingNameThe": "the FA Women's Super League",
+      "entityNameThe": "Bristol City",
+      "TopGroupingID": 4955,
+      "entID": 4960,
+      "entityName": "Bristol City",
+      "TopGroupingName": "FA Women's Super League"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt4961",
+    "Omnidata": {
+      "TopGroupingNameThe": "the FA Women's Super League",
+      "entityNameThe": "Chelsea",
+      "TopGroupingID": 4955,
+      "entID": 4961,
+      "entityName": "Chelsea",
+      "TopGroupingName": "FA Women's Super League"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt4962",
+    "Omnidata": {
+      "TopGroupingNameThe": "the FA Women's Super League",
+      "entityNameThe": "Everton",
+      "TopGroupingID": 4955,
+      "entID": 4962,
+      "entityName": "Everton",
+      "TopGroupingName": "FA Women's Super League"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt4957",
+    "Omnidata": {
+      "TopGroupingNameThe": "the FA Women's Super League",
+      "entityNameThe": "Liverpool",
+      "TopGroupingID": 4955,
+      "entID": 4957,
+      "entityName": "Liverpool",
+      "TopGroupingName": "FA Women's Super League"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt4963",
+    "Omnidata": {
+      "TopGroupingNameThe": "the FA Women's Super League",
+      "entityNameThe": "Manchester City",
+      "TopGroupingID": 4955,
+      "entID": 4963,
+      "entityName": "Manchester City",
+      "TopGroupingName": "FA Women's Super League"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt4964",
+    "Omnidata": {
+      "TopGroupingNameThe": "the FA Women's Super League",
+      "entityNameThe": "Manchester United",
+      "TopGroupingID": 4955,
+      "entID": 4964,
+      "entityName": "Manchester United",
+      "TopGroupingName": "FA Women's Super League"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt4965",
+    "Omnidata": {
+      "TopGroupingNameThe": "the FA Women's Super League",
+      "entityNameThe": "Reading",
+      "TopGroupingID": 4955,
+      "entID": 4965,
+      "entityName": "Reading",
+      "TopGroupingName": "FA Women's Super League"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt4966",
+    "Omnidata": {
+      "TopGroupingNameThe": "the FA Women's Super League",
+      "entityNameThe": "Tottenham Hotspur",
+      "TopGroupingID": 4955,
+      "entID": 4966,
+      "entityName": "Tottenham Hotspur",
+      "TopGroupingName": "FA Women's Super League"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt4967",
+    "Omnidata": {
+      "TopGroupingNameThe": "the FA Women's Super League",
+      "entityNameThe": "West Ham United",
+      "TopGroupingID": 4955,
+      "entID": 4967,
+      "entityName": "West Ham United",
+      "TopGroupingName": "FA Women's Super League"
     }
   },
   {
@@ -2992,6 +4653,512 @@
     }
   },
   {
+    "RecIdentifier": "DataForEnt439",
+    "Omnidata": {
+      "TopGroupingNameThe": "League One",
+      "entityNameThe": "AFC Wimbledon",
+      "TopGroupingID": 1423,
+      "entID": 439,
+      "entityName": "AFC Wimbledon",
+      "TopGroupingName": "League One"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt446",
+    "Omnidata": {
+      "TopGroupingNameThe": "League One",
+      "entityNameThe": "Blackpool",
+      "TopGroupingID": 1423,
+      "entID": 446,
+      "entityName": "Blackpool",
+      "TopGroupingName": "League One"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt447",
+    "Omnidata": {
+      "TopGroupingNameThe": "League One",
+      "entityNameThe": "Bolton",
+      "TopGroupingID": 1423,
+      "entID": 447,
+      "entityName": "Bolton",
+      "TopGroupingName": "League One"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt453",
+    "Omnidata": {
+      "TopGroupingNameThe": "League One",
+      "entityNameThe": "Bristol Rovers",
+      "TopGroupingID": 1423,
+      "entID": 453,
+      "entityName": "Bristol Rovers",
+      "TopGroupingName": "League One"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt455",
+    "Omnidata": {
+      "TopGroupingNameThe": "League One",
+      "entityNameThe": "Burton",
+      "TopGroupingID": 1423,
+      "entID": 455,
+      "entityName": "Burton",
+      "TopGroupingName": "League One"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt456",
+    "Omnidata": {
+      "TopGroupingNameThe": "League One",
+      "entityNameThe": "Bury",
+      "TopGroupingID": 1423,
+      "entID": 456,
+      "entityName": "Bury",
+      "TopGroupingName": "League One"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt464",
+    "Omnidata": {
+      "TopGroupingNameThe": "League One",
+      "entityNameThe": "Coventry",
+      "TopGroupingID": 1423,
+      "entID": 464,
+      "entityName": "Coventry",
+      "TopGroupingName": "League One"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt470",
+    "Omnidata": {
+      "TopGroupingNameThe": "League One",
+      "entityNameThe": "Doncaster",
+      "TopGroupingID": 1423,
+      "entID": 470,
+      "entityName": "Doncaster",
+      "TopGroupingName": "League One"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt473",
+    "Omnidata": {
+      "TopGroupingNameThe": "League One",
+      "entityNameThe": "Fleetwood",
+      "TopGroupingID": 1423,
+      "entID": 473,
+      "entityName": "Fleetwood",
+      "TopGroupingName": "League One"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt475",
+    "Omnidata": {
+      "TopGroupingNameThe": "League One",
+      "entityNameThe": "Gillingham",
+      "TopGroupingID": 1423,
+      "entID": 475,
+      "entityName": "Gillingham",
+      "TopGroupingName": "League One"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt479",
+    "Omnidata": {
+      "TopGroupingNameThe": "League One",
+      "entityNameThe": "Ipswich Town",
+      "TopGroupingID": 1423,
+      "entID": 479,
+      "entityName": "Ipswich Town",
+      "TopGroupingName": "League One"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt490",
+    "Omnidata": {
+      "TopGroupingNameThe": "League One",
+      "entityNameThe": "MK Dons",
+      "TopGroupingID": 1423,
+      "entID": 490,
+      "entityName": "MK Dons",
+      "TopGroupingName": "League One"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt499",
+    "Omnidata": {
+      "TopGroupingNameThe": "League One",
+      "entityNameThe": "Oxford United",
+      "TopGroupingID": 1423,
+      "entID": 499,
+      "entityName": "Oxford United",
+      "TopGroupingName": "League One"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt500",
+    "Omnidata": {
+      "TopGroupingNameThe": "League One",
+      "entityNameThe": "Peterborough",
+      "TopGroupingID": 1423,
+      "entID": 500,
+      "entityName": "Peterborough",
+      "TopGroupingName": "League One"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt503",
+    "Omnidata": {
+      "TopGroupingNameThe": "League One",
+      "entityNameThe": "Portsmouth",
+      "TopGroupingID": 1423,
+      "entID": 503,
+      "entityName": "Portsmouth",
+      "TopGroupingName": "League One"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt507",
+    "Omnidata": {
+      "TopGroupingNameThe": "League One",
+      "entityNameThe": "Rochdale",
+      "TopGroupingID": 1423,
+      "entID": 507,
+      "entityName": "Rochdale",
+      "TopGroupingName": "League One"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt508",
+    "Omnidata": {
+      "TopGroupingNameThe": "League One",
+      "entityNameThe": "Rotherham",
+      "TopGroupingID": 1423,
+      "entID": 508,
+      "entityName": "Rotherham",
+      "TopGroupingName": "League One"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt512",
+    "Omnidata": {
+      "TopGroupingNameThe": "League One",
+      "entityNameThe": "Shrewsbury",
+      "TopGroupingID": 1423,
+      "entID": 512,
+      "entityName": "Shrewsbury",
+      "TopGroupingName": "League One"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt514",
+    "Omnidata": {
+      "TopGroupingNameThe": "League One",
+      "entityNameThe": "Southend United",
+      "TopGroupingID": 1423,
+      "entID": 514,
+      "entityName": "Southend United",
+      "TopGroupingName": "League One"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt438",
+    "Omnidata": {
+      "TopGroupingNameThe": "League One",
+      "entityNameThe": "Stanley",
+      "TopGroupingID": 1423,
+      "entID": 438,
+      "entityName": "Stanley",
+      "TopGroupingName": "League One"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt517",
+    "Omnidata": {
+      "TopGroupingNameThe": "League One",
+      "entityNameThe": "Sunderland",
+      "TopGroupingID": 1423,
+      "entID": 517,
+      "entityName": "Sunderland",
+      "TopGroupingName": "League One"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt530",
+    "Omnidata": {
+      "TopGroupingNameThe": "League One",
+      "entityNameThe": "Tranmere",
+      "TopGroupingID": 1423,
+      "entID": 530,
+      "entityName": "Tranmere",
+      "TopGroupingName": "League One"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt527",
+    "Omnidata": {
+      "TopGroupingNameThe": "League One",
+      "entityNameThe": "Wycombe",
+      "TopGroupingID": 1423,
+      "entID": 527,
+      "entityName": "Wycombe",
+      "TopGroupingName": "League One"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt449",
+    "Omnidata": {
+      "TopGroupingNameThe": "League Two",
+      "entityNameThe": "Bradford City",
+      "TopGroupingID": 1424,
+      "entID": 449,
+      "entityName": "Bradford City",
+      "TopGroupingName": "League Two"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt457",
+    "Omnidata": {
+      "TopGroupingNameThe": "League Two",
+      "entityNameThe": "Cambridge United",
+      "TopGroupingID": 1424,
+      "entID": 457,
+      "entityName": "Cambridge United",
+      "TopGroupingName": "League Two"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt459",
+    "Omnidata": {
+      "TopGroupingNameThe": "League Two",
+      "entityNameThe": "Carlisle",
+      "TopGroupingID": 1424,
+      "entID": 459,
+      "entityName": "Carlisle",
+      "TopGroupingName": "League Two"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt535",
+    "Omnidata": {
+      "TopGroupingNameThe": "League Two",
+      "entityNameThe": "Cheltenham",
+      "TopGroupingID": 1424,
+      "entID": 535,
+      "entityName": "Cheltenham",
+      "TopGroupingName": "League Two"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt463",
+    "Omnidata": {
+      "TopGroupingNameThe": "League Two",
+      "entityNameThe": "Colchester",
+      "TopGroupingID": 1424,
+      "entID": 463,
+      "entityName": "Colchester",
+      "TopGroupingName": "League Two"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt465",
+    "Omnidata": {
+      "TopGroupingNameThe": "League Two",
+      "entityNameThe": "Crawley Town",
+      "TopGroupingID": 1424,
+      "entID": 465,
+      "entityName": "Crawley Town",
+      "TopGroupingName": "League Two"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt466",
+    "Omnidata": {
+      "TopGroupingNameThe": "League Two",
+      "entityNameThe": "Crewe",
+      "TopGroupingID": 1424,
+      "entID": 466,
+      "entityName": "Crewe",
+      "TopGroupingName": "League Two"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt472",
+    "Omnidata": {
+      "TopGroupingNameThe": "League Two",
+      "entityNameThe": "Exeter City",
+      "TopGroupingID": 1424,
+      "entID": 472,
+      "entityName": "Exeter City",
+      "TopGroupingName": "League Two"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt534",
+    "Omnidata": {
+      "TopGroupingNameThe": "League Two",
+      "entityNameThe": "Forest Green",
+      "TopGroupingID": 1424,
+      "entID": 534,
+      "entityName": "Forest Green",
+      "TopGroupingName": "League Two"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt533",
+    "Omnidata": {
+      "TopGroupingNameThe": "League Two",
+      "entityNameThe": "Gimsby Town",
+      "TopGroupingID": 1424,
+      "entID": 533,
+      "entityName": "Gimsby Town",
+      "TopGroupingName": "League Two"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt482",
+    "Omnidata": {
+      "TopGroupingNameThe": "League Two",
+      "entityNameThe": "Leyton Orient",
+      "TopGroupingID": 1424,
+      "entID": 482,
+      "entityName": "Leyton Orient",
+      "TopGroupingName": "League Two"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt531",
+    "Omnidata": {
+      "TopGroupingNameThe": "League Two",
+      "entityNameThe": "Macclesfield Town",
+      "TopGroupingID": 1424,
+      "entID": 531,
+      "entityName": "Macclesfield Town",
+      "TopGroupingName": "League Two"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt491",
+    "Omnidata": {
+      "TopGroupingNameThe": "League Two",
+      "entityNameThe": "Morecambe",
+      "TopGroupingID": 1424,
+      "entID": 491,
+      "entityName": "Morecambe",
+      "TopGroupingName": "League Two"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt493",
+    "Omnidata": {
+      "TopGroupingNameThe": "League Two",
+      "entityNameThe": "Newport County",
+      "TopGroupingID": 1424,
+      "entID": 493,
+      "entityName": "Newport County",
+      "TopGroupingName": "League Two"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt494",
+    "Omnidata": {
+      "TopGroupingNameThe": "League Two",
+      "entityNameThe": "Northampton",
+      "TopGroupingID": 1424,
+      "entID": 494,
+      "entityName": "Northampton",
+      "TopGroupingName": "League Two"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt498",
+    "Omnidata": {
+      "TopGroupingNameThe": "League Two",
+      "entityNameThe": "Oldham Athletic",
+      "TopGroupingID": 1424,
+      "entID": 498,
+      "entityName": "Oldham Athletic",
+      "TopGroupingName": "League Two"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt501",
+    "Omnidata": {
+      "TopGroupingNameThe": "League Two",
+      "entityNameThe": "Plymouth Argyle",
+      "TopGroupingID": 1424,
+      "entID": 501,
+      "entityName": "Plymouth Argyle",
+      "TopGroupingName": "League Two"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt502",
+    "Omnidata": {
+      "TopGroupingNameThe": "League Two",
+      "entityNameThe": "Port Vale",
+      "TopGroupingID": 1424,
+      "entID": 502,
+      "entityName": "Port Vale",
+      "TopGroupingName": "League Two"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt536",
+    "Omnidata": {
+      "TopGroupingNameThe": "League Two",
+      "entityNameThe": "Salford City",
+      "TopGroupingID": 1424,
+      "entID": 536,
+      "entityName": "Salford City",
+      "TopGroupingName": "League Two"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt509",
+    "Omnidata": {
+      "TopGroupingNameThe": "League Two",
+      "entityNameThe": "Scunthorpe",
+      "TopGroupingID": 1424,
+      "entID": 509,
+      "entityName": "Scunthorpe",
+      "TopGroupingName": "League Two"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt515",
+    "Omnidata": {
+      "TopGroupingNameThe": "League Two",
+      "entityNameThe": "Stevenage",
+      "TopGroupingID": 1424,
+      "entID": 515,
+      "entityName": "Stevenage",
+      "TopGroupingName": "League Two"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt519",
+    "Omnidata": {
+      "TopGroupingNameThe": "League Two",
+      "entityNameThe": "Swindon Town",
+      "TopGroupingID": 1424,
+      "entID": 519,
+      "entityName": "Swindon Town",
+      "TopGroupingName": "League Two"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt521",
+    "Omnidata": {
+      "TopGroupingNameThe": "League Two",
+      "entityNameThe": "Walsall",
+      "TopGroupingID": 1424,
+      "entID": 521,
+      "entityName": "Walsall",
+      "TopGroupingName": "League Two"
+    }
+  },
+  {
     "RecIdentifier": "DataForEnt213",
     "Omnidata": {
       "TopGroupingNameThe": "MLB",
@@ -3333,6 +5500,28 @@
     }
   },
   {
+    "RecIdentifier": "DataForEnt7111",
+    "Omnidata": {
+      "TopGroupingNameThe": "MLS",
+      "entityNameThe": "Austin FC",
+      "TopGroupingID": 1339,
+      "entID": 7111,
+      "entityName": "Austin FC",
+      "TopGroupingName": "MLS"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt200",
+    "Omnidata": {
+      "TopGroupingNameThe": "MLS",
+      "entityNameThe": "CF Montréal",
+      "TopGroupingID": 1339,
+      "entID": 200,
+      "entityName": "CF Montréal",
+      "TopGroupingName": "MLS"
+    }
+  },
+  {
     "RecIdentifier": "DataForEnt192",
     "Omnidata": {
       "TopGroupingNameThe": "MLS",
@@ -3410,6 +5599,17 @@
     }
   },
   {
+    "RecIdentifier": "DataForEnt7109",
+    "Omnidata": {
+      "TopGroupingNameThe": "MLS",
+      "entityNameThe": "Inter Miami",
+      "TopGroupingID": 1339,
+      "entID": 7109,
+      "entityName": "Inter Miami",
+      "TopGroupingName": "MLS"
+    }
+  },
+  {
     "RecIdentifier": "DataForEnt199",
     "Omnidata": {
       "TopGroupingNameThe": "MLS",
@@ -3443,17 +5643,6 @@
     }
   },
   {
-    "RecIdentifier": "DataForEnt200",
-    "Omnidata": {
-      "TopGroupingNameThe": "MLS",
-      "entityNameThe": "the Montreal Impact",
-      "TopGroupingID": 1339,
-      "entID": 200,
-      "entityName": "Montreal Impact",
-      "TopGroupingName": "MLS"
-    }
-  },
-  {
     "RecIdentifier": "DataForEnt201",
     "Omnidata": {
       "TopGroupingNameThe": "MLS",
@@ -3468,10 +5657,21 @@
     "RecIdentifier": "DataForEnt202",
     "Omnidata": {
       "TopGroupingNameThe": "MLS",
-      "entityNameThe": "NYC FC",
+      "entityNameThe": "NYCFC",
       "TopGroupingID": 1339,
       "entID": 202,
-      "entityName": "NYC FC",
+      "entityName": "NYCFC",
+      "TopGroupingName": "MLS"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt7110",
+    "Omnidata": {
+      "TopGroupingNameThe": "MLS",
+      "entityNameThe": "Nashville SC",
+      "TopGroupingID": 1339,
+      "entID": 7110,
+      "entityName": "Nashville SC",
       "TopGroupingName": "MLS"
     }
   },
@@ -4609,6 +6809,501 @@
     }
   },
   {
+    "RecIdentifier": "DataForEnt4809",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NPB",
+      "entityNameThe": "the Chunichi Dragons",
+      "TopGroupingID": 4808,
+      "entID": 4809,
+      "entityName": "Chunichi Dragons",
+      "TopGroupingName": "NPB"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt4816",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NPB",
+      "entityNameThe": "the Fukuoka SoftBank Hawks",
+      "TopGroupingID": 4808,
+      "entID": 4816,
+      "entityName": "Fukuoka SoftBank Hawks",
+      "TopGroupingName": "NPB"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt4810",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NPB",
+      "entityNameThe": "the Hanshin Tigers",
+      "TopGroupingID": 4808,
+      "entID": 4810,
+      "entityName": "Hanshin Tigers",
+      "TopGroupingName": "NPB"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt4811",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NPB",
+      "entityNameThe": "the Hiroshima Carp",
+      "TopGroupingID": 4808,
+      "entID": 4811,
+      "entityName": "Hiroshima Carp",
+      "TopGroupingName": "NPB"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt4815",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NPB",
+      "entityNameThe": "the Lotte Marines",
+      "TopGroupingID": 4808,
+      "entID": 4815,
+      "entityName": "Lotte Marines",
+      "TopGroupingName": "NPB"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt4817",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NPB",
+      "entityNameThe": "the Nippon-Ham Fighters",
+      "TopGroupingID": 4808,
+      "entID": 4817,
+      "entityName": "Nippon-Ham Fighters",
+      "TopGroupingName": "NPB"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt4818",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NPB",
+      "entityNameThe": "the Orix Buffaloes",
+      "TopGroupingID": 4808,
+      "entID": 4818,
+      "entityName": "Orix Buffaloes",
+      "TopGroupingName": "NPB"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt4820",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NPB",
+      "entityNameThe": "the Rakuten Eagles",
+      "TopGroupingID": 4808,
+      "entID": 4820,
+      "entityName": "Rakuten Golden Eagles",
+      "TopGroupingName": "NPB"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt4819",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NPB",
+      "entityNameThe": "the Seibu Lions",
+      "TopGroupingID": 4808,
+      "entID": 4819,
+      "entityName": "Seibu Lions",
+      "TopGroupingName": "NPB"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt4812",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NPB",
+      "entityNameThe": "the Yakult Swallows",
+      "TopGroupingID": 4808,
+      "entID": 4812,
+      "entityName": "Yakult Swallows",
+      "TopGroupingName": "NPB"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt4813",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NPB",
+      "entityNameThe": "the Yokohama BayStars",
+      "TopGroupingID": 4808,
+      "entID": 4813,
+      "entityName": "Yokohama BayStars",
+      "TopGroupingName": "NPB"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt4814",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NPB",
+      "entityNameThe": "the Yomiuri Giants",
+      "TopGroupingID": 4808,
+      "entID": 4814,
+      "entityName": "Yomiuri Giants",
+      "TopGroupingName": "NPB"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt4824",
+    "Omnidata": {
+      "TopGroupingNameThe": null,
+      "entityNameThe": "the Chicago Red Stars",
+      "TopGroupingID": 4823,
+      "entID": 4824,
+      "entityName": "Chicago Red Stars",
+      "TopGroupingName": "NWSL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt4825",
+    "Omnidata": {
+      "TopGroupingNameThe": null,
+      "entityNameThe": "the Houston Dash",
+      "TopGroupingID": 4823,
+      "entID": 4825,
+      "entityName": "Houston Dash",
+      "TopGroupingName": "NWSL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt4826",
+    "Omnidata": {
+      "TopGroupingNameThe": null,
+      "entityNameThe": "the North Carolina Courage",
+      "TopGroupingID": 4823,
+      "entID": 4826,
+      "entityName": "North Carolina Courage",
+      "TopGroupingName": "NWSL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt4827",
+    "Omnidata": {
+      "TopGroupingNameThe": null,
+      "entityNameThe": "the OL Reign",
+      "TopGroupingID": 4823,
+      "entID": 4827,
+      "entityName": "OL Reign",
+      "TopGroupingName": "NWSL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt4828",
+    "Omnidata": {
+      "TopGroupingNameThe": null,
+      "entityNameThe": "the Orlando Pride",
+      "TopGroupingID": 4823,
+      "entID": 4828,
+      "entityName": "Orlando Pride",
+      "TopGroupingName": "NWSL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt4829",
+    "Omnidata": {
+      "TopGroupingNameThe": null,
+      "entityNameThe": "the Portland Thorns",
+      "TopGroupingID": 4823,
+      "entID": 4829,
+      "entityName": "Portland Thorns",
+      "TopGroupingName": "NWSL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt4830",
+    "Omnidata": {
+      "TopGroupingNameThe": null,
+      "entityNameThe": "Sky Blue FC",
+      "TopGroupingID": 4823,
+      "entID": 4830,
+      "entityName": "Sky Blue FC",
+      "TopGroupingName": "NWSL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt4831",
+    "Omnidata": {
+      "TopGroupingNameThe": null,
+      "entityNameThe": "the Utah Royals",
+      "TopGroupingID": 4823,
+      "entID": 4831,
+      "entityName": "Utah Royals",
+      "TopGroupingName": "NWSL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt4832",
+    "Omnidata": {
+      "TopGroupingNameThe": null,
+      "entityNameThe": "the Washington Spirit",
+      "TopGroupingID": 4823,
+      "entID": 4832,
+      "entityName": "Washington Spirit",
+      "TopGroupingName": "NWSL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt5669",
+    "Omnidata": {
+      "TopGroupingNameThe": "Premiership rugby",
+      "entityNameThe": "Bath Rugby",
+      "TopGroupingID": 5667,
+      "entID": 5669,
+      "entityName": "Bath Rugby",
+      "TopGroupingName": "Premiership Rugby"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt5670",
+    "Omnidata": {
+      "TopGroupingNameThe": "Premiership rugby",
+      "entityNameThe": "the Bristol Bears",
+      "TopGroupingID": 5667,
+      "entID": 5670,
+      "entityName": "Bristol Rugby Club",
+      "TopGroupingName": "Premiership Rugby"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt5671",
+    "Omnidata": {
+      "TopGroupingNameThe": "Premiership rugby",
+      "entityNameThe": "the Exeter Chiefs",
+      "TopGroupingID": 5667,
+      "entID": 5671,
+      "entityName": "Exeter Rugby Club",
+      "TopGroupingName": "Premiership Rugby"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt5672",
+    "Omnidata": {
+      "TopGroupingNameThe": "Premiership rugby",
+      "entityNameThe": "Gloucester Rugby",
+      "TopGroupingID": 5667,
+      "entID": 5672,
+      "entityName": "Gloucester Rugby",
+      "TopGroupingName": "Premiership Rugby"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt5673",
+    "Omnidata": {
+      "TopGroupingNameThe": "Premiership rugby",
+      "entityNameThe": "Harlequins",
+      "TopGroupingID": 5667,
+      "entID": 5673,
+      "entityName": "Harlequin Football Club",
+      "TopGroupingName": "Premiership Rugby"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt5674",
+    "Omnidata": {
+      "TopGroupingNameThe": "Premiership rugby",
+      "entityNameThe": "Leicester Tigers",
+      "TopGroupingID": 5667,
+      "entID": 5674,
+      "entityName": "Leicester Tigers",
+      "TopGroupingName": "Premiership Rugby"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt5675",
+    "Omnidata": {
+      "TopGroupingNameThe": "Premiership rugby",
+      "entityNameThe": "London Irish",
+      "TopGroupingID": 5667,
+      "entID": 5675,
+      "entityName": "London Irish",
+      "TopGroupingName": "Premiership Rugby"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt5676",
+    "Omnidata": {
+      "TopGroupingNameThe": "Premiership rugby",
+      "entityNameThe": "Northampton Saints",
+      "TopGroupingID": 5667,
+      "entID": 5676,
+      "entityName": "Northampton Saints",
+      "TopGroupingName": "Premiership Rugby"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt5677",
+    "Omnidata": {
+      "TopGroupingNameThe": "Premiership rugby",
+      "entityNameThe": "Sale Sharks",
+      "TopGroupingID": 5667,
+      "entID": 5677,
+      "entityName": "Sale Sharks",
+      "TopGroupingName": "Premiership Rugby"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt5678",
+    "Omnidata": {
+      "TopGroupingNameThe": "Premiership rugby",
+      "entityNameThe": "Saracens",
+      "TopGroupingID": 5667,
+      "entID": 5678,
+      "entityName": "Saracens",
+      "TopGroupingName": "Premiership Rugby"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt5679",
+    "Omnidata": {
+      "TopGroupingNameThe": "Premiership rugby",
+      "entityNameThe": "Wasps",
+      "TopGroupingID": 5667,
+      "entID": 5679,
+      "entityName": "Wasps",
+      "TopGroupingName": "Premiership Rugby"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt5680",
+    "Omnidata": {
+      "TopGroupingNameThe": "Premiership rugby",
+      "entityNameThe": "the Worcester Warriors",
+      "TopGroupingID": 5667,
+      "entID": 5680,
+      "entityName": "Worcester Warriors",
+      "TopGroupingName": "Premiership Rugby"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt5694",
+    "Omnidata": {
+      "TopGroupingNameThe": "the RFU Championship",
+      "entityNameThe": "Ampthill",
+      "TopGroupingID": 5668,
+      "entID": 5694,
+      "entityName": "Ampthill",
+      "TopGroupingName": "RFU Championship"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt5695",
+    "Omnidata": {
+      "TopGroupingNameThe": "the RFU Championship",
+      "entityNameThe": "Bedford Blues",
+      "TopGroupingID": 5668,
+      "entID": 5695,
+      "entityName": "Bedford Blues",
+      "TopGroupingName": "RFU Championship"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt5696",
+    "Omnidata": {
+      "TopGroupingNameThe": "the RFU Championship",
+      "entityNameThe": "Cornish Pirates",
+      "TopGroupingID": 5668,
+      "entID": 5696,
+      "entityName": "Cornish Pirates",
+      "TopGroupingName": "RFU Championship"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt5697",
+    "Omnidata": {
+      "TopGroupingNameThe": "the RFU Championship",
+      "entityNameThe": "Coventry",
+      "TopGroupingID": 5668,
+      "entID": 5697,
+      "entityName": "Coventry",
+      "TopGroupingName": "RFU Championship"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt5698",
+    "Omnidata": {
+      "TopGroupingNameThe": "the RFU Championship",
+      "entityNameThe": "Doncaster Knights",
+      "TopGroupingID": 5668,
+      "entID": 5698,
+      "entityName": "Doncaster Knights",
+      "TopGroupingName": "RFU Championship"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt5699",
+    "Omnidata": {
+      "TopGroupingNameThe": "the RFU Championship",
+      "entityNameThe": "Ealing Trailfinders",
+      "TopGroupingID": 5668,
+      "entID": 5699,
+      "entityName": "Ealing Trailfinders",
+      "TopGroupingName": "RFU Championship"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt5700",
+    "Omnidata": {
+      "TopGroupingNameThe": "the RFU Championship",
+      "entityNameThe": "Hartpury",
+      "TopGroupingID": 5668,
+      "entID": 5700,
+      "entityName": "Hartpury",
+      "TopGroupingName": "RFU Championship"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt5701",
+    "Omnidata": {
+      "TopGroupingNameThe": "the RFU Championship",
+      "entityNameThe": "Jersey Reds",
+      "TopGroupingID": 5668,
+      "entID": 5701,
+      "entityName": "Jersey Reds",
+      "TopGroupingName": "RFU Championship"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt5705",
+    "Omnidata": {
+      "TopGroupingNameThe": "the RFU Championship",
+      "entityNameThe": "Leeds Tykes",
+      "TopGroupingID": 5668,
+      "entID": 5705,
+      "entityName": "Leeds Tykes",
+      "TopGroupingName": "RFU Championship"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt5702",
+    "Omnidata": {
+      "TopGroupingNameThe": "the RFU Championship",
+      "entityNameThe": "London Scottish",
+      "TopGroupingID": 5668,
+      "entID": 5702,
+      "entityName": "London Scottish",
+      "TopGroupingName": "RFU Championship"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt5703",
+    "Omnidata": {
+      "TopGroupingNameThe": "the RFU Championship",
+      "entityNameThe": "Newcastle Falcons",
+      "TopGroupingID": 5668,
+      "entID": 5703,
+      "entityName": "Newcastle Falcons",
+      "TopGroupingName": "RFU Championship"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt5704",
+    "Omnidata": {
+      "TopGroupingNameThe": "the RFU Championship",
+      "entityNameThe": "Nottingham",
+      "TopGroupingID": 5668,
+      "entID": 5704,
+      "entityName": "Nottingham",
+      "TopGroupingName": "RFU Championship"
+    }
+  },
+  {
     "RecIdentifier": "DataForEnt1079",
     "Omnidata": {
       "TopGroupingNameThe": "the WNBA",
@@ -4738,204 +7433,6 @@
       "entID": 1084,
       "entityName": "Washington Mystics",
       "TopGroupingName": "WNBA"
-    }
-  },
-  {
-    "RecIdentifier": "DataForEnt296",
-    "Omnidata": {
-      "TopGroupingNameThe": "the AFL",
-      "entityNameThe": "the Adelaide Crows",
-      "TopGroupingID": 1428,
-      "entID": 296,
-      "entityName": "Adelaide Crows",
-      "TopGroupingName": "AFL"
-    }
-  },
-  {
-    "RecIdentifier": "DataForEnt297",
-    "Omnidata": {
-      "TopGroupingNameThe": "the AFL",
-      "entityNameThe": "the Brisbane Lions",
-      "TopGroupingID": 1428,
-      "entID": 297,
-      "entityName": "Brisbane Lions",
-      "TopGroupingName": "AFL"
-    }
-  },
-  {
-    "RecIdentifier": "DataForEnt298",
-    "Omnidata": {
-      "TopGroupingNameThe": "the AFL",
-      "entityNameThe": "the Carlton Blues",
-      "TopGroupingID": 1428,
-      "entID": 298,
-      "entityName": "Carlton Blues",
-      "TopGroupingName": "AFL"
-    }
-  },
-  {
-    "RecIdentifier": "DataForEnt299",
-    "Omnidata": {
-      "TopGroupingNameThe": "the AFL",
-      "entityNameThe": "the Collingwood Magpies",
-      "TopGroupingID": 1428,
-      "entID": 299,
-      "entityName": "Collingwood Magpies",
-      "TopGroupingName": "AFL"
-    }
-  },
-  {
-    "RecIdentifier": "DataForEnt300",
-    "Omnidata": {
-      "TopGroupingNameThe": "the AFL",
-      "entityNameThe": "the Essendon Bombers",
-      "TopGroupingID": 1428,
-      "entID": 300,
-      "entityName": "Essendon Bombers",
-      "TopGroupingName": "AFL"
-    }
-  },
-  {
-    "RecIdentifier": "DataForEnt301",
-    "Omnidata": {
-      "TopGroupingNameThe": "the AFL",
-      "entityNameThe": "the Fremantle Dockers",
-      "TopGroupingID": 1428,
-      "entID": 301,
-      "entityName": "Fremantle Dockers",
-      "TopGroupingName": "AFL"
-    }
-  },
-  {
-    "RecIdentifier": "DataForEnt304",
-    "Omnidata": {
-      "TopGroupingNameThe": "the AFL",
-      "entityNameThe": "the GWS Giants",
-      "TopGroupingID": 1428,
-      "entID": 304,
-      "entityName": "GWS Giants",
-      "TopGroupingName": "AFL"
-    }
-  },
-  {
-    "RecIdentifier": "DataForEnt302",
-    "Omnidata": {
-      "TopGroupingNameThe": "the AFL",
-      "entityNameThe": "the Geelong Cats",
-      "TopGroupingID": 1428,
-      "entID": 302,
-      "entityName": "Geelong Cats",
-      "TopGroupingName": "AFL"
-    }
-  },
-  {
-    "RecIdentifier": "DataForEnt303",
-    "Omnidata": {
-      "TopGroupingNameThe": "the AFL",
-      "entityNameThe": "the Gold Coast Suns",
-      "TopGroupingID": 1428,
-      "entID": 303,
-      "entityName": "Gold Coast Suns",
-      "TopGroupingName": "AFL"
-    }
-  },
-  {
-    "RecIdentifier": "DataForEnt305",
-    "Omnidata": {
-      "TopGroupingNameThe": "the AFL",
-      "entityNameThe": "the Hawthorn Hawks",
-      "TopGroupingID": 1428,
-      "entID": 305,
-      "entityName": "Hawthorn Hawks",
-      "TopGroupingName": "AFL"
-    }
-  },
-  {
-    "RecIdentifier": "DataForEnt306",
-    "Omnidata": {
-      "TopGroupingNameThe": "the AFL",
-      "entityNameThe": "the Melbourne Demons",
-      "TopGroupingID": 1428,
-      "entID": 306,
-      "entityName": "Melbourne Demons",
-      "TopGroupingName": "AFL"
-    }
-  },
-  {
-    "RecIdentifier": "DataForEnt307",
-    "Omnidata": {
-      "TopGroupingNameThe": "the AFL",
-      "entityNameThe": "the North Melbourne Kangaroos",
-      "TopGroupingID": 1428,
-      "entID": 307,
-      "entityName": "North Melbourne Kangaroos",
-      "TopGroupingName": "AFL"
-    }
-  },
-  {
-    "RecIdentifier": "DataForEnt308",
-    "Omnidata": {
-      "TopGroupingNameThe": "the AFL",
-      "entityNameThe": "the Port Adelaide Power",
-      "TopGroupingID": 1428,
-      "entID": 308,
-      "entityName": "Port Adelaide Power",
-      "TopGroupingName": "AFL"
-    }
-  },
-  {
-    "RecIdentifier": "DataForEnt309",
-    "Omnidata": {
-      "TopGroupingNameThe": "the AFL",
-      "entityNameThe": "the Richmond Tigers",
-      "TopGroupingID": 1428,
-      "entID": 309,
-      "entityName": "Richmond Tigers",
-      "TopGroupingName": "AFL"
-    }
-  },
-  {
-    "RecIdentifier": "DataForEnt310",
-    "Omnidata": {
-      "TopGroupingNameThe": "the AFL",
-      "entityNameThe": "the St Kilda Saints",
-      "TopGroupingID": 1428,
-      "entID": 310,
-      "entityName": "St Kilda Saints",
-      "TopGroupingName": "AFL"
-    }
-  },
-  {
-    "RecIdentifier": "DataForEnt311",
-    "Omnidata": {
-      "TopGroupingNameThe": "the AFL",
-      "entityNameThe": "the Sydney Swans",
-      "TopGroupingID": 1428,
-      "entID": 311,
-      "entityName": "Sydney Swans",
-      "TopGroupingName": "AFL"
-    }
-  },
-  {
-    "RecIdentifier": "DataForEnt312",
-    "Omnidata": {
-      "TopGroupingNameThe": "the AFL",
-      "entityNameThe": "the West Coast Eagles",
-      "TopGroupingID": 1428,
-      "entID": 312,
-      "entityName": "West Coast Eagles",
-      "TopGroupingName": "AFL"
-    }
-  },
-  {
-    "RecIdentifier": "DataForEnt313",
-    "Omnidata": {
-      "TopGroupingNameThe": "the AFL",
-      "entityNameThe": "the Western Bulldogs",
-      "TopGroupingID": 1428,
-      "entID": 313,
-      "entityName": "Western Bulldogs",
-      "TopGroupingName": "AFL"
     }
   }
 ]

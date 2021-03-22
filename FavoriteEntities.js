@@ -30,7 +30,7 @@ var Omnisurvey_FavoriteEnts = function ($, data, groupingId) {
 
 		$.each(groups, function (index, childGroup) {
 			// stop at team level, skip groups that shouldn't be displayed
-			if (!childGroup.subgroups || !childGroup.grpShowSurvSelRival) {
+			if (!childGroup.subgroups || !childGroup.omnisurvShowSelRival) {
 				return;
 			}
 

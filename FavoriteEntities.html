@@ -93,6 +93,7 @@
                     const qse = Qualtrics.SurveyEngine;
                     groupingId = parseInt(qse.getEmbeddedData('grpID'));
 
+                    // termKRQtrxManipIdenLevelQual comes from KRDbEntData (e.g., TopGroupingNameThe)
                     favoriteEntSelectedHandler = function () {
                         jQuery.when( qse.setEmbeddedData('FavObj', this.FavoriteEntName) )
                         .then( qse.setEmbeddedData('FavObjThe', this.FavoriteEntNameThe) )

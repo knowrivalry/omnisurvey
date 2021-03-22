@@ -23,6 +23,14 @@
     "grpCurrentSurvID": 30,
     "grpBritishSpelling": false
   },
+  "grpID4808": {
+    "grpID": 4808,
+    "grpBritishSpelling": true,
+    "grpCurrentSurvID": 30,
+    "entID": 4808,
+    "termKRQualtrics": "NPB",
+    "grpSport": "Baseball"
+  },
   "grpID1379": {
     "grpID": 1379,
     "entID": 1379,
@@ -31,6 +39,30 @@
     "grpCurrentSurvID": 30,
     "grpBritishSpelling": false
   },
+  "grpID4823": {
+    "grpID": 4823,
+    "grpBritishSpelling": false,
+    "grpCurrentSurvID": 30,
+    "entID": 4823,
+    "termKRQualtrics": "NWSL",
+    "grpSport": "Soccer"
+  },
+  "grpID4955": {
+    "grpID": 4955,
+    "grpBritishSpelling": true,
+    "grpCurrentSurvID": 30,
+    "entID": 4955,
+    "termKRQualtrics": "FA Women's Super League",
+    "grpSport": "Soccer"
+  },
+  "grpID5035": {
+    "grpID": 5035,
+    "grpBritishSpelling": true,
+    "grpCurrentSurvID": 30,
+    "entID": 5035,
+    "termKRQualtrics": "FA Women's Championship",
+    "grpSport": "Soccer"
+  },
   "grpID1339": {
     "grpID": 1339,
     "entID": 1339,
@@ -38,6 +70,62 @@
     "termKRQualtrics": "MLS",
     "grpCurrentSurvID": 30,
     "grpBritishSpelling": false
+  },
+  "grpID1336": {
+    "grpID": 1336,
+    "entID": 1336,
+    "grpSport": "Soccer",
+    "termKRQualtrics": "EPL",
+    "grpCurrentSurvID": 30,
+    "grpBritishSpelling": true
+  },
+  "grpID1422": {
+    "grpID": 1422,
+    "grpBritishSpelling": true,
+    "grpCurrentSurvID": 30,
+    "entID": 1422,
+    "termKRQualtrics": "Championship",
+    "grpSport": "Soccer"
+  },
+  "grpID1423": {
+    "grpID": 1423,
+    "grpBritishSpelling": true,
+    "grpCurrentSurvID": 30,
+    "entID": 1423,
+    "termKRQualtrics": "League One",
+    "grpSport": "Soccer"
+  },
+  "grpID1424": {
+    "grpID": 1424,
+    "grpBritishSpelling": true,
+    "grpCurrentSurvID": 30,
+    "entID": 1424,
+    "termKRQualtrics": "League Two",
+    "grpSport": "Soccer"
+  },
+  "grpID1452": {
+    "grpID": 1452,
+    "grpBritishSpelling": true,
+    "grpCurrentSurvID": 30,
+    "entID": 1452,
+    "termKRQualtrics": "Bundesliga",
+    "grpSport": "Soccer"
+  },
+  "grpID5273": {
+    "grpID": 5273,
+    "grpBritishSpelling": true,
+    "grpCurrentSurvID": 30,
+    "entID": 5273,
+    "termKRQualtrics": "2. Bundesliga",
+    "grpSport": "Soccer"
+  },
+  "grpID1441": {
+    "grpID": 1441,
+    "grpBritishSpelling": true,
+    "grpCurrentSurvID": 30,
+    "entID": 1441,
+    "termKRQualtrics": "CPL",
+    "grpSport": "Soccer"
   },
   "grpID1425": {
     "grpID": 1425,
@@ -86,5 +174,37 @@
     "termKRQualtrics": "AFL",
     "grpCurrentSurvID": 30,
     "grpBritishSpelling": true
+  },
+  "grpID3292": {
+    "grpID": 3292,
+    "grpBritishSpelling": true,
+    "grpCurrentSurvID": 30,
+    "entID": 3292,
+    "termKRQualtrics": "AFL Women's",
+    "grpSport": "Australian Rules Football"
+  },
+  "grpID1429": {
+    "grpID": 1429,
+    "grpBritishSpelling": true,
+    "grpCurrentSurvID": 30,
+    "entID": 1429,
+    "termKRQualtrics": "CFL",
+    "grpSport": "Football"
+  },
+  "grpID5667": {
+    "grpID": 5667,
+    "grpBritishSpelling": true,
+    "grpCurrentSurvID": 30,
+    "entID": 5667,
+    "termKRQualtrics": "Premiership Rugby",
+    "grpSport": "Rugby Union"
+  },
+  "grpID5668": {
+    "grpID": 5668,
+    "grpBritishSpelling": true,
+    "grpCurrentSurvID": 30,
+    "entID": 5668,
+    "termKRQualtrics": "RFU Championship",
+    "grpSport": "Rugby Union"
   }
 }

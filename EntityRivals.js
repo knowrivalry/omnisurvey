@@ -281,7 +281,7 @@ var Omnisurvey_EntRivals = function ($, data, groupingId, entId) {
 
         $.each(groups, function (index, childGroup) {
             // stop at ent level, skip groups that shouldn't be displayed
-            if (!childGroup.subgroups || !childGroup.grpShowSurvSelRival) {
+            if (!childGroup.subgroups || !childGroup.omnisurvShowSelRival) {
                 return;
             }
 

@@ -5,7 +5,7 @@
 var Omnisurvey_Data = function ($) {
     var self = this;
     // These are the objects from data outputted by Access (RivDB_BuildSurvey)
-    // I don't know/remember why GroupingHierarchy is an array and the other two are objects - might be an error, although there's prob a reason
+    // I don't know/remember why GroupingHierarchy is an array and the others are objects - might be an error, although there's prob a reason
     let GroupingHierarchy = [], tbljsGroupings = {}, tbljsSurveys = {}, jsEntData = {};
 
     // Putting this.<whatever> allows us to expose the <whatever> to code elsewhere, like in LeagueSelection.js
@@ -224,20 +224,34 @@ var Omnisurvey_Data = function ($) {
                     // Store the cascading object of the entire hierarchy,
                     // starting with root, then sport (entID:2, sport:"Gridiron football"), and ending with a ent (e.g., entID:165, termKRQualtrics:"Chicago Bears")
 
-                    // A note on using grpShowSurvSelRival
+                    // A note on using omnisurvShowSelRival
                     // // Typically, this will be false until we reach the league we want. E.g., "Men's basketball (5 on 5)" and above is FALSE, but "NBA" is TRUE.
-                    // // If "grpShowSurvSelRival": false, that entry will NOT appear in the filters.
+                    // // If "omnisurvShowSelRival": false, that entry will NOT appear in the filters.
                     // // However, the terms UNDER that entry still appear in the parent filter.
                     // // For example, in the follow data structure, the dropdown will show "NBA>Eastern>[Atlantic, Southeast]" (i.e., Central is missing).
                     // // But, selecting "Eastern" still allows you to see the Bulls and Cavs as choices.
                     // //
-                    // // NBA:{"grpShowSurvSelRival": true}
-                    // // // Eastern: {"grpShowSurvSelRival": true}
-                    // // // // Atlantic:  {"grpShowSurvSelRival": true}  Celtics, Nets as choices
-                    // // // // Central:   {"grpShowSurvSelRival": false} Bulls, Cavs as choices
-                    // // // // Southeast: {"grpShowSurvSelRival": true}  Hawks, Hornets as choices
+                    // // NBA:{"omnisurvShowSelRival": true}
+                    // // // Eastern: {"omnisurvShowSelRival": true}
+                    // // // // Atlantic:  {"omnisurvShowSelRival": true}  Celtics, Nets as choices
+                    // // // // Central:   {"omnisurvShowSelRival": false} Bulls, Cavs as choices
+                    // // // // Southeast: {"omnisurvShowSelRival": true}  Hawks, Hornets as choices
 
-                    GroupingHierarchy = data; aryJSONLoaded.push("Grouping Hierarchy");
+                    // Replace the "cur_subentity_is" statements from Cypher output with "subgroups", which is what the JavaScript code uses.
+                    // do some something with data
+                    function changeKeyName(json, oldKeyName, newKeyName){
+                        const strJSONOrig = JSON.stringify(json);
+                        const strJSONNew = strJSONOrig.replace(new RegExp(oldKeyName, "g"), newKeyName);
+                        return JSON.parse(strJSONNew);
+                    }
+                    const jsonGroupingHierarchy = changeKeyName(data,"cur_subentity_is", "subgroups");
+
+                    // The output from Cypher isn't sorted quite right.
+                    // Within each league, the 0 levels come before 1 levels, 1 levels before 2 level, etc.
+                    // So, for NCAA sports, Big 12 (1 level) comes before the ACC (2 levels).
+            // Do I need to fix that here by sorting the JSON?? 
+                    // Sort the JSON based on league, qtrxDispOrderInGrp, then termKRQualtrics
+                    GroupingHierarchy = jsonGroupingHierarchy; aryJSONLoaded.push("Grouping Hierarchy");
                 }).fail(function (jqXHR, textStatus, errorThrown) { fnErrorLoadingJSON("grouping hierarchy", textStatus); }),
 
             $.getJSON(pathJSON.Groupings)
