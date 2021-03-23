@@ -193,7 +193,7 @@ var Omnisurvey_Data = function ($) {
       }
 
       function getParentGroup(groupId, groups, acc) {
-        // initialize acc if needed
+        // initialize accumulator (acc) if needed
         acc = typeof acc !== 'undefined' ? acc : [];
     
         return groups.reduce(function(acc, group) {
