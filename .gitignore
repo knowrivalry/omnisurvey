@@ -3,6 +3,7 @@
 
 # Local links
 *.lnk
+launch.json
 
 
 # Temporary files
