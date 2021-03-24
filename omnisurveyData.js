@@ -179,29 +179,37 @@ var Omnisurvey_Data = function ($) {
     // ############# Added for ent Rival Selection #######################
 
     this.getGroupAndSiblings = function(groupId) {
-        const parentGroup = getParentGroup(groupId, GroupingHierarchy);
+        // reduce groups to only those that should display for rivalry purposes
+        var groups = getRivalGroups(GroupingHierarchy);
     
-        if (parentGroup.length > 0) {
+        // filter the reduced groups on the specified league
+        groups = filterRivalGroups(groupId, groups);
+    
+        if (groups.length > 0) {
           // remove the group with the id we are looking for so we only return siblings
           // E.g., if we choose NFL in the parent 'League' dropdown,
           // we can remove the NFL as a choice from the 'Team' dropdown and start with Arizona, Atlanta, Baltimore,...
           // Similarly, if we select "AFC", it will start with "Baltimore, Buffalo, ..." and not show AFC.
-          return parentGroup[0].subgroups;
+          return groups[0].subgroups;
         }
     
-        return parentGroup;
+        return groups;
       }
 
-      function getParentGroup(groupId, groups, acc) {
+      function filterRivalGroups(entId, groups) {
+        return groups.filter(function(group) {
+            return group.entID == entId || (group.subgroups && filterRivalGroups(entId, group.subgroups).length > 0);
+        });
+      }    
+
+      function getRivalGroups(groups, acc) {
         // initialize accumulator (acc) if needed
         acc = typeof acc !== 'undefined' ? acc : [];
     
         return groups.reduce(function(acc, group) {
-          var match = group.subgroups && group.subgroups.some(function(g) {
-            return g.entID == groupId && g.subgroups;
-          });
-    
-          return match ? acc.concat(group) : (group.subgroups? getParentGroup(groupId, group.subgroups, acc) : acc);
+            var match = group.subgroups && group.omnisurvShowSelRival && group.omnisurvShowSelRival === true;
+            
+            return match ? acc.concat(group) : (group.subgroups? getRivalGroups(group.subgroups, acc) : acc);
         }, acc);
       }
     
