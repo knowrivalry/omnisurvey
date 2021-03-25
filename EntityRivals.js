@@ -199,14 +199,21 @@ var Omnisurvey_EntRivals = function ($, data, groupingId, entId) {
             // Iterate through all the cboRivals dropdown boxes
             $cboRivals.each(function () {
                 const $this = $(this);
+
+                // fnRivalKey returns "Rival01", "Rival02", etc., which is used to create the lookup term for $points.
+                // Points boxes [and embedded data] are named "Rival01Points", "Rival02Points", etc.
                 let strRivalKey = fnRivalKey($this);
                 let $points = $('#'+strRivalKey+'Points');
 
                 const cboSelection = $this.find('option:selected');
-                const entID = parseInt(cboSelection.val()),
-                    name = cboSelection.text(),
-                    rivpoints = $points.val(),
-                    nameThe = entID ? data.getEntData(entID)["entityNameThe"] : ''
+
+                // Set variables about the selected rival.
+                // Most are pulled from the survey itself, but others use the entID to fetch information from KRDbEntData.json
+                // (via the getEntData function in omnisurveyData.js).
+                const entID = parseInt(cboSelection.val()),     // entID for the rival
+                    name = cboSelection.text(),                 // Name of the rival
+                    rivpoints = $points.val(),                  // Points allocated to the rival
+                    nameThe = entID ? data.getEntData(entID)["entityNameThe"] : '';     // Rival's name with "the", if appropriate (from KRDbEntData.json)
                 
                 if (testingMode){
                     if (entID) {
@@ -224,7 +231,7 @@ var Omnisurvey_EntRivals = function ($, data, groupingId, entId) {
                     .then(function (returnedContent) {
                         if (entID) {
                             rivalsListedEntIDs.push(entID);
-                            qse.setEmbeddedData(strRivalKey + 'Name', name)
+                            qse.setEmbeddedData(strRivalKey + 'Name', name);
                             return qse.setEmbeddedData(strRivalKey + 'NameThe', nameThe);
                         }
                     })
