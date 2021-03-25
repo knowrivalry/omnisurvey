@@ -93,18 +93,20 @@
                     const qse = Qualtrics.SurveyEngine;
                     groupingId = parseInt(qse.getEmbeddedData('grpID'));
 
-                    // termKRQtrxManipIdenLevelQual comes from KRDbEntData (e.g., TopGroupingNameThe)
+                    // termKRQtrxManipIdenLevelQual [TopGroupingNameThe] and intFavEntFreq [favEntFreq] come from KRDbEntData.
+                    // They're pulled into memory by the selectEnt function in FavoriteEntities.js
                     favoriteEntSelectedHandler = function () {
                         jQuery.when( qse.setEmbeddedData('FavObj', this.FavoriteEntName) )
                         .then( qse.setEmbeddedData('FavObjThe', this.FavoriteEntNameThe) )
                         .then( qse.setEmbeddedData('FavObjEntID', this.FavoriteEntId) )
-                        .then( qse.setEmbeddedData('termKRQtrxManipIdenLevelQual', this.termKRQtrxManipIdenLevelQual) );
+                        .then( qse.setEmbeddedData('termKRQtrxManipIdenLevelQual', this.termKRQtrxManipIdenLevelQual) )
+                        .then( qse.setEmbeddedData('intCurrentNumOfFavEntResp', this.intFavEntFreq) );
                         console.log(
                             'Wrote the following embedded data:',
                             'FavObj', this.FavoriteEntName,
-                            'FavObjThe', this.FavoriteEntNameThe,
                             'FavObjEntID', this.FavoriteEntId,
-                            'termKRQtrxManipIdenLevelQual', this.termKRQtrxManipIdenLevelQual
+                            'termKRQtrxManipIdenLevelQual', this.termKRQtrxManipIdenLevelQual,
+                            '(plus others, like FavObjThe and intCurrentNumOfFavEntResp)'
                             );
                         return true;
                     };
