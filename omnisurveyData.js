@@ -17,9 +17,9 @@ var Omnisurvey_Data = function ($) {
 
     // I added this just to define the paths up front and switch between local an GitHub. Just comment out what you're not using.
     let pathBase = ""; // local
-    pathBase = "https://knowrivalry.github.io/omnisurvey/";
-    // pathBase = "https://auxiliarydev.github.io/know-rivalry-omnisurvey/";
-    // pathBase = "https://b-d-t.github.io/know-rivalry-omnisurvey/";
+    pathBase = "https://knowrivalry.github.io/omnisurvey/"; // ***** this line should NOT be commented for production *****
+    // pathBase = "https://auxiliarydev.github.io/know-rivalry-omnisurvey/";    // No longer using this repo
+    // pathBase = "https://b-d-t.github.io/know-rivalry-omnisurvey/";           // No longer using this repo
     const pathJSON = {
         "GroupingHierarchy": pathBase + 'data/groupingHierarchy.json',
         "Groupings": pathBase + 'data/groupings.json', // tbljsGroupings
