@@ -5,11 +5,18 @@ var Omnisurvey_FavoriteEnts = function ($, data, groupingId) {
 	const self = this;
 
 	// Eventually, these are what will be passed to the Qualtrics embedded data
+	// by the favoriteEntSelectedHandler function within FavoriteEntities.html
 	this.favoriteEntSelectedHandler; // defined in the HTML
 	this.FavoriteEntId = -1;
 	this.FavoriteEntName = "";
 	this.FavoriteEntNameThe = "";
 	this.termKRQtrxManipIdenLevelQual="";
+	// intFavEntFreq is the number of fully valid responses for the favorite team, pulled from KRDbEntData.json.
+	// It sets the "intCurrentNumOfFavEntResp" embedded data variable within Qualtrics,
+	// which Qualtrics uses to calculate the "numOfFavEntRespAboveThreshold" embedded data (that's the more important one!).
+	// If intFavEntFreq is below our threshold (set manually in Qualtrics), the respondent will always get questions about Rival01.
+	// Otherwise, the respondent gets questions about Rival02, Rival03, or non-Rivals.
+	this.intFavEntFreq = 0; 
 
 	let selectedGrouping = null;
 	let $groupingFilter = $('#groupingFilter');
@@ -21,7 +28,8 @@ var Omnisurvey_FavoriteEnts = function ($, data, groupingId) {
 	const $entsContainer = $('#ents-container');
 	const $nextButton = $("#NextButton");
 
-	const strEntLogoRootDir = 'https://knowrivalry.com/images/entlogos/'; // This is the folder that holds the logos (SVGs) for each entity
+	// strEntLogoRootDir has the absolute path to the web folder that holds the logos (SVGs) for each entity
+	const strEntLogoRootDir = 'https://knowrivalry.com/images/entlogos/';
 
 	// groups = the grouping object that has conf/div hierarchy
 	function createGroupOptions(groups, $select, level) {
@@ -61,12 +69,14 @@ var Omnisurvey_FavoriteEnts = function ($, data, groupingId) {
 	}
 
 	function selectEnt(entId, entName) {
+		// objEntData is the entry for that team in KRDbEntData.json.
 		const objEntData = data.getEntData(entId);
-		// These values are written to Qualtrics embedded data
+		// These values are written to Qualtrics embedded data by favoriteEntSelectedHandler (on FavoriteEntities.html)
 		self.FavoriteEntId = entId;
 		self.FavoriteEntName = !objEntData ? "" : objEntData["entityName"]; // Boston Celtics
 		self.FavoriteEntNameThe = !objEntData ? "" : objEntData["entityNameThe"]; // the Boston Celtics
 		self.termKRQtrxManipIdenLevelQual = !objEntData ? "" : objEntData["TopGroupingNameThe"];  // the NBA
+		self.intFavEntFreq = !objEntData ? 0 : objEntData["favEntFreq"];  // 12
 
 		if (entId > 0) {
 			const ent = data.getGroupById(entId);
