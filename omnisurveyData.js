@@ -184,15 +184,7 @@ var Omnisurvey_Data = function ($) {
     
         // filter the reduced groups on the specified league
         groups = filterRivalGroups(groupId, groups);
-    
-        if (groups.length > 0) {
-          // remove the group with the id we are looking for so we only return siblings
-          // E.g., if we choose NFL in the parent 'League' dropdown,
-          // we can remove the NFL as a choice from the 'Team' dropdown and start with Arizona, Atlanta, Baltimore,...
-          // Similarly, if we select "AFC", it will start with "Baltimore, Buffalo, ..." and not show AFC.
-          return groups[0].subgroups;
-        }
-    
+
         return groups;
       }
 
