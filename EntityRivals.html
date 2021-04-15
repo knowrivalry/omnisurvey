@@ -151,7 +151,13 @@
                     groupingId = 1364;
                 }
 
-                init(groupingId);
+                if (searchParams.has('entID')) {
+                    entId = parseInt(searchParams.get('entID'));
+                } else {
+                    entId = 244; //Celtics
+                }
+
+                init(groupingId, entId);
 
             } else {
 
@@ -159,7 +165,9 @@
 
                     const qse = Qualtrics.SurveyEngine;
 
-                    init( parseInt(qse.getEmbeddedData('grpID')) );
+                    groupingId = parseInt(qse.getEmbeddedData('grpID'));
+                    entId = parseInt(qse.getEmbeddedData('FAVTEAM_ID'));
+                    init(groupingId, entId);
 
                 });
 
@@ -173,12 +181,12 @@
 
             }
 
-            function init(groupingId) {
+            function init(groupingId, entId) {
                 if (window.hasOwnProperty('omnisurvey_data') && omnisurvey_data.dataLoaded) {
-                    loadQuestion(groupingId);
+                    loadQuestion(groupingId, entId);
                 } else {
                     jQuery(document).on('OmnisurveyReady', function () {
-                        loadQuestion(groupingId); // builds the page
+                        loadQuestion(groupingId, entId); // builds the page
                     });
                     
                     window.omnisurvey_data = new Omnisurvey_Data(jQuery);
@@ -186,8 +194,8 @@
 
             }
 
-            function loadQuestion(groupingId) {
-                console.log('loadQuestion running for groupingId='+groupingId);
+            function loadQuestion(groupingId, entId) {
+                console.log('loadQuestion running for groupingId='+groupingId+', entId='+entId);
                 var omnisurvey_EntRivals = new Omnisurvey_EntRivals(jQuery, self.omnisurvey_data, groupingId, entId); // this is what loads the Omnisurvey
 
                 entRivalsNextButtonHandler = omnisurvey_EntRivals.entRivalsNextButtonHandler;
