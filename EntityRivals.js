@@ -219,7 +219,7 @@ var Omnisurvey_EntRivals = function ($, data, groupingId, entId) {
                     if (entID) {
                         rivalsListedEntIDs.push(entID);
                         console.log(
-                            name + " (entID #" + entID + ") "
+                            name + " (rival entID #" + entID + ") "
                             + "would have been stored to embedded data: "
                             + nameThe + " (" + rivpoints + " points)"
                             )
@@ -239,7 +239,7 @@ var Omnisurvey_EntRivals = function ($, data, groupingId, entId) {
                         return qse.setEmbeddedData(strRivalKey + 'Points', rivpoints);
                     })
                     .done(function (returnedContent){
-                        return console.log("entID #" + entID + " stored to embedded data: " + name + " (" + rivpoints + " points)")
+                        return console.log("rival entID #" + entID + " stored to embedded data: " + name + " (" + rivpoints + " points)")
                     });
                 }
             })
@@ -263,6 +263,7 @@ var Omnisurvey_EntRivals = function ($, data, groupingId, entId) {
                     'nonrivalNameThe', nonrivalNameThe
                 );
             } else {
+                console.log('If needed, the NonRival01Name will be ', nonrivalName)
                 const qse = Qualtrics.SurveyEngine;
                 // If there are 8 teams in the league, and the resp lists all 7 as rivals, we cannot put that respondent into the NonRival condition.
                 // The intNumOfRivalsListed and intEntsInKRGrouping are used by the Survey Flow to prevent that from happening.
