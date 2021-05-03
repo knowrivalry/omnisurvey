@@ -1,14 +1,15 @@
 <h1>Block: WhenOppIsNotRival</h1>
 <div>
-    We'll get back to your rival views in a moment,
-    but for the next few sets of questions,
-    we want to know your thoughts about a <em><strong>different</strong></em> opponent: ${e://Field/OppObjThe}.</div>
-<div id="divNonRivalLogo" style="width:50%; margin:25px auto;"><img id="imgNonRivalLogo" src="" alt="Logo for a different team in the league" style="width:100%" /></div>
+	We'll get back to your rival views in a moment,
+	but for the next few sets of questions,
+	we want to know your thoughts about a <em><strong>different</strong></em> opponent: ${e://Field/OppObjThe}.</div>
+<div id="divNonRivalLogo" style="width:50%; margin:25px auto;"><img id="imgNonRivalLogo" src=""
+		alt="Logo for a different team in the league" style="width:100%" /></div>
 
 <script>
-    // Get the OppObjEntID and OppObjThe
-	jQuery.when( Qualtrics.SurveyEngine.getEmbeddedData("NonRival01EntID") )
-	.then((nonrivEntId) => jQuery('#imgNonRivalLogo').attr("src", "https://knowrivalry.com/images/entlogos/logo_ent" + nonrivEntId + ".svg"));
+	// Get the OppObjEntID and OppObjThe
+	jQuery.when(Qualtrics.SurveyEngine.getEmbeddedData("NonRival01EntID"))
+		.then((nonrivEntId) => jQuery('#imgNonRivalLogo').attr("src", "https://knowrivalry.com/images/entlogos/logo_ent" + nonrivEntId + ".svg"));
 </script>
 
 
@@ -19,5 +20,23 @@
 <script>
 	const $txtCommentBoxes = jQuery("#QID243 input.InputText");
 	$txtCommentBoxes.attr("placeholder", "Optional comment/ explanation");
-	$txtCommentBoxes.css({"font-size":"10px","width":"100%","border-width":"1px","margin-top":"4px"});
+	$txtCommentBoxes.css({ "font-size": "10px", "width": "100%", "border-width": "1px", "margin-top": "4px" });
+</script>
+
+
+<h1>BLOCK: Attachment</h1>
+<h2>sr_Atchmnt_TxtFavObjRegion_202104</h2>
+<script>
+	Qualtrics.SurveyEngine.addOnload(function () {
+		/*Place your JavaScript here to run when the page loads*/
+		qse = Qualtrics.SurveyEngine;
+		const qtrxQuesID = Object.keys(qse.QuestionInfo)[0];
+
+		qse.addOnPageSubmit(function () {
+			// read user's answer from the textbox on Qualtrics
+			const userResp = document.getElementById("QR~" + qtrxQuesID).value;
+			qse.setEmbeddedData("FavObjRegion", userResp);
+		});
+
+	});
 </script>
