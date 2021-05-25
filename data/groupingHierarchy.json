@@ -2990,52 +2990,60 @@
                                                                 "omnisurvShowSelRival": true,
                                                                 "subgroups": [
                                                                     {
-                                                                        "termKRQualtrics": "Atlanta United",
-                                                                        "entID": 281
+                                                                        "entID": 281,
+                                                                        "termKRQualtrics": "Atlanta United"
                                                                     },
                                                                     {
-                                                                        "termKRQualtrics": "Chicago Fire",
-                                                                        "entID": 192
+                                                                        "entID": 200,
+                                                                        "termKRQualtrics": "CF Montréal"
                                                                     },
                                                                     {
-                                                                        "termKRQualtrics": "Columbus Crew",
-                                                                        "entID": 195
+                                                                        "entID": 192,
+                                                                        "termKRQualtrics": "Chicago Fire"
                                                                     },
                                                                     {
-                                                                        "termKRQualtrics": "DC United",
-                                                                        "entID": 196
+                                                                        "entID": 195,
+                                                                        "termKRQualtrics": "Columbus Crew"
                                                                     },
                                                                     {
-                                                                        "termKRQualtrics": "FC Cincinnati",
-                                                                        "entID": 282
+                                                                        "entID": 196,
+                                                                        "termKRQualtrics": "DC United"
                                                                     },
                                                                     {
-                                                                        "termKRQualtrics": "Montreal Impact",
-                                                                        "entID": 200
+                                                                        "entID": 282,
+                                                                        "termKRQualtrics": "FC Cincinnati"
                                                                     },
                                                                     {
-                                                                        "termKRQualtrics": "NE Revolution",
-                                                                        "entID": 201
+                                                                        "entID": 7109,
+                                                                        "termKRQualtrics": "Inter Miami"
                                                                     },
                                                                     {
-                                                                        "termKRQualtrics": "NYC FC",
-                                                                        "entID": 202
+                                                                        "entID": 201,
+                                                                        "termKRQualtrics": "NE Revolution"
                                                                     },
                                                                     {
-                                                                        "termKRQualtrics": "New York Red Bulls",
-                                                                        "entID": 203
+                                                                        "entID": 202,
+                                                                        "termKRQualtrics": "NYCFC"
                                                                     },
                                                                     {
-                                                                        "termKRQualtrics": "Orlando City",
-                                                                        "entID": 204
+                                                                        "entID": 7110,
+                                                                        "termKRQualtrics": "Nashville SC"
                                                                     },
                                                                     {
-                                                                        "termKRQualtrics": "Philadelphia Union",
-                                                                        "entID": 205
+                                                                        "entID": 203,
+                                                                        "termKRQualtrics": "New York Red Bulls"
                                                                     },
                                                                     {
-                                                                        "termKRQualtrics": "Toronto FC",
-                                                                        "entID": 211
+                                                                        "entID": 204,
+                                                                        "termKRQualtrics": "Orlando City"
+                                                                    },
+                                                                    {
+                                                                        "entID": 205,
+                                                                        "termKRQualtrics": "Philadelphia Union"
+                                                                    },
+                                                                    {
+                                                                        "entID": 211,
+                                                                        "termKRQualtrics": "Toronto FC"
                                                                     }
                                                                 ],
                                                                 "entID": 1341
@@ -3045,54 +3053,58 @@
                                                                 "omnisurvShowSelRival": true,
                                                                 "subgroups": [
                                                                     {
-                                                                        "termKRQualtrics": "Colorado Rapids",
-                                                                        "entID": 194
+                                                                      "entID": 7111,
+                                                                      "termKRQualtrics": "Austin FC"
                                                                     },
                                                                     {
-                                                                        "termKRQualtrics": "FC Dallas",
-                                                                        "entID": 197
+                                                                      "entID": 194,
+                                                                      "termKRQualtrics": "Colorado Rapids"
                                                                     },
                                                                     {
-                                                                        "termKRQualtrics": "Houston Dynamo",
-                                                                        "entID": 198
+                                                                      "entID": 197,
+                                                                      "termKRQualtrics": "FC Dallas"
                                                                     },
                                                                     {
-                                                                        "termKRQualtrics": "LA Galaxy",
-                                                                        "entID": 199
+                                                                      "entID": 198,
+                                                                      "termKRQualtrics": "Houston Dynamo"
                                                                     },
                                                                     {
-                                                                        "termKRQualtrics": "LAFC",
-                                                                        "entID": 283
+                                                                      "entID": 199,
+                                                                      "termKRQualtrics": "LA Galaxy"
                                                                     },
                                                                     {
-                                                                        "termKRQualtrics": "Minnesota United",
-                                                                        "entID": 284
+                                                                      "entID": 283,
+                                                                      "termKRQualtrics": "LAFC"
                                                                     },
                                                                     {
-                                                                        "termKRQualtrics": "Portland Timbers",
-                                                                        "entID": 206
+                                                                      "entID": 284,
+                                                                      "termKRQualtrics": "Minnesota United"
                                                                     },
                                                                     {
-                                                                        "termKRQualtrics": "Real Salt Lake",
-                                                                        "entID": 207
+                                                                      "entID": 206,
+                                                                      "termKRQualtrics": "Portland Timbers"
                                                                     },
                                                                     {
-                                                                        "termKRQualtrics": "San Jose Earthquakes",
-                                                                        "entID": 208
+                                                                      "entID": 207,
+                                                                      "termKRQualtrics": "Real Salt Lake"
                                                                     },
                                                                     {
-                                                                        "termKRQualtrics": "Seattle Sounders",
-                                                                        "entID": 209
+                                                                      "entID": 208,
+                                                                      "termKRQualtrics": "San Jose Earthquakes"
                                                                     },
                                                                     {
-                                                                        "termKRQualtrics": "Sporting Kansas City",
-                                                                        "entID": 210
+                                                                      "entID": 209,
+                                                                      "termKRQualtrics": "Seattle Sounders"
                                                                     },
                                                                     {
-                                                                        "termKRQualtrics": "Vancouver Whitecaps",
-                                                                        "entID": 212
+                                                                      "entID": 210,
+                                                                      "termKRQualtrics": "Sporting Kansas City"
+                                                                    },
+                                                                    {
+                                                                      "entID": 212,
+                                                                      "termKRQualtrics": "Vancouver Whitecaps"
                                                                     }
-                                                                ],
+                                                                  ],
                                                                 "entID": 1340
                                                             }
                                                         ]
