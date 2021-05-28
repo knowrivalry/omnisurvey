@@ -7574,7 +7574,7 @@
   {
     "RecIdentifier": "DataForEnt4824",
     "Omnidata": {
-      "TopGroupingNameThe": null,
+      "TopGroupingNameThe": "the NWSL",
       "entityNameThe": "the Chicago Red Stars",
       "TopGroupingID": 4823,
       "entID": 4824,
@@ -7586,7 +7586,7 @@
   {
     "RecIdentifier": "DataForEnt4825",
     "Omnidata": {
-      "TopGroupingNameThe": null,
+      "TopGroupingNameThe": "the NWSL",
       "entityNameThe": "the Houston Dash",
       "TopGroupingID": 4823,
       "entID": 4825,
@@ -7598,7 +7598,7 @@
   {
     "RecIdentifier": "DataForEnt4826",
     "Omnidata": {
-      "TopGroupingNameThe": null,
+      "TopGroupingNameThe": "the NWSL",
       "entityNameThe": "the North Carolina Courage",
       "TopGroupingID": 4823,
       "entID": 4826,
@@ -7610,7 +7610,7 @@
   {
     "RecIdentifier": "DataForEnt4827",
     "Omnidata": {
-      "TopGroupingNameThe": null,
+      "TopGroupingNameThe": "the NWSL",
       "entityNameThe": "the OL Reign",
       "TopGroupingID": 4823,
       "entID": 4827,
@@ -7622,7 +7622,7 @@
   {
     "RecIdentifier": "DataForEnt4828",
     "Omnidata": {
-      "TopGroupingNameThe": null,
+      "TopGroupingNameThe": "the NWSL",
       "entityNameThe": "the Orlando Pride",
       "TopGroupingID": 4823,
       "entID": 4828,
@@ -7634,7 +7634,7 @@
   {
     "RecIdentifier": "DataForEnt4829",
     "Omnidata": {
-      "TopGroupingNameThe": null,
+      "TopGroupingNameThe": "the NWSL",
       "entityNameThe": "the Portland Thorns",
       "TopGroupingID": 4823,
       "entID": 4829,
@@ -7646,31 +7646,40 @@
   {
     "RecIdentifier": "DataForEnt4830",
     "Omnidata": {
-      "TopGroupingNameThe": null,
-      "entityNameThe": "Sky Blue FC",
+      "TopGroupingNameThe": "the NWSL",
+      "entityNameThe": "Gotham FC",
       "TopGroupingID": 4823,
       "entID": 4830,
-      "entityName": "Sky Blue FC",
-      "favTeamFreq": 0,
+      "entityName": "Gotham FC",
       "TopGroupingName": "NWSL"
     }
   },
   {
-    "RecIdentifier": "DataForEnt4831",
+    "RecIdentifier": "DataForEnt7278",
     "Omnidata": {
-      "TopGroupingNameThe": null,
-      "entityNameThe": "the Utah Royals",
+      "TopGroupingNameThe": "the NWSL",
+      "entityNameThe": "Kansas City",
       "TopGroupingID": 4823,
-      "entID": 4831,
-      "entityName": "Utah Royals",
-      "favTeamFreq": 0,
+      "entID": 7278,
+      "entityName": "Kansas City",
+      "TopGroupingName": "NWSL"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt7279",
+    "Omnidata": {
+      "TopGroupingNameThe": "the NWSL",
+      "entityNameThe": "Racing Louisville FC",
+      "TopGroupingID": 4823,
+      "entID": 7279,
+      "entityName": "Racing Louisville FC",
       "TopGroupingName": "NWSL"
     }
   },
   {
     "RecIdentifier": "DataForEnt4832",
     "Omnidata": {
-      "TopGroupingNameThe": null,
+      "TopGroupingNameThe": "the NWSL",
       "entityNameThe": "the Washington Spirit",
       "TopGroupingID": 4823,
       "entID": 4832,
@@ -7683,11 +7692,10 @@
     "RecIdentifier": "DataForEnt5669",
     "Omnidata": {
       "TopGroupingNameThe": "Premiership rugby",
-      "entityNameThe": "Bath Rugby",
+      "entityNameThe": "Bath",
       "TopGroupingID": 5667,
       "entID": 5669,
-      "entityName": "Bath Rugby",
-      "favTeamFreq": 0,
+      "entityName": "Bath",
       "TopGroupingName": "Premiership Rugby"
     }
   },
@@ -7695,11 +7703,10 @@
     "RecIdentifier": "DataForEnt5670",
     "Omnidata": {
       "TopGroupingNameThe": "Premiership rugby",
-      "entityNameThe": "the Bristol Bears",
+      "entityNameThe": "Bristol Bears",
       "TopGroupingID": 5667,
       "entID": 5670,
-      "entityName": "Bristol Rugby Club",
-      "favTeamFreq": 0,
+      "entityName": "Bristol Bears",
       "TopGroupingName": "Premiership Rugby"
     }
   },
@@ -7707,11 +7714,10 @@
     "RecIdentifier": "DataForEnt5671",
     "Omnidata": {
       "TopGroupingNameThe": "Premiership rugby",
-      "entityNameThe": "the Exeter Chiefs",
+      "entityNameThe": "Exeter",
       "TopGroupingID": 5667,
       "entID": 5671,
-      "entityName": "Exeter Rugby Club",
-      "favTeamFreq": 0,
+      "entityName": "Exeter",
       "TopGroupingName": "Premiership Rugby"
     }
   },
@@ -7719,11 +7725,10 @@
     "RecIdentifier": "DataForEnt5672",
     "Omnidata": {
       "TopGroupingNameThe": "Premiership rugby",
-      "entityNameThe": "Gloucester Rugby",
+      "entityNameThe": "Gloucester",
       "TopGroupingID": 5667,
       "entID": 5672,
-      "entityName": "Gloucester Rugby",
-      "favTeamFreq": 0,
+      "entityName": "Gloucester",
       "TopGroupingName": "Premiership Rugby"
     }
   },
@@ -7734,8 +7739,7 @@
       "entityNameThe": "Harlequins",
       "TopGroupingID": 5667,
       "entID": 5673,
-      "entityName": "Harlequin Football Club",
-      "favTeamFreq": 0,
+      "entityName": "Harlequins",
       "TopGroupingName": "Premiership Rugby"
     }
   },
@@ -7747,7 +7751,6 @@
       "TopGroupingID": 5667,
       "entID": 5674,
       "entityName": "Leicester Tigers",
-      "favTeamFreq": 0,
       "TopGroupingName": "Premiership Rugby"
     }
   },
@@ -7759,8 +7762,19 @@
       "TopGroupingID": 5667,
       "entID": 5675,
       "entityName": "London Irish",
-      "favTeamFreq": 0,
       "TopGroupingName": "Premiership Rugby"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt5703",
+    "Omnidata": {
+      "TopGroupingNameThe": "Premiership rugby",
+      "entityNameThe": "Newcastle Falcons",
+      "TopGroupingID": 5667,
+      "entID": 5703,
+      "entityName": "Newcastle Falcons",
+      "favTeamFreq": 0,
+      "TopGroupingName": "Premiership rugby"
     }
   },
   {
@@ -7771,7 +7785,6 @@
       "TopGroupingID": 5667,
       "entID": 5676,
       "entityName": "Northampton Saints",
-      "favTeamFreq": 0,
       "TopGroupingName": "Premiership Rugby"
     }
   },
@@ -7783,19 +7796,6 @@
       "TopGroupingID": 5667,
       "entID": 5677,
       "entityName": "Sale Sharks",
-      "favTeamFreq": 0,
-      "TopGroupingName": "Premiership Rugby"
-    }
-  },
-  {
-    "RecIdentifier": "DataForEnt5678",
-    "Omnidata": {
-      "TopGroupingNameThe": "Premiership rugby",
-      "entityNameThe": "Saracens",
-      "TopGroupingID": 5667,
-      "entID": 5678,
-      "entityName": "Saracens",
-      "favTeamFreq": 0,
       "TopGroupingName": "Premiership Rugby"
     }
   },
@@ -7807,7 +7807,6 @@
       "TopGroupingID": 5667,
       "entID": 5679,
       "entityName": "Wasps",
-      "favTeamFreq": 0,
       "TopGroupingName": "Premiership Rugby"
     }
   },
@@ -7819,7 +7818,6 @@
       "TopGroupingID": 5667,
       "entID": 5680,
       "entityName": "Worcester Warriors",
-      "favTeamFreq": 0,
       "TopGroupingName": "Premiership Rugby"
     }
   },
@@ -7831,7 +7829,6 @@
       "TopGroupingID": 5668,
       "entID": 5694,
       "entityName": "Ampthill",
-      "favTeamFreq": 0,
       "TopGroupingName": "RFU Championship"
     }
   },
@@ -7843,7 +7840,6 @@
       "TopGroupingID": 5668,
       "entID": 5695,
       "entityName": "Bedford Blues",
-      "favTeamFreq": 0,
       "TopGroupingName": "RFU Championship"
     }
   },
@@ -7855,7 +7851,6 @@
       "TopGroupingID": 5668,
       "entID": 5696,
       "entityName": "Cornish Pirates",
-      "favTeamFreq": 0,
       "TopGroupingName": "RFU Championship"
     }
   },
@@ -7867,7 +7862,6 @@
       "TopGroupingID": 5668,
       "entID": 5697,
       "entityName": "Coventry",
-      "favTeamFreq": 0,
       "TopGroupingName": "RFU Championship"
     }
   },
@@ -7879,7 +7873,6 @@
       "TopGroupingID": 5668,
       "entID": 5698,
       "entityName": "Doncaster Knights",
-      "favTeamFreq": 0,
       "TopGroupingName": "RFU Championship"
     }
   },
@@ -7891,7 +7884,6 @@
       "TopGroupingID": 5668,
       "entID": 5699,
       "entityName": "Ealing Trailfinders",
-      "favTeamFreq": 0,
       "TopGroupingName": "RFU Championship"
     }
   },
@@ -7903,7 +7895,6 @@
       "TopGroupingID": 5668,
       "entID": 5700,
       "entityName": "Hartpury",
-      "favTeamFreq": 0,
       "TopGroupingName": "RFU Championship"
     }
   },
@@ -7915,43 +7906,6 @@
       "TopGroupingID": 5668,
       "entID": 5701,
       "entityName": "Jersey Reds",
-      "favTeamFreq": 0,
-      "TopGroupingName": "RFU Championship"
-    }
-  },
-  {
-    "RecIdentifier": "DataForEnt5705",
-    "Omnidata": {
-      "TopGroupingNameThe": "the RFU Championship",
-      "entityNameThe": "Leeds Tykes",
-      "TopGroupingID": 5668,
-      "entID": 5705,
-      "entityName": "Leeds Tykes",
-      "favTeamFreq": 0,
-      "TopGroupingName": "RFU Championship"
-    }
-  },
-  {
-    "RecIdentifier": "DataForEnt5702",
-    "Omnidata": {
-      "TopGroupingNameThe": "the RFU Championship",
-      "entityNameThe": "London Scottish",
-      "TopGroupingID": 5668,
-      "entID": 5702,
-      "entityName": "London Scottish",
-      "favTeamFreq": 0,
-      "TopGroupingName": "RFU Championship"
-    }
-  },
-  {
-    "RecIdentifier": "DataForEnt5703",
-    "Omnidata": {
-      "TopGroupingNameThe": "the RFU Championship",
-      "entityNameThe": "Newcastle Falcons",
-      "TopGroupingID": 5668,
-      "entID": 5703,
-      "entityName": "Newcastle Falcons",
-      "favTeamFreq": 0,
       "TopGroupingName": "RFU Championship"
     }
   },
@@ -7964,6 +7918,28 @@
       "entID": 5704,
       "entityName": "Nottingham",
       "favTeamFreq": 0,
+      "TopGroupingName": "RFU Championship"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt7394",
+    "Omnidata": {
+      "TopGroupingNameThe": "the RFU Championship",
+      "entityNameThe": "Richmond",
+      "TopGroupingID": 5668,
+      "entID": 7394,
+      "entityName": "Richmond",
+      "TopGroupingName": "RFU Championship"
+    }
+  },
+  {
+    "RecIdentifier": "DataForEnt5678",
+    "Omnidata": {
+      "TopGroupingNameThe": "the RFU Championship",
+      "entityNameThe": "Saracens",
+      "TopGroupingID": 5668,
+      "entID": 5678,
+      "entityName": "Saracens",
       "TopGroupingName": "RFU Championship"
     }
   },

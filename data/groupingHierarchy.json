@@ -3644,23 +3644,23 @@
                                         "subgroups": [
                                             {
                                                 "entID": 5669,
-                                                "termKRQualtrics": "Bath Rugby"
+                                                "termKRQualtrics": "Bath"
                                             },
                                             {
                                                 "entID": 5670,
-                                                "termKRQualtrics": "Bristol Rugby Club"
+                                                "termKRQualtrics": "Bristol Bears"
                                             },
                                             {
                                                 "entID": 5671,
-                                                "termKRQualtrics": "Exeter Rugby Club"
+                                                "termKRQualtrics": "Exeter"
                                             },
                                             {
                                                 "entID": 5672,
-                                                "termKRQualtrics": "Gloucester Rugby"
+                                                "termKRQualtrics": "Gloucester"
                                             },
                                             {
                                                 "entID": 5673,
-                                                "termKRQualtrics": "Harlequin Football Club"
+                                                "termKRQualtrics": "Harlequins"
                                             },
                                             {
                                                 "entID": 5674,
@@ -3730,12 +3730,12 @@
                                                 "termKRQualtrics": "Jersey Reds"
                                             },
                                             {
-                                                "entID": 5702,
-                                                "termKRQualtrics": "London Scottish"
-                                            },
-                                            {
                                                 "entID": 5704,
                                                 "termKRQualtrics": "Nottingham"
+                                            },
+                                            {
+                                                "entID": 7394,
+                                                "termKRQualtrics": "Richmond"
                                             },
                                             {
                                                 "entID": 5678,
