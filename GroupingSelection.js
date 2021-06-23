@@ -151,13 +151,13 @@ var Omnisurvey_GroupingSelection = function($, data, groupingId, surveyId) {
 		}
 		
 		// By default, the survey selection question is hidden
-		// If there is a grpID assigned, hide/show the appropriate elements
-		// If not, give the user the opportunity to select the grouping
+		  // If there is a grpID assigned, hide/show the appropriate elements
+		  // If not, give the user the opportunity to select the grouping
 		if (grouping != null) {
 
 			// if survey isn't specified or
-			// the survey is specified and the grouping is explicity associated with a surveyId,
-			// don't give the user the opportunity to change groupings
+			  // the survey is specified and the grouping is explicity associated with a surveyId,
+			  // don't give the user the opportunity to change groupings
 			if (survey == null || grouping.grpCurrentSurvID === survey.survID) {
 				// Hide the survey question with all the selector radio boxes
 				$surveySelectionQuestion.hide();

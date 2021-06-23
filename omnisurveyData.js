@@ -17,7 +17,7 @@ var Omnisurvey_Data = function ($) {
 
     // I added this just to define the paths up front and switch between local an GitHub. Just comment out what you're not using.
     let pathBase = ""; // local
-    pathBase = "https://knowrivalry.github.io/omnisurvey/"; // ***** this line should NOT be commented for production *****
+	pathBase = "https://knowrivalry.github.io/omnisurvey/"; // ***** this line should NOT be commented for production *****
     // pathBase = "https://auxiliarydev.github.io/know-rivalry-omnisurvey/";    // No longer using this repo
     // pathBase = "https://b-d-t.github.io/know-rivalry-omnisurvey/";           // No longer using this repo
     const pathJSON = {
@@ -181,7 +181,6 @@ var Omnisurvey_Data = function ($) {
     this.getGroupAndSiblings = function(groupId) {
         // reduce groups to only those that should display for rivalry purposes
         var groups = getRivalGroups(GroupingHierarchy);
-    
         // filter the reduced groups on the specified league
         groups = filterRivalGroups(groupId, groups);
 
@@ -246,11 +245,6 @@ var Omnisurvey_Data = function ($) {
                     }
                     const jsonGroupingHierarchy = changeKeyName(data,"cur_subentity_is", "subgroups");
 
-                    // The output from Cypher isn't sorted quite right.
-                    // Within each league, the 0 levels come before 1 levels, 1 levels before 2 level, etc.
-                    // So, for NCAA sports, Big 12 (1 level) comes before the ACC (2 levels).
-            // Do I need to fix that here by sorting the JSON?? 
-                    // Sort the JSON based on league, qtrxDispOrderInGrp, then termKRQualtrics
                     GroupingHierarchy = jsonGroupingHierarchy; aryJSONLoaded.push("Grouping Hierarchy");
                 }).fail(function (jqXHR, textStatus, errorThrown) { fnErrorLoadingJSON("grouping hierarchy", textStatus); }),
 
