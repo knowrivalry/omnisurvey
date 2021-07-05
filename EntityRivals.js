@@ -348,14 +348,11 @@ var Omnisurvey_EntRivals = function ($, data, groupingId, entId) {
         // Remove ineligible entities from the array of all entIDs in the top grouping        
         currentEntIDs = currentEntIDs.filter((elem) => !ineligibleEntIDs.includes(elem));
 
-        console.log("####### currentEntIDs is ",currentEntIDs)
-
         // If the user selects all possible teams as rivals, the list will be empty and cause errors.
           // We use team 5202 (Morön) as a default rival so the code has something to work with;
           // don't worry, the user will not be put into the nonrival condition.
           // This isn't the prettiest solution, but it should work for us.
         if (currentEntIDs.length === 0) { currentEntIDs.push(5202);};
-        console.log("####### now currentEntIDs is ",currentEntIDs)
 
         // Randomly select one of the remaining entIDs
         const intNonRivalEntID = shuffleArray(currentEntIDs).pop();
