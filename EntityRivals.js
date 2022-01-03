@@ -213,7 +213,6 @@ var Omnisurvey_EntRivals = function ($, data, groupingId, entId) {
             if (rivalEntID) {
                 selectedRivals.push({
                     entID: rivalEntID,              // entID for the rival
-                    rivalKey: strRivalKey,
                     name: cboSelection.text(),      // Name of the rival
                     rivpoints: $points.val(),       // Points allocated to the rival
                     nameThe: rivalEntID ? data.getEntData(rivalEntID)["entityNameThe"] : ''     // Rival's name with "the", if appropriate (from KRDbEntData.json)
@@ -228,7 +227,9 @@ var Omnisurvey_EntRivals = function ($, data, groupingId, entId) {
 
         $.when(
             // Iterate through all the selected rivals
-            selectedRivals.forEach(function (selectedRival) {               
+            selectedRivals.forEach(function (selectedRival, index) {  
+                selectedRival.rivalKey = 'Rival'+('0' + (index+1)).slice(-2);
+                
                 if (testingMode){
                     if (selectedRival.entID) {
                         console.log(
