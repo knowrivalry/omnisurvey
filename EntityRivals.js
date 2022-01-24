@@ -193,53 +193,66 @@ var Omnisurvey_EntRivals = function ($, data, groupingId, entId) {
     this.entRivalsNextButtonHandler = function(testingMode){
         console.log('Next button handler clicked. testingMode= '+testingMode);
 
-        let rivalsListedEntIDs = []; // will be an array of rival entIDs
+        let selectedRivals = [];
+        
+        // Iterate through all the cboRivals dropdown boxes
+        $cboRivals.each(function () {
+            const $this = $(this);
+
+            // fnRivalKey returns "Rival01", "Rival02", etc., which is used to create the lookup term for $points.
+            // Points boxes [and embedded data] are named "Rival01Points", "Rival02Points", etc.
+            let strRivalKey = fnRivalKey($this);
+            let $points = $('#'+strRivalKey+'Points');
+
+            const cboSelection = $this.find('option:selected');
+
+            // Set variables about the selected rival.
+            // Most are pulled from the survey itself, but others use the entID to fetch information from KRDbEntData.json
+            // (via the getEntData function in omnisurveyData.js).
+            let rivalEntID = parseInt(cboSelection.val());
+            if (rivalEntID) {
+                selectedRivals.push({
+                    entID: rivalEntID,              // entID for the rival
+                    name: cboSelection.text(),      // Name of the rival
+                    rivpoints: $points.val(),       // Points allocated to the rival
+                    nameThe: rivalEntID ? data.getEntData(rivalEntID)["entityNameThe"] : ''     // Rival's name with "the", if appropriate (from KRDbEntData.json)
+                });
+            }
+        });
+
+        // sort selected rivals descending by points
+        selectedRivals.sort(function(a, b) {
+            return b.rivpoints - a.rivpoints;
+        });
 
         $.when(
-            // Iterate through all the cboRivals dropdown boxes
-            $cboRivals.each(function () {
-                const $this = $(this);
-
-                // fnRivalKey returns "Rival01", "Rival02", etc., which is used to create the lookup term for $points.
-                // Points boxes [and embedded data] are named "Rival01Points", "Rival02Points", etc.
-                let strRivalKey = fnRivalKey($this);
-                let $points = $('#'+strRivalKey+'Points');
-
-                const cboSelection = $this.find('option:selected');
-
-                // Set variables about the selected rival.
-                // Most are pulled from the survey itself, but others use the entID to fetch information from KRDbEntData.json
-                // (via the getEntData function in omnisurveyData.js).
-                const entID = parseInt(cboSelection.val()),     // entID for the rival
-                    name = cboSelection.text(),                 // Name of the rival
-                    rivpoints = $points.val(),                  // Points allocated to the rival
-                    nameThe = entID ? data.getEntData(entID)["entityNameThe"] : '';     // Rival's name with "the", if appropriate (from KRDbEntData.json)
+            // Iterate through all the selected rivals
+            selectedRivals.forEach(function (selectedRival, index) {  
+                selectedRival.rivalKey = 'Rival'+('0' + (index+1)).slice(-2);
                 
                 if (testingMode){
-                    if (entID) {
-                        rivalsListedEntIDs.push(entID);
+                    if (selectedRival.entID) {
                         console.log(
-                            name + " (rival entID #" + entID + ") "
+                            selectedRival.name + " (rival entID #" + selectedRival.entID + ") "
                             + "would have been stored to embedded data: "
-                            + nameThe + " (" + rivpoints + " points)"
-                            )
+                            + selectedRival.nameThe + " (" + selectedRival.rivpoints + " points)"
+                        );
                     }
                 } else {
                     const qse = Qualtrics.SurveyEngine;
 
-                    return $.when(qse.setEmbeddedData(strRivalKey + 'EntID', entID))
+                    return $.when(qse.setEmbeddedData(selectedRival.rivalKey + 'EntID', selectedRival.entID))
                     .then(function (returnedContent) {
-                        if (entID) {
-                            rivalsListedEntIDs.push(entID);
-                            qse.setEmbeddedData(strRivalKey + 'Name', name);
-                            return qse.setEmbeddedData(strRivalKey + 'NameThe', nameThe);
+                        if (selectedRival.entID) {
+                            qse.setEmbeddedData(selectedRival.rivalKey + 'Name', selectedRival.name);
+                            return qse.setEmbeddedData(selectedRival.rivalKey + 'NameThe', selectedRival.nameThe);
                         }
                     })
                     .then(function (returnedContent){
-                        return qse.setEmbeddedData(strRivalKey + 'Points', rivpoints);
+                        return qse.setEmbeddedData(selectedRival.rivalKey + 'Points', selectedRival.rivpoints);
                     })
                     .done(function (returnedContent){
-                        return console.log("rival entID #" + entID + " stored to embedded data: " + name + " (" + rivpoints + " points)")
+                        return console.log("rival entID #" + selectedRival.entID + " stored to embedded data: " + selectedRival.name + " (" + selectedRival.rivpoints + " points)")
                     });
                 }
             })
@@ -247,10 +260,10 @@ var Omnisurvey_EntRivals = function ($, data, groupingId, entId) {
         .then(function(returnedContent){
             // These are written to Qualtrics Embedded Data
             const
-                intNumOfRivalsListed = rivalsListedEntIDs.length,
+                intNumOfRivalsListed = selectedRivals.length,
                 intNumOfRivContainers = $cboRivals.length,
                 intEntsInKRGrouping = data.entsInKRGrouping(groupingId),
-                objNonRival = determineANonRival(entId, groupingId, rivalsListedEntIDs), // returns {entID: 1234, entityName:'A non rival team name', etc.}
+                objNonRival = determineANonRival(entId, groupingId, selectedRivals.map(function(rival) { return rival.entID; })), // returns {entID: 1234, entityName:'A non rival team name', etc.}
                 nonrivalEntID = objNonRival.entID,
                 nonrivalName = objNonRival.entityName,
                 nonrivalNameThe = objNonRival.entityNameThe;
