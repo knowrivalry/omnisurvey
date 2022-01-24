@@ -233,9 +233,8 @@ var Omnisurvey_EntRivals = function ($, data, groupingId, entId) {
                 if (testingMode){
                     if (selectedRival.entID) {
                         console.log(
-                            selectedRival.name + " (rival entID #" + selectedRival.entID + ") "
-                            + "would have been stored to embedded data: "
-                            + selectedRival.nameThe + " (" + selectedRival.rivpoints + " points)"
+                            `Slot ${selectedRival.rivalKey}: ${selectedRival.name} (rival entID #${selectedRival.entID}) ` + 
+                            `would have been stored to embedded data: ${selectedRival.nameThe} (${selectedRival.rivpoints} points)`
                         );
                     }
                 } else {
