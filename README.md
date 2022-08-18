@@ -1,5 +1,8 @@
 ﻿# know-rivalry-omnisurvey  
 
+This is just a CDN for some of the data that feeds the Know Rivalry Omnisurvey.
+
+<!---
 This originated on Aux Dev's [GitHub page]("https://auxiliarydev.github.io/know-rivalry-omnisurvey/"). David forked it and started working off of his [GitHub]("https://github.com/B-D-T/know-rivalry-omnisurvey") because he didn't have write access to the Aux Dev one.  
 
 ## October 28, 2020  
@@ -20,3 +23,5 @@ The version is working decently well, but still needs some help. David moved the
 
 ## November 23, 2020 11:15 AM  
 David migrated the production version to [Know Rivalry's GH page]("https://github.com/knowrivalry/omnisurvey").
+--->
+
