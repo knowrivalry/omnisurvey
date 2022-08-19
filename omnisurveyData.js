@@ -4,7 +4,7 @@
 // It becomes jQuery when used anywhere in this space.
 var Omnisurvey_Data = function ($) {
     var self = this;
-    // These are the objects from data outputted by Access (RivDB_BuildSurvey)
+    // These are the JSON objects from data outputted by the KRDb
     // I don't know/remember why GroupingHierarchy is an array and the others are objects - might be an error, although there's prob a reason
     let GroupingHierarchy = [], tbljsGroupings = {}, tbljsSurveys = {}, jsEntData = {}, jsCollections = {};
 
@@ -18,7 +18,7 @@ var Omnisurvey_Data = function ($) {
 
     // I added this just to define the paths up front and switch between local an GitHub. Just comment out what you're not using.
     let pathBase = ""; // local
-	// pathBase = "https://knowrivalry.github.io/omnisurvey/"; // ***** this line should NOT be commented for production *****
+	pathBase = "https://knowrivalry.github.io/omnisurvey/"; // ***** this line should NOT be commented for production *****
     // pathBase = "https://auxiliarydev.github.io/know-rivalry-omnisurvey/";    // No longer using this repo
     // pathBase = "https://b-d-t.github.io/know-rivalry-omnisurvey/";           // No longer using this repo
     const pathJSON = {
