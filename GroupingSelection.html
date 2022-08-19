@@ -235,7 +235,6 @@
 					.then(function(response){
 						groupingId = parseInt(response);
 						jQuery("#storageGroupingId").text(groupingId); // Store the groupingId in a hidden div on the page
-						jQuery("#storageCollectionId").text(collectionId); // Store the collectionId in a hidden div on the page
 					});
 				};
 				
@@ -247,6 +246,7 @@
 				if (!isNaN(Qualtrics.SurveyEngine.getEmbeddedData('collID'))) {
 					// If the collID is stored in the embedded data, set that as the collectionId
 					collectionId = parseInt(Qualtrics.SurveyEngine.getEmbeddedData('collID'));
+					jQuery("#storageCollectionId").text(collectionId); // Store the collectionId in a hidden div on the page
 				}
 
 				// We're using a custom next button. I guess hideNextButton() is a built-in function in Qualtrics

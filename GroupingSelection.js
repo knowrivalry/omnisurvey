@@ -101,7 +101,7 @@ var Omnisurvey_GroupingSelection = function($, data, groupingId, surveyId, colle
 			self.dataToEmbed[key] = selectedSurvey[key];
 		});
 
-		// write all properties of collections.json for selected survey to embedded data
+		// write all properties of collections.json for selected survey to embedded data.
 		const selectedCollection = data.getCollection(collectionId);
 		$.each(selectedCollection, function(key) {
 			self.dataToEmbed[key] = selectedCollection[key];
@@ -146,7 +146,7 @@ var Omnisurvey_GroupingSelection = function($, data, groupingId, surveyId, colle
 		}
 
 		if (collectionId > 0) {
-			collection = data.getCollection(collectionId); // { collID: 2, collName: "MLS League Case Study" }
+			collection = data.getCollection(collectionId); // { collID: 2, collName: "MLS League Case Study", coll_InformedConsent_SignOff: "Kelsey Sloan, B. David Tyler, and Joe Cobbs" }
 		}
 
 		if (surveyId > 0) {
