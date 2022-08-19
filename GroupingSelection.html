@@ -131,6 +131,7 @@
 			<!-- ######################## lblSplashWelcomeMsg -->
 			<div id="SplashWelcomeGroupingPicked">
 				<div id="storageGroupingId" style="display: none;"></div> <!-- Write the grouping ID when passed via query string, selected by user, or updated by user -->
+				<div id="storageCollectionId" style="display: none;"></div> <!-- Write the collectionId (collID) when passed via query string -->
 				<div id="SplashWelcomeGroupingLogoDiv">
 				</div>
 
@@ -168,7 +169,7 @@
 	// The code below is in the JS for the first QID on the page (SplashTitle)
 	(function () {
 		const OMNISURVEY_TEST = false;
-		let groupingId = -1, surveyId = -1;
+		let groupingId = -1, surveyId = -1, collectionId = -1;
 		let nextButtonHandler, surveySelectionHandler;
 		const self = this;
 
@@ -188,13 +189,18 @@
 			if (searchParams.has('grpID')) {
 				// If grpID is a parameter key in the query string,
 				// get that value and set that as the `groupingId`
-				// E.g., for the BBL the URL would have ?grpID=7
+				// E.g., for the BBL the URL would have ?grpID=1375
 				groupingId = parseInt(searchParams.get('grpID')); //1364
 				jQuery("#storageGroupingId").text(groupingId); // Store the groupingId in a hidden div on the page
 			}
 
 			if (searchParams.has('survID')) {
 				surveyId = parseInt(searchParams.get('survID')); //30
+			}
+
+			if (searchParams.has('collID')) {
+				collectionId = parseInt(searchParams.get('collID')); 
+				jQuery("#storageCollectionId").text(collectionId); // Store the collectionId in a hidden div on the page
 			}
 
 			jQuery('body').prepend('<div id="SurveyInTestMode">The survey is in test mode.</div>');
@@ -229,12 +235,18 @@
 					.then(function(response){
 						groupingId = parseInt(response);
 						jQuery("#storageGroupingId").text(groupingId); // Store the groupingId in a hidden div on the page
+						jQuery("#storageCollectionId").text(collectionId); // Store the collectionId in a hidden div on the page
 					});
 				};
 				
 				if (!isNaN(Qualtrics.SurveyEngine.getEmbeddedData('survID'))) {
 					// If the survID is stored in the embedded data, set that as the surveyId
 					surveyId = parseInt(Qualtrics.SurveyEngine.getEmbeddedData('survID'));
+				}
+
+				if (!isNaN(Qualtrics.SurveyEngine.getEmbeddedData('collID'))) {
+					// If the collID is stored in the embedded data, set that as the collectionId
+					collectionId = parseInt(Qualtrics.SurveyEngine.getEmbeddedData('collID'));
 				}
 
 				// We're using a custom next button. I guess hideNextButton() is a built-in function in Qualtrics
@@ -260,7 +272,7 @@
 				init(); 
 
 				Qualtrics.SurveyEngine.getInstance('QID182').questionclick = function(event, element) {
-					if (element.type == 'radio') {  //for a single answer multiple choice question, the element type will be radio
+					if (element.type == 'radio') {  // for a single answer multiple choice question, the element type will be radio
 						let groupingQuestion = Qualtrics.SurveyEngine.getInstance('QID182');
 						let groupings = groupingQuestion.getQuestionInfo().Choices;
 						let selectedChoice = groupingQuestion.getSelectedChoices()[0];
@@ -305,7 +317,7 @@
 			function loadQuestion() {
 				// Omnisurvey_GroupingSelection envelopes the entire file of GroupingSelection.js
 				// By passing omnisurvey_data, it lets us expose all of omnisurveyData.js to GroupingSelection.js
-				var omnisurvey_GroupingSelection = new Omnisurvey_GroupingSelection(jQuery, self.omnisurvey_data, groupingId, surveyId); // this is what loads the Omnisurvey
+				var omnisurvey_GroupingSelection = new Omnisurvey_GroupingSelection(jQuery, self.omnisurvey_data, groupingId, surveyId, collectionId); // this is what loads the Omnisurvey
 				omnisurvey_GroupingSelection.nextButtonHandler = nextButtonHandler;
 
 				window.omnisurvey_GroupingSelection = omnisurvey_GroupingSelection;

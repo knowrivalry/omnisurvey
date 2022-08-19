@@ -6,25 +6,27 @@ var Omnisurvey_Data = function ($) {
     var self = this;
     // These are the objects from data outputted by Access (RivDB_BuildSurvey)
     // I don't know/remember why GroupingHierarchy is an array and the others are objects - might be an error, although there's prob a reason
-    let GroupingHierarchy = [], tbljsGroupings = {}, tbljsSurveys = {}, jsEntData = {};
+    let GroupingHierarchy = [], tbljsGroupings = {}, tbljsSurveys = {}, jsEntData = {}, jsCollections = {};
 
     // Putting this.<whatever> allows us to expose the <whatever> to code elsewhere, like in LeagueSelection.js
     this.Surveys = {};
     this.Groupings = {};
     this.KRDbEntData = {};
+    this.Collections = {};
 
     this.dataLoaded = false;
 
     // I added this just to define the paths up front and switch between local an GitHub. Just comment out what you're not using.
     let pathBase = ""; // local
-	pathBase = "https://knowrivalry.github.io/omnisurvey/"; // ***** this line should NOT be commented for production *****
+	// pathBase = "https://knowrivalry.github.io/omnisurvey/"; // ***** this line should NOT be commented for production *****
     // pathBase = "https://auxiliarydev.github.io/know-rivalry-omnisurvey/";    // No longer using this repo
     // pathBase = "https://b-d-t.github.io/know-rivalry-omnisurvey/";           // No longer using this repo
     const pathJSON = {
         "GroupingHierarchy": pathBase + 'data/groupingHierarchy.json',
         "Groupings": pathBase + 'data/groupings.json', // tbljsGroupings
         "Surveys": pathBase + 'data/surveys.json', // tbljsSurveys
-        "KRDbEntData": pathBase + 'data/KRDbEntData.json' //jsEntData
+        "KRDbEntData": pathBase + 'data/KRDbEntData.json', // jsEntData
+        "Collections": pathBase + 'data/collections.json' // jsCollections
     };
 
     // This is called from the end of init()
@@ -42,6 +44,11 @@ var Omnisurvey_Data = function ($) {
     function mapKRDbEntData() {
         return Object.keys(jsEntData).map(function (key) {
             return jsEntData[key]['Omnidata'];
+        });
+    }
+    function mapCollections() {
+        return Object.keys(jsCollections).map(function (key) {
+            return jsCollections[key];
         });
     }
 
@@ -100,7 +107,20 @@ var Omnisurvey_Data = function ($) {
 
         return null;
     };
-    
+
+    this.getCollection = function (collectionId) {
+
+        const collections = self.Collections.filter(function (collection) {
+            return collection.collID == collectionId;
+        });
+
+        if (collections.length > 0) {
+            return collections[0];
+        }
+
+        return null;
+    };
+
     this.entsInKRGrouping = (groupingId) => self.KRDbEntData.filter((obj) => obj.TopGroupingID == groupingId).length;
 
     // This is passed a groupingId
@@ -261,7 +281,14 @@ var Omnisurvey_Data = function ($) {
                     tbljsSurveys = data; aryJSONLoaded.push("Survey JSON loaded");
                     self.Surveys = mapSurveys();
                 }).fail(function (jqXHR, textStatus, errorThrown) { fnErrorLoadingJSON("survey", textStatus); }),
-        
+
+            $.getJSON(pathJSON.Collections)
+                .done(function (data) {
+                    // Store the Collections object {collID:1, collName:"Some inquiry"}
+                    jsCollections = data; aryJSONLoaded.push("Collections JSON loaded");
+                    self.Collections = mapCollections();
+                }).fail(function (jqXHR, textStatus, errorThrown) { fnErrorLoadingJSON("collection", textStatus); }),
+
             $.getJSON(pathJSON.KRDbEntData)
                 .done(function (data) {
                     // Store the KRDbEntData object {entID:1, {termKRQualtrics:"Boston Celtics"}}

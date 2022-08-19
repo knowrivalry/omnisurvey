@@ -1,14 +1,14 @@
 {
-    "inqID1": {
-        "inqID": 1,
-        "krNameInternal": "WASM 2022"
+    "collID1": {
+        "collID": 1,
+        "collName": "WASM 2022"
     },
-    "inqID2": {
-        "inqID": 2,
-        "krNameInternal": "MLS League Case Study"
+    "collID2": {
+        "collID": 2,
+        "collName": "MLS League Case Study"
     },
-    "inqID2202": {
-        "inqID": 2202,
-        "krNameInternal": "WNBA survey by Emily Broggy (indep. study with Nicole Melton)"
+    "collID2202": {
+        "collID": 2202,
+        "collName": "WNBA survey by Emily Broggy (indep. study with Nicole Melton)"
     }
 }

@@ -3,7 +3,7 @@
 // When this gets called, Danny passes the jQuery object as an argument.
 // The $ in the parameter here is just a parameter like any other -- nothing special.
 // It becomes jQuery when used anywhere in this space.
-var Omnisurvey_GroupingSelection = function($, data, groupingId, surveyId) {
+var Omnisurvey_GroupingSelection = function($, data, groupingId, surveyId, collectionId) {
 
 	this.nextButtonHandler;
 	this.surveySelectionHandler; // 20201029-0357: This goes to code that's commented out right now. Not sure why.
@@ -15,7 +15,8 @@ var Omnisurvey_GroupingSelection = function($, data, groupingId, surveyId) {
 	
 	// A note on the variable notation:
 		// If the variable has a $ before it, it's a jQuery object. 
-		// For example, surveySelectionQuestionId = 'QID182' is just a string. The jQuery object equivalent is $surveySelectionQuestion = $('#'+surveySelectionQuestionId)
+		// For example, in `surveySelectionQuestionId = 'QID182'`, surveySelectionQuestionId is just a string.
+		// The jQuery object equivalent is $surveySelectionQuestion = $('#'+surveySelectionQuestionId)
 		// The $('#'+surveySelectionQuestionId) is the same as jQuery('#'+surveySelectionQuestionId) because jQuery was passed to Omnisurvey_GroupingSelection.
 		// So $('#'+surveySelectionQuestionId) is the same as writing jQuery("#QID182")
 
@@ -24,6 +25,7 @@ var Omnisurvey_GroupingSelection = function($, data, groupingId, surveyId) {
 	const $splashChangeGroupingBtn = $('#SplashChangeGroupingBtn'); // Button to allow the user to pick a different grouping
 	const $SplashWelcomeGroupingLogoDiv = $('#SplashWelcomeGroupingLogoDiv'); // Div with the grouping logo
 	const $storageGroupingId = $("#storageGroupingId"); // Storage for the selected grouping
+	const $storageCollectionId = $("#storageCollectionId"); // Storage for the selected collection
 	
 	// The toggleGroupingSelect function would only be called -- I think -- if the user clicks on SplashChangeGroupingBtn
 	function toggleGroupingSelect() {
@@ -67,8 +69,9 @@ var Omnisurvey_GroupingSelection = function($, data, groupingId, surveyId) {
 		// The main thing this function does is to write the values into the embedded data variables within Qualtrics.
 		// In some cases we want to write new embedded data, in other cases we don't, thus we need to write it with code rather than within the Qualtrics Survey Flow.		
 
-		// Get the groupingId
+		// Get the groupingId and, if present, the collectionId
 		const groupingId = parseInt($storageGroupingId.text());
+		const collectionId = parseInt($storageCollectionId.text());
 
 		// If the grpID is null/empty/NaN/0, check to see if the user has made a selection
 		if (!(groupingId > 0)) {
@@ -78,23 +81,30 @@ var Omnisurvey_GroupingSelection = function($, data, groupingId, surveyId) {
 		}
 				
 		// WRITE THE EMBEDDED DATA TO QUALTRICS
-		// This will write EVERY property within the data table variables (e.g., tbljsGroupings, tbljsSurveys) as an embedded data variable within Qualtrics (whether we end up using it or not).
+		// This will write EVERY property within the data table variables as an embedded data variable within Qualtrics (whether we end up using it or not).
+		// The variables from the JSON files: groupings.json & surveys.json (formerly tbljsGroupings & tbljsSurveys) 
 		// If the embedded data element doesn't exist in the survey flow yet, Qualtrics will create that variable.
 		// You won't see it in the Qualtrics survey flow, but it exists [at least, I think that's what's happening].
 	
 		self.dataToEmbed = {};
 		
-		// write all properties of tbljsGroupings for selected grouping to embedded data
+		// write all properties of groupings.json for selected grouping to embedded data
 		const selectedGrouping = data.getGrouping(groupingId);
 		$.each(selectedGrouping, function(key) {
 			self.dataToEmbed[key] = selectedGrouping[key];
 		});
 
-		// write all properties of tbljsSurveys for selected survey to embedded data
+		// write all properties of surveys.json for selected survey to embedded data
 		const surveyId = selectedGrouping.grpCurrentSurvID;
 		const selectedSurvey = data.getSurvey(surveyId);
 		$.each(selectedSurvey, function(key) {
 			self.dataToEmbed[key] = selectedSurvey[key];
+		});
+
+		// write all properties of collections.json for selected survey to embedded data
+		const selectedCollection = data.getCollection(collectionId);
+		$.each(selectedCollection, function(key) {
+			self.dataToEmbed[key] = selectedCollection[key];
 		});
 
 		console.log('Submitting data:', self.dataToEmbed);
@@ -126,13 +136,17 @@ var Omnisurvey_GroupingSelection = function($, data, groupingId, surveyId) {
 	function init() {
 
 		// These will be set by the code
-		let grouping = null, survey = null;
+		let grouping = null, survey = null, collection = null;
 
 		// Fetches an object with that grouping's information.
 		if (groupingId > 0) {
 			// This means a groupingId was passed in the query string (i.e., it's in the embedded data)
 			// e.g., {"grpID":7,"grpSport":"Cricket","termKRQualtrics":"BBL", etc.
 			grouping = data.getGrouping(groupingId);
+		}
+
+		if (collectionId > 0) {
+			collection = data.getCollection(collectionId); // { collID: 2, collName: "MLS League Case Study" }
 		}
 
 		if (surveyId > 0) {
