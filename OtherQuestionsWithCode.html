@@ -48,7 +48,15 @@
 <script>
 	Qualtrics.SurveyEngine.addOnload(function () {
 		/*Place your JavaScript here to run when the page loads*/
+		qse = Qualtrics.SurveyEngine;
 
+		// read user's answer from the dropdown on Qualtrics
+		qse.addOnPageSubmit(function () {
+			const userVal = jQuery("#QID91 select").val();
+			if (userVal > 0) {
+				qse.setEmbeddedData("sr_P_CntryOfResEntID_202208", userVal);
+			};
+		});
 	});
 
 	Qualtrics.SurveyEngine.addOnReady(function () {
@@ -1123,9 +1131,8 @@
 				"text": "Åland Islands"
 			}
 		];
-		const quesID = '#QID91 select';
 		jQuery(document).ready(function () {
-			jQuery(quesID).select2({
+			jQuery("#QID91 select").select2({
 				width: "300px",
 				// allowClear:true,
 				dropdownAutoWidth: true,
