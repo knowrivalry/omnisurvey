@@ -82,8 +82,12 @@
                 jQuery('body').prepend('<div id="SurveyInTestMode">The survey is in test mode.</div>');
 
                 favoriteEntSelectedHandler = function () {
-                    console.log('FAVTEAM:', this.FavoriteEntName, this.FavoriteEntId);
+                    console.log('FAVTEAM written to embedded data:', this.FavoriteEntName, this.FavoriteEntId);
                 };
+
+                jQuery("#NextButton").click(function(){
+                    console.log('You clicked the Next button.')
+                })
 
                 init();
 
