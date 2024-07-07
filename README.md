@@ -1,4 +1,4 @@
-﻿# know-rivalry-omnisurvey  
+# knowrivalry: omnisurvey
 
 This is just a CDN for some of the data that feeds the Know Rivalry Omnisurvey.
 
