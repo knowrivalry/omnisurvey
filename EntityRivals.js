@@ -283,9 +283,9 @@ var Omnisurvey_EntRivals = function ($, data, groupingId, entId) {
                 intNumOfRivContainers = $cboRivals.length,
                 intEntsInKRGrouping = data.entsInKRGrouping(groupingId),
                 objNonRival = determineANonRival(entId, groupingId, selectedRivals.map(function(rival) { return rival.entID; })), // returns {entID: 1234, entityName:'A non rival team name', etc.}
-                nonrivalEntID = objNonRival.entID,
-                nonrivalName = objNonRival.entityName,
-                nonrivalNameThe = objNonRival.entityNameThe;
+                nonrivalEntID = objNonRival?.entID ?? -99,
+                nonrivalName = objNonRival?.entityName ?? 'non-rival team',
+                nonrivalNameThe = objNonRival?.entityNameThe ?? 'the non-rival team';
             
             if (testingMode){
                 console.log(
