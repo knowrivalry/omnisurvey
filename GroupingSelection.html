@@ -173,72 +173,90 @@
 		let nextButtonHandler, surveySelectionHandler;
 		const self = this;
 
-		function convertQueryStringKeyToCorrectCase(key) {
-			// This function is used to convert the key to the correct case. E.g., grpID -> grpID, survID -> survID, collID -> collID
-			// This is to ensure that the key is always stored in the same case in the embedded data
-			switch (key.toLowerCase()) {
-				case 'grpid':
-					return 'grpID';
-				case 'survid':
-					return 'survID';
-				case 'collid':
-					return 'collID';
-				default:
-					return key;
+		class QueryStringHandler {
+			constructor(key) {
+				this.key = key;
+				this.specificCases = new Map([
+					['grpid', { correct: 'grpID', storage: 'storageGroupingId' }],
+					['survid', { correct: 'survID', storage: 'storageSurveyId' }],
+					['collid', { correct: 'collID', storage: 'storageCollectionId' }]
+				]);
 			}
-		}
 
-		function fetchQtrxEmbeddedDataByCasing(key, isCaseSensitive = false) {
-			const keyToCheck = isCaseSensitive ? key : key.toLowerCase();
-			console.log('>>> Checking for embedded data key:', keyToCheck);
-			return jQuery.when(Qualtrics.SurveyEngine.getEmbeddedData(keyToCheck));
-
-		}
-
-        // Helper function to get embedded data return the value as an integer
-		// It first checks the key as passed, then checks the key in lowercase.
-		// If the key is lowercase, it sets the key in the correct case in the embedded data
-        function getQtrxEmbeddedDataID(key) {
-			const isValidResponse = resp => resp && !isNaN(resp);
-			return jQuery.when( fetchQtrxEmbeddedDataByCasing(key, true) )
-				.then(function(response){
-					if (isValidResponse(response)) {
-						return parseInt(response);
-					} else {
-						return jQuery.when( fetchQtrxEmbeddedDataByCasing(key, false) )
-							.then(function(response){
-								if (isValidResponse(response)) {
-									const correctKey = convertQueryStringKeyToCorrectCase(key);
-									console.log('>>> Setting embedded data key:', correctKey, 'to value:', response);
-									Qualtrics.SurveyEngine.setEmbeddedData(correctKey, response);
-									return parseInt(response);
-								} else {
-									return null;
-								}
-							});
-					}
-				});
+			convertQueryStringKeyToSpecificCase(caseType = 'correct') {
+				switch (caseType) {
+					case 'lower':
+						return this.key.toLowerCase();
+					case 'upper':
+						return this.key.toUpperCase();
+					case 'ID':
+						return this.key.slice(0, -2).toLowerCase() + this.key.slice(-2).toUpperCase();
+					case 'Id':
+						return this.key.slice(0, -2).toLowerCase() + this.key.slice(-2, -1).toUpperCase() + this.key.slice(-1).toLowerCase();
+					case 'correct':
+						const value = this.specificCases.get(this.key.toLowerCase());
+						if (value) {
+							return value.correct;
+						} else {
+							return this.key;
+						}
+					default:
+						throw new Error('Invalid value for `caseType` parameter. Must be either "correct", "lower", "upper", "ID", or "Id".');
+				}
 			}
 			
-		if (OMNISURVEY_TEST || !window.Qualtrics) {
+			fetchQtrxEmbeddedDataByCasing(caseType = 'correct') {
+				const keyToCheck = this.convertQueryStringKeyToSpecificCase(caseType);
+				return jQuery.when(Qualtrics.SurveyEngine.getEmbeddedData(keyToCheck));
+			}
 
-			/*****************************************************
-				TESTING MODE
-			*****************************************************/
-			// window.location.search returns everything after the ? in the URL
-			// searchParams is a object with key:value pairs for all the entries in the query string
-			// E.g., LeagueSelection.html?cat=88&dog=98 would result in {"cat":88, "dog":98}
-			let searchParams = new URLSearchParams(window.location.search); // TODO: POLYFILL THIS FOR IE
+			async getQtrxEmbeddedDataID() {
+				const setAndReturnInt = (value) => {
+					const correctKey = this.convertQueryStringKeyToSpecificCase('correct');
+					Qualtrics.SurveyEngine.setEmbeddedData(correctKey, value);
+					return parseInt(value);
+				};
 
-			// Convert all keys to lowercase
-			let paramsFromURL = {};
-			searchParams.forEach((value, key) => {
-				paramsFromURL[key.toLowerCase()] = value;
-			});
+				const isValidResponse = resp => resp && !isNaN(resp);
 
-			// Looks for the key in the query string (case-insensitive). If found, it returns the value as an integer. Otherwise, it returns null.
-			function getQueryID (key) {
-				const keyLower = key.toLowerCase();
+				const cases = ['correct', 'lower', 'upper', 'ID', 'Id'];
+				for (const caseType of cases) {
+					const response = await this.fetchQtrxEmbeddedDataByCasing(caseType);
+					if (isValidResponse(response)) {
+						return caseType === 'correct' ? parseInt(response) : setAndReturnInt(response);
+					}
+				}
+				return null;
+			}
+			
+			get getStorageElemName() {
+				// Getter to return storageGroupingId, storageSurveyId, or storageCollectionId
+				const value = this.specificCases.get(this.key.toLowerCase());
+				if (value) {
+					return value.storage;
+				} else {
+					return null;
+				}
+			}
+
+			storeValueAsHiddenDiv(value) {
+				// Store the value in a hidden div on the page (e.g., storageGroupingId)
+				jQuery('#' + this.getStorageElemName).text(value);
+			}
+
+			forTesting_getQueryID() {
+				// window.location.search returns everything after the ? in the URL
+				// searchParams is a object with key:value pairs for all the entries in the query string
+				// E.g., LeagueSelection.html?cat=88&dog=98 would result in {"cat":88, "dog":98}
+				let searchParams = new URLSearchParams(window.location.search); 
+
+				// Convert all keys to lowercase
+				let paramsFromURL = {};
+				searchParams.forEach((value, key) => {
+					paramsFromURL[key.toLowerCase()] = value;
+				});
+
+				const keyLower = this.key.toLowerCase();
 				if (paramsFromURL.hasOwnProperty(keyLower)) {
 					return parseInt(paramsFromURL[keyLower]);
 				} else {
@@ -246,27 +264,34 @@
 				}
 			}
 
+		}
+
+		if (OMNISURVEY_TEST || !window.Qualtrics) {
+
+			/*****************************************************
+				TESTING MODE
+			*****************************************************/
+
 			// Check if grpID is one of the keys passed in the query string.
 			// This is to mimic the embedded data of Qualtrics,
 			// since in Qualtrics the query string parameters would be written directly to ED
-			qsGroupingId = getQueryID('grpID');
-			if (qsGroupingId) {
-				// If grpID is a parameter key in the query string,
-				// get that value and set that as the `groupingId`
-				// E.g., for the BBL the URL would have ?grpID=1375
-				groupingId = qsGroupingId;
-				jQuery("#storageGroupingId").text(groupingId); // Store the groupingId in a hidden div on the page
+
+			// If grpID is a parameter key in the query string,
+			// get that value and set that as the `groupingId`
+			// E.g., for the BBL the URL would have ?grpID=1375
+			const handlerGrpID = new QueryStringHandler('grpID');
+			groupingId = handlerGrpID.forTesting_getQueryID() || groupingId;
+			if (groupingId > 0) {
+				handlerGrpID.storeValueAsHiddenDiv(groupingId);
 			}
 
-			qsSurveyId = getQueryID('survID');
-			if (qsSurveyId) {
-				surveyId = qsSurveyId;
-			}
+			const handlerSurvID = new QueryStringHandler('survID');
+			surveyId = handlerSurvID.forTesting_getQueryID() || surveyId;
 
-			qsCollectionId = getQueryID('collID');
-			if (qsCollectionId) {
-				collectionId = qsCollectionId;
-				jQuery("#storageCollectionId").text(collectionId); // Store the collectionId in a hidden div on the page
+			const handlerCollID = new QueryStringHandler('collID');
+			collectionId = handlerCollID.forTesting_getQueryID() || collectionId;
+			if (collectionId > 0) {
+				handlerCollID.storeValueAsHiddenDiv(collectionId);
 			}
 
 			jQuery('body').prepend('<div id="SurveyInTestMode">The survey is in test mode.</div>');
@@ -279,7 +304,7 @@
 					});
 			};
 			
-			testReturnClick=()=> {
+			testReturnClick = () => {
 				const userClick = parseInt(jQuery("input[type='radio'][name='FAKELEAGUESELECTOR']:checked").val());
 				window.omnisurvey_GroupingSelection.groupingSelectionHandler(userClick);
 				console.log('User clicked on grpID='+userClick )
@@ -294,22 +319,22 @@
 			
 			Qualtrics.SurveyEngine.addOnload(function() {
 				
-				getQtrxEmbeddedDataID('grpID').then(function(qsGroupingId) {
-					// If the grpID is stored in the embedded data, set that as the groupingId
-					console.log('>>> Received grpID', qsGroupingId);
+				const handlerGrpID = new QueryStringHandler('grpID');
+				const handlerSurvID = new QueryStringHandler('survID');
+				const handlerCollID = new QueryStringHandler('collID');
+
+				handlerGrpID.getQtrxEmbeddedDataID().then(function(qsGroupingId) {
 					groupingId = qsGroupingId;
-					jQuery("#storageGroupingId").text(groupingId); // Store the groupingId in a hidden div on the page
+					handlerGrpID.storeValueAsHiddenDiv(groupingId);
 				});
 
-				getQtrxEmbeddedDataID('survID').then(function(qsSurveyId) {
-					// If the survID is stored in the embedded data, set that as the surveyId
+				handlerSurvID.getQtrxEmbeddedDataID().then(function(qsSurveyId) {
 					surveyId = qsSurveyId;
 				});
-				
-				getQtrxEmbeddedDataID('collID').then(function(qsCollectionId) {
-					// If the collID is stored in the embedded data, set that as the collectionId
+
+				handlerCollID.getQtrxEmbeddedDataID().then(function(qsCollectionId) {
 					collectionId = qsCollectionId;
-					jQuery("#storageCollectionId").text(collectionId); // Store the collectionId in a hidden div on the page
+					handlerCollID.storeValueAsHiddenDiv(collectionId);
 				});
 
 				// We're using a custom next button. I guess hideNextButton() is a built-in function in Qualtrics
@@ -388,6 +413,6 @@
 			};
 		}
 	})();
-	
+
 </script>
 </html>
