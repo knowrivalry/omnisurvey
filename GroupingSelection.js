@@ -11,8 +11,9 @@ var Omnisurvey_GroupingSelection = function($, data, groupingId, surveyId, colle
 
 	var self = this;
 	const surveySelectionQuestionId = 'QID182';
-	const strGroupingImageRootDir = 'https://knowrivalry.com/images/entlogos/';
-	
+	// const strGroupingImageRootDir = 'https://knowrivalry.com/images/entlogos/';
+	const strGroupingImageRootDir = 'https://d2zvxqss0blun7.cloudfront.net/';
+
 	// A note on the variable notation:
 		// If the variable has a $ before it, it's a jQuery object. 
 		// For example, in `surveySelectionQuestionId = 'QID182'`, surveySelectionQuestionId is just a string.

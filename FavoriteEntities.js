@@ -29,7 +29,8 @@ var Omnisurvey_FavoriteEnts = function ($, data, groupingId) {
 	const $nextButton = $("#NextButton");
 
 	// strEntLogoRootDir has the absolute path to the web folder that holds the logos (SVGs) for each entity
-	const strEntLogoRootDir = 'https://knowrivalry.com/images/entlogos/';
+	// const strEntLogoRootDir = 'https://knowrivalry.com/images/entlogos/';
+	const strEntLogoRootDir = 'https://d2zvxqss0blun7.cloudfront.net/';
 
 	// groups = the grouping object that has conf/div hierarchy
 	function createGroupOptions(groups, $select, level) {
