@@ -320,34 +320,33 @@ var Omnisurvey_EntRivals = function ($, data, groupingId, entId) {
         level = typeof level !== 'undefined' ? level : 0;
 
         $.each(groups, function (index, childGroup) {
-            // stop at ent level, skip groups that shouldn't be displayed
-            if (!childGroup.subgroups || !childGroup.omnisurvShowSelRival) {
-                return;
+            const hasSubgroups = Array.isArray(childGroup.subgroups) && childGroup.subgroups.length > 0;
+            const shouldDisplay = (childGroup.entID == groupingId) || !!childGroup.omnisurvShowSelRival;
+
+            // Render only displayable nodes, but still recurse into hidden parents.
+            if (hasSubgroups && shouldDisplay) {
+                const disabled = false; //childGroup.subgroups && childGroup.subgroups[0] && childGroup.subgroups[0].subgroups,
+                const selected = childGroup.entID == groupingId;
+
+                // Each subsequent child level is indented slightly more
+                let spacer = '';
+                const intIndent = 2;
+                for (let i = 0; i < level * intIndent; i++) {
+                    spacer += '&nbsp;';
+                }
+
+                let strOptionGroup = [
+                    '<option',
+                    (disabled ? ' disabled="disabled"' : ''),
+                    ' value="' + childGroup.entID + '"',
+                    (selected ? ' selected' : ''),
+                    '>' + spacer + childGroup.termKRQualtrics,
+                    '</option>'].join('');
+                let $optGroup = $(strOptionGroup).appendTo($select);
             }
 
-            const disabled = false; //childGroup.subgroups && childGroup.subgroups[0] && childGroup.subgroups[0].subgroups,
-            const selected = childGroup.entID == groupingId;
-
-
-            // Each subsequent child level is indented slightly more
-            let spacer = '';
-            const intIndent = 2;
-            for (let i = 0; i < level * intIndent; i++) {
-                spacer += '&nbsp;';
-            }
-
-            let strOptionGroup = [
-                '<option',
-                (disabled ? ' disabled="disabled"' : ''),
-                ' value="' + childGroup.entID + '"',
-                (selected ? ' selected' : ''),
-                '>' + spacer + childGroup.termKRQualtrics,
-                '</option>'].join('');
-            let $optGroup = $(strOptionGroup).appendTo($select);
-
-
-            // Iterate on itself. Use the level argument to avoid infinite looping
-            if (childGroup.subgroups) {
+            // Always recurse when there are children so hidden intermediates do not block descendants.
+            if (hasSubgroups) {
                 createGroupOptions(childGroup.subgroups, $select, level + 1);
             }
         });
@@ -465,6 +464,8 @@ var Omnisurvey_EntRivals = function ($, data, groupingId, entId) {
             if (groups != null) {
                 let $select = $('.grouping-select');
                 createGroupOptions(groups, $select);
+                // Explicitly default each grouping selector to the focal KRLeague.
+                $select.val(String(groupingId));
                 $select.change(); // trigger change
             } else {
                 $question.find(strEntDropdownSelector).each(function () {
